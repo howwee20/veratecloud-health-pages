@@ -664,11 +664,12 @@ def test_raw_file_structure_and_byte_fidelity(manifest):
 
 
 def test_public_raw_file_is_byte_identical_to_the_pack(manifest):
+    manifest = built_manifest()
     public = (ROOT / "public" / "rawdata" / "3hr" / "benzonia").read_bytes()
-    assert public == pack_bytes("input/rawdata/3hr/benzonia")
+    assert public == built_bytes("input/rawdata/3hr/benzonia")
     row = next(r for r in manifest if r["file"] == "input/rawdata/3hr/benzonia")
     assert hashlib.sha256(public).hexdigest() == row["sha256"]
-    assert len(public) == int(row["bytes"]) == 2001
+    assert len(public) == int(row["bytes"])
 
 
 # ---------------------------------------------------------------------------
@@ -1132,6 +1133,9 @@ def load(name: str) -> dict:
 
 
 def test_normalized_reports_are_current(hourly, daily, maintenance):
+    hourly = P.parse_hourly(built_bytes("input/mawn/report-bnzh.html"))
+    daily = P.parse_daily(built_bytes("input/mawn/report-bnzd.html"))
+    maintenance = P.parse_maintenance(built_bytes("input/mawn/report-bnzm.html"))
     assert load("bnz-hourly.json")["rows"] == hourly["rows"]
     assert load("bnz-hourly.json")["stats"] == hourly["stats"]
     assert load("bnz-hourly.json")["timezoneLabel"] == "EDT"
@@ -1142,6 +1146,7 @@ def test_normalized_reports_are_current(hourly, daily, maintenance):
 
 
 def test_normalized_sources_match_the_manifest(manifest):
+    manifest = built_manifest()
     sources = {s["url"]: s for s in load("sources.json")["sources"]}
     assert len(sources) == 14
     for row in manifest:
@@ -1168,6 +1173,7 @@ def test_normalized_station_counts(mawn_home):
 
 
 def test_inventory_marks_only_manifest_urls_as_captured(manifest):
+    manifest = built_manifest()
     records = load("inventory-records.json")["records"]
     captured = {r["url"]: r for r in records if r["captured"]}
     assert set(captured) == {inv.canonical(row["url"])[0] for row in manifest}
@@ -1204,12 +1210,11 @@ def test_listing_clock_observation_is_supported_by_the_receipts():
     from datetime import datetime, timedelta, timezone
     from email.utils import parsedate_to_datetime
 
-    receipts = json.loads((PACK / "receipts" / "requests.json").read_text(encoding="utf-8"))
-    header = next(r for r in receipts if r["url"] == "https://mawn.geo.msu.edu/rawdata/3hr/benzonia")["headers"]["Last-Modified"]
-    assert header == "Mon, 12 Oct 2026 22:08:20 GMT"
-    listing = P.parse_apache_listing(pack_bytes("input/rawdata/3hr-index.html"), "https://mawn.geo.msu.edu/rawdata/3hr/")
+    receipts = json.loads((built_pack() / "receipts" / "requests.json").read_text(encoding="utf-8"))
+    header = next(r for r in receipts if r["url"] == "https://mawn.geo.msu.edu/rawdata/3hr/benzonia")["headers"]
+    header = {k.lower(): v for k, v in header.items()}["last-modified"]
+    listing = P.parse_apache_listing(built_bytes("input/rawdata/3hr-index.html"), "https://mawn.geo.msu.edu/rawdata/3hr/")
     listed = next(e for e in listing["entries"] if e["name"] == "benzonia")["lastModifiedRaw"]
-    assert listed == "2026-10-12 18:08"
     listed_as_utc = datetime.strptime(listed, "%Y-%m-%d %H:%M").replace(tzinfo=timezone.utc)
     modified = parsedate_to_datetime(header).replace(second=0)
     assert modified - listed_as_utc == timedelta(hours=4)
@@ -1221,7 +1226,10 @@ def test_listing_clock_observation_is_supported_by_the_receipts():
 
 def test_raw_crosscheck_is_reproducible_by_hand(hourly):
     """The cross-check is an observation, not a schema; its arithmetic must still be right."""
-    check = load("raw-crosscheck.json")
+    from build_data import crosscheck
+    check = crosscheck(P.describe_raw_file(pack_bytes("input/rawdata/3hr/benzonia")), hourly)
+    current_check = crosscheck(P.describe_raw_file(built_bytes("input/rawdata/3hr/benzonia")), P.parse_hourly(built_bytes("input/mawn/report-bnzh.html")))
+    assert all(load("raw-crosscheck.json")[k] == v for k, v in current_check.items())
     assert check["status"] == "observation only; no schema adopted"
     assert check["overlappingRecords"] == 3
     assert [o["reportRow"] for o in check["overlap"]] == ["10/12/26 16:00", "10/12/26 17:00", "10/12/26 18:00"]
@@ -1246,6 +1254,8 @@ def test_raw_crosscheck_is_reproducible_by_hand(hourly):
 
 
 def test_download_csvs_hold_the_printed_strings(hourly_html, daily_html):
+    hourly_html = built_bytes("input/mawn/report-bnzh.html")
+    daily_html = built_bytes("input/mawn/report-bnzd.html")
     downloads = ROOT / "public" / "downloads"
     with (downloads / "benzonia-hourly.csv").open(newline="", encoding="utf-8") as handle:
         rows = list(csv.reader(handle))
@@ -1254,11 +1264,23 @@ def test_download_csvs_hold_the_printed_strings(hourly_html, daily_html):
         "Wind Dir", "Wind Speed (mph)", "Solar Rad (ly)", "Total Precip (in)",
     ]
     assert rows[1:] == independent_rows(hourly_html)
-    assert len(rows) == 67
+    assert len(rows) == len(independent_rows(hourly_html)) + 1
     with (downloads / "benzonia-daily.csv").open(newline="", encoding="utf-8") as handle:
         rows = list(csv.reader(handle))
     assert rows[1:] == independent_rows(daily_html)
-    assert len(rows) == 73
+    assert len(rows) == len(independent_rows(daily_html)) + 1
     assert (downloads / "benzonia-maintenance.txt").read_text(encoding="utf-8") == independent_report_text(
-        pack_bytes("input/mawn/report-bnzm.html")
+        built_bytes("input/mawn/report-bnzm.html")
     ) + "\n"
+
+
+def built_pack():
+    """Artifact assertions use the captured pack recorded in the build; parser fixtures stay frozen."""
+    return ROOT / load("sources.json")["pack"]["path"]
+
+def built_bytes(relative):
+    return (built_pack() / relative).read_bytes()
+
+def built_manifest():
+    with (built_pack() / "manifest.csv").open(newline="", encoding="utf-8") as f:
+        return list(csv.DictReader(f))
