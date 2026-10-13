@@ -1,0 +1,208 @@
+Michigan Agricultural Weather Office
+|
+|
+10/12/26 - 19:46
+|
+|
+Datafeed Status |
+LDM : ok |
+MAWN : ok |
+|
+Main |
+|
+Information |
+|
+Current Weather |
+|
+Forecast Products |
+|
+Feature Articles |
+|
+Other Sites |
+|
+|
+|
+Michigan Automated Weather Network (MAWN)
+|
+|
+|
+|
+Enviro-Weather
+|
+|
+MSU Agricultural Weather Office
+Current Weather & Climatological Info
+|
+|
+Recent Weather Observations: |
+|
+Michigan Hourly Weather Roundup |
+|
+Michigan Ag-Weather Observations |
+|
+Maximum Temperatures (graphic) |
+|
+Minimum Temperatures (graphic) |
+| |
+|
+Michigan Temperature Statistics |
+|
+Michigan Precipitation Statistics |
+|
+Michigan Weekly Crop Weather Summary |
+| |
+|
+Daily PET Estimate for Michigan
+(courtesy Univ. of Wisc) |
+|
+NWS Regional Temp/Prec Summaries: |
+|
+West/Central Upper Peninsula |
+|
+Eastern Upper/Northern Lower Peninsula |
+|
+Southwestern Lower Peninsula |
+|
+Southeastern Lower Peninsula |
+|
+Michiana Counties (MI/IN) |
+|
+NWS Regional Climate Summaries: |
+|
+Alpena |
+|
+Battle Creek |
+|
+Detroit |
+|
+Flint |
+|
+Fort Wayne (IN) |
+|
+Grand Rapids |
+|
+Holland |
+|
+Houghton Lake |
+|
+Jackson |
+|
+Kalamazoo |
+|
+Lansing |
+|
+Marquette |
+|
+Muskegon |
+|
+Saginaw |
+|
+Sault Ste. Marie |
+|
+South Bend (IN) |
+|
+Traverse City |
+Growing Degree Day (GDD) Products: |
+|
+Growing Degree Day Accumulations |
+|
+Base 50F Corn GDD Accumulations |
+|
+Base 41F Alfalfa GDD Accumulations |
+|
+Daily Temperature and GDD Normals: |
+Western Upper Peninsula |
+|
+Houghton |
+|
+Iron Mountain |
+|
+Ironwood |
+|
+Stephenson |
+Eastern Upper Peninsula |
+|
+Chatham |
+|
+Grand Marais |
+|
+Newberry |
+|
+Sault Ste. Marie |
+Northwest Lower Peninsula |
+|
+Cheboygan |
+|
+East Jordan |
+|
+Lake City |
+|
+Manistee |
+|
+Maple City |
+|
+Traverse City |
+Northeast Lower Peninsula |
+|
+Alpena |
+|
+East Tawas |
+|
+Grayling |
+|
+Vanderbilt |
+West Central Lower Peninsula |
+|
+Grand Rapids |
+|
+Hart |
+|
+Hesperia |
+|
+Holland |
+|
+Muskegon |
+Central Lower Peninsula |
+|
+Alma |
+|
+Big Rapids |
+|
+Gladwin |
+East Central Lower Peninsula |
+|
+Bad Axe |
+|
+Saginaw |
+|
+Sandusky |
+Southwest Lower Peninsula |
+|
+Allegan |
+|
+Eau Claire |
+|
+South Bend, IN |
+|
+South Haven |
+South Central Lower Peninsula |
+|
+Battle Creek |
+|
+Coldwater |
+|
+Jackson |
+|
+Lansing |
+Southeast Lower Peninsula |
+|
+Adrian |
+|
+Detroit |
+|
+Lapeer |
+|
+Monroe |
+|
+Toldeo, OH |
+|

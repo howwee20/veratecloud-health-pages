@@ -1,0 +1,426 @@
+{
+  "schemaVersion": 1,
+  "home": {
+    "source": {
+      "id": "climate-home",
+      "url": "https://climate.geo.msu.edu/",
+      "file": "input/climate/home.html",
+      "sha256": "f78c0a240e9a581179d78619240f4c49a1e1a9863d6d6227430effac5ad46c90",
+      "retrievedAtUtc": "2026-10-12T23:46:15.358070+00:00"
+    },
+    "navigation": [
+      {
+        "label": "Home",
+        "url": "https://climate.geo.msu.edu/index.html"
+      },
+      {
+        "label": "About Us",
+        "url": "https://climate.geo.msu.edu/about_us.html"
+      },
+      {
+        "label": "MSU Ag Weather Office",
+        "url": "http://www.agweather.geo.msu.edu"
+      },
+      {
+        "label": "Michigan Climate Maps",
+        "url": "https://climate.geo.msu.edu/climate_maps.html"
+      },
+      {
+        "label": "SEMCOG Precip Data",
+        "url": "https://climate.geo.msu.edu/semcog/sem/mainsem.html"
+      },
+      {
+        "label": "Climate Statistics: Normals & Statistics",
+        "url": "https://climate.geo.msu.edu/climate_mi/index.html"
+      }
+    ],
+    "footerText": "Department of Geography 116 Geography Building - East Lansing, Michigan, 48824 Last updated: June 15, 2009 • © 2009 Michigan State University Board of Trustees.",
+    "lastUpdatedRaw": "June 15, 2009",
+    "heading": "Welcome",
+    "paragraphs": [
+      [
+        {
+          "text": "The Michigan State Climatologist's Office is a service of the ",
+          "url": null
+        },
+        {
+          "text": "MSU Department of Geography",
+          "url": "http://www.geo.msu.edu"
+        },
+        {
+          "text": "; ",
+          "url": null
+        },
+        {
+          "text": "Michigan State University AgBioResearch",
+          "url": "http://agbioresearch.msu.edu/"
+        },
+        {
+          "text": "; ",
+          "url": null
+        },
+        {
+          "text": "MSU Extension",
+          "url": "http://msue.msu.edu/"
+        },
+        {
+          "text": " and the ",
+          "url": null
+        },
+        {
+          "text": "Southeast Michigan Council of Governments (SEMCOG)",
+          "url": "http://www.semcog.org"
+        }
+      ],
+      [
+        {
+          "text": "Michigan Map",
+          "url": "https://climate.geo.msu.edu/climate_mi/index.html"
+        },
+        {
+          "text": " linked to historical climatological summary tables. For SEMCOG precipitation data, ",
+          "url": null
+        },
+        {
+          "text": "click here",
+          "url": "https://climate.geo.msu.edu/semcog/sem/mainsem.html"
+        }
+      ],
+      [
+        {
+          "text": "For real-time up-to-the-hour Michigan weather data, visit the ",
+          "url": null
+        },
+        {
+          "text": "MSU Agriculture Weather Office Web site.",
+          "url": "http://www.agweather.geo.msu.edu"
+        }
+      ],
+      [
+        {
+          "text": "Michigan Climate Watch maps for 7, 30 and 90 days",
+          "url": "https://climate.geo.msu.edu/climate_maps.html"
+        },
+        {
+          "text": ", are updated daily (see right).",
+          "url": null
+        }
+      ]
+    ],
+    "sidebarThumbnails": [
+      {
+        "alt": "Total Precip last 7 days",
+        "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png"
+      },
+      {
+        "alt": "Average Temperature last 7 days",
+        "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png"
+      }
+    ]
+  },
+  "maps": {
+    "source": {
+      "id": "climate-climate_maps",
+      "url": "https://climate.geo.msu.edu/climate_maps.html",
+      "file": "input/climate/climate_maps.html",
+      "sha256": "cbae25f8c50182d2093715c6a3d5e74925e73ffa9115f8e67599cd97e4084473",
+      "retrievedAtUtc": "2026-10-12T23:46:24.059477+00:00"
+    },
+    "navigation": [
+      {
+        "label": "Home",
+        "url": "https://climate.geo.msu.edu/index.html"
+      },
+      {
+        "label": "About Us",
+        "url": "https://climate.geo.msu.edu/about_us.html"
+      },
+      {
+        "label": "MSU Ag Weather Office",
+        "url": "http://www.agweather.geo.msu.edu"
+      },
+      {
+        "label": "Michigan Climate Maps",
+        "url": "https://climate.geo.msu.edu/climate_maps.html"
+      },
+      {
+        "label": "SEMCOG Precip Data",
+        "url": "https://climate.geo.msu.edu/semcog/sem/mainsem.html"
+      },
+      {
+        "label": "Climate Statistics: Normals & Statistics",
+        "url": "https://climate.geo.msu.edu/climate_mi/index.html"
+      }
+    ],
+    "footerText": "Department of Geography 116 Geography Building - East Lansing, Michigan, 48824 Last updated: June 15, 2009 • © 2009 Michigan State University Board of Trustees.",
+    "lastUpdatedRaw": "June 15, 2009",
+    "heading": "Michigan Climate Maps",
+    "intro": [
+      "Click on a map for larger version.",
+      "All precipitation in inches. All temperatures in degrees F."
+    ],
+    "groups": [
+      {
+        "title": "Total Precipitation",
+        "maps": [
+          {
+            "period": "Past 7 days",
+            "sourceAlt": "Precip 7 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 30 days",
+            "sourceAlt": "Precip 30 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-30days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 90 days",
+            "sourceAlt": "Precip 90 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-90days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          }
+        ]
+      },
+      {
+        "title": "Total Precipitation - Departure from Mean",
+        "maps": [
+          {
+            "period": "Past 7 days",
+            "sourceAlt": "Precip Departure 7 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-7days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 30 days",
+            "sourceAlt": "Precip Departure 30 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-30days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 90 days",
+            "sourceAlt": "Precip Departure 90 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-90days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          }
+        ]
+      },
+      {
+        "title": "Total Precipitation - Percent of Mean",
+        "maps": [
+          {
+            "period": "Past 7 days",
+            "sourceAlt": "Precip Average 7 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-7days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 30 days",
+            "sourceAlt": "Precip Average 30 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-30days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 90 days",
+            "sourceAlt": "Precip Average 90 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-90days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          }
+        ]
+      },
+      {
+        "title": "Average High Temperature",
+        "maps": [
+          {
+            "period": "Past 7 days",
+            "sourceAlt": "Average High Temp 7 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-7days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 30 days",
+            "sourceAlt": "Average High Temp 30 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-30days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 90 days",
+            "sourceAlt": "Average High Temp 90 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-90days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          }
+        ]
+      },
+      {
+        "title": "Average High Temperature - Departure from Mean",
+        "maps": [
+          {
+            "period": "Past 7 days",
+            "sourceAlt": "Average High Temp Departure 7 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-7days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 30 days",
+            "sourceAlt": "Average High Temp Departure 30 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-30days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 90 days",
+            "sourceAlt": "Average High Temp Departure 90 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-90days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          }
+        ]
+      },
+      {
+        "title": "Average Temperature",
+        "maps": [
+          {
+            "period": "Past 7 days",
+            "sourceAlt": "Average Temp 7 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 30 days",
+            "sourceAlt": "Average Temp 30 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-30days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 90 days",
+            "sourceAlt": "Average Temp 90 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-90days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          }
+        ]
+      },
+      {
+        "title": "Average Temperature - Departure from Mean",
+        "maps": [
+          {
+            "period": "Past 7 days",
+            "sourceAlt": "Average Temp Departure 7 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-7days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 30 days",
+            "sourceAlt": "Average Temp Departure 30 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-30days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 90 days",
+            "sourceAlt": "Average Temp Departure 90 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-90days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          }
+        ]
+      },
+      {
+        "title": "Average Low Temperature",
+        "maps": [
+          {
+            "period": "Past 7 days",
+            "sourceAlt": "Average Low Temp 7 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-7days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 30 days",
+            "sourceAlt": "Average Low Temp 30 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-30days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 90 days",
+            "sourceAlt": "Average Low Temp 90 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-90days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          }
+        ]
+      },
+      {
+        "title": "Average Low Temperature - Departure from Mean",
+        "maps": [
+          {
+            "period": "Past 7 days",
+            "sourceAlt": "Average Low Temp Departure 7 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-7days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 30 days",
+            "sourceAlt": "Average Low Temp Departure 30 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-30days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          },
+          {
+            "period": "Past 90 days",
+            "sourceAlt": "Average Low Temp Departure 90 days",
+            "imageUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-90days.png",
+            "imageHost": "mrcc.purdue.edu",
+            "declaredWidth": "450",
+            "declaredHeight": "600"
+          }
+        ]
+      }
+    ]
+  }
+}

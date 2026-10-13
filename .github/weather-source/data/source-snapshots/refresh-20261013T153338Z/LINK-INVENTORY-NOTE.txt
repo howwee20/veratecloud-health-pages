@@ -1,0 +1,3 @@
+link-inventory.csv was carried forward unchanged from the previous pack.
+It lists the links found in that pack's pages. If the refreshed pages link to
+different URLs, regenerate it before relying on the URL inventory.

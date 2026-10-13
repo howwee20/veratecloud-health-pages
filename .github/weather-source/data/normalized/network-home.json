@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "id": "mawn-home",
+    "url": "https://mawn.geo.msu.edu/",
+    "file": "input/mawn/home.html",
+    "sha256": "5f2a0b9c30009e0cef3dd111d8e801a7d5e0750641e3eefdc6243b247e344c87",
+    "retrievedAtUtc": "2026-10-13T15:33:46.350884+00:00"
+  },
+  "intro": [
+    [
+      {
+        "text": "Welcome to the Enviro-weather Automated Weather Station Network formerly known as MAWN.",
+        "url": null
+      }
+    ],
+    [
+      {
+        "text": "The Michigan Automated Weather Network, or MAWN, was one of the original partners that combined to form ",
+        "url": null
+      },
+      {
+        "text": "Enviro-weather",
+        "url": "http://www.enviroweather.msu.edu"
+      },
+      {
+        "text": ", MSU's weather-based decision-making resource for pest, production and resource managers. MAWN stations are now known as Enviro-weather stations. The pages linked at this site provide comprehensive, detailed data and other information from each weather station in the network.",
+        "url": null
+      }
+    ],
+    [
+      {
+        "text": "The Enviro-weather Project is supported by ",
+        "url": null
+      },
+      {
+        "text": "Project GREEEN",
+        "url": "http://www.greeen.msu.edu/"
+      },
+      {
+        "text": ", an initiative of Michigan's plant-based commodities and businesses, the ",
+        "url": null
+      },
+      {
+        "text": "Michigan Agricultural Experiment Station (MAES)",
+        "url": "http://www.maes.msu.edu/"
+      },
+      {
+        "text": ", ",
+        "url": null
+      },
+      {
+        "text": "MSU Extension (MSUE)",
+        "url": "http://www.msue.msu.edu/portal/"
+      },
+      {
+        "text": ", and by user donations. A major emphasis of Enviro-weather is to improve the efficiency and productivity of agriculture through expanding use of Integrated Crop Management (ICM) strategies, many of which require highly detailed weather data and information. Our objectives are to provide quality data, information, and proven methodologies for expanded use of ICM and other weather-dependent management strategies in Michigan; to facilitate new research using meteorological data for agricultural management; and to overall reduce weather-dependent risk in agricultural systems for growers and for the industry.",
+        "url": null
+      }
+    ]
+  ],
+  "stationPickerInstruction": [
+    "For station-specific weather data and related information, select from the available stations (highlighted in yellow) displayed on the map above. You may also select from the station table listed below."
+  ],
+  "regionalMapLinks": [
+    {
+      "label": "Click to Zoom to SouthWest Region",
+      "url": "https://mawn.geo.msu.edu/mawn-sw.html"
+    },
+    {
+      "label": "Click to Zoom to NorthWest Region",
+      "url": "https://mawn.geo.msu.edu/mawn-nw.html"
+    }
+  ],
+  "imageMapAreaCount": 97,
+  "imageMapSize": [
+    308,
+    356
+  ],
+  "recentConditions": {
+    "headingRaw": "Recent Conditions: East Lansing, MI",
+    "items": [
+      {
+        "label": "Date/Time",
+        "raw": "Tue, 10/13/26 - 11:15 AM"
+      },
+      {
+        "label": "Air Temp",
+        "raw": "77.3 (F)"
+      },
+      {
+        "label": "Dew Point",
+        "raw": "61.8 (F)"
+      },
+      {
+        "label": "Rel. Humidity",
+        "raw": "58.7 (%)"
+      },
+      {
+        "label": "Wind Speed",
+        "raw": "11.8 (mph)"
+      },
+      {
+        "label": "Wind Dir",
+        "raw": "W-SW"
+      },
+      {
+        "label": "Solar Radiation",
+        "raw": "31.1 (ly)"
+      },
+      {
+        "label": "2\" Bare Soil Temp",
+        "raw": "61.4 (F)"
+      },
+      {
+        "label": "4\" Bare Soil Temp",
+        "raw": "61.2 (F)"
+      },
+      {
+        "label": "4\" Soil Moisture",
+        "raw": "0.209 (in^3/in^3)"
+      },
+      {
+        "label": "10\" Soil Moisture",
+        "raw": "0.171 (in^3/in^3)"
+      },
+      {
+        "label": "Leaf Wetness",
+        "raw": "DRY"
+      },
+      {
+        "label": "Precipitation (since midnight)",
+        "raw": "0.00 (in)"
+      }
+    ]
+  }
+}

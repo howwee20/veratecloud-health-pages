@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Prose from '../../components/Prose.astro';
+import {agweather} from '../../lib/data';
+import {localHref} from '../../lib/route';
+const p=agweather.home;
+---
+<BaseLayout title={p.siteTitle} section="agweather"><h1 class="visually-hidden">MSU Agricultural Weather Office</h1><figure class="harvest"><img src="/media/legacy/harvest.jpg" width="450" height="299" alt="Combine harvesting wheat in a Tuscola County field"/><figcaption>2001 Wheat Harvest - Tuscola County, MI</figcaption></figure>
+<div class="ag-home-columns">
+ <div class="ag-home-about">
+  <p class="enviro-intro"><a href="https://enviroweather.msu.edu/">Enviro-Weather</a>: Integrating MAWN weather data with models for making pest and other management decisions.</p>
+  <div class="ag-support"><Prose segments={p.support}/></div>
+  <div class="ag-contact">{p.contactLines.map(l=><div>{l}</div>)}</div>
+ </div>
+ <section class="ag-news">
+  <h2 class="news-heading">News &amp; Notes</h2>
+  <div class="ag-news-body">{p.news.map(n=><div class="news-item"><h3>{n.category} - {n.dateRaw}:</h3><ul><li><strong>{n.kind}</strong><p>{n.text.split(n.link.label)[0]}<a href={localHref(n.link.url)}>{n.link.label}</a>{n.text.split(n.link.label).slice(1).join(n.link.label)}</p></li></ul></div>)}</div>
+  <h2 class="news-heading">New Enviro-Weather Stations</h2>
+  <div class="ag-news-body"><h3>Recent Additions:</h3><ul>{p.recentAdditions.map(n=><li>{n.name} [{n.dateRaw}]</li>)}</ul><h3 class="coming-soon">Coming Soon:</h3></div>
+ </section>
+</div></BaseLayout>

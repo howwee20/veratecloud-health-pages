@@ -1,0 +1,8 @@
+---
+import Icon from './Icon.astro';
+import { isLegacyHost } from '../lib/legacy';
+interface Props { href: string; class?: string; kind?: 'external' | 'legacy' }
+const { href, class: cls, kind } = Astro.props;
+const legacy = kind === 'legacy' || isLegacyHost(href);
+---
+<a href={href} class={cls} rel="noopener noreferrer external" referrerpolicy="no-referrer"><slot /><Icon name="external" size={13} /><span class="visually-hidden"> ({legacy ? 'opens the original live site' : 'external site'})</span></a>

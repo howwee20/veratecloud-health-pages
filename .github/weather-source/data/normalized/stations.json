@@ -1,0 +1,3052 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "id": "mawn-home",
+    "url": "https://mawn.geo.msu.edu/",
+    "file": "input/mawn/home.html",
+    "sha256": "5f2a0b9c30009e0cef3dd111d8e801a7d5e0750641e3eefdc6243b247e344c87",
+    "retrievedAtUtc": "2026-10-13T15:33:46.350884+00:00"
+  },
+  "counts": {
+    "tower-10m": 3,
+    "tower-20m": 2,
+    "retired": 19,
+    "michigan": 95,
+    "total": 119
+  },
+  "captureCounts": {
+    "listed": 117,
+    "metadata": 1,
+    "full": 1
+  },
+  "stations": [
+    {
+      "id": "mht",
+      "name": "East Lansing (MSUHORT) [10m]",
+      "listedAs": "East Lansing (MSUHORT) [10m]",
+      "group": "tower-10m",
+      "sourceGroupHeading": "Michgan Tower (10m) Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": "10m",
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=mht",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "gjn",
+      "name": "Grand Junction [10m]",
+      "listedAs": "Grand Junction [10m]",
+      "group": "tower-10m",
+      "sourceGroupHeading": "Michgan Tower (10m) Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": "10m",
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=gjn",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "wct",
+      "name": "Hart (WCMREC) [10m]",
+      "listedAs": "Hart (WCMREC) [10m]",
+      "group": "tower-10m",
+      "sourceGroupHeading": "Michgan Tower (10m) Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": "10m",
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=wct",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Hart (10m tower)",
+      "imageMapPixel": [
+        146.0,
+        237.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "spt",
+      "name": "Sparta [20m]",
+      "listedAs": "Sparta [20m]",
+      "group": "tower-20m",
+      "sourceGroupHeading": "Michgan Tower (20m) Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": "20m",
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=spt",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "wmt",
+      "name": "Williamsburg [20m]",
+      "listedAs": "Williamsburg [20m]",
+      "group": "tower-20m",
+      "sourceGroupHeading": "Michgan Tower (20m) Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": "20m",
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=wmt",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Williamsburg (20m tower)",
+      "imageMapPixel": [
+        180.0,
+        182.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "alt",
+      "name": "Arlington",
+      "listedAs": "Arlington (06/09/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "06/09/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=alt",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "bat",
+      "name": "Bath",
+      "listedAs": "Bath (11/05/2014)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "11/05/2014",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=bat",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "blk",
+      "name": "Bear Lake",
+      "listedAs": "Bear Lake (09/01/2020)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "09/01/2020",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=blk",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "lux",
+      "name": "Casco / Luxemburg",
+      "listedAs": "Casco / Luxemburg (08/24/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "08/24/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=lux",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "ehb",
+      "name": "Egg Harbor",
+      "listedAs": "Egg Harbor (08/18/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "08/18/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=ehb",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "gde",
+      "name": "Goodells",
+      "listedAs": "Goodells (10/28/2006)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "10/28/2006",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=gde",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "hck",
+      "name": "Hancock",
+      "listedAs": "Hancock (09/19/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "09/19/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=hck",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "kws",
+      "name": "Kewaunee / Stangelville",
+      "listedAs": "Kewaunee / Stangelville (08/24/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "08/24/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=kws",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "lct",
+      "name": "Lancaster",
+      "listedAs": "Lancaster (09/19/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "09/19/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=lct",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "mar",
+      "name": "Marshfield",
+      "listedAs": "Marshfield (09/19/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "09/19/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=mar",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "nsw",
+      "name": "Nasewaupee / S. Door County",
+      "listedAs": "Nasewaupee / S. Door County (08/17/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "08/17/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=nsw",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "ptr",
+      "name": "Petersburg / Dundee",
+      "listedAs": "Petersburg / Dundee (02/15/2017)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "02/15/2017",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=ptr",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "rhn",
+      "name": "Rhinelander",
+      "listedAs": "Rhinelander (09/19/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "09/19/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=rhn",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "sga",
+      "name": "Saginaw",
+      "listedAs": "Saginaw (11/26/2008)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "11/26/2008",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=sga",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "srb",
+      "name": "Sister Bay / Liberty Grove",
+      "listedAs": "Sister Bay / Liberty Grove (08/18/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "08/18/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=srb",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "pnr",
+      "name": "Spooner",
+      "listedAs": "Spooner (09/19/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "09/19/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=pnr",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "stb",
+      "name": "Sturgeon Bay",
+      "listedAs": "Sturgeon Bay (08/16/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "08/16/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=stb",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "sdr",
+      "name": "Sturgeon Bay / Southern Door",
+      "listedAs": "Sturgeon Bay / Southern Door (08/17/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "08/17/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=sdr",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "wjp",
+      "name": "West Jacksonport",
+      "listedAs": "West Jacksonport (08/18/2023)",
+      "group": "retired",
+      "sourceGroupHeading": "Retired Stations",
+      "retiredDateRaw": "08/18/2023",
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=wjp",
+      "onLegacyImageMap": false,
+      "imageMapLabel": null,
+      "imageMapPixel": null,
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "aet",
+      "name": "Aetna / Fremont",
+      "listedAs": "Aetna / Fremont",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=aet",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Aetna / Fremont",
+      "imageMapPixel": [
+        161.0,
+        247.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "alb",
+      "name": "Albion",
+      "listedAs": "Albion",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=alb",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Albion",
+      "imageMapPixel": [
+        205.0,
+        314.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "alg",
+      "name": "Allegan",
+      "listedAs": "Allegan",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=alg",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Allegan",
+      "imageMapPixel": [
+        165.0,
+        302.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "acp",
+      "name": "Alpine Twp / Comstock Park",
+      "listedAs": "Alpine Twp / Comstock Park",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=acp",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Alpine Twp / Comstock Park",
+      "imageMapPixel": [
+        169.0,
+        271.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "arl",
+      "name": "Arlene",
+      "listedAs": "Arlene",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=arl",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Arlene",
+      "imageMapPixel": [
+        186.0,
+        204.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "bbc",
+      "name": "Bainbridge Center / Watervliet",
+      "listedAs": "Bainbridge Center / Watervliet",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=bbc",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Bainbridge Center / Watervliet",
+      "imageMapPixel": [
+        147.0,
+        321.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "bel",
+      "name": "Belding",
+      "listedAs": "Belding",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=bel",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Belding",
+      "imageMapPixel": [
+        185.0,
+        270.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "bna",
+      "name": "Benona / Shelby",
+      "listedAs": "Benona / Shelby",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=bna",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Benona / Shelby",
+      "imageMapPixel": [
+        141.0,
+        242.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "swm",
+      "name": "Benton Harbor / SWMREC",
+      "listedAs": "Benton Harbor / SWMREC",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=swm",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Benton Harbor",
+      "imageMapPixel": [
+        144.0,
+        322.0
+      ],
+      "capture": {
+        "stationPage": true,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "metadata",
+      "city": "Benton Harbor",
+      "prototypeUrl": "/weather-network/stations/swm/"
+    },
+    {
+      "id": "bnz",
+      "name": "Benzonia",
+      "listedAs": "Benzonia",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=bnz",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Benzonia",
+      "imageMapPixel": [
+        155.0,
+        196.0
+      ],
+      "capture": {
+        "stationPage": true,
+        "hourly": true,
+        "daily": true,
+        "maintenance": true,
+        "rawFile": true
+      },
+      "captureLevel": "full",
+      "city": "Benzonia",
+      "prototypeUrl": "/weather-network/stations/bnz/"
+    },
+    {
+      "id": "brs",
+      "name": "Berrien Springs",
+      "listedAs": "Berrien Springs",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=brs",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Berrien Springs",
+      "imageMapPixel": [
+        143.0,
+        330.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "cas",
+      "name": "Cassopolis (GLBRC)",
+      "listedAs": "Cassopolis (GLBRC)",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=cas",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Cassopolis (GLBRC)",
+      "imageMapPixel": [
+        158.0,
+        329.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "cer",
+      "name": "Ceresco",
+      "listedAs": "Ceresco",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=cer",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Ceresco",
+      "imageMapPixel": [
+        190.0,
+        316.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "clx",
+      "name": "Charlevoix",
+      "listedAs": "Charlevoix",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=clx",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Charlevoix",
+      "imageMapPixel": [
+        186.0,
+        160.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "clt",
+      "name": "Charlotte (GLBRC)",
+      "listedAs": "Charlotte (GLBRC)",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=clt",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Charlotte (GLBRC)",
+      "imageMapPixel": [
+        199.0,
+        294.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "cth",
+      "name": "Chatham",
+      "listedAs": "Chatham",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=cth",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Chatham",
+      "imageMapPixel": [
+        129.0,
+        103.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "clr",
+      "name": "Clarksville",
+      "listedAs": "Clarksville",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=clr",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Clarksville",
+      "imageMapPixel": [
+        186.0,
+        282.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "cld",
+      "name": "Coldwater",
+      "listedAs": "Coldwater",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=cld",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Coldwater",
+      "imageMapPixel": [
+        191.0,
+        330.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "cmc",
+      "name": "Commerce Twp.",
+      "listedAs": "Commerce Twp.",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=cmc",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Commerce Twp.",
+      "imageMapPixel": [
+        253.0,
+        296.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "cnk",
+      "name": "Conklin / Wright",
+      "listedAs": "Conklin / Wright",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=cnk",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Conklin / Wright",
+      "imageMapPixel": [
+        165.0,
+        269.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "cnt",
+      "name": "Constantine",
+      "listedAs": "Constantine",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=cnt",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Constantine",
+      "imageMapPixel": [
+        171.0,
+        336.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "drf",
+      "name": "Deerfield / Blissfield",
+      "listedAs": "Deerfield / Blissfield",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=drf",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Deerfield / Blissfield",
+      "imageMapPixel": [
+        242.0,
+        334.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "dow",
+      "name": "Dowagiac",
+      "listedAs": "Dowagiac",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=dow",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Dowagiac",
+      "imageMapPixel": [
+        151.0,
+        325.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "msu",
+      "name": "East Lansing / MSUHORT",
+      "listedAs": "East Lansing / MSUHORT",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=msu",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "East Lansing (MSUHORT)",
+      "imageMapPixel": [
+        216.0,
+        293.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "htc",
+      "name": "East Lansing / MSUHTRC",
+      "listedAs": "East Lansing / MSUHTRC",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=htc",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "East Lansing (MSUHRTC)",
+      "imageMapPixel": [
+        216.0,
+        291.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "eld",
+      "name": "East Leland / Suttons Bay",
+      "listedAs": "East Leland / Suttons Bay",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=eld",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "East Leland",
+      "imageMapPixel": [
+        172.0,
+        171.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "epr",
+      "name": "Eastport",
+      "listedAs": "Eastport",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=epr",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Eastport",
+      "imageMapPixel": [
+        185.0,
+        169.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "elb",
+      "name": "Elbridge / Hart",
+      "listedAs": "Elbridge / Hart",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=elb",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Elbridge / Hart",
+      "imageMapPixel": [
+        152.0,
+        241.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "elk",
+      "name": "Elk Rapids",
+      "listedAs": "Elk Rapids",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=elk",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Elk Rapids",
+      "imageMapPixel": [
+        182.0,
+        180.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "emt",
+      "name": "Emmett",
+      "listedAs": "Emmett",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=emt",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Emmett",
+      "imageMapPixel": [
+        281.0,
+        276.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "ent",
+      "name": "Entrican/Lakeview",
+      "listedAs": "Entrican/Lakeview",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=ent",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Entrican",
+      "imageMapPixel": [
+        189.0,
+        257.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "esc",
+      "name": "Escanaba",
+      "listedAs": "Escanaba",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=esc",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Escanaba",
+      "imageMapPixel": [
+        119.0,
+        128.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "fgv",
+      "name": "Fairgrove",
+      "listedAs": "Fairgrove",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=fgv",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Fairgrove",
+      "imageMapPixel": [
+        253.0,
+        248.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "fev",
+      "name": "Fennville",
+      "listedAs": "Fennville",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=fev",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Fennville",
+      "imageMapPixel": [
+        152.0,
+        196.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "flt",
+      "name": "Flint",
+      "listedAs": "Flint",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=flt",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Flint",
+      "imageMapPixel": [
+        246.0,
+        276.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "frl",
+      "name": "Freeland",
+      "listedAs": "Freeland",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=frl",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Freeland",
+      "imageMapPixel": [
+        233.0,
+        247.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "frm",
+      "name": "Fremont",
+      "listedAs": "Fremont",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=frm",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Fremont",
+      "imageMapPixel": [
+        161.0,
+        254.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "gay",
+      "name": "Gaylord",
+      "listedAs": "Gaylord",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=gay",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Gaylord",
+      "imageMapPixel": [
+        202.0,
+        172.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "grj",
+      "name": "Grand Junction",
+      "listedAs": "Grand Junction",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=grj",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Grand Junction",
+      "imageMapPixel": [
+        155.0,
+        306.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "grt",
+      "name": "Grant",
+      "listedAs": "Grant",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=grt",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Grant",
+      "imageMapPixel": [
+        164.0,
+        258.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "hrt",
+      "name": "Hart",
+      "listedAs": "Hart",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=hrt",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Hart",
+      "imageMapPixel": [
+        146.0,
+        237.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "hfd",
+      "name": "Hartford",
+      "listedAs": "Hartford",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=hfd",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Hartford",
+      "imageMapPixel": [
+        152.0,
+        315.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "has",
+      "name": "Haslett",
+      "listedAs": "Haslett",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=has",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Haslett",
+      "imageMapPixel": [
+        221.0,
+        288.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "pcc",
+      "name": "Hastings (GLBRC)",
+      "listedAs": "Hastings (GLBRC)",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=pcc",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Hastings (GLBRC)",
+      "imageMapPixel": [
+        185.0,
+        300.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "haw",
+      "name": "Hawks",
+      "listedAs": "Hawks",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=haw",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Hawks",
+      "imageMapPixel": [
+        238.0,
+        158.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "kbs",
+      "name": "Hickory Corners / MSUKBS",
+      "listedAs": "Hickory Corners / MSUKBS",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=kbs",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Hickory Corners (MSUKBS)",
+      "imageMapPixel": [
+        182.0,
+        306.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "hdn",
+      "name": "Hudson",
+      "listedAs": "Hudson",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=hdn",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Hudson",
+      "imageMapPixel": [
+        226.0,
+        334.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "hvl",
+      "name": "Hudsonville",
+      "listedAs": "Hudsonville",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=hvl",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Hudsonville",
+      "imageMapPixel": [
+        163.0,
+        283.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "ith",
+      "name": "Ithaca",
+      "listedAs": "Ithaca",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=ith",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Ithaca",
+      "imageMapPixel": [
+        216.0,
+        260.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "kzo",
+      "name": "Kalamazoo (GLBRC)",
+      "listedAs": "Kalamazoo (GLBRC)",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=kzo",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Kalamazoo (GLBRC)",
+      "imageMapPixel": [
+        174.0,
+        309.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "wmu",
+      "name": "Kalamazoo (WMU)",
+      "listedAs": "Kalamazoo (WMU)",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=wmu",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Kalamazoo (WMU)",
+      "imageMapPixel": [
+        172.0,
+        314.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "kal",
+      "name": "Kalkaska",
+      "listedAs": "Kalkaska",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=kal",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Kalkaska",
+      "imageMapPixel": [
+        194.0,
+        191.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "klr",
+      "name": "Keeler",
+      "listedAs": "Keeler",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=klr",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Keeler",
+      "imageMapPixel": [
+        151.0,
+        317.3
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "kct",
+      "name": "Kent City",
+      "listedAs": "Kent City",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=kct",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Kent City",
+      "imageMapPixel": [
+        167.0,
+        263.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "kwd",
+      "name": "Kewadin",
+      "listedAs": "Kewadin",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=kwd",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Kewadin",
+      "imageMapPixel": [
+        184.0,
+        175.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "knd",
+      "name": "Kinde",
+      "listedAs": "Kinde",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=knd",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Kinde",
+      "imageMapPixel": [
+        270.0,
+        228.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "llu",
+      "name": "Lake Leelanau",
+      "listedAs": "Lake Leelanau",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=llu",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Lake Leelanau",
+      "imageMapPixel": [
+        170.0,
+        175.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "lpr",
+      "name": "Lapeer",
+      "listedAs": "Lapeer",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=lpr",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Lapeer",
+      "imageMapPixel": [
+        260.0,
+        271.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "tpd",
+      "name": "Lawrence / Teapot Dome",
+      "listedAs": "Lawrence / Teapot Dome",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=tpd",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Lawrence / Teapot Dome",
+      "imageMapPixel": [
+        159.0,
+        316.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "law",
+      "name": "Lawton",
+      "listedAs": "Lawton",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=law",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Lawton",
+      "imageMapPixel": [
+        164.0,
+        318.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "wld",
+      "name": "Leland",
+      "listedAs": "Leland",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=wld",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Leland",
+      "imageMapPixel": [
+        171.0,
+        171.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "les",
+      "name": "Leslie (GLBRC)",
+      "listedAs": "Leslie (GLBRC)",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=les",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Leslie (GLBRC)",
+      "imageMapPixel": [
+        217.0,
+        303.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "lin",
+      "name": "Linwood",
+      "listedAs": "Linwood",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=lin",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Linwood",
+      "imageMapPixel": [
+        233.0,
+        239.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "ldt",
+      "name": "Ludington",
+      "listedAs": "Ludington",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=ldt",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Ludington",
+      "imageMapPixel": [
+        146.0,
+        229.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "mcb",
+      "name": "McBain",
+      "listedAs": "McBain",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=mcb",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "McBain",
+      "imageMapPixel": [
+        192.0,
+        215.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "mml",
+      "name": "McMillan / Newberry",
+      "listedAs": "McMillan / Newberry",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=mml",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "McMillan / Newberry",
+      "imageMapPixel": [
+        175.0,
+        106.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "mea",
+      "name": "Mears",
+      "listedAs": "Mears",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=mea",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Mears",
+      "imageMapPixel": [
+        144.0,
+        239.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "mct",
+      "name": "Mecosta",
+      "listedAs": "Mecosta",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=mct",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Mecosta",
+      "imageMapPixel": [
+        188.0,
+        247.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "men",
+      "name": "Mendon",
+      "listedAs": "Mendon",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=men",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Mendon",
+      "imageMapPixel": [
+        179.0,
+        328.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "mou",
+      "name": "Mount Pleasant (CMU)",
+      "listedAs": "Mount Pleasant (CMU)",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=mou",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Mount Pleasant (CMU)",
+      "imageMapPixel": [
+        205.0,
+        246.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "mgr",
+      "name": "Munger",
+      "listedAs": "Munger",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=mgr",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Munger",
+      "imageMapPixel": [
+        243.0,
+        247.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "ner",
+      "name": "New Era",
+      "listedAs": "New Era",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=ner",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "New Era",
+      "imageMapPixel": [
+        144.0,
+        246.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "nth",
+      "name": "Northport",
+      "listedAs": "Northport",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=nth",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Northport",
+      "imageMapPixel": [
+        173.0,
+        166.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "old",
+      "name": "Old Mission",
+      "listedAs": "Old Mission",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=old",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Old Mission",
+      "imageMapPixel": [
+        179.0,
+        177.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "omp",
+      "name": "Old Mission-South",
+      "listedAs": "Old Mission-South",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=omp",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Old Mission-South",
+      "imageMapPixel": [
+        177.0,
+        182.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "omn",
+      "name": "Omena",
+      "listedAs": "Omena",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=omn",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Omena",
+      "imageMapPixel": [
+        175.0,
+        171.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "obl",
+      "name": "Onekama Twp / Bear Lake",
+      "listedAs": "Onekama Twp / Bear Lake",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=obl",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Onekama Twp / Bear Lake",
+      "imageMapPixel": [
+        152.0,
+        202.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "ost",
+      "name": "Oshtemo",
+      "listedAs": "Oshtemo",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=ost",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Oshtemo",
+      "imageMapPixel": [
+        170.0,
+        312.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "pky",
+      "name": "Petoskey",
+      "listedAs": "Petoskey",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=pky",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Petoskey",
+      "imageMapPixel": [
+        197.0,
+        156.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "ncm",
+      "name": "Petoskey (NCMC)",
+      "listedAs": "Petoskey (NCMC)",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=ncm",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Petoskey (NCMC)",
+      "imageMapPixel": [
+        199.0,
+        155.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "pig",
+      "name": "Pigeon",
+      "listedAs": "Pigeon",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=pig",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Pigeon",
+      "imageMapPixel": [
+        261.0,
+        230.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "rfw",
+      "name": "Reeman / Fremont-West",
+      "listedAs": "Reeman / Fremont-West",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=rfw",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Reeman / Fremont-West",
+      "imageMapPixel": [
+        158.0,
+        252.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "rvl",
+      "name": "Richville / Frankenmuth",
+      "listedAs": "Richville / Frankenmuth",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=rvl",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Richville / Frankenmuth",
+      "imageMapPixel": [
+        245.0,
+        255.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "rom",
+      "name": "Romeo",
+      "listedAs": "Romeo",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=rom",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Romeo",
+      "imageMapPixel": [
+        271.0,
+        287.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "sdk",
+      "name": "Sandusky",
+      "listedAs": "Sandusky",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=sdk",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Sandusky",
+      "imageMapPixel": [
+        278.0,
+        252.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "scd",
+      "name": "Scottdale",
+      "listedAs": "Scottdale",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=scd",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Scottdale",
+      "imageMapPixel": [
+        141.0,
+        325.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "sbe",
+      "name": "Shelby-East",
+      "listedAs": "Shelby-East",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=sbe",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Shelby-East",
+      "imageMapPixel": [
+        146.0,
+        145.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "shv",
+      "name": "South Haven",
+      "listedAs": "South Haven",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=shv",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "South Haven",
+      "imageMapPixel": [
+        147.0,
+        308.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "spo",
+      "name": "Sparta",
+      "listedAs": "Sparta",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=spo",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Sparta",
+      "imageMapPixel": [
+        168.0,
+        269.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "spn",
+      "name": "Sparta-North",
+      "listedAs": "Sparta-North",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=spn",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Sparta-North",
+      "imageMapPixel": [
+        147.0,
+        308.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "stn",
+      "name": "Standale / Walker",
+      "listedAs": "Standale / Walker",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=stn",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Standale / Walker",
+      "imageMapPixel": [
+        168.0,
+        278.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "stv",
+      "name": "Stephenson",
+      "listedAs": "Stephenson",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=stv",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Stephenson",
+      "imageMapPixel": [
+        103.0,
+        150.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "nwm",
+      "name": "Traverse City / NWMHRS",
+      "listedAs": "Traverse City / NWMHRS",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=nwm",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Traverse City",
+      "imageMapPixel": [
+        172.0,
+        179.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "ver",
+      "name": "Verona",
+      "listedAs": "Verona",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=ver",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "Verona",
+      "imageMapPixel": [
+        277.0,
+        233.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    },
+    {
+      "id": "weo",
+      "name": "West Olive",
+      "listedAs": "West Olive",
+      "group": "michigan",
+      "sourceGroupHeading": "Michigan Stations",
+      "retiredDateRaw": null,
+      "towerHeightRaw": null,
+      "legacyUrl": "https://mawn.geo.msu.edu/station.asp?id=weo",
+      "onLegacyImageMap": true,
+      "imageMapLabel": "West Olive",
+      "imageMapPixel": [
+        155.0,
+        277.0
+      ],
+      "capture": {
+        "stationPage": false,
+        "hourly": false,
+        "daily": false,
+        "maintenance": false,
+        "rawFile": false
+      },
+      "captureLevel": "listed",
+      "city": null,
+      "prototypeUrl": null
+    }
+  ]
+}

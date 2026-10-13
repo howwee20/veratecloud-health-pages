@@ -1,0 +1,6 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Prose from '../../components/Prose.astro';
+import {climate} from '../../lib/data';
+---
+<BaseLayout title="Michigan State Climatologist’s Office" section="climate" climateHome><div class="climate-copy"><h1>Welcome</h1>{climate.home.paragraphs.map(segments=><Prose segments={segments}/>)}</div></BaseLayout>

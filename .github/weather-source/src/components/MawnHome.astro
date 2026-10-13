@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Prose from './Prose.astro';
+import StationMap from './StationMap.astro';
+import StationList from './StationList.astro';
+import {networkHome} from '../lib/data';
+---
+<BaseLayout title="Michigan Automated Weather Network" section="network">
+<div class="mawn-top"><div class="mawn-intro"><h1>Welcome to the <strong><em>Enviro-weather Automated Weather Station Network</em></strong> formerly known as <strong>MAWN.</strong></h1>{networkHome.intro.slice(1).map(segments=><Prose segments={segments}/>)}</div><div><StationMap/><p class="map-instruction">For station-specific weather data and related information, select a station on the map or in the <a href="#station-directory">station table below</a>.</p></div></div>
+<div class="mawn-bottom" id="station-directory" tabindex="-1"><div><section class="legacy-box"><h2 class="green-heading">{networkHome.recentConditions.headingRaw}</h2><table class="conditions"><caption class="visually-hidden">East Lansing conditions; observation time shown in the first row</caption><tbody>{networkHome.recentConditions.items.map(item=><tr><th scope="row">{item.label}</th><td>{item.raw}</td></tr>)}</tbody></table></section><StationList group="tower-10m" title="Michigan Tower (10m) Stations" single/><StationList group="tower-20m" title="Michigan Tower (20m) Stations" single/><StationList group="retired" title="Retired Stations" single/><p><a href="/rawdata/">Raw data files</a></p></div><StationList group="michigan" title="Michigan Stations"/></div>
+</BaseLayout>

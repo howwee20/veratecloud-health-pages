@@ -1,0 +1,33 @@
+---
+import { MISSING_TEXT } from '../lib/format';
+import type { Cell, Column } from '../lib/data';
+interface Row { header: string; date: string; dayStart?: boolean; cells: Record<string, Cell> }
+interface Props { id: string; caption: string; captionNote?: string; rowHeader: string; rowHeaderUnit?: string; columns: Column[]; rows: Row[]; compact?: boolean; labelKey?: 'label' | 'short' }
+const { id, caption, captionNote, rowHeader, rowHeaderUnit, columns, rows, compact = false, labelKey = 'label' } = Astro.props;
+---
+<div class="table-wrap" tabindex="0" role="region" aria-labelledby={`${id}-caption`}>
+  <table class:list={['data', compact && 'compact']} id={id}>
+    <caption id={`${id}-caption`}>{caption}{captionNote && <small>{captionNote}</small>}</caption>
+    <thead>
+      <tr>
+        <th scope="col">{rowHeader}{rowHeaderUnit && <span class="unit">{rowHeaderUnit}</span>}</th>
+        {columns.map((col) => (
+          <th scope="col" class={col.type === 'number' ? 'num' : undefined}>{(labelKey === 'short' && col.short) || col.label}<span class="unit">{col.unit ?? 'as reported'}</span></th>
+        ))}
+      </tr>
+    </thead>
+    <tbody>
+      {rows.map((row) => (
+        <tr data-filter-row data-date={row.date} class:list={[row.dayStart && 'day-start', Object.values(row.cells).every((c) => c.missing) && 'is-empty-row']}>
+          <th scope="row" class="mono">{row.header}</th>
+          {columns.map((col) => {
+            const cell = row.cells[col.key];
+            return cell.missing
+              ? <td class:list={[col.type === 'number' && 'num', 'is-missing']}><span aria-hidden="true" class="mono">{cell.raw}</span><span class="visually-hidden">{MISSING_TEXT[cell.raw] ?? 'No value reported'}</span></td>
+              : <td class={col.type === 'number' ? 'num' : 'mono'}>{cell.raw}</td>;
+          })}
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>

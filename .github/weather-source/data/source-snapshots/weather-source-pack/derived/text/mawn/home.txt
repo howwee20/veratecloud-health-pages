@@ -1,0 +1,323 @@
+Michigan Automated Weather Network
+|
+|
+|
+Welcome to the Enviro-weather Automated Weather Station Network formerly known
+as MAWN.
+The Michigan Automated Weather Network, or MAWN, was one of
+the original partners that combined to form
+Enviro-weather, MSU's
+weather-based decision-making resource for pest, production and
+resource managers. MAWN stations are now known as Enviro-weather
+stations. The pages linked at this site provide comprehensive, detailed data
+and other information from each weather station in the network.
+The Enviro-weather Project is supported by
+Project GREEEN,
+an initiative of Michigan's plant-based
+commodities and businesses, the
+Michigan Agricultural Experiment Station (MAES),
+MSU Extension (MSUE), and by user donations.
+A major emphasis of Enviro-weather is to improve the efficiency and
+productivity of agriculture through expanding use of Integrated Crop
+Management (ICM) strategies, many of which require highly detailed
+weather data and information. Our objectives are to provide quality
+data, information, and proven methodologies for expanded use of
+ICM and other weather-dependent management strategies in Michigan; to
+facilitate new research using meteorological data for agricultural
+management; and to overall reduce weather-dependent risk in
+agricultural systems for growers and for the industry.
+|
+|
+For station-specific weather data and related
+information, select from the available stations
+(highlighted in yellow) displayed on the map
+above. You may also select from the station
+table listed below.
+|
+|
+Recent Conditions: East Lansing, MI |
+Date/Time: |
+Mon, 10/12/26 - 07:30 PM |
+|
+|
+Air Temp: |
+75.3 (F) |
+Dew Point: |
+61.4 (F) |
+Rel. Humidity: |
+62.0 (%) |
+Wind Speed: |
+2.9 (mph) |
+Wind Dir: |
+SW |
+Solar Radiation: |
+4.1 (ly) |
+|
+|
+2" Bare Soil Temp: |
+61.4 (F) |
+4" Bare Soil Temp: |
+60.8 (F) |
+4" Soil Moisture: |
+0.211 (in^3/in^3) |
+10" Soil Moisture: |
+0.171 (in^3/in^3) |
+|
+|
+Leaf Wetness: |
+DRY |
+Precipitation (since midnight): |
+0.00 (in) |
+|
+|
+Michgan Tower (10m) Stations |
+East Lansing (MSUHORT) [10m]
+|
+Grand Junction [10m]
+|
+Hart (WCMREC) [10m]
+|
+|
+|
+Michgan Tower (20m) Stations |
+Sparta [20m]
+|
+Williamsburg [20m]
+|
+|
+|
+Retired Stations |
+Arlington (06/09/2023)
+|
+Bath (11/05/2014)
+|
+Bear Lake (09/01/2020)
+|
+Casco / Luxemburg (08/24/2023)
+|
+Egg Harbor (08/18/2023)
+|
+Goodells (10/28/2006)
+|
+Hancock (09/19/2023)
+|
+Kewaunee / Stangelville (08/24/2023)
+|
+Lancaster (09/19/2023)
+|
+Marshfield (09/19/2023)
+|
+Nasewaupee / S. Door County (08/17/2023)
+|
+Petersburg / Dundee (02/15/2017)
+|
+Rhinelander (09/19/2023)
+|
+Saginaw (11/26/2008)
+|
+Sister Bay / Liberty Grove (08/18/2023)
+|
+Spooner (09/19/2023)
+|
+Sturgeon Bay (08/16/2023)
+|
+Sturgeon Bay / Southern Door (08/17/2023)
+|
+West Jacksonport (08/18/2023)
+|
+|
+|
+Michigan Stations |
+Aetna / Fremont
+|
+Albion
+|
+Allegan
+|
+Alpine Twp / Comstock Park
+|
+Arlene
+|
+Bainbridge Center / Watervliet
+|
+Belding
+|
+Benona / Shelby
+|
+Benton Harbor / SWMREC
+|
+Benzonia
+|
+Berrien Springs
+|
+Cassopolis (GLBRC)
+|
+Ceresco
+|
+Charlevoix
+|
+Charlotte (GLBRC)
+|
+Chatham
+|
+Clarksville
+|
+Coldwater
+|
+Commerce Twp.
+|
+Conklin / Wright
+|
+Constantine
+|
+Deerfield / Blissfield
+|
+Dowagiac
+|
+East Lansing / MSUHORT
+|
+East Lansing / MSUHTRC
+|
+East Leland / Suttons Bay
+|
+Eastport
+|
+Elbridge / Hart
+|
+Elk Rapids
+|
+Emmett
+|
+Entrican/Lakeview
+|
+Escanaba
+|
+Fairgrove
+|
+Fennville
+|
+Flint
+|
+Freeland
+|
+Fremont
+|
+Gaylord
+|
+Grand Junction
+|
+Grant
+|
+Hart
+|
+Hartford
+|
+Haslett
+|
+Hastings (GLBRC)
+|
+Hawks
+|
+Hickory Corners / MSUKBS
+|
+Hudson
+|
+Hudsonville
+|
+Ithaca
+|
+Kalamazoo (GLBRC)
+|
+Kalamazoo (WMU)
+|
+Kalkaska
+|
+Keeler
+|
+Kent City
+|
+Kewadin
+|
+Kinde
+|
+Lake Leelanau
+|
+Lapeer
+|
+Lawrence / Teapot Dome
+|
+Lawton
+|
+Leland
+|
+Leslie (GLBRC)
+|
+Linwood
+|
+Ludington
+|
+McBain
+|
+McMillan / Newberry
+|
+Mears
+|
+Mecosta
+|
+Mendon
+|
+Mount Pleasant (CMU)
+|
+Munger
+|
+New Era
+|
+Northport
+|
+Old Mission
+|
+Old Mission-South
+|
+Omena
+|
+Onekama Twp / Bear Lake
+|
+Oshtemo
+|
+Petoskey
+|
+Petoskey (NCMC)
+|
+Pigeon
+|
+Reeman / Fremont-West
+|
+Richville / Frankenmuth
+|
+Romeo
+|
+Sandusky
+|
+Scottdale
+|
+Shelby-East
+|
+South Haven
+|
+Sparta
+|
+Sparta-North
+|
+Standale / Walker
+|
+Stephenson
+|
+Traverse City / NWMHRS
+|
+Verona
+|
+West Olive
+|
+|
+|
+|

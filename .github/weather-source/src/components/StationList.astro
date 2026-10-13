@@ -1,0 +1,6 @@
+---
+import {stations} from '../lib/data';
+import {localHref} from '../lib/route';
+const {group,title,single=false}=Astro.props;
+---
+<section class="legacy-box"><h2 class="green-heading">{title}</h2><ul class:list={['station-list',single&&'single']}>{stations.stations.filter(s=>s.group===group).map(s=><li><a href={localHref(s.legacyUrl)}>{s.name}</a>{s.retiredDateRaw&&<small>({s.retiredDateRaw})</small>}</li>)}</ul></section>

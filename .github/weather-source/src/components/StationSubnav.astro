@@ -1,0 +1,17 @@
+---
+interface Props { id: string; current: 'overview' | 'hourly' | 'daily' | 'maintenance'; rawHref?: string | null }
+const { id, current, rawHref } = Astro.props;
+const base = `/weather-network/stations/${id}/`;
+const items = [
+  { key: 'overview', label: 'Station overview', href: base },
+  { key: 'hourly', label: 'Hourly observations', href: `${base}hourly/` },
+  { key: 'daily', label: 'Daily observations', href: `${base}daily/` },
+  { key: 'maintenance', label: 'Maintenance records', href: `${base}maintenance/` },
+];
+---
+<nav aria-label="Station pages">
+  <ul class="subnav">
+    {items.map((item) => <li><a href={item.href} aria-current={item.key === current ? 'page' : undefined}>{item.label}</a></li>)}
+    {rawHref && <li><a href={rawHref}>Raw data file</a></li>}
+  </ul>
+</nav>

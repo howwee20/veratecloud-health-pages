@@ -1,0 +1,7 @@
+---
+import {MISSING_TEXT} from '../lib/format';
+interface Props {report:any;row:any;compact?:boolean}
+const {report,row,compact=false}=Astro.props;
+const cols=compact?report.columns.filter((c:any)=>['airTemp','relHum','windSpeed','soilTemp'].includes(c.key)):report.columns;
+---
+<ul class:list={['metrics weather-readings',compact&&'readings-compact']}>{cols.map((col:any)=>{const cell=row.cells[col.key];return <li class:list={['metric',cell.missing&&'is-missing']}><span class="metric-label">{col.label}</span><span class="metric-value">{cell.missing?<><span aria-hidden="true">—</span><span class="visually-hidden">{MISSING_TEXT[cell.raw]||'No reading'}</span></>:<>{cell.raw}{col.unit&&<span class="metric-unit">{col.unit}</span>}</>}</span>{cell.missing&&<span class="metric-note">No reading</span>}</li>})}</ul>

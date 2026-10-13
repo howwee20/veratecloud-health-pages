@@ -1,0 +1,217 @@
+H1
+{
+   font-family:Times New Roman,Times,serif;
+   font-style:normal;
+   font-weight:700;
+   font-size:24pt;
+   color:#006633;
+}
+
+H2
+{
+   font-family:Times News Roman,Times,serif;
+   font-style:normal;
+   font-weight:700;
+   font-size:21pt;
+   color:#006633;
+}
+
+H3
+{
+   font-family:Times New Roman,Times,serif;
+   font-style:normal;
+   font-weight:700;
+   font-size:18pt;
+   color:#006633;
+}
+
+caption
+{
+   font-family:Helvetica,sans-serif;
+   font-style:italic;
+   font-weight:400;
+   font-size:7pt;
+}
+
+
+
+
+.arial1
+{
+   font-family:Arial,Helvetica,sans-serif;
+   font-style:normal;
+   font-size:13pt;
+}
+
+.arial2
+{
+   font-family:Arial,Helvetica,sans-serif;
+   font-style:normal;
+   font-size:9pt;
+}
+
+.arial3
+{
+   font-family:Arial,Helvetica,sans-serif;
+   font-style:normal;
+   font-size:8pt;
+}
+
+.courier1
+{
+   font-family:"Courier New",monospace;
+   font-style:normal;
+   font-size:13pt;
+}
+
+.courier2
+{
+   font-family:"Courier New",monospace;
+   font-style:normal;
+   font-size:8pt;
+}
+
+.infotabledata
+{
+   font-family:Helvetica,sans-serif;
+   font-style:normal;
+   font-weight:500;
+   font-size:9pt;
+   color:black;
+}
+
+.infotablelabel
+{
+   font-family:Hevetica,sans-serif;
+   font-style:normal;
+   font-weight:bold;
+   font-size:9pt;
+   color:black;
+}
+
+.infotablemiss
+{
+   font-family:Helvetica,sans-serif;
+   font-style:normal;
+   font-weight:500;
+   font-size:9pt;
+   color:red;
+}
+
+.navbarfont
+{
+   font-family:Helvetica,sans-serif;
+   font-style:normal;
+   font-weight:500;
+   font-size:9pt;
+   color:white;
+}
+
+.stntabledata
+{
+   font-family:Helvetica,sans-serif;
+   font-style:normal;
+   font-weight:bold;
+   font-size:8pt;
+   color:#000000;
+   background-color:#ffffff;
+}
+
+.tableheader
+{
+   font-family:Helvetica,sans-serif;
+   font-style:normal;
+   font-weight:bold;
+   font-size:10pt;
+   color:#ffffff;
+   background-color:#006633;
+}
+
+.tableheader0
+{
+   font-family:Times New Roman,Times,serif;
+   font-style:normal;
+   font-weight:bold;
+   font-size:12pt;
+   color:yellow;
+   background-color:red;
+}
+
+.tableheader1
+{
+   font-family:Times New Roman,Times,serif;
+   font-style:normal;
+   font-weight:bold;
+   font-size:12pt;
+   color:yellow;
+   background-color:#006633;
+}
+
+.textlarge
+{
+   font-family:Time New Roman,Times,serif;
+   font-style:normal;
+   font-weight:500;
+   font-size:12t;
+   color:black;
+}
+
+.textreg
+{
+   font-family:Time New Roman,Times,serif;
+   font-style:normal;
+   font-weight:500;
+   font-size:9pt;
+   color:black;
+}
+.textsmall
+{
+   font-family:Times New Roman,Times,serif;
+   font-style:italic;
+   font-weight:500;
+   font-size:8pt;
+   color:black;
+}
+
+.times1
+{
+   font-family:Times New Roman,Times,serif;
+   font-style:normal;
+   font-size:13pt;
+}
+
+.times2
+{
+   font-family:Times New Roman,Times,serif;
+   font-style:normal;
+   font-size:9pt;
+}
+
+.wxtabledata
+{
+   font-family:Helvetica,sans-serif;
+   font-style:normal;
+   font-weight:bold;
+   font-size:8pt;
+   color:#000000;
+   background-color:#cccccc;
+}
+.wxtablelabel
+{
+   font-family:Helvetica,sans-serif;
+   font-style:normal;
+   font-weight:bold;
+   font-size:8pt;
+   color:#000000;
+   background-color:#ffff99;
+}
+
+.wxtablemiss
+{
+   font-family:Helvetica,sans-serif;
+   font-style:normal;
+   font-weight:bold;
+   font-size:8pt;
+   color:red;
+   background-color:#cccccc;
+}

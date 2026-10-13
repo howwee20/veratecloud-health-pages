@@ -1,0 +1,999 @@
+{
+  "schemaVersion": 1,
+  "root": {
+    "source": {
+      "id": "rawdata-index",
+      "url": "https://mawn.geo.msu.edu/rawdata/",
+      "file": "input/rawdata/index.html",
+      "sha256": "f660856c93109089d3cd08a01bbca30c5dff87fb50f66e528582b54b37337da4",
+      "retrievedAtUtc": "2026-10-13T15:33:51.530195+00:00"
+    },
+    "legacyPath": "/rawdata/",
+    "title": "Index of /rawdata",
+    "entries": [
+      {
+        "name": "1wk/",
+        "href": "1wk/",
+        "url": "https://mawn.geo.msu.edu/rawdata/1wk/",
+        "type": "directory",
+        "lastModifiedRaw": "2026-05-08 16:27",
+        "sizeRaw": "-"
+      },
+      {
+        "name": "3hr/",
+        "href": "3hr/",
+        "url": "https://mawn.geo.msu.edu/rawdata/3hr/",
+        "type": "directory",
+        "lastModifiedRaw": "2026-05-08 16:28",
+        "sizeRaw": "-"
+      },
+      {
+        "name": "3mo/",
+        "href": "3mo/",
+        "url": "https://mawn.geo.msu.edu/rawdata/3mo/",
+        "type": "directory",
+        "lastModifiedRaw": "2026-05-08 16:28",
+        "sizeRaw": "-"
+      },
+      {
+        "name": "disabled/",
+        "href": "disabled/",
+        "url": "https://mawn.geo.msu.edu/rawdata/disabled/",
+        "type": "directory",
+        "lastModifiedRaw": "2026-10-08 15:52",
+        "sizeRaw": "-"
+      },
+      {
+        "name": "mcemo/",
+        "href": "mcemo/",
+        "url": "https://mawn.geo.msu.edu/rawdata/mcemo/",
+        "type": "directory",
+        "lastModifiedRaw": "2025-01-24 16:52",
+        "sizeRaw": "-"
+      },
+      {
+        "name": "meta/",
+        "href": "meta/",
+        "url": "https://mawn.geo.msu.edu/rawdata/meta/",
+        "type": "directory",
+        "lastModifiedRaw": "2026-10-08 15:43",
+        "sizeRaw": "-"
+      },
+      {
+        "name": "mrcc/",
+        "href": "mrcc/",
+        "url": "https://mawn.geo.msu.edu/rawdata/mrcc/",
+        "type": "directory",
+        "lastModifiedRaw": "2022-02-14 14:36",
+        "sizeRaw": "-"
+      },
+      {
+        "name": "nrcc/",
+        "href": "nrcc/",
+        "url": "https://mawn.geo.msu.edu/rawdata/nrcc/",
+        "type": "directory",
+        "lastModifiedRaw": "2022-02-14 14:36",
+        "sizeRaw": "-"
+      },
+      {
+        "name": "solar_fcsts/",
+        "href": "solar_fcsts/",
+        "url": "https://mawn.geo.msu.edu/rawdata/solar_fcsts/",
+        "type": "directory",
+        "lastModifiedRaw": "2022-02-14 14:36",
+        "sizeRaw": "-"
+      },
+      {
+        "name": "unl-soysim/",
+        "href": "unl-soysim/",
+        "url": "https://mawn.geo.msu.edu/rawdata/unl-soysim/",
+        "type": "directory",
+        "lastModifiedRaw": "2022-02-14 14:36",
+        "sizeRaw": "-"
+      }
+    ]
+  },
+  "directories": {
+    "3hr": {
+      "source": {
+        "id": "rawdata-3hr-index",
+        "url": "https://mawn.geo.msu.edu/rawdata/3hr/",
+        "file": "input/rawdata/3hr-index.html",
+        "sha256": "e8ed68ae9f673f6391c4839e4bfb70f66ce27c3ed4f8a7896f3fb8b384960ef3",
+        "retrievedAtUtc": "2026-10-13T15:34:10.192953+00:00"
+      },
+      "legacyPath": "/rawdata/3hr/",
+      "title": "Index of /rawdata/3hr",
+      "entries": [
+        {
+          "name": "aetna",
+          "href": "aetna",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/aetna",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:21",
+          "sizeRaw": "2.6K"
+        },
+        {
+          "name": "albion",
+          "href": "albion",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/albion",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "allegan",
+          "href": "allegan",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/allegan",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "1.9K"
+        },
+        {
+          "name": "alpine",
+          "href": "alpine",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/alpine",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "arlene",
+          "href": "arlene",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/arlene",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "bainbridge",
+          "href": "bainbridge",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/bainbridge",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "1.9K"
+        },
+        {
+          "name": "belding",
+          "href": "belding",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/belding",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "1.9K"
+        },
+        {
+          "name": "benona",
+          "href": "benona",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/benona",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "1.9K"
+        },
+        {
+          "name": "benzonia",
+          "href": "benzonia",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/benzonia",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.0K"
+        },
+        {
+          "name": "berriensprings",
+          "href": "berriensprings",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/berriensprings",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "cassopolis",
+          "href": "cassopolis",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/cassopolis",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "3.1K"
+        },
+        {
+          "name": "ceresco",
+          "href": "ceresco",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/ceresco",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "charlevoix",
+          "href": "charlevoix",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/charlevoix",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.6K"
+        },
+        {
+          "name": "charlotte",
+          "href": "charlotte",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/charlotte",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "chatham",
+          "href": "chatham",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/chatham",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "clarksville",
+          "href": "clarksville",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/clarksville",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.6K"
+        },
+        {
+          "name": "coldwater",
+          "href": "coldwater",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/coldwater",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:21",
+          "sizeRaw": "7.0K"
+        },
+        {
+          "name": "commercetwp",
+          "href": "commercetwp",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/commercetwp",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "conklin",
+          "href": "conklin",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/conklin",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "constantine",
+          "href": "constantine",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/constantine",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "deerfield",
+          "href": "deerfield",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/deerfield",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "3.3K"
+        },
+        {
+          "name": "dowagiac",
+          "href": "dowagiac",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/dowagiac",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "1.9K"
+        },
+        {
+          "name": "eastleland",
+          "href": "eastleland",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/eastleland",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "1.9K"
+        },
+        {
+          "name": "eastport",
+          "href": "eastport",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/eastport",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "elbridge",
+          "href": "elbridge",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/elbridge",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "1.9K"
+        },
+        {
+          "name": "elkrapids",
+          "href": "elkrapids",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/elkrapids",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:21",
+          "sizeRaw": "2.6K"
+        },
+        {
+          "name": "emmett",
+          "href": "emmett",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/emmett",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "entrican",
+          "href": "entrican",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/entrican",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "3.2K"
+        },
+        {
+          "name": "escanaba",
+          "href": "escanaba",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/escanaba",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "fairgrove",
+          "href": "fairgrove",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/fairgrove",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "fennville",
+          "href": "fennville",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/fennville",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "flint",
+          "href": "flint",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/flint",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "freeland",
+          "href": "freeland",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/freeland",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 10:14",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "fremont",
+          "href": "fremont",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/fremont",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "gaylord",
+          "href": "gaylord",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/gaylord",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "grandjunction",
+          "href": "grandjunction",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/grandjunction",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "grandjunction10",
+          "href": "grandjunction10",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/grandjunction10",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:27",
+          "sizeRaw": "8.3K"
+        },
+        {
+          "name": "grant",
+          "href": "grant",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/grant",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "1.9K"
+        },
+        {
+          "name": "hart",
+          "href": "hart",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/hart",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:21",
+          "sizeRaw": "2.6K"
+        },
+        {
+          "name": "hart10",
+          "href": "hart10",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/hart10",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:27",
+          "sizeRaw": "8.3K"
+        },
+        {
+          "name": "hartford",
+          "href": "hartford",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/hartford",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "haslett",
+          "href": "haslett",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/haslett",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "hastings",
+          "href": "hastings",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/hastings",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "2.0K"
+        },
+        {
+          "name": "hawks",
+          "href": "hawks",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/hawks",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "hudson",
+          "href": "hudson",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/hudson",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "hudsonville",
+          "href": "hudsonville",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/hudsonville",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "ithaca",
+          "href": "ithaca",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/ithaca",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "kalamazoo",
+          "href": "kalamazoo",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/kalamazoo",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "kalkaska",
+          "href": "kalkaska",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/kalkaska",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "keeler",
+          "href": "keeler",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/keeler",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "1.9K"
+        },
+        {
+          "name": "kentcity",
+          "href": "kentcity",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/kentcity",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "kewadin",
+          "href": "kewadin",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/kewadin",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "1.8K"
+        },
+        {
+          "name": "kinde",
+          "href": "kinde",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/kinde",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:02",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "lakeleelanau",
+          "href": "lakeleelanau",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/lakeleelanau",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:21",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "lapeer",
+          "href": "lapeer",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/lapeer",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "lawrence",
+          "href": "lawrence",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/lawrence",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "lawton",
+          "href": "lawton",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/lawton",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:22",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "leslie",
+          "href": "leslie",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/leslie",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "linwood",
+          "href": "linwood",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/linwood",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "ludington",
+          "href": "ludington",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/ludington",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.6K"
+        },
+        {
+          "name": "mcbain",
+          "href": "mcbain",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/mcbain",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "mcmillan",
+          "href": "mcmillan",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/mcmillan",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:03",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "mears",
+          "href": "mears",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/mears",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.6K"
+        },
+        {
+          "name": "mecosta",
+          "href": "mecosta",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/mecosta",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:03",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "mendon",
+          "href": "mendon",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/mendon",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "mountpleasant",
+          "href": "mountpleasant",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/mountpleasant",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:22",
+          "sizeRaw": "2.1K"
+        },
+        {
+          "name": "msuhort",
+          "href": "msuhort",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/msuhort",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "3.3K"
+        },
+        {
+          "name": "msuhort10",
+          "href": "msuhort10",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/msuhort10",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:27",
+          "sizeRaw": "8.3K"
+        },
+        {
+          "name": "msuhtrc",
+          "href": "msuhtrc",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/msuhtrc",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "msukbs",
+          "href": "msukbs",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/msukbs",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "4.2K"
+        },
+        {
+          "name": "munger",
+          "href": "munger",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/munger",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "ncmc",
+          "href": "ncmc",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/ncmc",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.6K"
+        },
+        {
+          "name": "newera",
+          "href": "newera",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/newera",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "northport",
+          "href": "northport",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/northport",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:22",
+          "sizeRaw": "2.6K"
+        },
+        {
+          "name": "nwmhrs",
+          "href": "nwmhrs",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/nwmhrs",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "oldmission",
+          "href": "oldmission",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/oldmission",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "oldmissionsouth",
+          "href": "oldmissionsouth",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/oldmissionsouth",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "omena",
+          "href": "omena",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/omena",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "onekama",
+          "href": "onekama",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/onekama",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:03",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "oshtemo",
+          "href": "oshtemo",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/oshtemo",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "petoskey",
+          "href": "petoskey",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/petoskey",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "pigeon",
+          "href": "pigeon",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/pigeon",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 10:14",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "reeman",
+          "href": "reeman",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/reeman",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:22",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "richville",
+          "href": "richville",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/richville",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:22",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "romeo",
+          "href": "romeo",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/romeo",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:22",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "sandusky",
+          "href": "sandusky",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/sandusky",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "3.3K"
+        },
+        {
+          "name": "scottdale",
+          "href": "scottdale",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/scottdale",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.6K"
+        },
+        {
+          "name": "shelbyeast",
+          "href": "shelbyeast",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/shelbyeast",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.6K"
+        },
+        {
+          "name": "southhaven",
+          "href": "southhaven",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/southhaven",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "sparta",
+          "href": "sparta",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/sparta",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "sparta20",
+          "href": "sparta20",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/sparta20",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "9.3K"
+        },
+        {
+          "name": "spartanorth",
+          "href": "spartanorth",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/spartanorth",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "standale",
+          "href": "standale",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/standale",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:11",
+          "sizeRaw": "2.4K"
+        },
+        {
+          "name": "stephenson",
+          "href": "stephenson",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/stephenson",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:03",
+          "sizeRaw": "2.3K"
+        },
+        {
+          "name": "swmrec",
+          "href": "swmrec",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/swmrec",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        },
+        {
+          "name": "verona",
+          "href": "verona",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/verona",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:03",
+          "sizeRaw": "3.2K"
+        },
+        {
+          "name": "westleland",
+          "href": "westleland",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/westleland",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.6K"
+        },
+        {
+          "name": "westolive",
+          "href": "westolive",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/westolive",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:03",
+          "sizeRaw": "2.5K"
+        },
+        {
+          "name": "williamsburg20",
+          "href": "williamsburg20",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/williamsburg20",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "7.4K"
+        },
+        {
+          "name": "wmich",
+          "href": "wmich",
+          "url": "https://mawn.geo.msu.edu/rawdata/3hr/wmich",
+          "type": "file",
+          "lastModifiedRaw": "2026-10-13 11:32",
+          "sizeRaw": "2.7K"
+        }
+      ]
+    }
+  },
+  "listingClock": {
+    "observation": "The listing shows benzonia as modified 2026-10-13 11:11. The HTTP Last-Modified header recorded for the same file was Tue, 13 Oct 2026 15:11:06 GMT. On that evidence the listing clock was four hours behind UTC at capture.",
+    "offsetHoursBehindUtc": 4,
+    "scope": "Established for this one file only. The listing itself does not state a time zone."
+  },
+  "files": {
+    "3hr/benzonia": {
+      "source": {
+        "id": "rawdata-3hr-benzonia",
+        "url": "https://mawn.geo.msu.edu/rawdata/3hr/benzonia",
+        "file": "input/rawdata/3hr/benzonia",
+        "sha256": "3b5b550f0a6f17fbf56cb53485a98ebaad9570a91716c823c8d38b54ba5f1fca",
+        "retrievedAtUtc": "2026-10-13T15:34:12.286030+00:00"
+      },
+      "legacyPath": "/rawdata/3hr/benzonia",
+      "localPath": "/rawdata/3hr/benzonia",
+      "bytes": 2005,
+      "sha256": "3b5b550f0a6f17fbf56cb53485a98ebaad9570a91716c823c8d38b54ba5f1fca",
+      "httpLastModified": "Tue, 13 Oct 2026 15:11:06 GMT",
+      "stationId": "bnz",
+      "stationBasis": "The station page's \"Station\" field equals a file name in the captured /rawdata/3hr/ listing.",
+      "structure": {
+        "lineCount": 39,
+        "endsWithNewline": true,
+        "lineEnding": "LF",
+        "delimiter": ",",
+        "hasHeaderRow": false,
+        "recordTypes": [
+          {
+            "firstField": "5",
+            "lineCount": 36,
+            "fieldCounts": [
+              10
+            ]
+          },
+          {
+            "firstField": "60",
+            "lineCount": 3,
+            "fieldCounts": [
+              20
+            ]
+          }
+        ]
+      },
+      "lines": [
+        "5,2026,285,1840,0,270.6,262.8,0.2,21.51,75.14",
+        "5,2026,285,1845,0,271.1,263,0.2,21.09,77.1",
+        "5,2026,285,1850,0,271.1,263,0.2,20.83,77.89",
+        "5,2026,286,815,0,277.4,267.8,0.709,18.86,99.9",
+        "5,2026,286,820,0,276.1,267.5,0.87,19.03,99.9",
+        "5,2026,286,825,0,275.6,271.8,1.625,19.1,99.9",
+        "5,2026,286,830,0,275,274.6,1.235,19.1,99.9",
+        "5,2026,286,835,0,274.1,274.9,2.65,19.02,99.9",
+        "5,2026,286,840,0,274.1,275.2,2.275,18.88,99.9",
+        "5,2026,286,845,0,274.1,273.6,0.91,18.66,99.9",
+        "5,2026,286,850,0,274.1,272.1,1.825,18.37,99.9",
+        "5,2026,286,855,0,274.1,271.6,1.505,18.1,99.9",
+        "5,2026,286,900,0,274.3,271.3,1.835,17.74,99.9",
+        "60,2026,286,900,18.68,99.9,44.79154,17.38,17.42,0.159,0.238,1.573,254.9,43.55,5,834,0,0,0,11.93",
+        "5,2026,286,915,0,276.1,270.7,1.156,-79.47,0.373",
+        "5,2026,286,920,0,276.1,270.7,0.79,-79.48,0.374",
+        "5,2026,286,925,0,276.5,270.3,1.152,-79.46,0.379",
+        "5,2026,286,930,0,280.3,271.1,1.692,-79.47,0.377",
+        "5,2026,286,935,0,287.7,275.3,2.185,-79.48,0.377",
+        "5,2026,286,940,0,293.5,279.9,1.43,-79.48,0.375",
+        "5,2026,286,945,0,299.1,284.7,1.888,-79.47,0.381",
+        "5,2026,286,950,0,304.1,288.2,1.493,-79.47,0.379",
+        "5,2026,286,955,0,305.3,290.3,1.805,-79.48,0.374",
+        "5,2026,286,1000,0,305.3,291.6,1.392,-79.47,0.381",
+        "60,2026,286,1000,-79.47,0.377,83.56143,17.38,17.37,0.158,0.238,1.516,251.4,35.26,4.4,943,0,0.692,0.466,13.54",
+        "5,2026,286,1005,0,303.3,292.5,1.657,-79.47,0.377",
+        "5,2026,286,1010,0,302.1,292.8,1.917,-79.47,0.374",
+        "5,2026,286,1015,0,300.8,292.6,1.348,-79.46,0.388",
+        "5,2026,286,1020,0,296.3,291.5,2.24,-79.47,0.372",
+        "5,2026,286,1025,0,290.2,289.8,1.54,-79.46,0.385",
+        "5,2026,286,1030,0,283.4,287,1.988,-79.48,0.375",
+        "5,2026,286,1035,0,278.4,287.8,1.635,-79.47,0.374",
+        "5,2026,286,1040,0,276.2,294.4,1.968,-79.46,0.382",
+        "5,2026,286,1045,0,276.2,290.4,1.532,-79.46,0.387",
+        "5,2026,286,1050,0,276,287.7,1.28,-79.47,0.382",
+        "5,2026,286,1055,0,275.5,286.4,2.17,-79.48,0.373",
+        "5,2026,286,1100,0,275.5,285.6,1.253,-79.47,0.377",
+        "60,2026,286,1100,-79.47,0.379,106.0873,17.31,17.33,0.157,0.238,1.711,283.1,52.52,4.85,1005,0,0.511,1,13.58",
+        "5,2026,286,1105,0,275.5,284.9,1.475,-79.47,0.373"
+      ],
+      "schemaStatus": "not established"
+    }
+  }
+}

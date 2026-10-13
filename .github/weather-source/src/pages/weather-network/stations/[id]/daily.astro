@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import ObsTable from '../../../../components/ObsTable.astro';
+import SnapshotNotice from '../../../../components/SnapshotNotice.astro';
+import {stationDetails} from '../../../../lib/data';
+import {reportsByStation} from '../../../../lib/station';
+export function getStaticPaths(){return Object.keys(reportsByStation).map(id=>({params:{id}}))}
+const {id}=Astro.params; const station=stationDetails[id!]; const d=reportsByStation[id!].daily;
+const dates=[...new Set(d.rows.map(r=>r.isoDate))];
+---
+<BaseLayout title={`${station.stationName} — Daily Data`} source={d.source.url}>
+<div class="report-page"><h1>{station.stationName} — Daily Data</h1><ul class="subnav"><li><a href={`/weather-network/stations/${id}/`}>Station information</a></li><li><a href={`/weather-network/stations/${id}/hourly/`}>Hourly Data</a></li><li><a href={`/weather-network/stations/${id}/maintenance/`}>Maintenance Reports</a></li></ul>
+<p>{d.location.join(' · ')}</p>
+<section data-filter-scope aria-label="Weather data"><div class="report-tools"><label for="report-date">Date:</label><select id="report-date" data-filter-attr="date"><option value="all">All dates</option>{dates.map(date=><option value={date}>{date}</option>)}</select><a href={`/downloads/${station.stationName}-daily.csv`} download>Download CSV</a></div><p role="status" data-filter-count data-template="Showing {n} of {total} rows">Showing {d.rows.length} of {d.rows.length} rows</p>
+<ObsTable id="daily-table" caption={`Daily weather summary — ${station.city}`} rowHeader="Date" columns={d.columns} labelKey="short" rows={d.rows.map((r,i)=>({header:r.dateRaw,date:r.isoDate,cells:r.cells,dayStart:i>0&&r.isoDate!==d.rows[i-1].isoDate}))}/>
+<p>--, --- and NA indicate no reported value.</p><ul>{d.footnotes.map(n=><li>{n}</li>)}</ul></section><SnapshotNotice sources={[d.source]}/></div>
+</BaseLayout>
+<script>import '../../../../scripts/filter';</script>

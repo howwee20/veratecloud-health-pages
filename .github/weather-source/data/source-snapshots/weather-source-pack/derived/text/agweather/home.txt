@@ -1,0 +1,82 @@
+Michigan Agricultural Weather Office
+|
+|
+10/12/26 - 19:46
+|
+|
+Datafeed Status |
+LDM : ok |
+MAWN : ok |
+|
+Main |
+|
+Information |
+|
+Current Weather |
+|
+Forecast Products |
+|
+Feature Articles |
+|
+Other Sites |
+|
+|
+|
+Michigan Automated Weather Network (MAWN)
+|
+|
+|
+|
+Enviro-Weather
+|
+|
+MSU Agricultural Weather Office
+2001 Wheat Harvest - Tuscola County, MI
+|
+Enviro-Weather :
+Integrating MAWN weather data with models for making pest and other management decisions.
+|
+|
+Activities of the MSU Agricultural Weather Office are made possible by support from
+MSU Extension,
+MSU AgBioResearch,
+MSU Department of Geography, Environment, and Spatial Sciences, and the
+MSU Climatology Office.
+|
+For more information - write or call:
+Michigan Climatological Resources Program
+236 Geography Building
+East Lansing, MI U.S.A. 48824-1115
+Phone: (517) 432-6520
+|
+News & Notes |
+Network News - 03/08/2026:
+New Enviro-Weather Station:
+Old Mission-South station
+added to EnviroWeather Weather Station Network.
+Network News - 03/02/2026:
+New Enviro-Weather Station:
+Omena station
+added to EnviroWeather Weather Station Network.
+Network News - 02/25/2026:
+New Enviro-Weather Station:
+Lake Leelanau station
+added to EnviroWeather Weather Station Network.
+Network News - 01/26/2026:
+New Enviro-Weather Station:
+Hart (WCMREC) [10m] station
+added to EnviroWeather Weather Station Network.
+|
+New Enviro-Weather Stations |
+Recent Additions:
+Old Mission-South [03/08/2026]
+Omena [03/02/2026]
+Lake Leelanau [02/25/2026]
+Hart (WCMREC) [10m] [01/26/2026]
+Leland [08/25/2025]
+Grand Junction [10m] [05/14/2025]
+East Lansing (MSUHORT) [10m] [05/05/2025]
+|
+Coming Soon:
+|
+|

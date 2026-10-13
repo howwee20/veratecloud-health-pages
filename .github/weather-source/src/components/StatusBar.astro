@@ -1,0 +1,21 @@
+---
+// Stacked bar of feature statuses. Decorative: the same counts are always
+// given as text next to it, so it is hidden from assistive technology.
+import type { Status } from '../lib/continuity';
+interface Props { counts: Record<Status, number> }
+const { counts } = Astro.props;
+const order: Status[] = ['preserved', 'partial', 'integration', 'none'];
+const total = order.reduce((a, k) => a + counts[k], 0) || 1;
+const W = 400;
+const gap = 2;
+let x = 0;
+const segs = order.filter((k) => counts[k] > 0).map((k) => {
+  const w = (counts[k] / total) * W;
+  const seg = { k, x, w: Math.max(w - gap, 1) };
+  x += w;
+  return seg;
+});
+---
+<svg class="statusbar" viewBox={`0 0 ${W} 12`} preserveAspectRatio="none" aria-hidden="true" focusable="false">
+  {segs.map((s) => <rect class={`seg seg-${s.k}`} x={s.x.toFixed(1)} y="0" width={s.w.toFixed(1)} height="12" rx="2" />)}
+</svg>

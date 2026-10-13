@@ -1,0 +1,850 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "id": "mawn-report-swmm",
+    "url": "https://mawn.geo.msu.edu/report.asp?fileid=swmm",
+    "file": "data/additional-sources/swmm.html",
+    "sha256": "7815df6051bc9957d4530cb4db0b8688214683e93e06d18a95866ef29e2fb9e2",
+    "retrievedAtUtc": "2026-10-13T15:35:19.492718+00:00"
+  },
+  "kind": "maintenance",
+  "title": "Station Notes - Benton Harbor / SWMREC",
+  "entries": [
+    {
+      "dateRaw": "05/16/2023",
+      "isoDate": "2023-05-16",
+      "heading": "Station Maintenance",
+      "bracketCode": "1150",
+      "section": 1,
+      "body": [
+        "- routine site maintenance, including:",
+        "   - checked anemometer (bearings good)",
+        "   - checked atmp/relh sensor (good)",
+        "   - checked battery (13.46V)",
+        "   - checked soil sensor cables (good)",
+        "   - checked solar panel (21.49V)",
+        "   - checked tipping-bucket rain gauge (adusted level)",
+        "   - cleaned battery box",
+        "   - cleaned solar panel",
+        "   - tested leaf wetness sensor [canopy] (good)",
+        "   - tested leaf wetness sensor [standard] (good)"
+      ]
+    },
+    {
+      "dateRaw": "07/11/2022",
+      "isoDate": "2022-07-11",
+      "heading": "Station Maintenance",
+      "bracketCode": "1015",
+      "section": 2,
+      "body": [
+        "- routine site maintenance, including:",
+        "   - checked anemometer (bearings good)",
+        "   - checked battery (13.28V)",
+        "   - checked soil sensor cables (good)",
+        "   - checked solar panel (20.45V)",
+        "   - checked wind vane (properly aligned)",
+        "   - cleaned atmp/relh sensor and radiation shield",
+        "   - cleaned battery box (removed mouse nest)",
+        "   - cleaned pyranometer",
+        "   - cleaned solar panel",
+        "   - cleaned tipping-bucket rain gauge",
+        "   - tested leaf wetness sensor [canopy] (good)",
+        "   - tested leaf wetness sensor [standard] (good)"
+      ]
+    },
+    {
+      "dateRaw": "05/10/2022",
+      "isoDate": "2022-05-10",
+      "heading": "Station / Logger Maintenance",
+      "bracketCode": "1035",
+      "section": 2,
+      "body": [
+        "- replaced HygroVue10 (atmp/dwpt/relh)",
+        "- replaced pyranometer"
+      ]
+    },
+    {
+      "dateRaw": "04/27/2022",
+      "isoDate": "2022-04-27",
+      "heading": "Logger Maintenance",
+      "bracketCode": "1133",
+      "section": 2,
+      "body": [
+        "- loaded logger program: swm-bssb.cr6*",
+        "     - both standard and canopy leaf wetness sensors",
+        "     * supports \"maintenance mode\""
+      ]
+    },
+    {
+      "dateRaw": "02/09/2022",
+      "isoDate": "2022-02-09",
+      "heading": "Station / Logger Maintenance",
+      "bracketCode": "1350",
+      "section": 2,
+      "body": [
+        "- replaced faulty logger",
+        "- reloaded logger program: swm-bssb"
+      ]
+    },
+    {
+      "dateRaw": "01/19/2022",
+      "isoDate": "2022-01-19",
+      "heading": "Station / Logger Maintenance",
+      "bracketCode": "1330",
+      "section": 2,
+      "body": [
+        "- replaced modem"
+      ]
+    },
+    {
+      "dateRaw": "06/24/2021",
+      "isoDate": "2021-06-24",
+      "heading": "Station Maintenance",
+      "bracketCode": "1320",
+      "section": 3,
+      "body": [
+        "- routine site maintenance"
+      ]
+    },
+    {
+      "dateRaw": "05/14/2021",
+      "isoDate": "2021-05-14",
+      "heading": "Station Maintenance",
+      "bracketCode": "1220",
+      "section": 3,
+      "body": [
+        "- routine site / station maintenance",
+        "- updated modem"
+      ]
+    },
+    {
+      "dateRaw": "07/31/2020",
+      "isoDate": "2020-07-31",
+      "heading": "Station Maintenance",
+      "bracketCode": "1145",
+      "section": 4,
+      "body": [
+        "- replaced faulty canopy leaf wetness sensor"
+      ]
+    },
+    {
+      "dateRaw": "05/21/2020",
+      "isoDate": "2020-05-21",
+      "heading": "Station Maintenance",
+      "bracketCode": "1330",
+      "section": 4,
+      "body": [
+        "- routine maintenance",
+        "- replaced standard mount leaf wetness sensor"
+      ]
+    },
+    {
+      "dateRaw": "12/20/2019",
+      "isoDate": "2019-12-20",
+      "heading": "Logger Maintenance",
+      "bracketCode": "0001",
+      "section": 5,
+      "body": [
+        "- loaded logger program \"swm-bssb\"*",
+        "* canopy sensor appears to be faulty"
+      ]
+    },
+    {
+      "dateRaw": "12/16/2019",
+      "isoDate": "2019-12-16",
+      "heading": "Station Maintenance",
+      "bracketCode": "1400",
+      "section": 5,
+      "body": [
+        "- installed canopy sensor*",
+        "* updated logger program still needed"
+      ]
+    },
+    {
+      "dateRaw": "10/01/2019",
+      "isoDate": "2019-10-01",
+      "heading": "Logger Maintenance",
+      "bracketCode": "0005",
+      "section": 5,
+      "body": [
+        "- activated new CR6 logger",
+        "- loaded logger program: swm-bssd [no canopy]"
+      ]
+    },
+    {
+      "dateRaw": "07/23/2019",
+      "isoDate": "2019-07-23",
+      "heading": "Station Maintenance: [----]",
+      "bracketCode": null,
+      "section": 5,
+      "body": [
+        "- installed new CR6 station to replace CR1000",
+        "- added PakBus modem"
+      ]
+    },
+    {
+      "dateRaw": "07/11/2018",
+      "isoDate": "2018-07-11",
+      "heading": "Station Maintenance",
+      "bracketCode": "1235",
+      "section": 6,
+      "body": [
+        "- general maintenance"
+      ]
+    },
+    {
+      "dateRaw": "05/10/2018",
+      "isoDate": "2018-05-10",
+      "heading": "Station Maintenance",
+      "bracketCode": "1500",
+      "section": 6,
+      "body": [
+        "- annual site maintenance"
+      ]
+    },
+    {
+      "dateRaw": "07/13/2017",
+      "isoDate": "2017-07-13",
+      "heading": "Station Maintenance",
+      "bracketCode": "1330",
+      "section": 7,
+      "body": [
+        "- general maintenance"
+      ]
+    },
+    {
+      "dateRaw": "05/10/2017",
+      "isoDate": "2017-05-10",
+      "heading": "Station Maintenance",
+      "bracketCode": "0031",
+      "section": 7,
+      "body": [
+        "- loaded logger program \"swm-bbabC\""
+      ]
+    },
+    {
+      "dateRaw": "05/08/2017",
+      "isoDate": "2017-05-08",
+      "heading": "Station Maintenance",
+      "bracketCode": "1300",
+      "section": 7,
+      "body": [
+        "- replaced air temp/relh sensor (HC2S3 -> HMP45C)",
+        "  - sensor now connected to \"continuous\" power",
+        "- annual maintenance and weed removal"
+      ]
+    },
+    {
+      "dateRaw": "08/08/2016",
+      "isoDate": "2016-08-08",
+      "heading": "Station Maintenance",
+      "bracketCode": "1500",
+      "section": 8,
+      "body": [
+        "- annual maintenance and weed removal"
+      ]
+    },
+    {
+      "dateRaw": "05/11/2016",
+      "isoDate": "2016-05-11",
+      "heading": "Station Maintenance",
+      "bracketCode": "1330",
+      "section": 8,
+      "body": [
+        "- annual maintenance and weed removal"
+      ]
+    },
+    {
+      "dateRaw": "05/28/2105",
+      "isoDate": "2105-05-28",
+      "heading": "Station Maintenance",
+      "bracketCode": "1440",
+      "section": 9,
+      "body": [
+        "- replaced faulty pyranometer (SRAD)",
+        "- replaced anemometer/wind vane",
+        "",
+        "- NOTE: All Wind Direction data is faulty for the following:",
+        "",
+        "    06/01/2012 (d=245) 0005 - 05/28/2015 (d=148) 1525",
+        "",
+        "- NOTE: Solar Radiation data was adjusted (srad / 1.96) for",
+        "  the following period:",
+        "",
+        "    05/07/2015 (d=127) 0005 - 05/28/2015 (d=148) 1525",
+        "",
+        "- NOTE: Daily Solar Radiation Data replaced with estimates for:",
+        "",
+        "    05/28/2015 (d=148) 2400"
+      ]
+    },
+    {
+      "dateRaw": "05/06/2015",
+      "isoDate": "2015-05-06",
+      "heading": "Station Modernization",
+      "bracketCode": "1330",
+      "section": 9,
+      "body": [
+        "- Station upgraded with new logger and several new sensors.",
+        "  Due to upgrade, station was offline for the following:",
+        "",
+        "    05/06/2015 (d=126) 1335 - 05/06/2015 (d=126) 1900"
+      ]
+    },
+    {
+      "dateRaw": "11/24/2014",
+      "isoDate": "2014-11-24",
+      "heading": "System Maintenance",
+      "bracketCode": "1505",
+      "section": 10,
+      "body": [
+        "- moved data-collection to new LoggerNet server",
+        "- loaded logger program \"bbaaC-swm\""
+      ]
+    },
+    {
+      "dateRaw": "05/08/2014",
+      "isoDate": "2014-05-08",
+      "heading": "Station Maintenance",
+      "bracketCode": "1800",
+      "section": 10,
+      "body": [
+        "- Routine maintenance",
+        "- cleaned temp/rh sensor",
+        "- cleaned leaf wetness sensor",
+        "- replaced top of tipping-bucket rain gauge"
+      ]
+    },
+    {
+      "dateRaw": "02/16/2013",
+      "isoDate": "2013-02-16",
+      "heading": "Station Maintenance",
+      "bracketCode": "0001",
+      "section": 11,
+      "body": [
+        "- Fixed and Reloaded Logger Program BBAA-SWM:",
+        "  - corrected port used for \"stmp12in\""
+      ]
+    },
+    {
+      "dateRaw": "02/15/2013",
+      "isoDate": "2013-02-15",
+      "heading": "Data Management",
+      "bracketCode": "1530",
+      "section": 11,
+      "body": [
+        "- Adjust Database Tables To Reflect Changes In New Logger",
+        "  Program:",
+        "  - Added: wstdv [Hourly] (Standard Deviation Wind Direction)",
+        "  - Added: volt_min [Daily] (Minimum Battery Voltage)",
+        "  - Added: volt_mint [Daily] (Time of Minimum Battery Voltage)",
+        "  - Dropped: volt [Daily] (Battery Voltage)"
+      ]
+    },
+    {
+      "dateRaw": "02/14/2013",
+      "isoDate": "2013-02-14",
+      "heading": "Station Maintenance",
+      "bracketCode": "1430",
+      "section": 11,
+      "body": [
+        "- Converted Logger to CR1000"
+      ]
+    },
+    {
+      "dateRaw": "02/08/2013",
+      "isoDate": "2013-02-08",
+      "heading": "Troubleshooting",
+      "bracketCode": null,
+      "section": 11,
+      "body": [
+        "- Reset Logger Clock.  Due to logger and battery issues, data",
+        "  was lost for the following period:",
+        "",
+        "    01/31/2013 (d=031) 0205 - 02/08/2013 (d=039) 1245"
+      ]
+    },
+    {
+      "dateRaw": "02/01/2013",
+      "isoDate": "2013-02-01",
+      "heading": "Station Maintenance",
+      "bracketCode": null,
+      "section": 11,
+      "body": [
+        "- Battery Replaced"
+      ]
+    },
+    {
+      "dateRaw": "05/29/2012",
+      "isoDate": "2012-05-29",
+      "heading": "Data Quality",
+      "bracketCode": "0605",
+      "section": 12,
+      "body": [
+        "- Logger hiccup... led to brief loss of data"
+      ]
+    },
+    {
+      "dateRaw": "05/16/2012",
+      "isoDate": "2012-05-16",
+      "heading": "Station Maintenance",
+      "bracketCode": "0004",
+      "section": 12,
+      "body": [
+        "- Modified Logger Program to properly log CS616 Soil",
+        "  Moisture data."
+      ]
+    },
+    {
+      "dateRaw": "05/11/2012",
+      "isoDate": "2012-05-11",
+      "heading": "Station Maintenance",
+      "bracketCode": "1130",
+      "section": 12,
+      "body": [
+        "- Replaced Battery Supply/Regulator",
+        "- Replaced Soil Moisture Sensors (new sensors = CS616)",
+        "- Adjusted solar panel.",
+        "",
+        "- Due to recent battery issues, data during the following",
+        "  time period was lost:",
+        "",
+        "     05/08/2012 (d=129) 08:40 - 05/11/2012 (d=132) 11:50"
+      ]
+    },
+    {
+      "dateRaw": "06/13/2011",
+      "isoDate": "2011-06-13",
+      "heading": "Station Maintenance",
+      "bracketCode": "1155",
+      "section": 13,
+      "body": [
+        "- Logger battery replaced"
+      ]
+    },
+    {
+      "dateRaw": "05/31/2011",
+      "isoDate": "2011-05-31",
+      "heading": "Station Maintenance",
+      "bracketCode": "1430",
+      "section": 13,
+      "body": [
+        "- Recent communication failure and data loss led to",
+        "  site visit.   Power cord was replaced due to blown",
+        "  fuse and logger was restarted.   Data loss occurred",
+        "  during the following time period:",
+        "",
+        "     05/29/2011 (d=149) 02:00 - 05/31/2011 (d=151) 14:30"
+      ]
+    },
+    {
+      "dateRaw": "02/14/2011",
+      "isoDate": "2011-02-14",
+      "heading": "Data Cleanup",
+      "bracketCode": "1430",
+      "section": 13,
+      "body": [
+        "- Logger \"glitch\" at 09:01am on 02/07/2011 led to faulty",
+        "  data being reported.  The following entries were due to",
+        "  this problem.   Data entries associated with that time",
+        "  were removed from both the raw data and MAWN database."
+      ]
+    },
+    {
+      "dateRaw": "05/10/2010",
+      "isoDate": "2010-05-10",
+      "heading": "Data Cleanup",
+      "bracketCode": "1200",
+      "section": 14,
+      "body": [
+        "- Using five-minute data, computed \"hourly\" and \"daily\"",
+        "  preciptation that occurred during the following time",
+        "  period:",
+        "",
+        "      04/07/2010 (d=097)  -  05/07/2010 (d=127)",
+        "",
+        "  Unfortunately, no precipitation values can be recovered",
+        "  during the period of 03/03/2010 - 04/06/2010."
+      ]
+    },
+    {
+      "dateRaw": "05/07/2010",
+      "isoDate": "2010-05-07",
+      "heading": "Station Maintenance/Data Cleanup",
+      "bracketCode": "1600",
+      "section": 14,
+      "body": [
+        "- Loaded modified logger program to hopefully correct",
+        "  faulty hourly/daily precip.",
+        "- Hourly and Daily precip that was reported during the",
+        "  following time period was marked as \"missing\" (Five-Min",
+        "  precipitation should be fine):",
+        "",
+        "      03/03/2010 (d=062) 00:05 - 05/07/2010 (d=127) 16:00"
+      ]
+    },
+    {
+      "dateRaw": "04/09/2010",
+      "isoDate": "2010-04-09",
+      "heading": "Data Cleanup",
+      "bracketCode": "1700",
+      "section": 14,
+      "body": [
+        "- Removed faulty precipitation from database:",
+        "- Precip was marked as \"missing\" during the following:",
+        "",
+        "      03/01/2010 (d=060) 00:05 - 04/06/2010 (d=096) 11:00"
+      ]
+    },
+    {
+      "dateRaw": "04/06/2010",
+      "isoDate": "2010-04-06",
+      "heading": "Station Maintenance",
+      "bracketCode": "1100",
+      "section": 14,
+      "body": [
+        "- Tipping Bucket Rain Gauge was cleaned.",
+        "  - reports that this station has been reporting lower",
+        "    values than surrounding stations led to investigating",
+        "    a possible cause.",
+        "  - insect webbing was cleaned from tipping levers."
+      ]
+    },
+    {
+      "dateRaw": "03/03/2010",
+      "isoDate": "2010-03-03",
+      "heading": "Station Maintenance",
+      "bracketCode": "0005",
+      "section": 14,
+      "body": [
+        "- Loaded Customized MAWN Program (MAWN_SWMF), which not",
+        "  only powers the modem on an hourly schedule, but also",
+        "  collects data from the following new sensor:",
+        "",
+        "     Soil Temperature @ 12\" depth",
+        "",
+        "  Data from this new sensor is available in both \"hourly\"",
+        "  and \"daily\" records, starting at the following time:",
+        "",
+        "     03/03/2010 (d=062) 00:05"
+      ]
+    },
+    {
+      "dateRaw": "12/21/2009",
+      "isoDate": "2009-12-21",
+      "heading": "Station Maintenance",
+      "bracketCode": "1500",
+      "section": 15,
+      "body": [
+        "- Battery was replaced."
+      ]
+    },
+    {
+      "dateRaw": "12/19/2009",
+      "isoDate": "2009-12-19",
+      "heading": "Station Maintenance",
+      "bracketCode": null,
+      "section": 15,
+      "body": [
+        "- Loaded MAWN Program - AACW (3-hour collection cycle)      [0001]"
+      ]
+    },
+    {
+      "dateRaw": "05/22/2009",
+      "isoDate": "2009-05-22",
+      "heading": "Station Maintenance",
+      "bracketCode": "1200",
+      "section": 15,
+      "body": [
+        "- General station maintenance and system checks."
+      ]
+    },
+    {
+      "dateRaw": "01/21/2009",
+      "isoDate": "2009-01-21",
+      "heading": "Station Maintenance",
+      "bracketCode": "1800",
+      "section": 15,
+      "body": [
+        "- Replaced faulty battery.",
+        "",
+        "- NOTE: The failed battery led to a gap in the data.  Data",
+        "        was lost during the following time period:",
+        "",
+        "           01/15/09 (d=015) 20:05 - 01/21/09 (d=021) 18:00"
+      ]
+    },
+    {
+      "dateRaw": "09/05/2008",
+      "isoDate": "2008-09-05",
+      "heading": "Data Quality",
+      "bracketCode": null,
+      "section": 16,
+      "body": [
+        "- Several faulty RH values were removed from the MAWN database",
+        "  and raw data files.  All RH values > 104 during the following",
+        "  time period were removed from the SWMREC archive:",
+        "",
+        "    01/01/06 (d=001) 00:00  -  06/26/08 (d=178) 14:00"
+      ]
+    },
+    {
+      "dateRaw": "06/26/2008",
+      "isoDate": "2008-06-26",
+      "heading": "Station Maintenance",
+      "bracketCode": null,
+      "section": 16,
+      "body": [
+        "- General station maintenance and system checks, including:",
+        "  - Soil Moisture sensors now installed vertically:",
+        "    - MSTR 0:  profile of depth =  0 - 12\"",
+        "    - MSTR 1:  profile of depth = 12 - 24\"",
+        "",
+        "  - HMP45C (temp/rh) was replaced",
+        "",
+        "  - Solar Radiation sensor was replaced.",
+        "",
+        "- Work was done approx: 1345 - 1400 (Day=178)"
+      ]
+    },
+    {
+      "dateRaw": "03/12/2008",
+      "isoDate": "2008-03-12",
+      "heading": "Station Maintenance (sm)",
+      "bracketCode": null,
+      "section": 16,
+      "body": [
+        "- Installed wireless broadband modem.   This was done",
+        "  to correct recent troubles with local connection",
+        "  using short-haul modem.                              [10:30]",
+        "",
+        "- Established communication to wireless broadband",
+        "  modem using LoggerNet.                               [11:00]",
+        "",
+        "- Reset station clock from EST to EDT.                 [11:05]",
+        "",
+        "- Loaded MAWN Program:   AACF   (hourly schedule)      [11:10]"
+      ]
+    },
+    {
+      "dateRaw": "03/31/2006",
+      "isoDate": "2006-03-31",
+      "heading": "Data Management: (jtb)",
+      "bracketCode": null,
+      "section": 17,
+      "body": [
+        "- Faulty Relative Humidity Values Removed from MAWN Database.",
+        "  All RH Values During the Following Period Marked as \"Missing\":",
+        "",
+        "     01/11/2006 (Day=11) 00:00   -   03/27/2006 (Day=86) 15:00"
+      ]
+    },
+    {
+      "dateRaw": "03/27/2006",
+      "isoDate": "2006-03-27",
+      "heading": "Station Maintenance: (sm)",
+      "bracketCode": null,
+      "section": 17,
+      "body": [
+        "- Repaired HMP45C Sensor (had been reporting extreme values)",
+        "",
+        "- Replaced Solar Radiation Sensor"
+      ]
+    },
+    {
+      "dateRaw": "09/08/2004",
+      "isoDate": "2004-09-08",
+      "heading": "Station Maintenance: (jal)",
+      "bracketCode": null,
+      "section": 18,
+      "body": [
+        "- General Station Maintenance and System Checks:",
+        "  - weed removal and application of Round-Up above soil temps"
+      ]
+    },
+    {
+      "dateRaw": "06/25/2004",
+      "isoDate": "2004-06-25",
+      "heading": "Station Maintenance: (crn, jal)",
+      "bracketCode": null,
+      "section": 18,
+      "body": [
+        "- Rain Gauge was replaced and calibrated.  This was",
+        "  done between 13:05 - 14:50 (Day=177)."
+      ]
+    },
+    {
+      "dateRaw": "09/03/2003",
+      "isoDate": "2003-09-03",
+      "heading": "Station Maintenance",
+      "bracketCode": null,
+      "section": 19,
+      "body": [
+        "- Rain Gauge was not reading correctly the past few days",
+        "  due to interference with a spider web.  The gauge was",
+        "  cleaned approximately at 8:15 on Sept 02, 2003.",
+        "",
+        "- Hourly Data was obtained from a second gauge at SWMREC",
+        "  and was used to correct the HOURLY and DAILY precipitation",
+        "  values during the following times (Five Min values were",
+        "  marked as missing):",
+        "",
+        "     Aug 31 (Day=243) 14:00  -  Sep 02 (Day=245) 08:15"
+      ]
+    },
+    {
+      "dateRaw": "05/06/2003",
+      "isoDate": "2003-05-06",
+      "heading": "Station Maintenance",
+      "bracketCode": null,
+      "section": 19,
+      "body": [
+        "- New Temp/RH Probe (HMP45C) Added.",
+        "- Loaded MAWN1B Program",
+        "- Needed to correct data between 12:55 and 13:30 (Day=126)"
+      ]
+    },
+    {
+      "dateRaw": "04/08/2002",
+      "isoDate": "2002-04-08",
+      "heading": "Daylight Savings Time Adjustment.",
+      "bracketCode": null,
+      "section": 20,
+      "body": [
+        "- Daylight Savings Time Started on Day=97, Time=200.",
+        "",
+        "- Time of Obs were modified by one hour (forward)",
+        "  from Day=97, Time=200 through Day=97, Time=415."
+      ]
+    },
+    {
+      "dateRaw": "10/31/2001",
+      "isoDate": "2001-10-31",
+      "heading": "Daylight Savings Time Adjustment.",
+      "bracketCode": null,
+      "section": 21,
+      "body": [
+        "- Daylight Savings Time Ended on Day=301, Time=200.",
+        "",
+        "- Time of Obs were modified by one hour (subtracted)",
+        "  from Day=301, Time=200 through Day=301, Time=615."
+      ]
+    },
+    {
+      "dateRaw": "10/31/2001",
+      "isoDate": "2001-10-31",
+      "heading": "Daylight Savings Time Adjustment.",
+      "bracketCode": null,
+      "section": 21,
+      "body": [
+        "- Daylight Savings Time Ended on Day=301, Time=200.",
+        "",
+        "- Time of Obs were modified by one hour (subtracted)",
+        "  from Day=301, Time=200 through Day=301, Time=610."
+      ]
+    },
+    {
+      "dateRaw": "10/30/2000",
+      "isoDate": "2000-10-30",
+      "heading": "Daylight Savings Time Adjustment.",
+      "bracketCode": null,
+      "section": 22,
+      "body": [
+        "- Daylight Savings Time Ended on Day=303, Time=200.",
+        "",
+        "- Time of Obs were modified by one hour (subtracted)",
+        "  from Day=303, Time=200 through Day=304, Time=1900.",
+        "  Only Observation Times were modified, not times of",
+        "  Maxs and Mins.  Users will need to take that into",
+        "  consideration when using this data."
+      ]
+    },
+    {
+      "dateRaw": "04/19/2000",
+      "isoDate": "2000-04-19",
+      "heading": "Added Two Leaf-Wetness Sensors",
+      "bracketCode": null,
+      "section": 22,
+      "body": [
+        "   Leaf A:  Standard Mount (NE leg, approx: 1m high)",
+        "   Leaf B:  Canopy Mount (in apple tree N of station)",
+        "",
+        "Checked Level of Pyrometer Stand"
+      ]
+    },
+    {
+      "dateRaw": "02/07/2000",
+      "isoDate": "2000-02-07",
+      "heading": "Fixed old data to reflect recent change in \"mawn1a\"",
+      "bracketCode": null,
+      "section": 22,
+      "body": [
+        "program - padded missing values to 5-minute data."
+      ]
+    },
+    {
+      "dateRaw": "02/05/2000",
+      "isoDate": "2000-02-05",
+      "heading": "Updated \"mawn1a\" to include Wind Speed, Air Temp,",
+      "bracketCode": null,
+      "section": 22,
+      "body": [
+        "and Relative Humidity in 5-minute data."
+      ]
+    },
+    {
+      "dateRaw": "12/30/1999",
+      "isoDate": "1999-12-30",
+      "heading": "Phone Line To Station Activated.",
+      "bracketCode": null,
+      "section": 23,
+      "body": [
+        "- SWMREC station added to MAWN database"
+      ]
+    },
+    {
+      "dateRaw": "12/30/1999",
+      "isoDate": "1999-12-30",
+      "heading": "Data Logging Activated (mawn1a).",
+      "bracketCode": null,
+      "section": 23,
+      "body": [
+        "Data Logger Start Time:  13:05, Day=364"
+      ]
+    },
+    {
+      "dateRaw": "12/30/1999",
+      "isoDate": "1999-12-30",
+      "heading": "Station Installed",
+      "bracketCode": null,
+      "section": 23,
+      "body": [
+        "- Leaf Wetness A:   No sensor for the winter.",
+        "                    Bracket mounted 2-foot (middle) up bottom",
+        "                    leg and mounted 1-meter high.",
+        "",
+        "- Soil Probe A:     2-inch under sod, west of south leg.",
+        "",
+        "- Soil Probe B:     4-inch under sod, west of south leg, south of",
+        "                    Soil Probe A.",
+        "",
+        "- Soil Moisture A:  On sod, south and east of south leg, north",
+        "                    of Soil Moisture B.",
+        "",
+        "- Soil Moisture B:  On sod, south and east of south leg, south",
+        "                    of Soil Moisture A.",
+        "",
+        "- Air Temp/RH:      HMP35C - (existing sensor)",
+        "",
+        "- Phone Line:       blue wire  => tip",
+        "                    blue/white => ring",
+        "                    red        => ground"
+      ]
+    }
+  ],
+  "entryCount": 64,
+  "entriesWithPartialDate": 0,
+  "firstIsoDate": "1999-12-30",
+  "lastIsoDate": "2105-05-28",
+  "rawText": "============================================================================== \nStation Notes - Benton Harbor / SWMREC \n \n \n05/16/2023: Station Maintenance:                                        [1150] \n \n            - routine site maintenance, including: \n               - checked anemometer (bearings good) \n               - checked atmp/relh sensor (good) \n               - checked battery (13.46V) \n               - checked soil sensor cables (good) \n               - checked solar panel (21.49V) \n               - checked tipping-bucket rain gauge (adusted level) \n               - cleaned battery box \n               - cleaned solar panel \n               - tested leaf wetness sensor [canopy] (good) \n               - tested leaf wetness sensor [standard] (good) \n \n \n \n============================================================================== \n07/11/2022: Station Maintenance:                                        [1015] \n \n            - routine site maintenance, including: \n               - checked anemometer (bearings good) \n               - checked battery (13.28V) \n               - checked soil sensor cables (good) \n               - checked solar panel (20.45V) \n               - checked wind vane (properly aligned)  \n               - cleaned atmp/relh sensor and radiation shield \n               - cleaned battery box (removed mouse nest) \n               - cleaned pyranometer  \n               - cleaned solar panel \n               - cleaned tipping-bucket rain gauge \n               - tested leaf wetness sensor [canopy] (good) \n               - tested leaf wetness sensor [standard] (good) \n \n \n05/10/2022: Station / Logger Maintenance:                               [1035] \n \n            - replaced HygroVue10 (atmp/dwpt/relh) \n            - replaced pyranometer  \n \n \n04/27/2022: Logger Maintenance:                                         [1133] \n \n            - loaded logger program: swm-bssb.cr6*  \n                 - both standard and canopy leaf wetness sensors \n                 * supports \"maintenance mode\" \n \n \n02/09/2022: Station / Logger Maintenance:                               [1350] \n \n            - replaced faulty logger \n            - reloaded logger program: swm-bssb \n \n \n01/19/2022: Station / Logger Maintenance:                               [1330] \n \n            - replaced modem \n \n \n \n============================================================================== \n06/24/2021: Station Maintenance:                                        [1320] \n \n            - routine site maintenance \n \n \n05/14/2021: Station Maintenance:                                        [1220] \n \n            - routine site / station maintenance  \n            - updated modem \n \n \n \n============================================================================== \n07/31/2020: Station Maintenance:                                        [1145] \n \n            - replaced faulty canopy leaf wetness sensor \n \n \n05/21/2020: Station Maintenance:                                        [1330] \n \n            - routine maintenance  \n            - replaced standard mount leaf wetness sensor \n \n \n \n============================================================================== \n12/20/2019: Logger Maintenance:                                         [0001] \n \n            - loaded logger program \"swm-bssb\"* \n            * canopy sensor appears to be faulty \n \n \n12/16/2019: Station Maintenance:                                        [1400] \n \n            - installed canopy sensor* \n            * updated logger program still needed \n \n \n10/01/2019: Logger Maintenance:                                         [0005] \n \n            - activated new CR6 logger  \n            - loaded logger program: swm-bssd [no canopy] \n \n \n07/23/2019: Station Maintenance:                                        [----] \n \n            - installed new CR6 station to replace CR1000  \n            - added PakBus modem \n \n \n \n============================================================================== \n07/11/2018: Station Maintenance:                                        [1235] \n \n            - general maintenance  \n \n \n05/10/2018: Station Maintenance:                                        [1500] \n \n            - annual site maintenance \n \n \n \n============================================================================== \n07/13/2017: Station Maintenance:                                        [1330] \n  \n            - general maintenance  \n \n \n05/10/2017: Station Maintenance:                                        [0031] \n \n            - loaded logger program \"swm-bbabC\" \n \n \n05/08/2017: Station Maintenance:                                        [1300] \n \n            - replaced air temp/relh sensor (HC2S3 -> HMP45C) \n              - sensor now connected to \"continuous\" power \n            - annual maintenance and weed removal \n \n \n \n============================================================================== \n08/08/2016: Station Maintenance:                                        [1500] \n \n            - annual maintenance and weed removal \n \n \n05/11/2016: Station Maintenance:                                        [1330] \n \n            - annual maintenance and weed removal \n \n \n \n============================================================================== \n05/28/2105: Station Maintenance:                                        [1440] \n \n            - replaced faulty pyranometer (SRAD) \n            - replaced anemometer/wind vane \n \n            - NOTE: All Wind Direction data is faulty for the following: \n        \n                06/01/2012 (d=245) 0005 - 05/28/2015 (d=148) 1525 \n \n            - NOTE: Solar Radiation data was adjusted (srad / 1.96) for  \n              the following period: \n \n                05/07/2015 (d=127) 0005 - 05/28/2015 (d=148) 1525 \n \n            - NOTE: Daily Solar Radiation Data replaced with estimates for: \n \n                05/28/2015 (d=148) 2400 \n \n \n05/06/2015: Station Modernization:                                      [1330] \n \n            - Station upgraded with new logger and several new sensors. \n              Due to upgrade, station was offline for the following: \n \n                05/06/2015 (d=126) 1335 - 05/06/2015 (d=126) 1900 \n \n \n \n============================================================================== \n11/24/2014: System Maintenance:                                         [1505] \n \n            - moved data-collection to new LoggerNet server \n            - loaded logger program \"bbaaC-swm\" \n \n \n05/08/2014: Station Maintenance:                                        [1800] \n \n            - Routine maintenance  \n            - cleaned temp/rh sensor \n            - cleaned leaf wetness sensor \n            - replaced top of tipping-bucket rain gauge \n \n \n \n============================================================================== \n02/16/2013: Station Maintenance:                                        [0001] \n \n            - Fixed and Reloaded Logger Program BBAA-SWM: \n              - corrected port used for \"stmp12in\" \n \n \n02/15/2013: Data Management:                                            [1530] \n  \n            - Adjust Database Tables To Reflect Changes In New Logger \n              Program: \n              - Added: wstdv [Hourly] (Standard Deviation Wind Direction) \n              - Added: volt_min [Daily] (Minimum Battery Voltage) \n              - Added: volt_mint [Daily] (Time of Minimum Battery Voltage) \n              - Dropped: volt [Daily] (Battery Voltage) \n \n \n02/14/2013: Station Maintenance:                                        [1430] \n \n            - Converted Logger to CR1000 \n \n \n02/08/2013: Troubleshooting: \n \n            - Reset Logger Clock.  Due to logger and battery issues, data \n              was lost for the following period: \n \n                01/31/2013 (d=031) 0205 - 02/08/2013 (d=039) 1245 \n \n \n02/01/2013: Station Maintenance: \n \n            - Battery Replaced \n \n  \n \n============================================================================== \n05/29/2012: Data Quality:                                               [0605] \n \n            - Logger hiccup... led to brief loss of data \n \n \n05/16/2012: Station Maintenance:                                        [0004] \n \n            - Modified Logger Program to properly log CS616 Soil \n              Moisture data. \n \n \n05/11/2012: Station Maintenance:                                        [1130] \n \n            - Replaced Battery Supply/Regulator \n            - Replaced Soil Moisture Sensors (new sensors = CS616) \n            - Adjusted solar panel. \n \n            - Due to recent battery issues, data during the following \n              time period was lost: \n  \n                 05/08/2012 (d=129) 08:40 - 05/11/2012 (d=132) 11:50 \n \n \n \n============================================================================== \n06/13/2011: Station Maintenance:                                        [1155] \n \n            - Logger battery replaced \n \n \n05/31/2011: Station Maintenance:                                        [1430] \n \n            - Recent communication failure and data loss led to  \n              site visit.   Power cord was replaced due to blown \n              fuse and logger was restarted.   Data loss occurred  \n              during the following time period: \n \n                 05/29/2011 (d=149) 02:00 - 05/31/2011 (d=151) 14:30 \n \n \n02/14/2011: Data Cleanup:                                               [1430] \n \n            - Logger \"glitch\" at 09:01am on 02/07/2011 led to faulty \n              data being reported.  The following entries were due to  \n              this problem.   Data entries associated with that time  \n              were removed from both the raw data and MAWN database. \n \n \n \n============================================================================== \n05/10/2010: Data Cleanup:                                               [1200] \n \n            - Using five-minute data, computed \"hourly\" and \"daily\"  \n              preciptation that occurred during the following time \n              period: \n \n                  04/07/2010 (d=097)  -  05/07/2010 (d=127) \n \n              Unfortunately, no precipitation values can be recovered \n              during the period of 03/03/2010 - 04/06/2010. \n \n \n05/07/2010: Station Maintenance/Data Cleanup:                           [1600] \n \n            - Loaded modified logger program to hopefully correct  \n              faulty hourly/daily precip. \n            - Hourly and Daily precip that was reported during the \n              following time period was marked as \"missing\" (Five-Min \n              precipitation should be fine): \n \n                  03/03/2010 (d=062) 00:05 - 05/07/2010 (d=127) 16:00 \n \n \n04/09/2010: Data Cleanup:                                               [1700] \n  \n            - Removed faulty precipitation from database: \n            - Precip was marked as \"missing\" during the following: \n  \n                  03/01/2010 (d=060) 00:05 - 04/06/2010 (d=096) 11:00 \n \n \n04/06/2010: Station Maintenance:                                        [1100] \n \n            - Tipping Bucket Rain Gauge was cleaned. \n              - reports that this station has been reporting lower \n                values than surrounding stations led to investigating \n                a possible cause. \n              - insect webbing was cleaned from tipping levers. \n \n \n03/03/2010: Station Maintenance:                                        [0005] \n \n            - Loaded Customized MAWN Program (MAWN_SWMF), which not \n              only powers the modem on an hourly schedule, but also \n              collects data from the following new sensor: \n \n                 Soil Temperature @ 12\" depth \n \n              Data from this new sensor is available in both \"hourly\" \n              and \"daily\" records, starting at the following time: \n \n                 03/03/2010 (d=062) 00:05 \n \n \n \n============================================================================== \n12/21/2009: Station Maintenance:                                        [1500] \n \n            - Battery was replaced. \n \n \n12/19/2009: Station Maintenance: \n \n            - Loaded MAWN Program - AACW (3-hour collection cycle)      [0001] \n \n \n05/22/2009: Station Maintenance:                                        [1200] \n \n            - General station maintenance and system checks. \n \n \n01/21/2009: Station Maintenance:                                        [1800] \n \n            - Replaced faulty battery. \n \n            - NOTE: The failed battery led to a gap in the data.  Data \n                    was lost during the following time period: \n \n                       01/15/09 (d=015) 20:05 - 01/21/09 (d=021) 18:00 \n \n \n \n============================================================================== \n09/05/2008: Data Quality: \n \n            - Several faulty RH values were removed from the MAWN database \n              and raw data files.  All RH values > 104 during the following \n              time period were removed from the SWMREC archive: \n \n                01/01/06 (d=001) 00:00  -  06/26/08 (d=178) 14:00 \n \n \n06/26/2008: Station Maintenance: \n \n            - General station maintenance and system checks, including: \n              - Soil Moisture sensors now installed vertically: \n                - MSTR 0:  profile of depth =  0 - 12\" \n                - MSTR 1:  profile of depth = 12 - 24\" \n \n              - HMP45C (temp/rh) was replaced \n             \n              - Solar Radiation sensor was replaced. \n \n            - Work was done approx: 1345 - 1400 (Day=178) \n \n \n03/12/2008: Station Maintenance (sm): \n \n            - Installed wireless broadband modem.   This was done \n              to correct recent troubles with local connection  \n              using short-haul modem.                              [10:30] \n \n            - Established communication to wireless broadband  \n              modem using LoggerNet.                               [11:00] \n \n            - Reset station clock from EST to EDT.                 [11:05] \n \n            - Loaded MAWN Program:   AACF   (hourly schedule)      [11:10] \n                \n \n \n=================================================================== \n03/31/2006: Data Management: (jtb): \n \n            - Faulty Relative Humidity Values Removed from MAWN Database. \n              All RH Values During the Following Period Marked as \"Missing\": \n \n                 01/11/2006 (Day=11) 00:00   -   03/27/2006 (Day=86) 15:00 \n \n \n03/27/2006: Station Maintenance: (sm): \n \n            - Repaired HMP45C Sensor (had been reporting extreme values) \n \n            - Replaced Solar Radiation Sensor \n \n \n \n=================================================================== \n09/08/2004: Station Maintenance: (jal): \n \n            - General Station Maintenance and System Checks: \n              - weed removal and application of Round-Up above soil temps \n \n \n06/25/2004: Station Maintenance: (crn, jal) \n \n            - Rain Gauge was replaced and calibrated.  This was  \n              done between 13:05 - 14:50 (Day=177). \n \n \n \n=================================================================== \n09/03/2003: Station Maintenance: \n \n            - Rain Gauge was not reading correctly the past few days \n              due to interference with a spider web.  The gauge was \n              cleaned approximately at 8:15 on Sept 02, 2003. \n \n            - Hourly Data was obtained from a second gauge at SWMREC  \n              and was used to correct the HOURLY and DAILY precipitation \n              values during the following times (Five Min values were  \n              marked as missing): \n \n                 Aug 31 (Day=243) 14:00  -  Sep 02 (Day=245) 08:15 \n \n      \n05/06/2003: Station Maintenance: \n \n            - New Temp/RH Probe (HMP45C) Added. \n            - Loaded MAWN1B Program \n            - Needed to correct data between 12:55 and 13:30 (Day=126) \n \n \n \n============================================================================== \n04/08/2002: Daylight Savings Time Adjustment. \n \n            - Daylight Savings Time Started on Day=97, Time=200. \n \n            - Time of Obs were modified by one hour (forward)  \n              from Day=97, Time=200 through Day=97, Time=415. \n \n \n \n============================================================================== \n10/31/2001: Daylight Savings Time Adjustment. \n \n            - Daylight Savings Time Ended on Day=301, Time=200. \n \n            - Time of Obs were modified by one hour (subtracted) \n              from Day=301, Time=200 through Day=301, Time=615. \n \n \n10/31/2001: Daylight Savings Time Adjustment. \n \n            - Daylight Savings Time Ended on Day=301, Time=200. \n \n            - Time of Obs were modified by one hour (subtracted) \n              from Day=301, Time=200 through Day=301, Time=610. \n \n \n \n============================================================================== \n10/30/2000: Daylight Savings Time Adjustment. \n                 \n            - Daylight Savings Time Ended on Day=303, Time=200. \n \n            - Time of Obs were modified by one hour (subtracted) \n              from Day=303, Time=200 through Day=304, Time=1900. \n              Only Observation Times were modified, not times of \n              Maxs and Mins.  Users will need to take that into \n              consideration when using this data. \n \n \n04/19/2000: Added Two Leaf-Wetness Sensors: \n \n               Leaf A:  Standard Mount (NE leg, approx: 1m high) \n               Leaf B:  Canopy Mount (in apple tree N of station) \n \n            Checked Level of Pyrometer Stand \n \n \n02/07/2000: Fixed old data to reflect recent change in \"mawn1a\" \n            program - padded missing values to 5-minute data. \n \n \n02/05/2000: Updated \"mawn1a\" to include Wind Speed, Air Temp, \n            and Relative Humidity in 5-minute data. \n \n \n \n============================================================================== \n12/30/1999: Phone Line To Station Activated. \n \n            - SWMREC station added to MAWN database \n \n \n12/30/1999: Data Logging Activated (mawn1a). \n \n               Data Logger Start Time:  13:05, Day=364 \n \n \n12/30/1999: Station Installed: \n \n            - Leaf Wetness A:   No sensor for the winter. \n                                Bracket mounted 2-foot (middle) up bottom  \n                                leg and mounted 1-meter high. \n \n            - Soil Probe A:     2-inch under sod, west of south leg. \n \n            - Soil Probe B:     4-inch under sod, west of south leg, south of \n                                Soil Probe A. \n \n            - Soil Moisture A:  On sod, south and east of south leg, north \n                                of Soil Moisture B. \n \n            - Soil Moisture B:  On sod, south and east of south leg, south  \n                                of Soil Moisture A. \n \n            - Air Temp/RH:      HMP35C - (existing sensor) \n \n            - Phone Line:       blue wire  => tip \n                                blue/white => ring \n                                red        => ground \n \n \n \n============================================================================== \n"
+}

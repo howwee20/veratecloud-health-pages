@@ -1,0 +1,49 @@
+Michigan Automated Weather Network
+|
+|
+|
+Station: |
+swmrec |
+Station ID: |
+swm |
+|
+|
+Location: |
+MSU Southwest Michigan Research and Extension Center |
+City: |
+Benton Harbor |
+|
+|
+Latitude: |
+42.0841 deg. |
+Longitude: |
+-86.3570 deg. |
+Elevation: |
+220 m |
+|
+|
+Pregenerated Data Reports: |
+|
+Daily Data |
+|
+Hourly Data |
+|
+Station Information: |
+|
+Maintenance Reports |
+|
+Custom Reports (Data-on-Demand):
+|
+Note: Change
+has been made to date/time labels. Please refer to note at the bottom
+of generated reports.
+|
+Select Data Type:
+Select Data Type
+Daily Data
+Hourly Data
+Five-Minute Data
+Growing Degree-Day Data
+(wait for page to reload after selecting)
+|
+|

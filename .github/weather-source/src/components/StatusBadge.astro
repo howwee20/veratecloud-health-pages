@@ -1,0 +1,8 @@
+---
+import Icon from './Icon.astro';
+export type Tone = 'ok' | 'partial' | 'needs' | 'none' | 'neutral';
+interface Props { tone: Tone; label: string; wrap?: boolean }
+const { tone, label, wrap = false } = Astro.props;
+const icon = { ok: 'check', partial: 'partial', needs: 'plug', none: 'cross', neutral: 'dash' } as const;
+---
+<span class:list={['badge', `badge-${tone}`, wrap && 'badge-wrap']}><Icon name={icon[tone]} size={14} />{label}</span>

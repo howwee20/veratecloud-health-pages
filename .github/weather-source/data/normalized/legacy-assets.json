@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://mawn.geo.msu.edu/style.css",
+    "file": "public/media/legacy/mawn.css",
+    "sha256": "ac92ed1ec7aaf635b24f23b46fa6310cefd19365c9ad902f90aba5819b401cf8",
+    "bytes": 3263,
+    "status": 200,
+    "retrievedAtUtc": "2026-10-13T01:26:12.573911+00:00"
+  },
+  {
+    "url": "https://mawn.geo.msu.edu/images/MAWNlinksBar.gif",
+    "file": "public/media/legacy/mawn-sidebar.gif",
+    "sha256": "8d9ba9ceb273d4073bb355f67d10288dd7033e3e342b8c35d8776ef250c6819d",
+    "bytes": 21697,
+    "status": 200,
+    "retrievedAtUtc": "2026-10-13T01:26:13.685401+00:00"
+  },
+  {
+    "url": "https://mawn.geo.msu.edu/images/MAWNheader.gif",
+    "file": "public/media/legacy/mawn-header.gif",
+    "sha256": "b113d2480f1d0bf66b69c530782618604ace80d11af365b0b8b72e40d6a70e3e",
+    "bytes": 15495,
+    "status": 200,
+    "retrievedAtUtc": "2026-10-13T01:26:14.762204+00:00"
+  },
+  {
+    "url": "https://www.agweather.geo.msu.edu/style.css",
+    "file": "public/media/legacy/agweather.css",
+    "sha256": "38640012eaa34eb3ccb5fb9bdd0f70e888dc87e536f779d95ba729d602e53b57",
+    "bytes": 1684,
+    "status": 200,
+    "retrievedAtUtc": "2026-10-13T01:26:14.892438+00:00"
+  },
+  {
+    "url": "https://www.agweather.geo.msu.edu/images/msulogo.gif",
+    "file": "public/media/legacy/msu-logo.gif",
+    "sha256": "95c9506f9a7e594d27cd6e6ac6e9eed6f1004a85c90a89980434bcf869be3c30",
+    "bytes": 3178,
+    "status": 200,
+    "retrievedAtUtc": "2026-10-13T01:26:15.980835+00:00"
+  },
+  {
+    "url": "https://www.agweather.geo.msu.edu/images/harvest1.jpg",
+    "file": "public/media/legacy/harvest.jpg",
+    "sha256": "79f5d5e559cb4154977f23f7266790b416cce3a0b2b5158b2db1abdf05a18f47",
+    "bytes": 63163,
+    "status": 200,
+    "retrievedAtUtc": "2026-10-13T01:26:17.186354+00:00"
+  },
+  {
+    "url": "https://climate.geo.msu.edu/style.css",
+    "file": "public/media/legacy/climate.css",
+    "sha256": "56afd7ba3c0bea14261e7a6a8362ba75851e40cd795ec1016714d5408d0037d5",
+    "bytes": 1868,
+    "status": 200,
+    "retrievedAtUtc": "2026-10-13T01:26:17.322208+00:00"
+  },
+  {
+    "url": "https://climate.geo.msu.edu/images/mich_cli_wordmark.png",
+    "file": "public/media/legacy/climate-wordmark.png",
+    "sha256": "e5760362350b893b518dc65c9ac9e39e973e2d83f23e94d6a11f0b2ae6075b9c",
+    "bytes": 38741,
+    "status": 200,
+    "retrievedAtUtc": "2026-10-13T01:26:18.411263+00:00"
+  },
+  {
+    "url": "https://climate.geo.msu.edu/images/wordmark_pos_gray_120.png",
+    "file": "public/media/legacy/msu-wordmark.png",
+    "sha256": "02b76318f5c75bb4ea335e5e88aa9f8147c9ec6583d9610a55acf3698d96aca1",
+    "bytes": 31540,
+    "status": 200,
+    "retrievedAtUtc": "2026-10-13T01:26:19.519824+00:00"
+  },
+  {
+    "url": "https://climate.geo.msu.edu/images/bg_fade.png",
+    "file": "public/media/legacy/bg_fade.png",
+    "bytes": 28274,
+    "sha256": "342158e2f2af048d877730517d724453424e78ef34d9f30d6b26a414ae1663bb",
+    "retrievedAtUtc": "2026-10-13T01:26:45.323417+00:00",
+    "status": 200
+  },
+  {
+    "url": "https://www.agweather.geo.msu.edu/images/grnbar.gif",
+    "file": "public/media/legacy/grnbar.gif",
+    "bytes": 1124,
+    "sha256": "5bd295652ef4aa4f4bca32e418761c8a62f4b30e417445e1a1ab662af4d020af",
+    "retrievedAtUtc": "2026-10-13T01:29:54.227450+00:00",
+    "status": 200
+  },
+  {
+    "url": "https://www.agweather.geo.msu.edu/images/grnarrow2.gif",
+    "file": "public/media/legacy/grnarrow2.gif",
+    "bytes": 860,
+    "sha256": "4af26e75dafc711ebedb5e818c20579f9db749fce3c6ea58ca30f43e3d6db15c",
+    "retrievedAtUtc": "2026-10-13T01:29:55.429529+00:00",
+    "status": 200
+  }
+]

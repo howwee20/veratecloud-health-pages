@@ -288,7 +288,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
                <td width="40%" class="wxtablelabel">Date/Time:</td>
-               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp; Mon, 10/12/26 - 07:30 PM</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp; Tue, 10/13/26 - 11:15 AM</td>
             </tr>
             <tr>
                <td width="40%" class="wxtablelabel">&nbsp;</td>
@@ -296,27 +296,27 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
                <td width="40%" class="wxtablelabel">Air Temp:</td>
-               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  75.3 (F)</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  77.3 (F)</td>
             </tr>
             <tr>
                <td width="40%" class="wxtablelabel">Dew Point:</td>
-               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  61.4 (F)</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  61.8 (F)</td>
             </tr>
             <tr>
                <td width="40%" class="wxtablelabel">Rel. Humidity:</td>
-               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  62.0 (%)</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  58.7 (%)</td>
             </tr>
             <tr>
                <td width="40%" class="wxtablelabel">Wind Speed:</td>
-               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;   2.9 (mph)</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  11.8 (mph)</td>
             </tr>
             <tr>
                <td width="40%" class="wxtablelabel">Wind Dir:</td>
-               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;    SW</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  W-SW</td>
             </tr>
             <tr>
                <td width="40%" class="wxtablelabel">Solar Radiation:</td>
-               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;   4.1 (ly)</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  31.1 (ly)</td>
             </tr>
             <tr>
                <td width="40%" class="wxtablelabel">&nbsp;</td>
@@ -328,11 +328,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
                <td width="40%" class="wxtablelabel">4" Bare Soil Temp:</td>
-               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  60.8 (F)</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  61.2 (F)</td>
             </tr>
             <tr>
                <td width="40%" class="wxtablelabel">4" Soil Moisture:</td>
-               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp; 0.211 (in^3/in^3)</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp; 0.209 (in^3/in^3)</td>
             </tr>
             <tr>
                <td width="40%" class="wxtablelabel">10" Soil Moisture:</td>

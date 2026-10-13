@@ -1,0 +1,299 @@
+[
+  {
+    "url": "https://mawn.geo.msu.edu/images/mawnmap_web_mi.jpg",
+    "file": "public/media/station-map.jpg",
+    "retrievedAtUtc": "2026-10-13T01:21:46.701789+00:00",
+    "status": 200,
+    "bytes": 29504,
+    "contentType": "image/jpeg",
+    "sha256": "c6664b01007e7977629819d62e913901d0acf69c7110f62255b755601934fb47"
+  },
+  {
+    "url": "https://mawn.geo.msu.edu/images/stations/bnz.jpg",
+    "file": "public/media/station-bnz.jpg",
+    "retrievedAtUtc": "2026-10-13T01:21:47.806439+00:00",
+    "status": 200,
+    "bytes": 24658,
+    "contentType": "image/jpeg",
+    "sha256": "63ac459dfb680853a11c8ae46fa381e25069bfcf834176daf8300f8d6681b0ec"
+  },
+  {
+    "url": "https://mawn.geo.msu.edu/images/stations/swm.jpg",
+    "file": "public/media/station-swm.jpg",
+    "retrievedAtUtc": "2026-10-13T01:21:48.906989+00:00",
+    "status": 200,
+    "bytes": 12518,
+    "contentType": "image/jpeg",
+    "sha256": "edc0c3b41bbb1db77d0b552c82e794bef4a90f5b23ed7e638e72dfdc8503bd5a"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png",
+    "file": "public/media/climate/prcp-7days.png",
+    "retrievedAtUtc": "2026-10-13T01:21:49.024334+00:00",
+    "status": 200,
+    "bytes": 291063,
+    "contentType": "image/png",
+    "sha256": "d8d252a9a79515b5f929ee64a8275ff0b53e1ddc2102f75247590ae248cd4af8"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-30days.png",
+    "file": "public/media/climate/prcp-30days.png",
+    "retrievedAtUtc": "2026-10-13T01:21:50.129352+00:00",
+    "status": 200,
+    "bytes": 271798,
+    "contentType": "image/png",
+    "sha256": "51aed44cefcbe5c1b2f7e1ccaf3b96eddf0a542aa946984ef8453276ab2bdb4f"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-90days.png",
+    "file": "public/media/climate/prcp-90days.png",
+    "retrievedAtUtc": "2026-10-13T01:21:51.234378+00:00",
+    "status": 200,
+    "bytes": 256718,
+    "contentType": "image/png",
+    "sha256": "feb34ea8dd99e8cce0c83e0b16725bb6bb6b15f26cfbc0c5f985743ae7dcb3f6"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-7days.png",
+    "file": "public/media/climate/prcpdev-7days.png",
+    "retrievedAtUtc": "2026-10-13T01:21:52.334665+00:00",
+    "status": 200,
+    "bytes": 261744,
+    "contentType": "image/png",
+    "sha256": "f2795d3ae4f46b332c56462d9204a3c997da9a8bb246bbda53c92aef2491dd97"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-30days.png",
+    "file": "public/media/climate/prcpdev-30days.png",
+    "retrievedAtUtc": "2026-10-13T01:21:53.438640+00:00",
+    "status": 200,
+    "bytes": 287831,
+    "contentType": "image/png",
+    "sha256": "fe8961231aa8918894d1d3acccfbfb6f5fe3e159745751e0f330a62212d211ab"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-90days.png",
+    "file": "public/media/climate/prcpdev-90days.png",
+    "retrievedAtUtc": "2026-10-13T01:21:54.543660+00:00",
+    "status": 200,
+    "bytes": 289600,
+    "contentType": "image/png",
+    "sha256": "6389af4f02af4e30e52e6fd8435755a06b5db04e6a59db063afb9b0f180e954a"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-7days.png",
+    "file": "public/media/climate/prcpdev2-7days.png",
+    "retrievedAtUtc": "2026-10-13T01:21:55.646685+00:00",
+    "status": 200,
+    "bytes": 279666,
+    "contentType": "image/png",
+    "sha256": "992eb2db5fcbc1edbd3db5c0b55abfa8e435ee5051be75c968b794ab44f9753b"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-30days.png",
+    "file": "public/media/climate/prcpdev2-30days.png",
+    "retrievedAtUtc": "2026-10-13T01:21:56.747638+00:00",
+    "status": 200,
+    "bytes": 301061,
+    "contentType": "image/png",
+    "sha256": "128eeb37e6a89cd82e2f8af807595f2f33f7f960a3ef94acea78ceb9da5271b3"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-90days.png",
+    "file": "public/media/climate/prcpdev2-90days.png",
+    "retrievedAtUtc": "2026-10-13T01:21:57.851328+00:00",
+    "status": 200,
+    "bytes": 300821,
+    "contentType": "image/png",
+    "sha256": "09509da6f4279d45e04437a5c77f3821d22d170f3efd8ddedcbf2cff4de18913"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-7days.png",
+    "file": "public/media/climate/tmax-7days.png",
+    "retrievedAtUtc": "2026-10-13T01:21:58.956113+00:00",
+    "status": 200,
+    "bytes": 278775,
+    "contentType": "image/png",
+    "sha256": "0e9c0a08bd19d7e6e33dada082536253026b20c65ddd51d8f6d4a417a4525241"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-30days.png",
+    "file": "public/media/climate/tmax-30days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:00.061169+00:00",
+    "status": 200,
+    "bytes": 277914,
+    "contentType": "image/png",
+    "sha256": "531843dc0f9c7c20f46abb6f86a85938192759f85f10a3926453fda33cb49753"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-90days.png",
+    "file": "public/media/climate/tmax-90days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:01.164207+00:00",
+    "status": 200,
+    "bytes": 273205,
+    "contentType": "image/png",
+    "sha256": "575a1348ad9cf29499b63fc99e0d622ecc534049fd4196c15c80ecfac860cff7"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-7days.png",
+    "file": "public/media/climate/tmaxdev-7days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:02.266832+00:00",
+    "status": 200,
+    "bytes": 293244,
+    "contentType": "image/png",
+    "sha256": "38fe88f56ae5c231f946e740e58d9ddcb6696bd4c2f016823a72aefb4b06ff04"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-30days.png",
+    "file": "public/media/climate/tmaxdev-30days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:03.368387+00:00",
+    "status": 200,
+    "bytes": 299227,
+    "contentType": "image/png",
+    "sha256": "2f51063c087bbbf9c8b8b8135bd63096981e5bd530284a6e8e5aab4513bded1b"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-90days.png",
+    "file": "public/media/climate/tmaxdev-90days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:04.468424+00:00",
+    "status": 200,
+    "bytes": 299320,
+    "contentType": "image/png",
+    "sha256": "8a1e429efcf797be328addedfb2baa77cdb39fba0180a49dd985d932fbd2a38e"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png",
+    "file": "public/media/climate/tmean-7days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:05.568500+00:00",
+    "status": 200,
+    "bytes": 272769,
+    "contentType": "image/png",
+    "sha256": "e051d8812a6d25640f4a2b7faf5f43333757e935fffb8f72a4ceabce758dbbca"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-30days.png",
+    "file": "public/media/climate/tmean-30days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:06.672908+00:00",
+    "status": 200,
+    "bytes": 272625,
+    "contentType": "image/png",
+    "sha256": "64ef906d6544b971d5f2e82cb145fc4d27565a300e9b0ff4e6b74fe2b8697e6a"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-90days.png",
+    "file": "public/media/climate/tmean-90days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:07.776753+00:00",
+    "status": 200,
+    "bytes": 271754,
+    "contentType": "image/png",
+    "sha256": "9fe2a04b6b432d40ad58b9c404cdff7fed57c54c6f65cf96c4a100f990dad28a"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-7days.png",
+    "file": "public/media/climate/tmeandev-7days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:08.879660+00:00",
+    "status": 200,
+    "bytes": 295653,
+    "contentType": "image/png",
+    "sha256": "fd5974cc57dc08754111cf8b8efb68d0ac947786ffd11a2dcd8dff46fdf46fc7"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-30days.png",
+    "file": "public/media/climate/tmeandev-30days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:09.979974+00:00",
+    "status": 200,
+    "bytes": 294270,
+    "contentType": "image/png",
+    "sha256": "213a0c3f0a424fec2a6a240a0209a3bca58e47ef1b8934232ed4b5d0d2c42cc0"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-90days.png",
+    "file": "public/media/climate/tmeandev-90days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:11.085037+00:00",
+    "status": 200,
+    "bytes": 295229,
+    "contentType": "image/png",
+    "sha256": "bc0ba1c5e7c4499ebbaaf5e496dc437ba51bdea99ef549fa3197cd4dda192b26"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-7days.png",
+    "file": "public/media/climate/tmin-7days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:12.189513+00:00",
+    "status": 200,
+    "bytes": 259241,
+    "contentType": "image/png",
+    "sha256": "29d284bf671781c5f8c1583ac266eaf51d69f7722a7b5d740379f3607cf84f74"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-30days.png",
+    "file": "public/media/climate/tmin-30days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:13.290277+00:00",
+    "status": 200,
+    "bytes": 264841,
+    "contentType": "image/png",
+    "sha256": "cd33c77f48006a82829403f1454f9463f87677d2a69a92e1934c29f24a3e0c8e"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-90days.png",
+    "file": "public/media/climate/tmin-90days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:14.391161+00:00",
+    "status": 200,
+    "bytes": 273909,
+    "contentType": "image/png",
+    "sha256": "cee5131b805d798aef1ea1dd8ab3dc46704550eaed92e6341731f129243b7710"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-7days.png",
+    "file": "public/media/climate/tmindev-7days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:15.497847+00:00",
+    "status": 200,
+    "bytes": 300014,
+    "contentType": "image/png",
+    "sha256": "17a00ee2c04d04e3fb243151470d2d5918b36ee1638fbec4002e6fa841cda4df"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-30days.png",
+    "file": "public/media/climate/tmindev-30days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:16.601269+00:00",
+    "status": 200,
+    "bytes": 302871,
+    "contentType": "image/png",
+    "sha256": "75c44dac06418b93a43684ba313a9382060df4f01822e03f98117d43c72a66b2"
+  },
+  {
+    "url": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-90days.png",
+    "file": "public/media/climate/tmindev-90days.png",
+    "retrievedAtUtc": "2026-10-13T01:22:17.706287+00:00",
+    "status": 200,
+    "bytes": 301881,
+    "contentType": "image/png",
+    "sha256": "f5d2dabdcbb2efddb86773700d9f9da207a08f4006b4630ed84a933fbae2d1dc"
+  },
+  {
+    "url": "https://mawn.geo.msu.edu/report.asp?fileid=swmd",
+    "file": "data/additional-sources/swmd.html",
+    "retrievedAtUtc": "2026-10-13T15:35:15.328860+00:00",
+    "status": 200,
+    "bytes": 29053,
+    "contentType": "text/html",
+    "sha256": "ebfe09884c1b3a4d4832a2ae4040c4aaeeecaba85383809c3c9768835a5b3d17"
+  },
+  {
+    "url": "https://mawn.geo.msu.edu/report.asp?fileid=swmh",
+    "file": "data/additional-sources/swmh.html",
+    "retrievedAtUtc": "2026-10-13T15:35:17.402092+00:00",
+    "status": 200,
+    "bytes": 24371,
+    "contentType": "text/html",
+    "sha256": "c104a0ff24af73fcdc5249be4064c04804f3823c4f90b0d7e879aa190cd1f8ab"
+  },
+  {
+    "url": "https://mawn.geo.msu.edu/report.asp?fileid=swmm",
+    "file": "data/additional-sources/swmm.html",
+    "retrievedAtUtc": "2026-10-13T15:35:19.492718+00:00",
+    "status": 200,
+    "bytes": 59233,
+    "contentType": "text/html",
+    "sha256": "7815df6051bc9957d4530cb4db0b8688214683e93e06d18a95866ef29e2fb9e2"
+  }
+]

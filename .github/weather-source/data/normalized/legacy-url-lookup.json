@@ -1,0 +1,2624 @@
+{
+  "http://agbioresearch.msu.edu/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "http://enviroweather.msu.edu/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "http://msue.msu.edu/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "http://www.cpc.ncep.noaa.gov/products/predictions/30day/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-noaa-cpc"
+  },
+  "http://www.cpc.ncep.noaa.gov/products/predictions/610day/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-noaa-cpc"
+  },
+  "http://www.cpc.ncep.noaa.gov/products/predictions/814day/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-noaa-cpc"
+  },
+  "http://www.cpc.ncep.noaa.gov/products/predictions/90day/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-noaa-cpc"
+  },
+  "http://www.enviro-weather.msu.edu/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "http://www.enviroweather.msu.edu/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "http://www.geo.msu.edu/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "http://www.greeen.msu.edu/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "http://www.maes.msu.edu/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "http://www.msu.edu/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "http://www.msue.msu.edu/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "http://www.msue.msu.edu/portal/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "http://www.semcog.org/": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "http://www.soils.wisc.edu/wimnext/et/miet.html": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  },
+  "https://climate.geo.msu.edu/": {
+    "t": "REBUILD",
+    "n": "/climate/",
+    "s": "rebuilt",
+    "p": "climate-home"
+  },
+  "https://climate.geo.msu.edu/about_us.html": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "climate-content-page"
+  },
+  "https://climate.geo.msu.edu/climate_maps.html": {
+    "t": "REBUILD",
+    "n": "/climate/maps/",
+    "s": "rebuilt",
+    "p": "climate-maps"
+  },
+  "https://climate.geo.msu.edu/climate_mi/index.html": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "climate-content-page"
+  },
+  "https://climate.geo.msu.edu/images/mich_cli_wordmark.png": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "climate-layout-asset"
+  },
+  "https://climate.geo.msu.edu/images/wordmark_pos_gray_120.png": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "climate-layout-asset"
+  },
+  "https://climate.geo.msu.edu/index.html": {
+    "t": "REDIRECT",
+    "n": "/climate/",
+    "s": "redirect-planned",
+    "p": "climate-index-alias"
+  },
+  "https://climate.geo.msu.edu/semcog/sem/mainsem.html": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "climate-content-page"
+  },
+  "https://climate.geo.msu.edu/style.css": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "climate-layout-asset"
+  },
+  "https://mawn.geo.msu.edu/": {
+    "t": "REBUILD",
+    "n": "/weather-network/",
+    "s": "rebuilt",
+    "p": "mawn-home"
+  },
+  "https://mawn.geo.msu.edu/icons/back.gif": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "mawn-layout-asset"
+  },
+  "https://mawn.geo.msu.edu/icons/blank.gif": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "mawn-layout-asset"
+  },
+  "https://mawn.geo.msu.edu/icons/folder.gif": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "mawn-layout-asset"
+  },
+  "https://mawn.geo.msu.edu/icons/unknown.gif": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "mawn-layout-asset"
+  },
+  "https://mawn.geo.msu.edu/images/MAWNheader.gif": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "mawn-layout-asset"
+  },
+  "https://mawn.geo.msu.edu/images/MAWNlinksBar.gif": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "mawn-layout-asset"
+  },
+  "https://mawn.geo.msu.edu/images/grnarrow2.gif": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "mawn-layout-asset"
+  },
+  "https://mawn.geo.msu.edu/images/mawnmap_web_mi.jpg": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "mawn-layout-asset"
+  },
+  "https://mawn.geo.msu.edu/images/stations/bnz.jpg": {
+    "t": "PRESERVE",
+    "n": null,
+    "s": "not-preserved",
+    "p": "mawn-station-photo"
+  },
+  "https://mawn.geo.msu.edu/images/stations/swm.jpg": {
+    "t": "PRESERVE",
+    "n": null,
+    "s": "not-preserved",
+    "p": "mawn-station-photo"
+  },
+  "https://mawn.geo.msu.edu/mawn-nw.html": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "mawn-regional-map"
+  },
+  "https://mawn.geo.msu.edu/mawn-sw.html": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "mawn-regional-map"
+  },
+  "https://mawn.geo.msu.edu/mawnicon.ico": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "mawn-layout-asset"
+  },
+  "https://mawn.geo.msu.edu/rawdata/": {
+    "t": "PRESERVE",
+    "n": "/rawdata/",
+    "s": "rebuilt",
+    "p": "rawdata-root"
+  },
+  "https://mawn.geo.msu.edu/rawdata/1wk/": {
+    "t": "PRESERVE",
+    "n": "/rawdata/1wk/",
+    "s": "listed-only",
+    "p": "rawdata-directory"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/",
+    "s": "rebuilt",
+    "p": "rawdata-directory"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/?C=M;O=A": {
+    "t": "REDIRECT",
+    "n": "/rawdata/3hr/",
+    "s": "redirect-planned",
+    "p": "rawdata-sort-link"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/?C=N;O=D": {
+    "t": "REDIRECT",
+    "n": "/rawdata/3hr/",
+    "s": "redirect-planned",
+    "p": "rawdata-sort-link"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/?C=S;O=A": {
+    "t": "REDIRECT",
+    "n": "/rawdata/3hr/",
+    "s": "redirect-planned",
+    "p": "rawdata-sort-link"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/aetna": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/aetna",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/albion": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/albion",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/allegan": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/allegan",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/alpine": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/alpine",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/arlene": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/arlene",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/bainbridge": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/bainbridge",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/belding": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/belding",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/benona": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/benona",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/benzonia": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/benzonia",
+    "s": "bytes-preserved",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/berriensprings": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/berriensprings",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/cassopolis": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/cassopolis",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/ceresco": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/ceresco",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/charlevoix": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/charlevoix",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/charlotte": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/charlotte",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/chatham": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/chatham",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/clarksville": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/clarksville",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/coldwater": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/coldwater",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/commercetwp": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/commercetwp",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/conklin": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/conklin",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/constantine": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/constantine",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/deerfield": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/deerfield",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/dowagiac": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/dowagiac",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/eastleland": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/eastleland",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/eastport": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/eastport",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/elbridge": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/elbridge",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/elkrapids": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/elkrapids",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/emmett": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/emmett",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/entrican": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/entrican",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/escanaba": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/escanaba",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/fairgrove": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/fairgrove",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/fennville": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/fennville",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/flint": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/flint",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/freeland": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/freeland",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/fremont": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/fremont",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/gaylord": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/gaylord",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/grandjunction": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/grandjunction",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/grandjunction10": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/grandjunction10",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/grant": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/grant",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/hart": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/hart",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/hart10": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/hart10",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/hartford": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/hartford",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/haslett": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/haslett",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/hastings": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/hastings",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/hawks": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/hawks",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/hudson": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/hudson",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/hudsonville": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/hudsonville",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/ithaca": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/ithaca",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/kalamazoo": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/kalamazoo",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/kalkaska": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/kalkaska",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/keeler": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/keeler",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/kentcity": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/kentcity",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/kewadin": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/kewadin",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/kinde": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/kinde",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/lakeleelanau": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/lakeleelanau",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/lapeer": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/lapeer",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/lawrence": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/lawrence",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/lawton": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/lawton",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/leslie": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/leslie",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/linwood": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/linwood",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/ludington": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/ludington",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/mcbain": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/mcbain",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/mcmillan": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/mcmillan",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/mears": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/mears",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/mecosta": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/mecosta",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/mendon": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/mendon",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/mountpleasant": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/mountpleasant",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/msuhort": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/msuhort",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/msuhort10": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/msuhort10",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/msuhtrc": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/msuhtrc",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/msukbs": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/msukbs",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/munger": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/munger",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/ncmc": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/ncmc",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/newera": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/newera",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/northport": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/northport",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/nwmhrs": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/nwmhrs",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/oldmission": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/oldmission",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/oldmissionsouth": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/oldmissionsouth",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/omena": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/omena",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/onekama": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/onekama",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/oshtemo": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/oshtemo",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/petoskey": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/petoskey",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/pigeon": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/pigeon",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/reeman": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/reeman",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/richville": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/richville",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/romeo": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/romeo",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/sandusky": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/sandusky",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/scottdale": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/scottdale",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/shelbyeast": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/shelbyeast",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/southhaven": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/southhaven",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/sparta": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/sparta",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/sparta20": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/sparta20",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/spartanorth": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/spartanorth",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/standale": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/standale",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/stephenson": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/stephenson",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/swmrec": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/swmrec",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/verona": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/verona",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/westleland": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/westleland",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/westolive": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/westolive",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/williamsburg20": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/williamsburg20",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3hr/wmich": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3hr/wmich",
+    "s": "listed-only",
+    "p": "rawdata-file"
+  },
+  "https://mawn.geo.msu.edu/rawdata/3mo/": {
+    "t": "PRESERVE",
+    "n": "/rawdata/3mo/",
+    "s": "listed-only",
+    "p": "rawdata-directory"
+  },
+  "https://mawn.geo.msu.edu/rawdata/?C=M;O=A": {
+    "t": "REDIRECT",
+    "n": "/rawdata/",
+    "s": "redirect-planned",
+    "p": "rawdata-sort-link"
+  },
+  "https://mawn.geo.msu.edu/rawdata/?C=N;O=D": {
+    "t": "REDIRECT",
+    "n": "/rawdata/",
+    "s": "redirect-planned",
+    "p": "rawdata-sort-link"
+  },
+  "https://mawn.geo.msu.edu/rawdata/?C=S;O=A": {
+    "t": "REDIRECT",
+    "n": "/rawdata/",
+    "s": "redirect-planned",
+    "p": "rawdata-sort-link"
+  },
+  "https://mawn.geo.msu.edu/rawdata/disabled/": {
+    "t": "PRESERVE",
+    "n": "/rawdata/disabled/",
+    "s": "listed-only",
+    "p": "rawdata-directory"
+  },
+  "https://mawn.geo.msu.edu/rawdata/mcemo/": {
+    "t": "PRESERVE",
+    "n": "/rawdata/mcemo/",
+    "s": "listed-only",
+    "p": "rawdata-directory"
+  },
+  "https://mawn.geo.msu.edu/rawdata/meta/": {
+    "t": "PRESERVE",
+    "n": "/rawdata/meta/",
+    "s": "listed-only",
+    "p": "rawdata-directory"
+  },
+  "https://mawn.geo.msu.edu/rawdata/mrcc/": {
+    "t": "PRESERVE",
+    "n": "/rawdata/mrcc/",
+    "s": "listed-only",
+    "p": "rawdata-directory"
+  },
+  "https://mawn.geo.msu.edu/rawdata/nrcc/": {
+    "t": "PRESERVE",
+    "n": "/rawdata/nrcc/",
+    "s": "listed-only",
+    "p": "rawdata-directory"
+  },
+  "https://mawn.geo.msu.edu/rawdata/solar_fcsts/": {
+    "t": "PRESERVE",
+    "n": "/rawdata/solar_fcsts/",
+    "s": "listed-only",
+    "p": "rawdata-directory"
+  },
+  "https://mawn.geo.msu.edu/rawdata/unl-soysim/": {
+    "t": "PRESERVE",
+    "n": "/rawdata/unl-soysim/",
+    "s": "listed-only",
+    "p": "rawdata-directory"
+  },
+  "https://mawn.geo.msu.edu/report.asp?fileid=bnzd": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/bnz/daily/",
+    "s": "rebuilt",
+    "p": "mawn-report-daily"
+  },
+  "https://mawn.geo.msu.edu/report.asp?fileid=bnzh": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/bnz/hourly/",
+    "s": "rebuilt",
+    "p": "mawn-report-hourly"
+  },
+  "https://mawn.geo.msu.edu/report.asp?fileid=bnzm": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/bnz/maintenance/",
+    "s": "rebuilt",
+    "p": "mawn-report-maintenance"
+  },
+  "https://mawn.geo.msu.edu/report.asp?fileid=swmd": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/swm/daily/",
+    "s": "template-only",
+    "p": "mawn-report-daily"
+  },
+  "https://mawn.geo.msu.edu/report.asp?fileid=swmh": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/swm/hourly/",
+    "s": "template-only",
+    "p": "mawn-report-hourly"
+  },
+  "https://mawn.geo.msu.edu/report.asp?fileid=swmm": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/swm/maintenance/",
+    "s": "template-only",
+    "p": "mawn-report-maintenance"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=acp": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/acp/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=aet": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/aet/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=alb": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/alb/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=alg": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/alg/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=alt": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/alt/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=arl": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/arl/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=bat": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/bat/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=bbc": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/bbc/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=bel": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/bel/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=blk": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/blk/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=bna": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/bna/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=bnz": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/bnz/",
+    "s": "rebuilt",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=bnz&rt=0": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "mawn-custom-report"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=bnz&rt=24": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "mawn-custom-report"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=bnz&rt=5": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "mawn-custom-report"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=bnz&rt=60": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "mawn-custom-report"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=brs": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/brs/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=cas": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/cas/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=cer": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/cer/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=cld": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/cld/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=clr": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/clr/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=clt": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/clt/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=clx": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/clx/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=cmc": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/cmc/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=cnk": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/cnk/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=cnt": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/cnt/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=cth": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/cth/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=dow": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/dow/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=drf": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/drf/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=ehb": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/ehb/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=elb": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/elb/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=eld": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/eld/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=elk": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/elk/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=emt": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/emt/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=ent": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/ent/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=epr": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/epr/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=esc": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/esc/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=fev": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/fev/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=fgv": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/fgv/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=flt": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/flt/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=frl": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/frl/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=frm": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/frm/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=gay": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/gay/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=gde": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/gde/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=gjn": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/gjn/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=grj": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/grj/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=grt": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/grt/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=has": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/has/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=haw": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/haw/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=hck": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/hck/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=hdn": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/hdn/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=hfd": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/hfd/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=hrt": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/hrt/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=htc": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/htc/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=hvl": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/hvl/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=ith": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/ith/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=kal": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/kal/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=kbs": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/kbs/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=kct": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/kct/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=klr": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/klr/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=knd": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/knd/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=kwd": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/kwd/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=kws": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/kws/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=kzo": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/kzo/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=law": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/law/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=lct": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/lct/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=ldt": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/ldt/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=les": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/les/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=lin": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/lin/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=llu": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/llu/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=lpr": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/lpr/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=lux": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/lux/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=mar": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/mar/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=mcb": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/mcb/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=mct": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/mct/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=mea": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/mea/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=men": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/men/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=mgr": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/mgr/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=mht": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/mht/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=mml": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/mml/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=mou": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/mou/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=msu": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/msu/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=ncm": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/ncm/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=ner": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/ner/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=nsw": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/nsw/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=nth": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/nth/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=nwm": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/nwm/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=obl": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/obl/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=old": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/old/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=omn": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/omn/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=omp": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/omp/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=ost": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/ost/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=pcc": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/pcc/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=pig": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/pig/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=pky": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/pky/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=pnr": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/pnr/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=ptr": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/ptr/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=rfw": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/rfw/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=rhn": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/rhn/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=rom": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/rom/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=rvl": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/rvl/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=sbe": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/sbe/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=scd": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/scd/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=sdk": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/sdk/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=sdr": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/sdr/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=sga": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/sga/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=shv": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/shv/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=spn": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/spn/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=spo": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/spo/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=spt": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/spt/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=srb": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/srb/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=stb": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/stb/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=stn": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/stn/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=stv": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/stv/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=swm": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/swm/",
+    "s": "rebuilt",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=swm&rt=0": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "mawn-custom-report"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=swm&rt=24": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "mawn-custom-report"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=swm&rt=5": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "mawn-custom-report"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=swm&rt=60": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "mawn-custom-report"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=tpd": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/tpd/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=ver": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/ver/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=wct": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/wct/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=weo": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/weo/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=wjp": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/wjp/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=wld": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/wld/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=wmt": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/wmt/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/station.asp?id=wmu": {
+    "t": "REBUILD",
+    "n": "/weather-network/stations/wmu/",
+    "s": "template-only",
+    "p": "mawn-station"
+  },
+  "https://mawn.geo.msu.edu/style.css": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "mawn-layout-asset"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-30days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-90days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-30days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-7days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-90days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-30days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-7days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-90days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-30days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-7days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-90days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-30days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-7days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-90days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-30days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-90days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-30days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-7days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-90days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-30days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-7days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-90days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-30days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-7days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-90days.png": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-mrcc-map"
+  },
+  "https://www.agweather.geo.msu.edu/": {
+    "t": "REBUILD",
+    "n": "/agricultural-weather/",
+    "s": "rebuilt",
+    "p": "agweather-home"
+  },
+  "https://www.agweather.geo.msu.edu/articles/": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-section-index"
+  },
+  "https://www.agweather.geo.msu.edu/current/": {
+    "t": "REBUILD",
+    "n": "/agricultural-weather/current/",
+    "s": "rebuilt",
+    "p": "agweather-current"
+  },
+  "https://www.agweather.geo.msu.edu/current/maxtemp.html": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-static-page"
+  },
+  "https://www.agweather.geo.msu.edu/current/mintemp.html": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-static-page"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=adrian": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=allegan": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=alma": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=alpena": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=badaxe": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=battlecreek": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=bigrapids": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=chatham": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=cheboygan": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=coldwater": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=detroit": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=eastjordan": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=easttawas": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=eauclaire": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=gladwin": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=grandmarais": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=grandrapids": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=grayling": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=hart": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=hesperia": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=holland": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=houghton": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=ironmountain": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=ironwood": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=jackson": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=lakecity": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=lansing": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=lapeer": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=manistee": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=maplecity": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=monroe": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=muskegon": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=newberry": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=saginaw": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=sandusky": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=saultstemarie": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=southbend": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=southhaven": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=stephenson": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=toledo": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=traversecity": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=vanderbilt": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-normals"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=agwxsum": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=base41gdd": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=base50gdd": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clianj": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=cliapn": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=cliazo": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clibiv": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clibtl": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clidtw": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clifnt": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clifwa": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=cligrr": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clihtl": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clijxn": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clilan": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=climbs": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=climkg": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=climqt": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clisbn": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clitvc": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=degreeday": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=mipcpn": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=mitemps": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpapx": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpdtx": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpgrr": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpiwx": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpmqt": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=rwrmi": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/report.asp?fileid=sxus04kdtx": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-current-report"
+  },
+  "https://www.agweather.geo.msu.edu/current/style.css": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "agweather-layout-asset"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/": {
+    "t": "REBUILD",
+    "n": "/agricultural-weather/forecasts/",
+    "s": "rebuilt",
+    "p": "agweather-forecasts"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kanj": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kapn": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kdlh": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kdtw": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kduh": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kfnt": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kgrb": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kgrr": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16khtl": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16klan": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kmkg": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16ksaw": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16ksbn": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16ktvc": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kapx": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kdtx": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kgrr": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kiwx": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kmqt": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus63kgrr": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus05kwbc": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus06kwbc": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus07kwbc": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kapx": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kdtx": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kgrr": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kiwx": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kmqt": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=specmin": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-forecast-product"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/nbm_fcsts.html": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-static-page"
+  },
+  "https://www.agweather.geo.msu.edu/forecasts/style.css": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "agweather-layout-asset"
+  },
+  "https://www.agweather.geo.msu.edu/images/grnarrow2.gif": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "agweather-layout-asset"
+  },
+  "https://www.agweather.geo.msu.edu/images/grnbar.gif": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "agweather-layout-asset"
+  },
+  "https://www.agweather.geo.msu.edu/images/harvest1.jpg": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "agweather-layout-asset"
+  },
+  "https://www.agweather.geo.msu.edu/images/msulogo.gif": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "agweather-layout-asset"
+  },
+  "https://www.agweather.geo.msu.edu/index.html": {
+    "t": "REDIRECT",
+    "n": "/agricultural-weather/",
+    "s": "redirect-planned",
+    "p": "agweather-index-alias"
+  },
+  "https://www.agweather.geo.msu.edu/info/": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-section-index"
+  },
+  "https://www.agweather.geo.msu.edu/links/": {
+    "t": "NEEDS INVESTIGATION",
+    "n": null,
+    "s": "not-preserved",
+    "p": "agweather-section-index"
+  },
+  "https://www.agweather.geo.msu.edu/style.css": {
+    "t": "ARCHIVE",
+    "n": null,
+    "s": "superseded",
+    "p": "agweather-layout-asset"
+  },
+  "https://www.canr.msu.edu/research/index": {
+    "t": "EXTERNAL DEPENDENCY",
+    "n": null,
+    "s": "link-out",
+    "p": "external-reference-link"
+  }
+}

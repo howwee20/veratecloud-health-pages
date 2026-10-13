@@ -1,0 +1,930 @@
+found_on_url,source_file,element,attribute,raw_target,target_url,label,local_file_if_downloaded,retrieval
+https://mawn.geo.msu.edu/,input/mawn/home.html,link,href,./style.css,https://mawn.geo.msu.edu/style.css,,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,link,href,./mawnicon.ico,https://mawn.geo.msu.edu/mawnicon.ico,,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,img,src,/images/MAWNlinksBar.gif,https://mawn.geo.msu.edu/images/MAWNlinksBar.gif,,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,http://www.msu.edu,http://www.msu.edu,MSU,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,MAWN Home,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,http://www.enviro-weather.msu.edu,http://www.enviro-weather.msu.edu,Enviro-Weather,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,http://www.agweather.geo.msu.edu,http://www.agweather.geo.msu.edu,MSU AgWeather,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,http://climate.geo.msu.edu,http://climate.geo.msu.edu,MSU Climatologist's Office,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,http://www.geo.msu.edu,http://www.geo.msu.edu,MSU Department of Geography,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,http://www.greeen.msu.edu,http://www.greeen.msu.edu,Project GREEEN,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,http://www.msue.msu.edu,http://www.msue.msu.edu,MSU Extension,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,http://www.maes.msu.edu,http://www.maes.msu.edu,MSU Ag Experiment Station,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,img,src,/images/MAWNheader.gif,https://mawn.geo.msu.edu/images/MAWNheader.gif,MAWN Home,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,http://www.enviroweather.msu.edu,http://www.enviroweather.msu.edu,Enviro-weather,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,http://www.greeen.msu.edu/,http://www.greeen.msu.edu/,Project GREEEN,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,http://www.maes.msu.edu/,http://www.maes.msu.edu/,Michigan Agricultural Experiment Station (MAES),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,http://www.msue.msu.edu/portal/,http://www.msue.msu.edu/portal/,MSU Extension (MSUE),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,img,src,/images/mawnmap_web_mi.jpg,https://mawn.geo.msu.edu/images/mawnmap_web_mi.jpg,,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=acp,https://mawn.geo.msu.edu/station.asp?id=acp,Alpine Twp / Comstock Park,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=aet,https://mawn.geo.msu.edu/station.asp?id=aet,Aetna / Fremont,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=alb,https://mawn.geo.msu.edu/station.asp?id=alb,Albion,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=alg,https://mawn.geo.msu.edu/station.asp?id=alg,Allegan,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=arl,https://mawn.geo.msu.edu/station.asp?id=arl,Arlene,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=bbc,https://mawn.geo.msu.edu/station.asp?id=bbc,Bainbridge Center / Watervliet,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=bel,https://mawn.geo.msu.edu/station.asp?id=bel,Belding,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=bna,https://mawn.geo.msu.edu/station.asp?id=bna,Benona / Shelby,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=bnz,https://mawn.geo.msu.edu/station.asp?id=bnz,Benzonia,input/mawn/station-bnz.html,saved named URL
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=brs,https://mawn.geo.msu.edu/station.asp?id=brs,Berrien Springs,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=cas,https://mawn.geo.msu.edu/station.asp?id=cas,Cassopolis (GLBRC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=cer,https://mawn.geo.msu.edu/station.asp?id=cer,Ceresco,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=cld,https://mawn.geo.msu.edu/station.asp?id=cld,Coldwater,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=cnk,https://mawn.geo.msu.edu/station.asp?id=cnk,Conklin / Wright,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=clr,https://mawn.geo.msu.edu/station.asp?id=clr,Clarksville,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=clx,https://mawn.geo.msu.edu/station.asp?id=clx,Charlevoix,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=clt,https://mawn.geo.msu.edu/station.asp?id=clt,Charlotte (GLBRC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=cmc,https://mawn.geo.msu.edu/station.asp?id=cmc,Commerce Twp.,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=cnt,https://mawn.geo.msu.edu/station.asp?id=cnt,Constantine,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=cth,https://mawn.geo.msu.edu/station.asp?id=cth,Chatham,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=drf,https://mawn.geo.msu.edu/station.asp?id=drf,Deerfield / Blissfield,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=dow,https://mawn.geo.msu.edu/station.asp?id=dow,Dowagiac,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=elb,https://mawn.geo.msu.edu/station.asp?id=elb,Elbridge / Hart,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=eld,https://mawn.geo.msu.edu/station.asp?id=eld,East Leland,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=elk,https://mawn.geo.msu.edu/station.asp?id=elk,Elk Rapids,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=emt,https://mawn.geo.msu.edu/station.asp?id=emt,Emmett,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=ent,https://mawn.geo.msu.edu/station.asp?id=ent,Entrican,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=epr,https://mawn.geo.msu.edu/station.asp?id=epr,Eastport,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=esc,https://mawn.geo.msu.edu/station.asp?id=esc,Escanaba,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=fev,https://mawn.geo.msu.edu/station.asp?id=fev,Fennville,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=fgv,https://mawn.geo.msu.edu/station.asp?id=fgv,Fairgrove,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=flt,https://mawn.geo.msu.edu/station.asp?id=flt,Flint,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=frl,https://mawn.geo.msu.edu/station.asp?id=frl,Freeland,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=frm,https://mawn.geo.msu.edu/station.asp?id=frm,Fremont,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=gay,https://mawn.geo.msu.edu/station.asp?id=gay,Gaylord,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=grj,https://mawn.geo.msu.edu/station.asp?id=grj,Grand Junction,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=grt,https://mawn.geo.msu.edu/station.asp?id=grt,Grant,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=has,https://mawn.geo.msu.edu/station.asp?id=has,Haslett,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=haw,https://mawn.geo.msu.edu/station.asp?id=haw,Hawks,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=hdn,https://mawn.geo.msu.edu/station.asp?id=hdn,Hudson,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=hfd,https://mawn.geo.msu.edu/station.asp?id=hfd,Hartford,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=hrt,https://mawn.geo.msu.edu/station.asp?id=hrt,Hart,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=htc,https://mawn.geo.msu.edu/station.asp?id=htc,East Lansing (MSUHRTC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=hvl,https://mawn.geo.msu.edu/station.asp?id=hvl,Hudsonville,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=ith,https://mawn.geo.msu.edu/station.asp?id=ith,Ithaca,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=kal,https://mawn.geo.msu.edu/station.asp?id=kal,Kalkaska,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=kbs,https://mawn.geo.msu.edu/station.asp?id=kbs,Hickory Corners (MSUKBS),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=kct,https://mawn.geo.msu.edu/station.asp?id=kct,Kent City,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=klr,https://mawn.geo.msu.edu/station.asp?id=klr,Keeler,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=knd,https://mawn.geo.msu.edu/station.asp?id=knd,Kinde,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=kwd,https://mawn.geo.msu.edu/station.asp?id=kwd,Kewadin,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=kzo,https://mawn.geo.msu.edu/station.asp?id=kzo,Kalamazoo (GLBRC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=law,https://mawn.geo.msu.edu/station.asp?id=law,Lawton,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=ldt,https://mawn.geo.msu.edu/station.asp?id=ldt,Ludington,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=les,https://mawn.geo.msu.edu/station.asp?id=les,Leslie (GLBRC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=lin,https://mawn.geo.msu.edu/station.asp?id=lin,Linwood,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=llu,https://mawn.geo.msu.edu/station.asp?id=llu,Lake Leelanau,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=lpr,https://mawn.geo.msu.edu/station.asp?id=lpr,Lapeer,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=mcb,https://mawn.geo.msu.edu/station.asp?id=mcb,McBain,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=mct,https://mawn.geo.msu.edu/station.asp?id=mct,Mecosta,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=mea,https://mawn.geo.msu.edu/station.asp?id=mea,Mears,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=men,https://mawn.geo.msu.edu/station.asp?id=men,Mendon,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=mgr,https://mawn.geo.msu.edu/station.asp?id=mgr,Munger,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=mml,https://mawn.geo.msu.edu/station.asp?id=mml,McMillan / Newberry,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=mou,https://mawn.geo.msu.edu/station.asp?id=mou,Mount Pleasant (CMU),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=msu,https://mawn.geo.msu.edu/station.asp?id=msu,East Lansing (MSUHORT),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=ncm,https://mawn.geo.msu.edu/station.asp?id=ncm,Petoskey (NCMC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=ner,https://mawn.geo.msu.edu/station.asp?id=ner,New Era,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=nth,https://mawn.geo.msu.edu/station.asp?id=nth,Northport,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=nwm,https://mawn.geo.msu.edu/station.asp?id=nwm,Traverse City,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=obl,https://mawn.geo.msu.edu/station.asp?id=obl,Onekama Twp / Bear Lake,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=old,https://mawn.geo.msu.edu/station.asp?id=old,Old Mission,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=omn,https://mawn.geo.msu.edu/station.asp?id=omn,Omena,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=omp,https://mawn.geo.msu.edu/station.asp?id=omp,Old Mission-South,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=ost,https://mawn.geo.msu.edu/station.asp?id=ost,Oshtemo,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=pcc,https://mawn.geo.msu.edu/station.asp?id=pcc,Hastings (GLBRC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=pig,https://mawn.geo.msu.edu/station.asp?id=pig,Pigeon,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=pky,https://mawn.geo.msu.edu/station.asp?id=pky,Petoskey,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=rfw,https://mawn.geo.msu.edu/station.asp?id=rfw,Reeman / Fremont-West,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=rom,https://mawn.geo.msu.edu/station.asp?id=rom,Romeo,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=rvl,https://mawn.geo.msu.edu/station.asp?id=rvl,Richville / Frankenmuth,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=sbe,https://mawn.geo.msu.edu/station.asp?id=sbe,Shelby-East,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=scd,https://mawn.geo.msu.edu/station.asp?id=scd,Scottdale,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=sdk,https://mawn.geo.msu.edu/station.asp?id=sdk,Sandusky,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=shv,https://mawn.geo.msu.edu/station.asp?id=shv,South Haven,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=spn,https://mawn.geo.msu.edu/station.asp?id=spn,Sparta-North,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=spo,https://mawn.geo.msu.edu/station.asp?id=spo,Sparta,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=stn,https://mawn.geo.msu.edu/station.asp?id=stn,Standale / Walker,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=stv,https://mawn.geo.msu.edu/station.asp?id=stv,Stephenson,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=swm,https://mawn.geo.msu.edu/station.asp?id=swm,Benton Harbor,input/mawn/station-swm.html,saved named URL
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=tpd,https://mawn.geo.msu.edu/station.asp?id=tpd,Lawrence / Teapot Dome,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=ver,https://mawn.geo.msu.edu/station.asp?id=ver,Verona,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=wct,https://mawn.geo.msu.edu/station.asp?id=wct,Hart (10m tower),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=weo,https://mawn.geo.msu.edu/station.asp?id=weo,West Olive,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=wld,https://mawn.geo.msu.edu/station.asp?id=wld,Leland,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=wmt,https://mawn.geo.msu.edu/station.asp?id=wmt,Williamsburg (20m tower),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/station.asp?id=wmu,https://mawn.geo.msu.edu/station.asp?id=wmu,Kalamazoo (WMU),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/mawn-sw.html,https://mawn.geo.msu.edu/mawn-sw.html,Click to Zoom to SouthWest Region,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,area,href,/mawn-nw.html,https://mawn.geo.msu.edu/mawn-nw.html,Click to Zoom to NorthWest Region,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=mht,https://mawn.geo.msu.edu/station.asp?id=mht,East Lansing (MSUHORT) [10m],,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=gjn,https://mawn.geo.msu.edu/station.asp?id=gjn,Grand Junction [10m],,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=wct,https://mawn.geo.msu.edu/station.asp?id=wct,Hart (WCMREC) [10m],,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=spt,https://mawn.geo.msu.edu/station.asp?id=spt,Sparta [20m],,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=wmt,https://mawn.geo.msu.edu/station.asp?id=wmt,Williamsburg [20m],,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=alt,https://mawn.geo.msu.edu/station.asp?id=alt,Arlington (06/09/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=bat,https://mawn.geo.msu.edu/station.asp?id=bat,Bath (11/05/2014),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=blk,https://mawn.geo.msu.edu/station.asp?id=blk,Bear Lake (09/01/2020),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=lux,https://mawn.geo.msu.edu/station.asp?id=lux,Casco / Luxemburg (08/24/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=ehb,https://mawn.geo.msu.edu/station.asp?id=ehb,Egg Harbor (08/18/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=gde,https://mawn.geo.msu.edu/station.asp?id=gde,Goodells (10/28/2006),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=hck,https://mawn.geo.msu.edu/station.asp?id=hck,Hancock (09/19/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=kws,https://mawn.geo.msu.edu/station.asp?id=kws,Kewaunee / Stangelville (08/24/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=lct,https://mawn.geo.msu.edu/station.asp?id=lct,Lancaster (09/19/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=mar,https://mawn.geo.msu.edu/station.asp?id=mar,Marshfield (09/19/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=nsw,https://mawn.geo.msu.edu/station.asp?id=nsw,Nasewaupee / S. Door County (08/17/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=ptr,https://mawn.geo.msu.edu/station.asp?id=ptr,Petersburg / Dundee (02/15/2017),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=rhn,https://mawn.geo.msu.edu/station.asp?id=rhn,Rhinelander (09/19/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=sga,https://mawn.geo.msu.edu/station.asp?id=sga,Saginaw (11/26/2008),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=srb,https://mawn.geo.msu.edu/station.asp?id=srb,Sister Bay / Liberty Grove (08/18/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=pnr,https://mawn.geo.msu.edu/station.asp?id=pnr,Spooner (09/19/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=stb,https://mawn.geo.msu.edu/station.asp?id=stb,Sturgeon Bay (08/16/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=sdr,https://mawn.geo.msu.edu/station.asp?id=sdr,Sturgeon Bay / Southern Door (08/17/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=wjp,https://mawn.geo.msu.edu/station.asp?id=wjp,West Jacksonport (08/18/2023),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=aet,https://mawn.geo.msu.edu/station.asp?id=aet,Aetna / Fremont,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=alb,https://mawn.geo.msu.edu/station.asp?id=alb,Albion,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=alg,https://mawn.geo.msu.edu/station.asp?id=alg,Allegan,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=acp,https://mawn.geo.msu.edu/station.asp?id=acp,Alpine Twp / Comstock Park,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=arl,https://mawn.geo.msu.edu/station.asp?id=arl,Arlene,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=bbc,https://mawn.geo.msu.edu/station.asp?id=bbc,Bainbridge Center / Watervliet,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=bel,https://mawn.geo.msu.edu/station.asp?id=bel,Belding,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=bna,https://mawn.geo.msu.edu/station.asp?id=bna,Benona / Shelby,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=swm,https://mawn.geo.msu.edu/station.asp?id=swm,Benton Harbor / SWMREC,input/mawn/station-swm.html,saved named URL
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=bnz,https://mawn.geo.msu.edu/station.asp?id=bnz,Benzonia,input/mawn/station-bnz.html,saved named URL
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=brs,https://mawn.geo.msu.edu/station.asp?id=brs,Berrien Springs,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=cas,https://mawn.geo.msu.edu/station.asp?id=cas,Cassopolis (GLBRC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=cer,https://mawn.geo.msu.edu/station.asp?id=cer,Ceresco,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=clx,https://mawn.geo.msu.edu/station.asp?id=clx,Charlevoix,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=clt,https://mawn.geo.msu.edu/station.asp?id=clt,Charlotte (GLBRC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=cth,https://mawn.geo.msu.edu/station.asp?id=cth,Chatham,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=clr,https://mawn.geo.msu.edu/station.asp?id=clr,Clarksville,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=cld,https://mawn.geo.msu.edu/station.asp?id=cld,Coldwater,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=cmc,https://mawn.geo.msu.edu/station.asp?id=cmc,Commerce Twp.,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=cnk,https://mawn.geo.msu.edu/station.asp?id=cnk,Conklin / Wright,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=cnt,https://mawn.geo.msu.edu/station.asp?id=cnt,Constantine,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=drf,https://mawn.geo.msu.edu/station.asp?id=drf,Deerfield / Blissfield,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=dow,https://mawn.geo.msu.edu/station.asp?id=dow,Dowagiac,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=msu,https://mawn.geo.msu.edu/station.asp?id=msu,East Lansing / MSUHORT,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=htc,https://mawn.geo.msu.edu/station.asp?id=htc,East Lansing / MSUHTRC,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=eld,https://mawn.geo.msu.edu/station.asp?id=eld,East Leland / Suttons Bay,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=epr,https://mawn.geo.msu.edu/station.asp?id=epr,Eastport,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=elb,https://mawn.geo.msu.edu/station.asp?id=elb,Elbridge / Hart,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=elk,https://mawn.geo.msu.edu/station.asp?id=elk,Elk Rapids,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=emt,https://mawn.geo.msu.edu/station.asp?id=emt,Emmett,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=ent,https://mawn.geo.msu.edu/station.asp?id=ent,Entrican/Lakeview,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=esc,https://mawn.geo.msu.edu/station.asp?id=esc,Escanaba,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=fgv,https://mawn.geo.msu.edu/station.asp?id=fgv,Fairgrove,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=fev,https://mawn.geo.msu.edu/station.asp?id=fev,Fennville,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=flt,https://mawn.geo.msu.edu/station.asp?id=flt,Flint,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=frl,https://mawn.geo.msu.edu/station.asp?id=frl,Freeland,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=frm,https://mawn.geo.msu.edu/station.asp?id=frm,Fremont,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=gay,https://mawn.geo.msu.edu/station.asp?id=gay,Gaylord,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=grj,https://mawn.geo.msu.edu/station.asp?id=grj,Grand Junction,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=grt,https://mawn.geo.msu.edu/station.asp?id=grt,Grant,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=hrt,https://mawn.geo.msu.edu/station.asp?id=hrt,Hart,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=hfd,https://mawn.geo.msu.edu/station.asp?id=hfd,Hartford,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=has,https://mawn.geo.msu.edu/station.asp?id=has,Haslett,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=pcc,https://mawn.geo.msu.edu/station.asp?id=pcc,Hastings (GLBRC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=haw,https://mawn.geo.msu.edu/station.asp?id=haw,Hawks,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=kbs,https://mawn.geo.msu.edu/station.asp?id=kbs,Hickory Corners / MSUKBS,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=hdn,https://mawn.geo.msu.edu/station.asp?id=hdn,Hudson,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=hvl,https://mawn.geo.msu.edu/station.asp?id=hvl,Hudsonville,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=ith,https://mawn.geo.msu.edu/station.asp?id=ith,Ithaca,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=kzo,https://mawn.geo.msu.edu/station.asp?id=kzo,Kalamazoo (GLBRC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=wmu,https://mawn.geo.msu.edu/station.asp?id=wmu,Kalamazoo (WMU),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=kal,https://mawn.geo.msu.edu/station.asp?id=kal,Kalkaska,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=klr,https://mawn.geo.msu.edu/station.asp?id=klr,Keeler,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=kct,https://mawn.geo.msu.edu/station.asp?id=kct,Kent City,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=kwd,https://mawn.geo.msu.edu/station.asp?id=kwd,Kewadin,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=knd,https://mawn.geo.msu.edu/station.asp?id=knd,Kinde,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=llu,https://mawn.geo.msu.edu/station.asp?id=llu,Lake Leelanau,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=lpr,https://mawn.geo.msu.edu/station.asp?id=lpr,Lapeer,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=tpd,https://mawn.geo.msu.edu/station.asp?id=tpd,Lawrence / Teapot Dome,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=law,https://mawn.geo.msu.edu/station.asp?id=law,Lawton,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=wld,https://mawn.geo.msu.edu/station.asp?id=wld,Leland,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=les,https://mawn.geo.msu.edu/station.asp?id=les,Leslie (GLBRC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=lin,https://mawn.geo.msu.edu/station.asp?id=lin,Linwood,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=ldt,https://mawn.geo.msu.edu/station.asp?id=ldt,Ludington,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=mcb,https://mawn.geo.msu.edu/station.asp?id=mcb,McBain,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=mml,https://mawn.geo.msu.edu/station.asp?id=mml,McMillan / Newberry,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=mea,https://mawn.geo.msu.edu/station.asp?id=mea,Mears,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=mct,https://mawn.geo.msu.edu/station.asp?id=mct,Mecosta,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=men,https://mawn.geo.msu.edu/station.asp?id=men,Mendon,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=mou,https://mawn.geo.msu.edu/station.asp?id=mou,Mount Pleasant (CMU),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=mgr,https://mawn.geo.msu.edu/station.asp?id=mgr,Munger,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=ner,https://mawn.geo.msu.edu/station.asp?id=ner,New Era,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=nth,https://mawn.geo.msu.edu/station.asp?id=nth,Northport,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=old,https://mawn.geo.msu.edu/station.asp?id=old,Old Mission,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=omp,https://mawn.geo.msu.edu/station.asp?id=omp,Old Mission-South,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=omn,https://mawn.geo.msu.edu/station.asp?id=omn,Omena,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=obl,https://mawn.geo.msu.edu/station.asp?id=obl,Onekama Twp / Bear Lake,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=ost,https://mawn.geo.msu.edu/station.asp?id=ost,Oshtemo,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=pky,https://mawn.geo.msu.edu/station.asp?id=pky,Petoskey,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=ncm,https://mawn.geo.msu.edu/station.asp?id=ncm,Petoskey (NCMC),,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=pig,https://mawn.geo.msu.edu/station.asp?id=pig,Pigeon,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=rfw,https://mawn.geo.msu.edu/station.asp?id=rfw,Reeman / Fremont-West,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=rvl,https://mawn.geo.msu.edu/station.asp?id=rvl,Richville / Frankenmuth,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=rom,https://mawn.geo.msu.edu/station.asp?id=rom,Romeo,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=sdk,https://mawn.geo.msu.edu/station.asp?id=sdk,Sandusky,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=scd,https://mawn.geo.msu.edu/station.asp?id=scd,Scottdale,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=sbe,https://mawn.geo.msu.edu/station.asp?id=sbe,Shelby-East,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=shv,https://mawn.geo.msu.edu/station.asp?id=shv,South Haven,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=spo,https://mawn.geo.msu.edu/station.asp?id=spo,Sparta,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=spn,https://mawn.geo.msu.edu/station.asp?id=spn,Sparta-North,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=stn,https://mawn.geo.msu.edu/station.asp?id=stn,Standale / Walker,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=stv,https://mawn.geo.msu.edu/station.asp?id=stv,Stephenson,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=nwm,https://mawn.geo.msu.edu/station.asp?id=nwm,Traverse City / NWMHRS,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=ver,https://mawn.geo.msu.edu/station.asp?id=ver,Verona,,link reference only; not fetched
+https://mawn.geo.msu.edu/,input/mawn/home.html,a,href,/station.asp?id=weo,https://mawn.geo.msu.edu/station.asp?id=weo,West Olive,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,img,src,/icons/blank.gif,https://mawn.geo.msu.edu/icons/blank.gif,Icon,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,?C=N;O=D,https://mawn.geo.msu.edu/rawdata/?C=N;O=D,Name,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,?C=M;O=A,https://mawn.geo.msu.edu/rawdata/?C=M;O=A,Last modified,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,?C=S;O=A,https://mawn.geo.msu.edu/rawdata/?C=S;O=A,Size,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,img,src,/icons/back.gif,https://mawn.geo.msu.edu/icons/back.gif,[PARENTDIR],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,/,https://mawn.geo.msu.edu/,Parent Directory,input/mawn/home.html,saved named URL
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,img,src,/icons/folder.gif,https://mawn.geo.msu.edu/icons/folder.gif,[DIR],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,1wk/,https://mawn.geo.msu.edu/rawdata/1wk/,1wk/,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,img,src,/icons/folder.gif,https://mawn.geo.msu.edu/icons/folder.gif,[DIR],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,3hr/,https://mawn.geo.msu.edu/rawdata/3hr/,3hr/,input/rawdata/3hr-index.html,saved named URL
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,img,src,/icons/folder.gif,https://mawn.geo.msu.edu/icons/folder.gif,[DIR],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,3mo/,https://mawn.geo.msu.edu/rawdata/3mo/,3mo/,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,img,src,/icons/folder.gif,https://mawn.geo.msu.edu/icons/folder.gif,[DIR],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,disabled/,https://mawn.geo.msu.edu/rawdata/disabled/,disabled/,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,img,src,/icons/folder.gif,https://mawn.geo.msu.edu/icons/folder.gif,[DIR],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,mcemo/,https://mawn.geo.msu.edu/rawdata/mcemo/,mcemo/,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,img,src,/icons/folder.gif,https://mawn.geo.msu.edu/icons/folder.gif,[DIR],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,meta/,https://mawn.geo.msu.edu/rawdata/meta/,meta/,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,img,src,/icons/folder.gif,https://mawn.geo.msu.edu/icons/folder.gif,[DIR],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,mrcc/,https://mawn.geo.msu.edu/rawdata/mrcc/,mrcc/,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,img,src,/icons/folder.gif,https://mawn.geo.msu.edu/icons/folder.gif,[DIR],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,nrcc/,https://mawn.geo.msu.edu/rawdata/nrcc/,nrcc/,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,img,src,/icons/folder.gif,https://mawn.geo.msu.edu/icons/folder.gif,[DIR],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,solar_fcsts/,https://mawn.geo.msu.edu/rawdata/solar_fcsts/,solar_fcsts/,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,img,src,/icons/folder.gif,https://mawn.geo.msu.edu/icons/folder.gif,[DIR],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,a,href,unl-soysim/,https://mawn.geo.msu.edu/rawdata/unl-soysim/,unl-soysim/,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,link,href,./style.css,https://www.agweather.geo.msu.edu/style.css,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,http://www.msu.edu,http://www.msu.edu,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,img,src,/images/msulogo.gif,https://www.agweather.geo.msu.edu/images/msulogo.gif,MSU Home,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,/index.html,https://www.agweather.geo.msu.edu/index.html,Main,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,/info/,https://www.agweather.geo.msu.edu/info/,Information,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,/current/,https://www.agweather.geo.msu.edu/current/,Current Weather,input/agweather/current.html,saved named URL
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,/forecasts/,https://www.agweather.geo.msu.edu/forecasts/,Forecast Products,input/agweather/forecasts.html,saved named URL
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,/articles/,https://www.agweather.geo.msu.edu/articles/,Feature Articles,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,/links/,https://www.agweather.geo.msu.edu/links/,Other Sites,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,Michigan Automated Weather Network (MAWN),,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,http://enviroweather.msu.edu,http://enviroweather.msu.edu,Enviro-Weather,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,img,src,/images/harvest1.jpg,https://www.agweather.geo.msu.edu/images/harvest1.jpg,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,http://www.enviro-weather.msu.edu,http://www.enviro-weather.msu.edu,Enviro-Weather,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,http://www.msue.msu.edu,http://www.msue.msu.edu,MSU Extension,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,https://www.canr.msu.edu/research/index,https://www.canr.msu.edu/research/index,MSU AgBioResearch,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,http://www.geo.msu.edu,http://www.geo.msu.edu,"MSU Department of Geography, Environment, and Spatial Sciences",,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,http://climate.geo.msu.edu,http://climate.geo.msu.edu,MSU Climatology Office,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,https://mawn.geo.msu.edu/station.asp?id=omp,https://mawn.geo.msu.edu/station.asp?id=omp,Old Mission-South,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,https://mawn.geo.msu.edu/station.asp?id=omn,https://mawn.geo.msu.edu/station.asp?id=omn,Omena,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,https://mawn.geo.msu.edu/station.asp?id=llu,https://mawn.geo.msu.edu/station.asp?id=llu,Lake Leelanau,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,a,href,https://mawn.geo.msu.edu/station.asp?id=wct,https://mawn.geo.msu.edu/station.asp?id=wct,Hart (WCMREC) [10m],,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,link,href,style.css,https://climate.geo.msu.edu/style.css,,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,img,src,images/mich_cli_wordmark.png,https://climate.geo.msu.edu/images/mich_cli_wordmark.png,Michigan State Climatologist's Office,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,index.html,https://climate.geo.msu.edu/index.html,Home,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,about_us.html,https://climate.geo.msu.edu/about_us.html,About Us,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,http://www.agweather.geo.msu.edu,http://www.agweather.geo.msu.edu,MSU Ag Weather Office,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,climate_maps.html,https://climate.geo.msu.edu/climate_maps.html,Michigan Climate Maps,input/climate/climate_maps.html,saved named URL
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,semcog/sem/mainsem.html,https://climate.geo.msu.edu/semcog/sem/mainsem.html,SEMCOG Precip Data,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,climate_mi/index.html,https://climate.geo.msu.edu/climate_mi/index.html,Climate Statistics: Normals & Statistics,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,climate_maps.html,https://climate.geo.msu.edu/climate_maps.html,,input/climate/climate_maps.html,saved named URL
+https://climate.geo.msu.edu/,input/climate/home.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png,Total Precip last 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,climate_maps.html,https://climate.geo.msu.edu/climate_maps.html,,input/climate/climate_maps.html,saved named URL
+https://climate.geo.msu.edu/,input/climate/home.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png,Average Temperature last 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,http://www.geo.msu.edu,http://www.geo.msu.edu,MSU Department of Geography,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,http://agbioresearch.msu.edu/,http://agbioresearch.msu.edu/,Michigan State University AgBioResearch,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,http://msue.msu.edu/,http://msue.msu.edu/,MSU Extension,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,http://www.semcog.org,http://www.semcog.org,Southeast Michigan Council of Governments (SEMCOG),,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,climate_mi/index.html,https://climate.geo.msu.edu/climate_mi/index.html,Michigan Map,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,semcog/sem/mainsem.html,https://climate.geo.msu.edu/semcog/sem/mainsem.html,click here,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,http://www.agweather.geo.msu.edu,http://www.agweather.geo.msu.edu,MSU Agriculture Weather Office Web site.,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,climate_maps.html,https://climate.geo.msu.edu/climate_maps.html,"Michigan Climate Watch maps for 7, 30 and 90 days",input/climate/climate_maps.html,saved named URL
+https://climate.geo.msu.edu/,input/climate/home.html,a,href,http://www.msu.edu,http://www.msu.edu,,,link reference only; not fetched
+https://climate.geo.msu.edu/,input/climate/home.html,img,src,images/wordmark_pos_gray_120.png,https://climate.geo.msu.edu/images/wordmark_pos_gray_120.png,Go to MSU homepage,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,link,href,./style.css,https://mawn.geo.msu.edu/style.css,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,link,href,./mawnicon.ico,https://mawn.geo.msu.edu/mawnicon.ico,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,img,src,/images/MAWNlinksBar.gif,https://mawn.geo.msu.edu/images/MAWNlinksBar.gif,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,area,href,http://www.msu.edu,http://www.msu.edu,MSU,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,area,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,MAWN Home,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,area,href,http://www.enviro-weather.msu.edu,http://www.enviro-weather.msu.edu,Enviro-Weather,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,area,href,http://www.agweather.geo.msu.edu,http://www.agweather.geo.msu.edu,MSU AgWeather,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,area,href,http://climate.geo.msu.edu,http://climate.geo.msu.edu,MSU Climatologist's Office,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,area,href,http://www.geo.msu.edu,http://www.geo.msu.edu,MSU Department of Geography,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,area,href,http://www.greeen.msu.edu,http://www.greeen.msu.edu,Project GREEEN,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,area,href,http://www.msue.msu.edu,http://www.msue.msu.edu,MSU Extension,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,area,href,http://www.maes.msu.edu,http://www.maes.msu.edu,MSU Ag Experiment Station,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,a,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,img,src,/images/MAWNheader.gif,https://mawn.geo.msu.edu/images/MAWNheader.gif,MAWN Home,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,img,src,./images/stations/bnz.jpg,https://mawn.geo.msu.edu/images/stations/bnz.jpg,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,img,src,/images/grnarrow2.gif,https://mawn.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,a,href,./report.asp?fileid=bnzd,https://mawn.geo.msu.edu/report.asp?fileid=bnzd,Daily Data,input/mawn/report-bnzd.html,saved named URL
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,img,src,/images/grnarrow2.gif,https://mawn.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,a,href,./report.asp?fileid=bnzh,https://mawn.geo.msu.edu/report.asp?fileid=bnzh,Hourly Data,input/mawn/report-bnzh.html,saved named URL
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,img,src,/images/grnarrow2.gif,https://mawn.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,a,href,./report.asp?fileid=bnzm,https://mawn.geo.msu.edu/report.asp?fileid=bnzm,Maintenance Reports,input/mawn/report-bnzm.html,saved named URL
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,link,href,./style.css,https://mawn.geo.msu.edu/style.css,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,link,href,./mawnicon.ico,https://mawn.geo.msu.edu/mawnicon.ico,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,img,src,/images/MAWNlinksBar.gif,https://mawn.geo.msu.edu/images/MAWNlinksBar.gif,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,area,href,http://www.msu.edu,http://www.msu.edu,MSU,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,area,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,MAWN Home,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,area,href,http://www.enviro-weather.msu.edu,http://www.enviro-weather.msu.edu,Enviro-Weather,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,area,href,http://www.agweather.geo.msu.edu,http://www.agweather.geo.msu.edu,MSU AgWeather,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,area,href,http://climate.geo.msu.edu,http://climate.geo.msu.edu,MSU Climatologist's Office,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,area,href,http://www.geo.msu.edu,http://www.geo.msu.edu,MSU Department of Geography,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,area,href,http://www.greeen.msu.edu,http://www.greeen.msu.edu,Project GREEEN,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,area,href,http://www.msue.msu.edu,http://www.msue.msu.edu,MSU Extension,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,area,href,http://www.maes.msu.edu,http://www.maes.msu.edu,MSU Ag Experiment Station,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,a,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,img,src,/images/MAWNheader.gif,https://mawn.geo.msu.edu/images/MAWNheader.gif,MAWN Home,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,img,src,./images/stations/swm.jpg,https://mawn.geo.msu.edu/images/stations/swm.jpg,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,img,src,/images/grnarrow2.gif,https://mawn.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,a,href,./report.asp?fileid=swmd,https://mawn.geo.msu.edu/report.asp?fileid=swmd,Daily Data,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,img,src,/images/grnarrow2.gif,https://mawn.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,a,href,./report.asp?fileid=swmh,https://mawn.geo.msu.edu/report.asp?fileid=swmh,Hourly Data,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,img,src,/images/grnarrow2.gif,https://mawn.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,a,href,./report.asp?fileid=swmm,https://mawn.geo.msu.edu/report.asp?fileid=swmm,Maintenance Reports,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,link,href,./style.css,https://mawn.geo.msu.edu/style.css,,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,link,href,./mawnicon.ico,https://mawn.geo.msu.edu/mawnicon.ico,,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,img,src,/images/MAWNlinksBar.gif,https://mawn.geo.msu.edu/images/MAWNlinksBar.gif,,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,area,href,http://www.msu.edu,http://www.msu.edu,MSU,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,area,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,MAWN Home,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,area,href,http://www.enviro-weather.msu.edu,http://www.enviro-weather.msu.edu,Enviro-Weather,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,area,href,http://www.agweather.geo.msu.edu,http://www.agweather.geo.msu.edu,MSU AgWeather,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,area,href,http://climate.geo.msu.edu,http://climate.geo.msu.edu,MSU Climatologist's Office,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,area,href,http://www.geo.msu.edu,http://www.geo.msu.edu,MSU Department of Geography,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,area,href,http://www.greeen.msu.edu,http://www.greeen.msu.edu,Project GREEEN,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,area,href,http://www.msue.msu.edu,http://www.msue.msu.edu,MSU Extension,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,area,href,http://www.maes.msu.edu,http://www.maes.msu.edu,MSU Ag Experiment Station,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,a,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,img,src,/images/MAWNheader.gif,https://mawn.geo.msu.edu/images/MAWNheader.gif,MAWN Home,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,link,href,./style.css,https://mawn.geo.msu.edu/style.css,,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,link,href,./mawnicon.ico,https://mawn.geo.msu.edu/mawnicon.ico,,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,img,src,/images/MAWNlinksBar.gif,https://mawn.geo.msu.edu/images/MAWNlinksBar.gif,,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,area,href,http://www.msu.edu,http://www.msu.edu,MSU,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,area,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,MAWN Home,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,area,href,http://www.enviro-weather.msu.edu,http://www.enviro-weather.msu.edu,Enviro-Weather,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,area,href,http://www.agweather.geo.msu.edu,http://www.agweather.geo.msu.edu,MSU AgWeather,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,area,href,http://climate.geo.msu.edu,http://climate.geo.msu.edu,MSU Climatologist's Office,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,area,href,http://www.geo.msu.edu,http://www.geo.msu.edu,MSU Department of Geography,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,area,href,http://www.greeen.msu.edu,http://www.greeen.msu.edu,Project GREEEN,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,area,href,http://www.msue.msu.edu,http://www.msue.msu.edu,MSU Extension,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,area,href,http://www.maes.msu.edu,http://www.maes.msu.edu,MSU Ag Experiment Station,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,a,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,img,src,/images/MAWNheader.gif,https://mawn.geo.msu.edu/images/MAWNheader.gif,MAWN Home,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,link,href,./style.css,https://mawn.geo.msu.edu/style.css,,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,link,href,./mawnicon.ico,https://mawn.geo.msu.edu/mawnicon.ico,,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,img,src,/images/MAWNlinksBar.gif,https://mawn.geo.msu.edu/images/MAWNlinksBar.gif,,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,area,href,http://www.msu.edu,http://www.msu.edu,MSU,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,area,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,MAWN Home,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,area,href,http://www.enviro-weather.msu.edu,http://www.enviro-weather.msu.edu,Enviro-Weather,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,area,href,http://www.agweather.geo.msu.edu,http://www.agweather.geo.msu.edu,MSU AgWeather,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,area,href,http://climate.geo.msu.edu,http://climate.geo.msu.edu,MSU Climatologist's Office,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,area,href,http://www.geo.msu.edu,http://www.geo.msu.edu,MSU Department of Geography,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,area,href,http://www.greeen.msu.edu,http://www.greeen.msu.edu,Project GREEEN,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,area,href,http://www.msue.msu.edu,http://www.msue.msu.edu,MSU Extension,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,area,href,http://www.maes.msu.edu,http://www.maes.msu.edu,MSU Ag Experiment Station,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,a,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,,,link reference only; not fetched
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,img,src,/images/MAWNheader.gif,https://mawn.geo.msu.edu/images/MAWNheader.gif,MAWN Home,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/blank.gif,https://mawn.geo.msu.edu/icons/blank.gif,Icon,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,?C=N;O=D,https://mawn.geo.msu.edu/rawdata/3hr/?C=N;O=D,Name,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,?C=M;O=A,https://mawn.geo.msu.edu/rawdata/3hr/?C=M;O=A,Last modified,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,?C=S;O=A,https://mawn.geo.msu.edu/rawdata/3hr/?C=S;O=A,Size,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/back.gif,https://mawn.geo.msu.edu/icons/back.gif,[PARENTDIR],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,/rawdata/,https://mawn.geo.msu.edu/rawdata/,Parent Directory,input/rawdata/index.html,saved named URL
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,aetna,https://mawn.geo.msu.edu/rawdata/3hr/aetna,aetna,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,albion,https://mawn.geo.msu.edu/rawdata/3hr/albion,albion,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,allegan,https://mawn.geo.msu.edu/rawdata/3hr/allegan,allegan,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,alpine,https://mawn.geo.msu.edu/rawdata/3hr/alpine,alpine,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,arlene,https://mawn.geo.msu.edu/rawdata/3hr/arlene,arlene,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,bainbridge,https://mawn.geo.msu.edu/rawdata/3hr/bainbridge,bainbridge,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,belding,https://mawn.geo.msu.edu/rawdata/3hr/belding,belding,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,benona,https://mawn.geo.msu.edu/rawdata/3hr/benona,benona,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,benzonia,https://mawn.geo.msu.edu/rawdata/3hr/benzonia,benzonia,input/rawdata/3hr/benzonia,saved named URL
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,berriensprings,https://mawn.geo.msu.edu/rawdata/3hr/berriensprings,berriensprings,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,cassopolis,https://mawn.geo.msu.edu/rawdata/3hr/cassopolis,cassopolis,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,ceresco,https://mawn.geo.msu.edu/rawdata/3hr/ceresco,ceresco,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,charlevoix,https://mawn.geo.msu.edu/rawdata/3hr/charlevoix,charlevoix,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,charlotte,https://mawn.geo.msu.edu/rawdata/3hr/charlotte,charlotte,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,chatham,https://mawn.geo.msu.edu/rawdata/3hr/chatham,chatham,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,clarksville,https://mawn.geo.msu.edu/rawdata/3hr/clarksville,clarksville,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,coldwater,https://mawn.geo.msu.edu/rawdata/3hr/coldwater,coldwater,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,commercetwp,https://mawn.geo.msu.edu/rawdata/3hr/commercetwp,commercetwp,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,conklin,https://mawn.geo.msu.edu/rawdata/3hr/conklin,conklin,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,constantine,https://mawn.geo.msu.edu/rawdata/3hr/constantine,constantine,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,deerfield,https://mawn.geo.msu.edu/rawdata/3hr/deerfield,deerfield,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,dowagiac,https://mawn.geo.msu.edu/rawdata/3hr/dowagiac,dowagiac,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,eastleland,https://mawn.geo.msu.edu/rawdata/3hr/eastleland,eastleland,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,eastport,https://mawn.geo.msu.edu/rawdata/3hr/eastport,eastport,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,elbridge,https://mawn.geo.msu.edu/rawdata/3hr/elbridge,elbridge,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,elkrapids,https://mawn.geo.msu.edu/rawdata/3hr/elkrapids,elkrapids,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,emmett,https://mawn.geo.msu.edu/rawdata/3hr/emmett,emmett,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,entrican,https://mawn.geo.msu.edu/rawdata/3hr/entrican,entrican,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,escanaba,https://mawn.geo.msu.edu/rawdata/3hr/escanaba,escanaba,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,fairgrove,https://mawn.geo.msu.edu/rawdata/3hr/fairgrove,fairgrove,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,fennville,https://mawn.geo.msu.edu/rawdata/3hr/fennville,fennville,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,flint,https://mawn.geo.msu.edu/rawdata/3hr/flint,flint,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,freeland,https://mawn.geo.msu.edu/rawdata/3hr/freeland,freeland,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,fremont,https://mawn.geo.msu.edu/rawdata/3hr/fremont,fremont,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,gaylord,https://mawn.geo.msu.edu/rawdata/3hr/gaylord,gaylord,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,grandjunction,https://mawn.geo.msu.edu/rawdata/3hr/grandjunction,grandjunction,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,grandjunction10,https://mawn.geo.msu.edu/rawdata/3hr/grandjunction10,grandjunction10,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,grant,https://mawn.geo.msu.edu/rawdata/3hr/grant,grant,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,hart,https://mawn.geo.msu.edu/rawdata/3hr/hart,hart,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,hart10,https://mawn.geo.msu.edu/rawdata/3hr/hart10,hart10,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,hartford,https://mawn.geo.msu.edu/rawdata/3hr/hartford,hartford,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,haslett,https://mawn.geo.msu.edu/rawdata/3hr/haslett,haslett,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,hastings,https://mawn.geo.msu.edu/rawdata/3hr/hastings,hastings,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,hawks,https://mawn.geo.msu.edu/rawdata/3hr/hawks,hawks,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,hudson,https://mawn.geo.msu.edu/rawdata/3hr/hudson,hudson,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,hudsonville,https://mawn.geo.msu.edu/rawdata/3hr/hudsonville,hudsonville,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,ithaca,https://mawn.geo.msu.edu/rawdata/3hr/ithaca,ithaca,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,kalamazoo,https://mawn.geo.msu.edu/rawdata/3hr/kalamazoo,kalamazoo,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,kalkaska,https://mawn.geo.msu.edu/rawdata/3hr/kalkaska,kalkaska,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,keeler,https://mawn.geo.msu.edu/rawdata/3hr/keeler,keeler,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,kentcity,https://mawn.geo.msu.edu/rawdata/3hr/kentcity,kentcity,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,kewadin,https://mawn.geo.msu.edu/rawdata/3hr/kewadin,kewadin,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,kinde,https://mawn.geo.msu.edu/rawdata/3hr/kinde,kinde,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,lakeleelanau,https://mawn.geo.msu.edu/rawdata/3hr/lakeleelanau,lakeleelanau,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,lapeer,https://mawn.geo.msu.edu/rawdata/3hr/lapeer,lapeer,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,lawrence,https://mawn.geo.msu.edu/rawdata/3hr/lawrence,lawrence,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,lawton,https://mawn.geo.msu.edu/rawdata/3hr/lawton,lawton,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,leslie,https://mawn.geo.msu.edu/rawdata/3hr/leslie,leslie,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,linwood,https://mawn.geo.msu.edu/rawdata/3hr/linwood,linwood,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,ludington,https://mawn.geo.msu.edu/rawdata/3hr/ludington,ludington,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,mcbain,https://mawn.geo.msu.edu/rawdata/3hr/mcbain,mcbain,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,mcmillan,https://mawn.geo.msu.edu/rawdata/3hr/mcmillan,mcmillan,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,mears,https://mawn.geo.msu.edu/rawdata/3hr/mears,mears,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,mecosta,https://mawn.geo.msu.edu/rawdata/3hr/mecosta,mecosta,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,mendon,https://mawn.geo.msu.edu/rawdata/3hr/mendon,mendon,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,mountpleasant,https://mawn.geo.msu.edu/rawdata/3hr/mountpleasant,mountpleasant,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,msuhort,https://mawn.geo.msu.edu/rawdata/3hr/msuhort,msuhort,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,msuhort10,https://mawn.geo.msu.edu/rawdata/3hr/msuhort10,msuhort10,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,msuhtrc,https://mawn.geo.msu.edu/rawdata/3hr/msuhtrc,msuhtrc,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,msukbs,https://mawn.geo.msu.edu/rawdata/3hr/msukbs,msukbs,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,munger,https://mawn.geo.msu.edu/rawdata/3hr/munger,munger,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,ncmc,https://mawn.geo.msu.edu/rawdata/3hr/ncmc,ncmc,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,newera,https://mawn.geo.msu.edu/rawdata/3hr/newera,newera,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,northport,https://mawn.geo.msu.edu/rawdata/3hr/northport,northport,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,nwmhrs,https://mawn.geo.msu.edu/rawdata/3hr/nwmhrs,nwmhrs,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,oldmission,https://mawn.geo.msu.edu/rawdata/3hr/oldmission,oldmission,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,oldmissionsouth,https://mawn.geo.msu.edu/rawdata/3hr/oldmissionsouth,oldmissionsouth,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,omena,https://mawn.geo.msu.edu/rawdata/3hr/omena,omena,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,onekama,https://mawn.geo.msu.edu/rawdata/3hr/onekama,onekama,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,oshtemo,https://mawn.geo.msu.edu/rawdata/3hr/oshtemo,oshtemo,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,petoskey,https://mawn.geo.msu.edu/rawdata/3hr/petoskey,petoskey,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,pigeon,https://mawn.geo.msu.edu/rawdata/3hr/pigeon,pigeon,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,reeman,https://mawn.geo.msu.edu/rawdata/3hr/reeman,reeman,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,richville,https://mawn.geo.msu.edu/rawdata/3hr/richville,richville,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,romeo,https://mawn.geo.msu.edu/rawdata/3hr/romeo,romeo,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,sandusky,https://mawn.geo.msu.edu/rawdata/3hr/sandusky,sandusky,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,scottdale,https://mawn.geo.msu.edu/rawdata/3hr/scottdale,scottdale,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,shelbyeast,https://mawn.geo.msu.edu/rawdata/3hr/shelbyeast,shelbyeast,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,southhaven,https://mawn.geo.msu.edu/rawdata/3hr/southhaven,southhaven,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,sparta,https://mawn.geo.msu.edu/rawdata/3hr/sparta,sparta,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,sparta20,https://mawn.geo.msu.edu/rawdata/3hr/sparta20,sparta20,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,spartanorth,https://mawn.geo.msu.edu/rawdata/3hr/spartanorth,spartanorth,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,standale,https://mawn.geo.msu.edu/rawdata/3hr/standale,standale,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,stephenson,https://mawn.geo.msu.edu/rawdata/3hr/stephenson,stephenson,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,swmrec,https://mawn.geo.msu.edu/rawdata/3hr/swmrec,swmrec,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,verona,https://mawn.geo.msu.edu/rawdata/3hr/verona,verona,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,westleland,https://mawn.geo.msu.edu/rawdata/3hr/westleland,westleland,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,westolive,https://mawn.geo.msu.edu/rawdata/3hr/westolive,westolive,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,williamsburg20,https://mawn.geo.msu.edu/rawdata/3hr/williamsburg20,williamsburg20,,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,img,src,/icons/unknown.gif,https://mawn.geo.msu.edu/icons/unknown.gif,[ ],,link reference only; not fetched
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,a,href,wmich,https://mawn.geo.msu.edu/rawdata/3hr/wmich,wmich,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,link,href,./style.css,https://www.agweather.geo.msu.edu/current/style.css,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,http://www.msu.edu,http://www.msu.edu,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/msulogo.gif,https://www.agweather.geo.msu.edu/images/msulogo.gif,MSU Home,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,/index.html,https://www.agweather.geo.msu.edu/index.html,Main,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,/info/,https://www.agweather.geo.msu.edu/info/,Information,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,/current/,https://www.agweather.geo.msu.edu/current/,Current Weather,input/agweather/current.html,saved named URL
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,/forecasts/,https://www.agweather.geo.msu.edu/forecasts/,Forecast Products,input/agweather/forecasts.html,saved named URL
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,/articles/,https://www.agweather.geo.msu.edu/articles/,Feature Articles,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,/links/,https://www.agweather.geo.msu.edu/links/,Other Sites,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,Michigan Automated Weather Network (MAWN),,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,http://enviroweather.msu.edu,http://enviroweather.msu.edu,Enviro-Weather,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnbar.gif,https://www.agweather.geo.msu.edu/images/grnbar.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=rwrmi,https://www.agweather.geo.msu.edu/current/report.asp?fileid=rwrmi,Michigan Hourly Weather Roundup,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=sxus04kdtx,https://www.agweather.geo.msu.edu/current/report.asp?fileid=sxus04kdtx,Michigan Ag-Weather Observations,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./maxtemp.html,https://www.agweather.geo.msu.edu/current/maxtemp.html,Maximum Temperatures (graphic),,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./mintemp.html,https://www.agweather.geo.msu.edu/current/mintemp.html,Minimum Temperatures (graphic),,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=mitemps,https://www.agweather.geo.msu.edu/current/report.asp?fileid=mitemps,Michigan Temperature Statistics,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=mipcpn,https://www.agweather.geo.msu.edu/current/report.asp?fileid=mipcpn,Michigan Precipitation Statistics,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=agwxsum,https://www.agweather.geo.msu.edu/current/report.asp?fileid=agwxsum,Michigan Weekly Crop Weather Summary,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,http://www.soils.wisc.edu/wimnext/et/miet.html,http://www.soils.wisc.edu/wimnext/et/miet.html,Daily PET Estimate for Michigan (courtesy Univ. of Wisc),,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=rtpmqt,https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpmqt,West/Central Upper Peninsula,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=rtpapx,https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpapx,Eastern Upper/Northern Lower Peninsula,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=rtpgrr,https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpgrr,Southwestern Lower Peninsula,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=rtpdtx,https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpdtx,Southeastern Lower Peninsula,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=rtpiwx,https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpiwx,Michiana Counties (MI/IN),,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=cliapn,https://www.agweather.geo.msu.edu/current/report.asp?fileid=cliapn,Alpena,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=clibtl,https://www.agweather.geo.msu.edu/current/report.asp?fileid=clibtl,Battle Creek,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=clidtw,https://www.agweather.geo.msu.edu/current/report.asp?fileid=clidtw,Detroit,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=clifnt,https://www.agweather.geo.msu.edu/current/report.asp?fileid=clifnt,Flint,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=clifwa,https://www.agweather.geo.msu.edu/current/report.asp?fileid=clifwa,Fort Wayne (IN),,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=cligrr,https://www.agweather.geo.msu.edu/current/report.asp?fileid=cligrr,Grand Rapids,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=clibiv,https://www.agweather.geo.msu.edu/current/report.asp?fileid=clibiv,Holland,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=clihtl,https://www.agweather.geo.msu.edu/current/report.asp?fileid=clihtl,Houghton Lake,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=clijxn,https://www.agweather.geo.msu.edu/current/report.asp?fileid=clijxn,Jackson,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=cliazo,https://www.agweather.geo.msu.edu/current/report.asp?fileid=cliazo,Kalamazoo,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=clilan,https://www.agweather.geo.msu.edu/current/report.asp?fileid=clilan,Lansing,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=climqt,https://www.agweather.geo.msu.edu/current/report.asp?fileid=climqt,Marquette,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=climkg,https://www.agweather.geo.msu.edu/current/report.asp?fileid=climkg,Muskegon,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=climbs,https://www.agweather.geo.msu.edu/current/report.asp?fileid=climbs,Saginaw,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=clianj,https://www.agweather.geo.msu.edu/current/report.asp?fileid=clianj,Sault Ste. Marie,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=clisbn,https://www.agweather.geo.msu.edu/current/report.asp?fileid=clisbn,South Bend (IN),,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=clitvc,https://www.agweather.geo.msu.edu/current/report.asp?fileid=clitvc,Traverse City,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=degreeday,https://www.agweather.geo.msu.edu/current/report.asp?fileid=degreeday,Growing Degree Day Accumulations,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=base50gdd,https://www.agweather.geo.msu.edu/current/report.asp?fileid=base50gdd,Base 50F Corn GDD Accumulations,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./report.asp?fileid=base41gdd,https://www.agweather.geo.msu.edu/current/report.asp?fileid=base41gdd,Base 41F Alfalfa GDD Accumulations,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=houghton,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=houghton,Houghton,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=ironmountain,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=ironmountain,Iron Mountain,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=ironwood,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=ironwood,Ironwood,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=stephenson,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=stephenson,Stephenson,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=chatham,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=chatham,Chatham,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=grandmarais,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=grandmarais,Grand Marais,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=newberry,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=newberry,Newberry,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=saultstemarie,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=saultstemarie,Sault Ste. Marie,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=cheboygan,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=cheboygan,Cheboygan,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=eastjordan,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=eastjordan,East Jordan,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=lakecity,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=lakecity,Lake City,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=manistee,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=manistee,Manistee,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=maplecity,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=maplecity,Maple City,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=traversecity,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=traversecity,Traverse City,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=alpena,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=alpena,Alpena,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=easttawas,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=easttawas,East Tawas,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=grayling,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=grayling,Grayling,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=vanderbilt,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=vanderbilt,Vanderbilt,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=grandrapids,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=grandrapids,Grand Rapids,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=hart,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=hart,Hart,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=hesperia,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=hesperia,Hesperia,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=holland,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=holland,Holland,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=muskegon,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=muskegon,Muskegon,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=alma,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=alma,Alma,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=bigrapids,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=bigrapids,Big Rapids,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=gladwin,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=gladwin,Gladwin,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=badaxe,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=badaxe,Bad Axe,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=saginaw,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=saginaw,Saginaw,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=sandusky,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=sandusky,Sandusky,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=allegan,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=allegan,Allegan,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=eauclaire,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=eauclaire,Eau Claire,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=southbend,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=southbend,"South Bend, IN",,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=southhaven,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=southhaven,South Haven,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=battlecreek,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=battlecreek,Battle Creek,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=coldwater,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=coldwater,Coldwater,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=jackson,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=jackson,Jackson,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=lansing,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=lansing,Lansing,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=adrian,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=adrian,Adrian,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=detroit,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=detroit,Detroit,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=lapeer,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=lapeer,Lapeer,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=monroe,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=monroe,Monroe,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,a,href,./normal.asp?fileid=toledo,https://www.agweather.geo.msu.edu/current/normal.asp?fileid=toledo,"Toldeo, OH",,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,link,href,./style.css,https://www.agweather.geo.msu.edu/forecasts/style.css,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,http://www.msu.edu,http://www.msu.edu,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/msulogo.gif,https://www.agweather.geo.msu.edu/images/msulogo.gif,MSU Home,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,/index.html,https://www.agweather.geo.msu.edu/index.html,Main,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,/info/,https://www.agweather.geo.msu.edu/info/,Information,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,/current/,https://www.agweather.geo.msu.edu/current/,Current Weather,input/agweather/current.html,saved named URL
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,/forecasts/,https://www.agweather.geo.msu.edu/forecasts/,Forecast Products,input/agweather/forecasts.html,saved named URL
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,/articles/,https://www.agweather.geo.msu.edu/articles/,Feature Articles,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,/links/,https://www.agweather.geo.msu.edu/links/,Other Sites,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,https://mawn.geo.msu.edu,https://mawn.geo.msu.edu,Michigan Automated Weather Network (MAWN),,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,http://enviroweather.msu.edu,http://enviroweather.msu.edu,Enviro-Weather,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnbar.gif,https://www.agweather.geo.msu.edu/images/grnbar.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fpus63kgrr,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus63kgrr,Michigan,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fpus53kmqt,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kmqt,West/Central Upper Peninsula,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fpus53kapx,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kapx,Eastern Upper/Northern Lower Peninsula,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fpus53kgrr,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kgrr,Southwestern Lower Peninsula,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fpus53kdtx,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kdtx,Southeastern Lower Peninsula,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fpus53kiwx,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kiwx,Michiana Counties (MI/IN),,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fxus63kmqt,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kmqt,West/Central Upper Peninsula,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fxus63kapx,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kapx,Eastern Upper/Northern Lower Peninsula,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fxus63kgrr,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kgrr,Southwestern Lower Peninsula,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fxus63kdtx,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kdtx,Southeastern Lower Peninsula,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fxus63kiwx,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kiwx,Michiana Counties (MI/IN),,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=specmin,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=specmin,Specific Minimum Temperature Forecast,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16kapn,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kapn,Alpena,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16kdtw,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kdtw,Detroit,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16kdlh,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kdlh,"Duluth, MN",,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16kfnt,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kfnt,Flint,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16kgrr,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kgrr,Grand Rapids,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16kgrb,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kgrb,"Green Bay, WI",,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16khtl,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16khtl,Houghton Lake,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16klan,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16klan,Lansing,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16ksaw,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16ksaw,Marquette,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16kmkg,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kmkg,Muskegon,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16kanj,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kanj,Sault St. Marie,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16ksbn,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16ksbn,South Bend. IN,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16kduh,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kduh,"Toldeo, OH",,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fous16ktvc,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16ktvc,Traverse City,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./nbm_fcsts.html,https://www.agweather.geo.msu.edu/forecasts/nbm_fcsts.html,here,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,http://www.cpc.ncep.noaa.gov/products/predictions/610day/,http://www.cpc.ncep.noaa.gov/products/predictions/610day/,6-10 Day Outlook - Graphic,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,http://www.cpc.ncep.noaa.gov/products/predictions/814day/,http://www.cpc.ncep.noaa.gov/products/predictions/814day/,8-14 Day Outlook - Graphic,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fxus06kwbc,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus06kwbc,6-10 and 8-14 Day Outlooks - Discussion,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,http://www.cpc.ncep.noaa.gov/products/predictions/30day/,http://www.cpc.ncep.noaa.gov/products/predictions/30day/,Monthly Outlook - Graphic,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fxus07kwbc,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus07kwbc,Monthly Outlook - Discussion,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,http://www.cpc.ncep.noaa.gov/products/predictions/90day/,http://www.cpc.ncep.noaa.gov/products/predictions/90day/,Seasonal Outlook - Graphics,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,img,src,/images/grnarrow2.gif,https://www.agweather.geo.msu.edu/images/grnarrow2.gif,,,link reference only; not fetched
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,a,href,./fcst.asp?fileid=fxus05kwbc,https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus05kwbc,Seasonal Outlook - Discussion,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,link,href,style.css,https://climate.geo.msu.edu/style.css,,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,images/mich_cli_wordmark.png,https://climate.geo.msu.edu/images/mich_cli_wordmark.png,Michigan State Climatologist's Office,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,index.html,https://climate.geo.msu.edu/index.html,Home,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,about_us.html,https://climate.geo.msu.edu/about_us.html,About Us,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,http://www.agweather.geo.msu.edu,http://www.agweather.geo.msu.edu,MSU Ag Weather Office,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,climate_maps.html,https://climate.geo.msu.edu/climate_maps.html,Michigan Climate Maps,input/climate/climate_maps.html,saved named URL
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,semcog/sem/mainsem.html,https://climate.geo.msu.edu/semcog/sem/mainsem.html,SEMCOG Precip Data,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,climate_mi/index.html,https://climate.geo.msu.edu/climate_mi/index.html,Climate Statistics: Normals & Statistics,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png,Precip 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-30days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-30days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-30days.png,Precip 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-90days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-90days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-90days.png,Precip 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png'),Past 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-30days.png'),Past 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-90days.png'),Past 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-7days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-7days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-7days.png,Precip Departure 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-30days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-30days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-30days.png,Precip Departure 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-90days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-90days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-90days.png,Precip Departure 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-7days.png'),Past 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-30days.png'),Past 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-90days.png'),Past 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-7days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-7days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-7days.png,Precip Average 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-30days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-30days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-30days.png,Precip Average 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-90days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-90days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-90days.png,Precip Average 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-7days.png'),Past 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-30days.png'),Past 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-90days.png'),Past 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-7days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-7days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-7days.png,Average High Temp 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-30days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-30days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-30days.png,Average High Temp 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-90days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-90days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-90days.png,Average High Temp 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-7days.png'),Past 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-30days.png'),Past 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-90days.png'),Past 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-7days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-7days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-7days.png,Average High Temp Departure 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-30days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-30days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-30days.png,Average High Temp Departure 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-90days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-90days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-90days.png,Average High Temp Departure 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-7days.png'),Past 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-30days.png'),Past 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-90days.png'),Past 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png,Average Temp 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-30days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-30days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-30days.png,Average Temp 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-90days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-90days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-90days.png,Average Temp 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png'),Past 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-30days.png'),Past 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-90days.png'),Past 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-7days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-7days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-7days.png,Average Temp Departure 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-30days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-30days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-30days.png,Average Temp Departure 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-90days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-90days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-90days.png,Average Temp Departure 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-7days.png'),Past 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-30days.png'),Past 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-90days.png'),Past 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-7days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-7days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-7days.png,Average Low Temp 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-30days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-30days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-30days.png,Average Low Temp 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-90days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-90days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-90days.png,Average Low Temp 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-7days.png'),Past 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-30days.png'),Past 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-90days.png'),Past 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-7days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-7days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-7days.png,Average Low Temp Departure 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-30days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-30days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-30days.png,Average Low Temp Departure 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-90days.png'),,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-90days.png,https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-90days.png,Average Low Temp Departure 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-7days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-7days.png'),Past 7 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-30days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-30days.png'),Past 30 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-90days.png'),javascript:newWindow('https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-90days.png'),Past 90 days,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,#top,https://climate.geo.msu.edu/climate_maps.html,Top,input/climate/climate_maps.html,saved named URL
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,a,href,http://www.msu.edu,http://www.msu.edu,,,link reference only; not fetched
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,img,src,images/wordmark_pos_gray_120.png,https://climate.geo.msu.edu/images/wordmark_pos_gray_120.png,Go to MSU homepage,,link reference only; not fetched

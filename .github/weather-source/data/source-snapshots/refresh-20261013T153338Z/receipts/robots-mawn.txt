@@ -1,0 +1,7 @@
+#
+# robots.txt
+#
+#    Used to disable all spiders
+#
+User-agent: *
+Disallow:   /

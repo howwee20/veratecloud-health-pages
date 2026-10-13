@@ -1,0 +1,24 @@
+---
+import { compareNotes } from '../lib/continuity';
+import { sourceById } from '../lib/data';
+interface Props { current?: string }
+const { current } = Astro.props;
+const groups = [
+  { label: 'Weather Network (MAWN)', ids: ['mawn-station-bnz', 'mawn-report-bnzh', 'mawn-report-bnzd', 'mawn-report-bnzm', 'mawn-station-swm', 'mawn-home'] },
+  { label: 'Raw data', ids: ['rawdata-index', 'rawdata-3hr-index'] },
+  { label: 'Agricultural Weather', ids: ['agweather-home', 'agweather-current', 'agweather-forecasts'] },
+  { label: 'Climate', ids: ['climate-home', 'climate-climate_maps'] },
+];
+---
+<nav aria-label="Choose an original page" class="pagegroups">
+  {groups.map((g) => (
+    <div>
+      <p class="eyebrow">{g.label}</p>
+      <ul class="pagelist">
+        {g.ids.map((id) => (
+          <li><a href={`/continuity/compare/${id}/`} aria-current={id === current ? 'page' : undefined}>{compareNotes[id].title}<small>{sourceById(id).url.replace('https://', '')}</small></a></li>
+        ))}
+      </ul>
+    </div>
+  ))}
+</nav>

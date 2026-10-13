@@ -1,0 +1,19 @@
+---
+interface Props { name: keyof typeof paths; size?: number; label?: string }
+const paths = {
+  info: 'M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm0 4.5a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5ZM10.5 11h2.25v6.5h-2.25V11Z',
+  check: 'M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm-1.4 14.2-4-4 1.5-1.5 2.5 2.5 5.3-5.3 1.5 1.5-6.8 6.8Z',
+  partial: 'M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm0 2.2a7.8 7.8 0 0 1 0 15.6V4.2Z',
+  plug: 'M9 2h2v5h2V2h2v5h2v4a5 5 0 0 1-4 4.9V22h-2v-6.1A5 5 0 0 1 7 11V7h2V2Z',
+  cross: 'M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm4.6 13.2-1.4 1.4-3.2-3.2-3.2 3.2-1.4-1.4 3.2-3.2-3.2-3.2 1.4-1.4 3.2 3.2 3.2-3.2 1.4 1.4-3.2 3.2 3.2 3.2Z',
+  dash: 'M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm-5 9h10v2H7v-2Z',
+  external: 'M14 3h7v7h-2V6.4l-8.3 8.3-1.4-1.4L17.6 5H14V3ZM5 5h6v2H7v10h10v-4h2v6H5V5Z',
+  download: 'M11 3h2v9.2l3.3-3.3 1.4 1.4L12 16l-5.7-5.7 1.4-1.4 3.3 3.3V3ZM5 18h14v2H5v-2Z',
+  archive: 'M3 4h18v5h-1v11H4V9H3V4Zm2 2v1h14V6H5Zm1 3v9h12V9H6Zm3 2h6v2H9v-2Z',
+  warning: 'M12 2 1.5 20.5h21L12 2Zm-1 6.5h2v6h-2v-6Zm1 7.6a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4Z',
+  clock: 'M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm1 5v4.6l3.3 3.3-1.4 1.4L11 12.4V7h2Z',
+  arrow: 'M13.2 5.3 19.9 12l-6.7 6.7-1.4-1.4 4.3-4.3H4v-2h12.1l-4.3-4.3 1.4-1.4Z',
+} as const;
+const { name, size = 16, label } = Astro.props;
+---
+<svg class="icon" width={size} height={size} viewBox="0 0 24 24" fill="currentColor" aria-hidden={label ? undefined : 'true'} role={label ? 'img' : undefined} aria-label={label} focusable="false"><path d={paths[name]} /></svg>

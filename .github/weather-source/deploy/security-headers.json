@@ -1,0 +1,14 @@
+{
+  "_comment": "Single source for the response headers used by the local QA server and mirrored in the hosting examples in this directory. Final values need review by MSU IT security before any production use.",
+  "all": {
+    "Content-Security-Policy": "default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action https://mawn.geo.msu.edu; frame-ancestors 'none'",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "no-referrer",
+    "Permissions-Policy": "camera=(), geolocation=(), microphone=(), payment=(), usb=()",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "X-Frame-Options": "DENY"
+  },
+  "httpsOnly": {
+    "Strict-Transport-Security": "max-age=31536000"
+  }
+}

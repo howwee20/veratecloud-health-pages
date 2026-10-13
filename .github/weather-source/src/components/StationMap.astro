@@ -1,0 +1,82 @@
+---
+import { stations } from '../lib/data';
+import { localHref } from '../lib/route';
+const mappedStations = stations.stations.filter(s=>s.imageMapPixel);
+---
+<figure class="station-map">
+ <ul class="map-controls" aria-label="Michigan weather station map">
+  <li>
+  <a class="map-launch" href="#station-directory" aria-label="Choose a Michigan weather station">
+    <svg viewBox="0 0 308 356" role="img" aria-label="Michigan weather station map. The same stations are listed below."><image href="/media/station-map.jpg" width="308" height="356"/><title>Michigan weather stations; the same stations are listed below</title></svg>
+  </a>
+  </li>
+  <li><a class="map-region map-region-sw" href="https://mawn.geo.msu.edu/mawn-sw.html" aria-label="Zoom to Southwest Region"></a></li>
+  <li><a class="map-region map-region-nw" href="https://mawn.geo.msu.edu/mawn-nw.html" aria-label="Zoom to Northwest Region"></a></li>
+ </ul>
+</figure>
+<dialog id="station-picker" aria-labelledby="station-picker-title">
+  <div class="picker-heading"><h2 id="station-picker-title">Choose a weather station</h2><button type="button" class="picker-close">Close</button></div>
+  <label for="station-search">Find a station</label>
+  <input id="station-search" type="search" autocomplete="off" />
+  <p class="picker-status" role="status" aria-live="polite" aria-atomic="true">{mappedStations.length} stations</p>
+  <ul class="picker-stations">{mappedStations.map(s=><li><a href={localHref(s.legacyUrl)}>{s.name}</a></li>)}</ul>
+</dialog>
+<script>
+  const launch = document.querySelector<HTMLAnchorElement>('.map-launch');
+  const dialog = document.querySelector<HTMLDialogElement>('#station-picker');
+  const search = document.querySelector<HTMLInputElement>('#station-search');
+  if (launch && dialog && search) {
+    const rows = [...dialog.querySelectorAll<HTMLLIElement>('.picker-stations li')];
+    const status = dialog.querySelector<HTMLElement>('.picker-status')!;
+    const filter = () => {
+      const query = search.value.trim().toLocaleLowerCase();
+      let count = 0;
+      for (const row of rows) {
+        row.hidden = !row.textContent!.toLocaleLowerCase().includes(query);
+        if (!row.hidden) count++;
+      }
+      status.textContent = count ? `${count} ${count === 1 ? 'station' : 'stations'}` : 'No stations found. Try another name.';
+    };
+    launch.setAttribute('role','button');
+    launch.setAttribute('aria-haspopup','dialog');
+    launch.setAttribute('aria-controls',dialog.id);
+    launch.addEventListener('click',event => {
+      event.preventDefault();
+      search.value = '';
+      filter();
+      dialog.showModal();
+      search.focus();
+    });
+    launch.addEventListener('keydown',event => {
+      if (event.key === ' ') { event.preventDefault(); launch.click(); }
+    });
+    search.addEventListener('input',filter);
+    // Search fields consume Escape to clear themselves in some browsers.
+    // The dialog's documented exit must work on the first key press.
+    dialog.addEventListener('keydown',event => {
+      if (event.key === 'Escape') { event.preventDefault(); dialog.close(); }
+    },true);
+    dialog.querySelector('.picker-close')!.addEventListener('click',()=>dialog.close());
+    dialog.addEventListener('close',()=>launch.focus());
+  }
+</script>
+<style>
+  .station-map { position:relative; }
+  .map-controls { list-style:none; padding:0; margin:0; }
+  .map-launch { display:block; line-height:0; }
+  .map-launch svg { display:block; width:100%; height:auto; }
+  .map-region { position:absolute; display:block; width:22.7273%; min-width:24px; height:6.7416%; min-height:24px; }
+  .map-region-sw { left:19.8052%; top:83.4270%; }
+  .map-region-nw { left:23.0519%; top:47.4719%; }
+  #station-picker { width:560px; max-width:calc(100% - 24px); max-height:calc(100dvh - 24px); padding:16px; border:3px ridge #888; color:#000; background:#fff; }
+  #station-picker::backdrop { background:rgb(0 0 0 / .45); }
+  .picker-heading { display:flex; justify-content:space-between; align-items:start; gap:12px; }
+  .picker-heading h2 { font-size:22px; margin:0 0 12px; }
+  .picker-close { min-height:32px; min-width:48px; }
+  #station-picker label { display:block; font-weight:bold; margin-bottom:4px; }
+  #station-search { width:100%; min-height:32px; padding:4px; }
+  .picker-status { margin:8px 0; }
+  .picker-stations { list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:4px 12px; }
+  .picker-stations a { display:flex; align-items:center; min-height:32px; min-width:24px; padding:4px; overflow-wrap:anywhere; }
+  @media(max-width:480px) { .picker-stations { grid-template-columns:minmax(0,1fr); } }
+</style>

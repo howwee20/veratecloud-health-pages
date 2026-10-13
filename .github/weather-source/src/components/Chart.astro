@@ -1,0 +1,147 @@
+---
+// Build-time SVG chart. No client library; one small script adds a pointer tooltip.
+// Missing values are never drawn as zero: lines break, and slots where no series
+// has a value are covered by a hatched "no value reported" band.
+import { runs } from '../lib/format';
+
+interface Series { label: string; cls: 's1' | 's2' | 's3'; values: (number | null)[]; raw: string[] }
+interface Props {
+  id: string;
+  type?: 'line' | 'bar';
+  title: string;
+  subtitle?: string;
+  unit: string;
+  slots: string[];
+  ticks: { index: number; label: string }[];
+  dividers?: number[];
+  series: Series[];
+  note?: string;
+  tableHref?: string;
+  tableLabel?: string;
+  yFloor?: number;
+}
+
+const { id, type = 'line', title, subtitle, unit, slots, ticks, dividers = [], series, note, tableHref, tableLabel, yFloor } = Astro.props;
+
+const W = 760;
+const H = 262;
+const m = { l: 46, r: 58, t: 26, b: 30 };
+const plotW = W - m.l - m.r;
+const plotH = H - m.t - m.b;
+const n = slots.length;
+const slotW = plotW / n;
+const x = (i: number) => m.l + (i + 0.5) * slotW;
+
+const all = series.flatMap((s) => s.values).filter((v): v is number => v !== null);
+const dataMin = all.length ? Math.min(...all) : 0;
+const dataMax = all.length ? Math.max(...all) : 1;
+const lo = yFloor ?? dataMin;
+const span = Math.max(dataMax - lo, 1e-9);
+const rough = span / 4;
+const mag = 10 ** Math.floor(Math.log10(rough));
+const step = [1, 2, 2.5, 5, 10].map((k) => k * mag).find((s) => s >= rough) ?? 10 * mag;
+const yMin = yFloor ?? Math.floor(dataMin / step) * step;
+let yMax = Math.ceil(dataMax / step) * step;
+if (yMax === yMin) yMax = yMin + step;
+const y = (v: number) => m.t + plotH - ((v - yMin) / (yMax - yMin)) * plotH;
+const decimals = step < 1 ? Math.min(3, Math.ceil(-Math.log10(step))) : 0;
+const yTicks: number[] = [];
+for (let v = yMin; v <= yMax + step / 1000; v += step) yTicks.push(Number(v.toFixed(6)));
+
+const empty = slots.map((_, i) => i).filter((i) => series.every((s) => s.values[i] === null));
+const bands = runs(empty);
+
+const drawn = series.map((s) => {
+  const present = s.values.map((v, i) => (v === null ? -1 : i)).filter((i) => i >= 0);
+  const segments = runs(present);
+  const last = present.length ? present[present.length - 1] : -1;
+  return { ...s, present, segments, last };
+});
+
+const barW = Math.max(2, Math.min(24, slotW - 2));
+const barPath = (i: number, v: number) => {
+  const left = x(i) - barW / 2;
+  const base = m.t + plotH;
+  const top = Math.min(y(v), base - 1.5);
+  const r = Math.min(2, barW / 2, (base - top) / 2);
+  return `M${left.toFixed(1)} ${base}V${(top + r).toFixed(1)}Q${left.toFixed(1)} ${top.toFixed(1)} ${(left + r).toFixed(1)} ${top.toFixed(1)}H${(left + barW - r).toFixed(1)}Q${(left + barW).toFixed(1)} ${top.toFixed(1)} ${(left + barW).toFixed(1)} ${(top + r).toFixed(1)}V${base}Z`;
+};
+
+const withValue = slots.length - empty.length;
+const desc = [
+  `${type === 'bar' ? 'Bar' : 'Line'} chart of ${series.map((s) => s.label.toLowerCase()).join(' and ')} in ${unit}, across ${n} ${n === 1 ? 'slot' : 'slots'} from ${slots[0]} to ${slots[n - 1]}.`,
+  ...drawn.map((s) => {
+    const vals = s.values.filter((v): v is number => v !== null);
+    return vals.length
+      ? `${s.label}: ${vals.length} reported values, lowest ${Math.min(...vals)}, highest ${Math.max(...vals)}; ${n - vals.length} with no value reported.`
+      : `${s.label}: no values reported.`;
+  }),
+  `${withValue} of ${n} slots have at least one value.`,
+  'Every value is listed in the accompanying data table.',
+].join(' ');
+
+const payload = JSON.stringify({
+  unit,
+  x: slots.map((_, i) => Number(x(i).toFixed(1))),
+  slots,
+  series: series.map((s) => ({ label: s.label, raw: s.raw })),
+  width: W,
+});
+---
+<figure class="chart-figure" data-chart={payload}>
+  <figcaption>
+    <span class="chart-title">{title}</span>
+    {subtitle && <span class="chart-sub">{subtitle}</span>}
+  </figcaption>
+  <div class="chart-scroll" tabindex="0" role="group" aria-label={`${title} chart; scroll sideways on small screens`}>
+    <svg class="chart" viewBox={`0 0 ${W} ${H}`} role="img" aria-labelledby={`${id}-t ${id}-d`}>
+      <title id={`${id}-t`}>{title}</title>
+      <desc id={`${id}-d`}>{desc}</desc>
+      <defs>
+        <pattern id={`${id}-hatch`} width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+          <rect class="hatch-bg" width="7" height="7" />
+          <line class="hatch-line" x1="0" y1="0" x2="0" y2="7" />
+        </pattern>
+      </defs>
+      {yTicks.map((v) => (
+        <g>
+          <line class="gridline" x1={m.l} x2={W - m.r} y1={y(v).toFixed(1)} y2={y(v).toFixed(1)} />
+          <text x={m.l - 8} y={(y(v) + 4).toFixed(1)} text-anchor="end">{v.toFixed(decimals)}</text>
+        </g>
+      ))}
+      {bands.map(([from, to]) => (
+        <rect class="nodata" fill={`url(#${id}-hatch)`} x={(x(from) - slotW / 2).toFixed(1)} y={m.t} width={((to - from + 1) * slotW).toFixed(1)} height={plotH} />
+      ))}
+      {dividers.map((i) => <line class="day-line" x1={(x(i) - slotW / 2).toFixed(1)} x2={(x(i) - slotW / 2).toFixed(1)} y1={m.t} y2={m.t + plotH + 5} />)}
+      <line class="axis-line" x1={m.l} x2={W - m.r} y1={m.t + plotH} y2={m.t + plotH} />
+      {ticks.map((t) => <text x={x(t.index).toFixed(1)} y={H - 9} text-anchor="middle">{t.label}</text>)}
+      <text x={m.l - 8} y={m.t - 13} text-anchor="end">{unit}</text>
+      {type === 'line' && drawn.map((s) => (
+        <g>
+          {s.segments.map(([from, to]) => from === to
+            ? <circle class={`dot ${s.cls}`} cx={x(from).toFixed(1)} cy={y(s.values[from] as number).toFixed(1)} r="3.5" />
+            : <path class={`line ${s.cls}`} d={Array.from({ length: to - from + 1 }, (_, k) => `${k ? 'L' : 'M'}${x(from + k).toFixed(1)} ${y(s.values[from + k] as number).toFixed(1)}`).join('')} />)}
+          {s.last >= 0 && (
+            <g>
+              <circle class={`dot ${s.cls}`} cx={x(s.last).toFixed(1)} cy={y(s.values[s.last] as number).toFixed(1)} r="4.5" />
+              <text class="end-label" x={(x(s.last) + 9).toFixed(1)} y={(y(s.values[s.last] as number) + 4).toFixed(1)}>{s.raw[s.last]}</text>
+            </g>
+          )}
+        </g>
+      ))}
+      {type === 'bar' && drawn.map((s) => s.present.map((i) => <path class={`bar ${s.cls}`} d={barPath(i, s.values[i] as number)} />))}
+      <line class="crosshair" x1="0" x2="0" y1={m.t} y2={m.t + plotH} />
+      <rect class="hit" x={m.l} y={m.t} width={plotW} height={plotH} />
+    </svg>
+  </div>
+  <ul class="chart-legend">
+    {series.length > 1 && series.map((s) => <li><span class={`key ${s.cls}`}></span>{s.label}</li>)}
+    {bands.length > 0 && <li><span class="key nodata"></span>No value reported by the source</li>}
+  </ul>
+  {note && <p class="chart-note">{note}</p>}
+  {tableHref && <p class="chart-note"><a href={tableHref}>{tableLabel ?? 'View these values as a data table'}</a></p>}
+</figure>
+
+<script>
+  import '../scripts/chart-hover';
+</script>

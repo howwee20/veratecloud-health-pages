@@ -1,0 +1,90 @@
+/* Agricultural Weather and Climate pages.
+   Additions to the shared design system in global.css; uses its tokens only. */
+
+/* ---------- verbatim source text ---------- */
+.source-quote { margin: 0 0 var(--space-4); padding: var(--space-1) 0 var(--space-1) var(--space-4); border-left: 3px solid var(--green-600); max-width: var(--measure); }
+.source-quote > :last-child { margin-bottom: 0; }
+.source-quote footer, .source-quote cite { font-size: var(--step--1); color: var(--ink-600); font-style: normal; }
+.source-lines { list-style: none; margin: 0 0 var(--space-4); padding: 0; }
+.source-lines li { margin: 0; }
+address.source-lines { font-style: normal; }
+address.source-lines span { display: block; }
+
+/* A standalone link in small text still gets a 24 px tall target. */
+.tap { display: inline-block; min-height: 1.5rem; padding-block: 0.15rem; }
+
+/* ---------- section cards (rebuilt / not captured) ---------- */
+.section-cards { list-style: none; margin: 0; padding: 0; }
+.section-cards > li { margin: 0; display: flex; }
+.section-card { display: flex; flex-direction: column; gap: var(--space-3); width: 100%; }
+.section-card > * { margin: 0; }
+.section-card h3 { font-size: var(--step-2); margin: 0; }
+.section-card h3 a { display: inline-block; padding-block: 0.1rem; }
+.section-card h3 .icon { vertical-align: -0.1em; margin-left: 0.3em; }
+.section-card .section-card-foot { margin-top: auto; padding-top: var(--space-2); font-size: var(--step--1); }
+.section-card.is-uncaptured { background: var(--sand-50); border-style: dashed; border-color: var(--line-strong); box-shadow: none; }
+
+/* ---------- news list ---------- */
+.news-list { list-style: none; margin: 0; padding: 0; }
+.news-list > li { margin: 0; padding: var(--space-3) 0; border-bottom: 1px solid var(--sand-200); }
+.news-list > li:first-child { padding-top: 0; }
+.news-list > li:last-child { border-bottom: 0; padding-bottom: 0; }
+.news-list p { margin: 0; }
+.news-meta { font-size: var(--step--1); color: var(--ink-600); margin-bottom: 0.15rem; }
+
+/* ---------- product directory ---------- */
+.metric .badge { align-self: flex-start; }
+.product-sections > * + * { margin-top: var(--space-4); }
+.product-section-head { display: flex; flex-wrap: wrap; gap: 0.2rem 0.75rem; align-items: baseline; justify-content: space-between; margin-bottom: var(--space-3); }
+.product-section-head h3 { margin: 0; }
+.product-section-count { margin: 0; font-size: var(--step--1); color: var(--ink-600); }
+@media (max-width: 30rem) { .product-section { padding: var(--space-3); } }
+.product-group + .product-group { margin-top: var(--space-4); padding-top: var(--space-4); border-top: 1px solid var(--line); }
+.product-group > h4 { margin: 0 0 var(--space-2); }
+.product-list { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--space-2); grid-template-columns: repeat(auto-fill, minmax(min(100%, 16.5rem), 1fr)); }
+.product { margin: 0; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; padding: 0.6rem 0.75rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-sm); }
+.product-name { font-weight: 600; line-height: 1.4; }
+.product-name a { display: inline-block; padding-block: 0.15rem; }
+.product-note { font-size: 0.8125rem; color: var(--ink-600); }
+.product-meta { display: flex; flex-wrap: wrap; gap: 0.3rem 0.5rem; align-items: center; margin-top: auto; }
+.product-source { font-family: var(--font-mono); font-size: 0.78rem; color: var(--ink-600); overflow-wrap: anywhere; }
+.product-search-field { max-width: 44rem; }
+.product-search-row { display: flex; flex-wrap: wrap; gap: var(--space-2); }
+.product-search-row input { flex: 1 1 12rem; width: auto; min-width: 0; }
+.product-empty { background: var(--surface); border: 1px dashed var(--line-strong); border-radius: var(--radius); padding: var(--space-4); }
+
+/* ---------- climate maps ---------- */
+.jump-list { list-style: none; margin: 0; padding: 0; }
+.jump-list li { margin: 0; }
+.jump-list a { display: inline-block; padding-block: 0.2rem; }
+.map-group + .map-group { margin-top: var(--space-6); }
+.map-group > h3 { margin-top: 0; }
+.map-list { list-style: none; margin: 0; padding: 0; }
+.map-list > li { margin: 0; display: flex; }
+.map-card { display: flex; flex-direction: column; gap: var(--space-3); width: 100%; }
+.map-card > * { margin: 0; }
+.map-card h4 { margin: 0; font-size: var(--step-1); }
+.map-card .facts { grid-template-columns: minmax(6.5rem, max-content) minmax(0, 1fr); }
+.map-card .map-card-foot { margin-top: auto; display: flex; flex-direction: column; gap: var(--space-2); align-items: flex-start; }
+@media (max-width: 26rem) { .map-card .facts { grid-template-columns: minmax(0, 1fr); } }
+.product-summary-table { margin-top: var(--space-4); margin-bottom: var(--space-3); }
+.product-summary-table tfoot tr > * { border-top: 2px solid var(--green-200); border-bottom: 0; font-weight: 600; background: var(--sand-50); }
+.product-summary-table tbody th { font-weight: 600; }
+.facts .source-lines { margin: 0; }
+
+/* ---------- spacing after blocks that carry no bottom margin ---------- */
+.facts + p, .news-list + p, .table-wrap + p, .linklist + h3 { margin-top: var(--space-3); }
+.product-metrics { grid-template-columns: repeat(auto-fit, minmax(min(100%, 13.5rem), 1fr)); }
+.panel > h3:first-child { margin-top: 0; }
+.split > .panel { align-self: start; }
+.split > .panel > h2 { font-size: var(--step-2); }
+.stated-line { font-family: var(--font-serif); font-size: var(--step-2); line-height: 1.25; color: var(--green-950); margin: 0 0 var(--space-3); }
+
+/* Keep a trailing link icon on the same line as the last word. The icon's
+   advance is cancelled by a negative margin and it sits in the link's own
+   right padding. Standalone (inline-block) links only, never links in a sentence. */
+.tap, .product-name a { padding-right: 16px; }
+.tap > svg.icon, .product-name a > svg.icon { margin-left: 2px; margin-right: -14.5px; } /* 13px icon: net advance 0.5px */
+.section-card h3 a { padding-right: 22px; }
+.section-card h3 a > svg.icon { margin-left: 5px; margin-right: -20.5px; } /* 16px icon: net advance 0.5px */
+table.data tbody th.cell-wrap { white-space: normal; overflow-wrap: anywhere; }

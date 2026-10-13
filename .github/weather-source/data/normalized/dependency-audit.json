@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "generatedAtUtc": "2026-10-13T00:52:36.919Z",
+  "runtimeDependenciesShippedToBrowser": 0,
+  "directDependencies": {
+    "build": [
+      {
+        "name": "astro",
+        "version": "7.3.8",
+        "exact": true
+      }
+    ],
+    "development": [
+      {
+        "name": "@axe-core/playwright",
+        "version": "4.13.0",
+        "exact": true
+      },
+      {
+        "name": "@playwright/test",
+        "version": "1.64.0",
+        "exact": true
+      },
+      {
+        "name": "typescript",
+        "version": "7.0.2",
+        "exact": true
+      },
+      {
+        "name": "vitest",
+        "version": "5.0.4",
+        "exact": true
+      }
+    ]
+  },
+  "lockfile": {
+    "version": 3,
+    "installedPackages": 300
+  },
+  "pythonTools": [
+    "httpx",
+    "beautifulsoup4",
+    "lxml",
+    "pytest"
+  ],
+  "audit": {
+    "ran": true,
+    "vulnerabilities": {
+      "info": 0,
+      "low": 0,
+      "moderate": 0,
+      "high": 0,
+      "critical": 0,
+      "total": 0
+    },
+    "dependencies": {
+      "prod": 176,
+      "dev": 41,
+      "optional": 104,
+      "peer": 0,
+      "peerOptional": 0,
+      "total": 300
+    }
+  },
+  "caveat": "npm audit reports known advisories for locked packages at the time it ran. It says nothing about unknown vulnerabilities, hosting or configuration."
+}

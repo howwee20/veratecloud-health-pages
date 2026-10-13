@@ -1,0 +1,997 @@
+{
+  "schemaVersion": 1,
+  "home": {
+    "source": {
+      "id": "agweather-home",
+      "url": "https://www.agweather.geo.msu.edu/",
+      "file": "input/agweather/home.html",
+      "sha256": "c66facb540e83865d75b1a23e8fa56fb0ce8584682330854de617fa4305b18f6",
+      "retrievedAtUtc": "2026-10-13T15:33:53.814322+00:00"
+    },
+    "siteTitle": "MSU Agricultural Weather Office",
+    "pageHeading": null,
+    "navigation": [
+      {
+        "label": "Main",
+        "url": "https://www.agweather.geo.msu.edu/index.html"
+      },
+      {
+        "label": "Information",
+        "url": "https://www.agweather.geo.msu.edu/info/"
+      },
+      {
+        "label": "Current Weather",
+        "url": "https://www.agweather.geo.msu.edu/current/"
+      },
+      {
+        "label": "Forecast Products",
+        "url": "https://www.agweather.geo.msu.edu/forecasts/"
+      },
+      {
+        "label": "Feature Articles",
+        "url": "https://www.agweather.geo.msu.edu/articles/"
+      },
+      {
+        "label": "Other Sites",
+        "url": "https://www.agweather.geo.msu.edu/links/"
+      },
+      {
+        "label": "Michigan Automated Weather Network (MAWN)",
+        "url": "https://mawn.geo.msu.edu"
+      },
+      {
+        "label": "Enviro-Weather",
+        "url": "http://enviroweather.msu.edu"
+      }
+    ],
+    "pageStampRaw": "10/13/26 - 11:33",
+    "datafeedStatusRaw": [
+      "LDM : ok",
+      "MAWN : ok"
+    ],
+    "news": [
+      {
+        "category": "Network News",
+        "dateRaw": "03/08/2026",
+        "isoDate": "2026-03-08",
+        "kind": "New Enviro-Weather Station",
+        "text": "Old Mission-South station added to EnviroWeather Weather Station Network.",
+        "link": {
+          "label": "Old Mission-South",
+          "url": "https://mawn.geo.msu.edu/station.asp?id=omp"
+        }
+      },
+      {
+        "category": "Network News",
+        "dateRaw": "03/02/2026",
+        "isoDate": "2026-03-02",
+        "kind": "New Enviro-Weather Station",
+        "text": "Omena station added to EnviroWeather Weather Station Network.",
+        "link": {
+          "label": "Omena",
+          "url": "https://mawn.geo.msu.edu/station.asp?id=omn"
+        }
+      },
+      {
+        "category": "Network News",
+        "dateRaw": "02/25/2026",
+        "isoDate": "2026-02-25",
+        "kind": "New Enviro-Weather Station",
+        "text": "Lake Leelanau station added to EnviroWeather Weather Station Network.",
+        "link": {
+          "label": "Lake Leelanau",
+          "url": "https://mawn.geo.msu.edu/station.asp?id=llu"
+        }
+      },
+      {
+        "category": "Network News",
+        "dateRaw": "01/26/2026",
+        "isoDate": "2026-01-26",
+        "kind": "New Enviro-Weather Station",
+        "text": "Hart (WCMREC) [10m] station added to EnviroWeather Weather Station Network.",
+        "link": {
+          "label": "Hart (WCMREC) [10m]",
+          "url": "https://mawn.geo.msu.edu/station.asp?id=wct"
+        }
+      }
+    ],
+    "recentAdditions": [
+      {
+        "name": "Old Mission-South",
+        "dateRaw": "03/08/2026",
+        "isoDate": "2026-03-08"
+      },
+      {
+        "name": "Omena",
+        "dateRaw": "03/02/2026",
+        "isoDate": "2026-03-02"
+      },
+      {
+        "name": "Lake Leelanau",
+        "dateRaw": "02/25/2026",
+        "isoDate": "2026-02-25"
+      },
+      {
+        "name": "Hart (WCMREC) [10m]",
+        "dateRaw": "01/26/2026",
+        "isoDate": "2026-01-26"
+      },
+      {
+        "name": "Leland",
+        "dateRaw": "08/25/2025",
+        "isoDate": "2025-08-25"
+      },
+      {
+        "name": "Grand Junction [10m]",
+        "dateRaw": "05/14/2025",
+        "isoDate": "2025-05-14"
+      },
+      {
+        "name": "East Lansing (MSUHORT) [10m]",
+        "dateRaw": "05/05/2025",
+        "isoDate": "2025-05-05"
+      }
+    ],
+    "comingSoonText": null,
+    "enviroweatherBlurb": "Enviro-Weather : Integrating MAWN weather data with models for making pest and other management decisions.",
+    "support": [
+      {
+        "text": "Activities of the MSU Agricultural Weather Office are made possible by support from ",
+        "url": null
+      },
+      {
+        "text": "MSU Extension",
+        "url": "http://www.msue.msu.edu"
+      },
+      {
+        "text": ", ",
+        "url": null
+      },
+      {
+        "text": "MSU AgBioResearch",
+        "url": "https://www.canr.msu.edu/research/index"
+      },
+      {
+        "text": ", ",
+        "url": null
+      },
+      {
+        "text": "MSU Department of Geography, Environment, and Spatial Sciences",
+        "url": "http://www.geo.msu.edu"
+      },
+      {
+        "text": ", and the ",
+        "url": null
+      },
+      {
+        "text": "MSU Climatology Office",
+        "url": "http://climate.geo.msu.edu"
+      },
+      {
+        "text": ".",
+        "url": null
+      }
+    ],
+    "contactLines": [
+      "For more information - write or call:",
+      "Michigan Climatological Resources Program",
+      "236 Geography Building",
+      "East Lansing, MI U.S.A. 48824-1115",
+      "Phone: (517) 432-6520"
+    ]
+  },
+  "current": {
+    "source": {
+      "id": "agweather-current",
+      "url": "https://www.agweather.geo.msu.edu/current/",
+      "file": "input/agweather/current.html",
+      "sha256": "02393542d337876ef4e9b98b61598ac4ea4f638712c64552d5476aa6032be9c0",
+      "retrievedAtUtc": "2026-10-13T15:34:14.573908+00:00"
+    },
+    "siteTitle": "MSU Agricultural Weather Office",
+    "pageHeading": "Current Weather & Climatological Info",
+    "navigation": [
+      {
+        "label": "Main",
+        "url": "https://www.agweather.geo.msu.edu/index.html"
+      },
+      {
+        "label": "Information",
+        "url": "https://www.agweather.geo.msu.edu/info/"
+      },
+      {
+        "label": "Current Weather",
+        "url": "https://www.agweather.geo.msu.edu/current/"
+      },
+      {
+        "label": "Forecast Products",
+        "url": "https://www.agweather.geo.msu.edu/forecasts/"
+      },
+      {
+        "label": "Feature Articles",
+        "url": "https://www.agweather.geo.msu.edu/articles/"
+      },
+      {
+        "label": "Other Sites",
+        "url": "https://www.agweather.geo.msu.edu/links/"
+      },
+      {
+        "label": "Michigan Automated Weather Network (MAWN)",
+        "url": "https://mawn.geo.msu.edu"
+      },
+      {
+        "label": "Enviro-Weather",
+        "url": "http://enviroweather.msu.edu"
+      }
+    ],
+    "pageStampRaw": "10/13/26 - 11:34",
+    "datafeedStatusRaw": [
+      "LDM : ok",
+      "MAWN : ok"
+    ],
+    "sections": [
+      {
+        "heading": "Recent Weather Observations",
+        "groups": [
+          {
+            "label": null,
+            "links": [
+              {
+                "label": "Michigan Hourly Weather Roundup",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=rwrmi",
+                "rowText": null
+              },
+              {
+                "label": "Michigan Ag-Weather Observations",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=sxus04kdtx",
+                "rowText": null
+              },
+              {
+                "label": "Maximum Temperatures (graphic)",
+                "url": "https://www.agweather.geo.msu.edu/current/maxtemp.html",
+                "rowText": null
+              },
+              {
+                "label": "Minimum Temperatures (graphic)",
+                "url": "https://www.agweather.geo.msu.edu/current/mintemp.html",
+                "rowText": null
+              }
+            ]
+          },
+          {
+            "label": null,
+            "links": [
+              {
+                "label": "Michigan Temperature Statistics",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=mitemps",
+                "rowText": null
+              },
+              {
+                "label": "Michigan Precipitation Statistics",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=mipcpn",
+                "rowText": null
+              },
+              {
+                "label": "Michigan Weekly Crop Weather Summary",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=agwxsum",
+                "rowText": null
+              }
+            ]
+          },
+          {
+            "label": null,
+            "links": [
+              {
+                "label": "Daily PET Estimate for Michigan (courtesy Univ. of Wisc)",
+                "url": "http://www.soils.wisc.edu/wimnext/et/miet.html",
+                "rowText": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "NWS Regional Temp/Prec Summaries",
+        "groups": [
+          {
+            "label": null,
+            "links": [
+              {
+                "label": "West/Central Upper Peninsula",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpmqt",
+                "rowText": null
+              },
+              {
+                "label": "Eastern Upper/Northern Lower Peninsula",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpapx",
+                "rowText": null
+              },
+              {
+                "label": "Southwestern Lower Peninsula",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpgrr",
+                "rowText": null
+              },
+              {
+                "label": "Southeastern Lower Peninsula",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpdtx",
+                "rowText": null
+              },
+              {
+                "label": "Michiana Counties (MI/IN)",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=rtpiwx",
+                "rowText": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "NWS Regional Climate Summaries",
+        "groups": [
+          {
+            "label": null,
+            "links": [
+              {
+                "label": "Alpena",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=cliapn",
+                "rowText": null
+              },
+              {
+                "label": "Battle Creek",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clibtl",
+                "rowText": null
+              },
+              {
+                "label": "Detroit",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clidtw",
+                "rowText": null
+              },
+              {
+                "label": "Flint",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clifnt",
+                "rowText": null
+              },
+              {
+                "label": "Fort Wayne (IN)",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clifwa",
+                "rowText": null
+              },
+              {
+                "label": "Grand Rapids",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=cligrr",
+                "rowText": null
+              },
+              {
+                "label": "Holland",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clibiv",
+                "rowText": null
+              },
+              {
+                "label": "Houghton Lake",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clihtl",
+                "rowText": null
+              },
+              {
+                "label": "Jackson",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clijxn",
+                "rowText": null
+              },
+              {
+                "label": "Kalamazoo",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=cliazo",
+                "rowText": null
+              },
+              {
+                "label": "Lansing",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clilan",
+                "rowText": null
+              },
+              {
+                "label": "Marquette",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=climqt",
+                "rowText": null
+              },
+              {
+                "label": "Muskegon",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=climkg",
+                "rowText": null
+              },
+              {
+                "label": "Saginaw",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=climbs",
+                "rowText": null
+              },
+              {
+                "label": "Sault Ste. Marie",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clianj",
+                "rowText": null
+              },
+              {
+                "label": "South Bend (IN)",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clisbn",
+                "rowText": null
+              },
+              {
+                "label": "Traverse City",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=clitvc",
+                "rowText": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Growing Degree Day (GDD) Products",
+        "groups": [
+          {
+            "label": null,
+            "links": [
+              {
+                "label": "Growing Degree Day Accumulations",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=degreeday",
+                "rowText": null
+              },
+              {
+                "label": "Base 50F Corn GDD Accumulations",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=base50gdd",
+                "rowText": null
+              },
+              {
+                "label": "Base 41F Alfalfa GDD Accumulations",
+                "url": "https://www.agweather.geo.msu.edu/current/report.asp?fileid=base41gdd",
+                "rowText": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Daily Temperature and GDD Normals",
+        "groups": [
+          {
+            "label": "Western Upper Peninsula",
+            "links": [
+              {
+                "label": "Houghton",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=houghton",
+                "rowText": null
+              },
+              {
+                "label": "Iron Mountain",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=ironmountain",
+                "rowText": null
+              },
+              {
+                "label": "Ironwood",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=ironwood",
+                "rowText": null
+              },
+              {
+                "label": "Stephenson",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=stephenson",
+                "rowText": null
+              }
+            ]
+          },
+          {
+            "label": "Eastern Upper Peninsula",
+            "links": [
+              {
+                "label": "Chatham",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=chatham",
+                "rowText": null
+              },
+              {
+                "label": "Grand Marais",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=grandmarais",
+                "rowText": null
+              },
+              {
+                "label": "Newberry",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=newberry",
+                "rowText": null
+              },
+              {
+                "label": "Sault Ste. Marie",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=saultstemarie",
+                "rowText": null
+              }
+            ]
+          },
+          {
+            "label": "Northwest Lower Peninsula",
+            "links": [
+              {
+                "label": "Cheboygan",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=cheboygan",
+                "rowText": null
+              },
+              {
+                "label": "East Jordan",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=eastjordan",
+                "rowText": null
+              },
+              {
+                "label": "Lake City",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=lakecity",
+                "rowText": null
+              },
+              {
+                "label": "Manistee",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=manistee",
+                "rowText": null
+              },
+              {
+                "label": "Maple City",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=maplecity",
+                "rowText": null
+              },
+              {
+                "label": "Traverse City",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=traversecity",
+                "rowText": null
+              }
+            ]
+          },
+          {
+            "label": "Northeast Lower Peninsula",
+            "links": [
+              {
+                "label": "Alpena",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=alpena",
+                "rowText": null
+              },
+              {
+                "label": "East Tawas",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=easttawas",
+                "rowText": null
+              },
+              {
+                "label": "Grayling",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=grayling",
+                "rowText": null
+              },
+              {
+                "label": "Vanderbilt",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=vanderbilt",
+                "rowText": null
+              }
+            ]
+          },
+          {
+            "label": "West Central Lower Peninsula",
+            "links": [
+              {
+                "label": "Grand Rapids",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=grandrapids",
+                "rowText": null
+              },
+              {
+                "label": "Hart",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=hart",
+                "rowText": null
+              },
+              {
+                "label": "Hesperia",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=hesperia",
+                "rowText": null
+              },
+              {
+                "label": "Holland",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=holland",
+                "rowText": null
+              },
+              {
+                "label": "Muskegon",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=muskegon",
+                "rowText": null
+              }
+            ]
+          },
+          {
+            "label": "Central Lower Peninsula",
+            "links": [
+              {
+                "label": "Alma",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=alma",
+                "rowText": null
+              },
+              {
+                "label": "Big Rapids",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=bigrapids",
+                "rowText": null
+              },
+              {
+                "label": "Gladwin",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=gladwin",
+                "rowText": null
+              }
+            ]
+          },
+          {
+            "label": "East Central Lower Peninsula",
+            "links": [
+              {
+                "label": "Bad Axe",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=badaxe",
+                "rowText": null
+              },
+              {
+                "label": "Saginaw",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=saginaw",
+                "rowText": null
+              },
+              {
+                "label": "Sandusky",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=sandusky",
+                "rowText": null
+              }
+            ]
+          },
+          {
+            "label": "Southwest Lower Peninsula",
+            "links": [
+              {
+                "label": "Allegan",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=allegan",
+                "rowText": null
+              },
+              {
+                "label": "Eau Claire",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=eauclaire",
+                "rowText": null
+              },
+              {
+                "label": "South Bend, IN",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=southbend",
+                "rowText": null
+              },
+              {
+                "label": "South Haven",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=southhaven",
+                "rowText": null
+              }
+            ]
+          },
+          {
+            "label": "South Central Lower Peninsula",
+            "links": [
+              {
+                "label": "Battle Creek",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=battlecreek",
+                "rowText": null
+              },
+              {
+                "label": "Coldwater",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=coldwater",
+                "rowText": null
+              },
+              {
+                "label": "Jackson",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=jackson",
+                "rowText": null
+              },
+              {
+                "label": "Lansing",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=lansing",
+                "rowText": null
+              }
+            ]
+          },
+          {
+            "label": "Southeast Lower Peninsula",
+            "links": [
+              {
+                "label": "Adrian",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=adrian",
+                "rowText": null
+              },
+              {
+                "label": "Detroit",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=detroit",
+                "rowText": null
+              },
+              {
+                "label": "Lapeer",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=lapeer",
+                "rowText": null
+              },
+              {
+                "label": "Monroe",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=monroe",
+                "rowText": null
+              },
+              {
+                "label": "Toldeo, OH",
+                "url": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=toledo",
+                "rowText": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "forecasts": {
+    "source": {
+      "id": "agweather-forecasts",
+      "url": "https://www.agweather.geo.msu.edu/forecasts/",
+      "file": "input/agweather/forecasts.html",
+      "sha256": "b480b1195832bb6155cb930a8dfce052d4ac55d8480fef2a793fac9889feb2bd",
+      "retrievedAtUtc": "2026-10-13T15:34:16.658918+00:00"
+    },
+    "siteTitle": "MSU Agricultural Weather Office",
+    "pageHeading": "Forecast Products",
+    "navigation": [
+      {
+        "label": "Main",
+        "url": "https://www.agweather.geo.msu.edu/index.html"
+      },
+      {
+        "label": "Information",
+        "url": "https://www.agweather.geo.msu.edu/info/"
+      },
+      {
+        "label": "Current Weather",
+        "url": "https://www.agweather.geo.msu.edu/current/"
+      },
+      {
+        "label": "Forecast Products",
+        "url": "https://www.agweather.geo.msu.edu/forecasts/"
+      },
+      {
+        "label": "Feature Articles",
+        "url": "https://www.agweather.geo.msu.edu/articles/"
+      },
+      {
+        "label": "Other Sites",
+        "url": "https://www.agweather.geo.msu.edu/links/"
+      },
+      {
+        "label": "Michigan Automated Weather Network (MAWN)",
+        "url": "https://mawn.geo.msu.edu"
+      },
+      {
+        "label": "Enviro-Weather",
+        "url": "http://enviroweather.msu.edu"
+      }
+    ],
+    "pageStampRaw": "10/13/26 - 11:34",
+    "datafeedStatusRaw": [
+      "LDM : ok",
+      "MAWN : ok"
+    ],
+    "sections": [
+      {
+        "heading": "State Forecast",
+        "groups": [
+          {
+            "label": null,
+            "links": [
+              {
+                "label": "Michigan",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus63kgrr",
+                "rowText": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Regional Zone Forecasts",
+        "groups": [
+          {
+            "label": null,
+            "links": [
+              {
+                "label": "West/Central Upper Peninsula",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kmqt",
+                "rowText": null
+              },
+              {
+                "label": "Eastern Upper/Northern Lower Peninsula",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kapx",
+                "rowText": null
+              },
+              {
+                "label": "Southwestern Lower Peninsula",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kgrr",
+                "rowText": null
+              },
+              {
+                "label": "Southeastern Lower Peninsula",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kdtx",
+                "rowText": null
+              },
+              {
+                "label": "Michiana Counties (MI/IN)",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fpus53kiwx",
+                "rowText": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Regional Forecast Discussions",
+        "groups": [
+          {
+            "label": null,
+            "links": [
+              {
+                "label": "West/Central Upper Peninsula",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kmqt",
+                "rowText": null
+              },
+              {
+                "label": "Eastern Upper/Northern Lower Peninsula",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kapx",
+                "rowText": null
+              },
+              {
+                "label": "Southwestern Lower Peninsula",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kgrr",
+                "rowText": null
+              },
+              {
+                "label": "Southeastern Lower Peninsula",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kdtx",
+                "rowText": null
+              },
+              {
+                "label": "Michiana Counties (MI/IN)",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus63kiwx",
+                "rowText": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Agricultural Forecast Products",
+        "groups": [
+          {
+            "label": null,
+            "links": [
+              {
+                "label": "Specific Minimum Temperature Forecast",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=specmin",
+                "rowText": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "60-Hour Guidance Forecast",
+        "groups": [
+          {
+            "label": null,
+            "links": [
+              {
+                "label": "Alpena",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kapn",
+                "rowText": null
+              },
+              {
+                "label": "Detroit",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kdtw",
+                "rowText": null
+              },
+              {
+                "label": "Duluth, MN",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kdlh",
+                "rowText": null
+              },
+              {
+                "label": "Flint",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kfnt",
+                "rowText": null
+              },
+              {
+                "label": "Grand Rapids",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kgrr",
+                "rowText": null
+              },
+              {
+                "label": "Green Bay, WI",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kgrb",
+                "rowText": null
+              },
+              {
+                "label": "Houghton Lake",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16khtl",
+                "rowText": null
+              },
+              {
+                "label": "Lansing",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16klan",
+                "rowText": null
+              },
+              {
+                "label": "Marquette",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16ksaw",
+                "rowText": null
+              },
+              {
+                "label": "Muskegon",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kmkg",
+                "rowText": null
+              },
+              {
+                "label": "Sault St. Marie",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kanj",
+                "rowText": null
+              },
+              {
+                "label": "South Bend. IN",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16ksbn",
+                "rowText": null
+              },
+              {
+                "label": "Toldeo, OH",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kduh",
+                "rowText": null
+              },
+              {
+                "label": "Traverse City",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16ktvc",
+                "rowText": null
+              },
+              {
+                "label": "here",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/nbm_fcsts.html",
+                "rowText": "(for complete list of stations, click here)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Extended Forecasts",
+        "groups": [
+          {
+            "label": null,
+            "links": [
+              {
+                "label": "6-10 Day Outlook - Graphic",
+                "url": "http://www.cpc.ncep.noaa.gov/products/predictions/610day/",
+                "rowText": null
+              },
+              {
+                "label": "8-14 Day Outlook - Graphic",
+                "url": "http://www.cpc.ncep.noaa.gov/products/predictions/814day/",
+                "rowText": null
+              },
+              {
+                "label": "6-10 and 8-14 Day Outlooks - Discussion",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus06kwbc",
+                "rowText": null
+              },
+              {
+                "label": "Monthly Outlook - Graphic",
+                "url": "http://www.cpc.ncep.noaa.gov/products/predictions/30day/",
+                "rowText": null
+              },
+              {
+                "label": "Monthly Outlook - Discussion",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus07kwbc",
+                "rowText": null
+              },
+              {
+                "label": "Seasonal Outlook - Graphics",
+                "url": "http://www.cpc.ncep.noaa.gov/products/predictions/90day/",
+                "rowText": null
+              },
+              {
+                "label": "Seasonal Outlook - Discussion",
+                "url": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fxus05kwbc",
+                "rowText": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

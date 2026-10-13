@@ -1,0 +1,18 @@
+---
+interface Props { current: 'dashboard' | 'compare' | 'survival' | 'rescue' | 'urls' | 'a11y' | 'security' }
+const { current } = Astro.props;
+const items = [
+  { key: 'dashboard', label: 'Dashboard', href: '/continuity/' },
+  { key: 'compare', label: 'Legacy → prototype', href: '/continuity/compare/' },
+  { key: 'survival', label: 'What survives November 15?', href: '/continuity/survival/' },
+  { key: 'rescue', label: 'Legacy Rescue Map', href: '/continuity/rescue-map/' },
+  { key: 'urls', label: 'URL migration inventory', href: '/continuity/urls/' },
+  { key: 'a11y', label: 'Accessibility results', href: '/continuity/accessibility/' },
+  { key: 'security', label: 'Security notes', href: '/continuity/security/' },
+];
+---
+<nav aria-label="Service continuity views">
+  <ul class="subnav">
+    {items.map((item) => <li><a href={item.href} aria-current={item.key === current ? 'page' : undefined}>{item.label}</a></li>)}
+  </ul>
+</nav>

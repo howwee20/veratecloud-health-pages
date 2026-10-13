@@ -1,0 +1,13 @@
+Index of /rawdata
+Index of /rawdata
+Name Last modified Size Parent Directory -
+1wk/ 2026-05-08 16:27 -
+3hr/ 2026-05-08 16:28 -
+3mo/ 2026-05-08 16:28 -
+disabled/ 2026-10-08 15:52 -
+mcemo/ 2025-01-24 16:52 -
+meta/ 2026-10-08 15:43 -
+mrcc/ 2022-02-14 14:36 -
+nrcc/ 2022-02-14 14:36 -
+solar_fcsts/ 2022-02-14 14:36 -
+unl-soysim/ 2022-02-14 14:36 -

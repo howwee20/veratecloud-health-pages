@@ -1,0 +1,37 @@
+{
+  "name": "msu-weather-accessibility-preview",
+  "version": "0.2.0",
+  "description": "Local accessibility remediation preview preserving three MSU weather site designs",
+  "scripts": {
+    "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
+    "build": "ASTRO_TELEMETRY_DISABLED=1 astro build",
+    "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview",
+    "data:build": ".venv/bin/python -I scripts/build_data.py && .venv/bin/python -I scripts/build_additional.py",
+    "data:refresh": ".venv/bin/python -I scripts/refresh_sources.py",
+    "test": "npm run test:data && npm run test:unit && npm run test:e2e",
+    "test:data": ".venv/bin/python -I -m pytest tests/python -q",
+    "test:unit": "vitest run",
+    "test:e2e": "playwright test",
+    "evidence": "node scripts/qa/capture-evidence.mjs",
+    "check:links": "node scripts/qa/check-links.mjs",
+    "audit:deps": "node scripts/qa/dependency-audit.mjs",
+    "serve:static": "node scripts/qa/static-server.mjs",
+    "audit:tables": ".venv/bin/python -I scripts/qa/audit-tables.py",
+    "audit:contrast": "node scripts/qa/audit-contrast.mjs"
+  },
+  "license": "UNLICENSED",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "astro": "7.3.8"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.13.0",
+    "@playwright/test": "1.64.0",
+    "typescript": "7.0.2",
+    "vitest": "5.0.4"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

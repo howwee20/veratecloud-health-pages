@@ -1,0 +1,193 @@
+Michigan Automated Weather Network
+|
+|
+|
+==============================================================================
+Station Notes - Benzonia:
+05/11/2023: Station Maintenance: [1155]
+- routine station maintenance, including:
+- checked anemometer (bearings good)
+- checked battery (13.31 V)
+- checked battery box (good)
+- checked soil sensor cables (good)
+- checked solar panel (21.03 V)
+- replaced tipping-bucket rain gauge
+- tested leaf wetness [canopy] (good)*
+- tested leaf wetness [standard] (good)
+* canopy: cherry trees at 40" height
+==============================================================================
+08/03/2021: Station Maintenance: [1110]
+- routine station maintenance
+06/22/2021: Station Maintenance: [1240]
+- routine station maintenance, including:
+- modem upgrade
+==============================================================================
+07/31/2020: Station Maintenance: [1310]
+- power upgrade (battery, solar panel)
+- replaced wind sentry
+06/03/2020: Station Maintenance: [1230]
+- routine station maintenance
+- updated leaf wetness (standard) mount (LWS-L)
+==============================================================================
+12/20/2019: Station Maintenance: [1200]
+- replaced faulty (standard) leaf wetness (LWS-L)
+07/24/2019: Logger / Station Maintenance: [1255]
+- replaced logger (CR1000 -> CR1000)
+- added PakBus modem
+- loaded logger program: bnz-bbcb
+==============================================================================
+08/22/2018: Station Maintenance: [1110]
+- annual station / site maintenance
+06/25/2018: Station Maintenance: [1325]
+- general maintenance / site cleanup
+05/26/2018: Station Maintenance: [1440]
+- general maintenance / cleanup, including:
+- check/test tipping-bucket rain gauge
+==============================================================================
+08/10/2017: Station Maintenance: [0001]
+- loaded logger program "bnz-bbcb"
+07/17/2017: Station Maintenance: [1305]
+- annual maintenance
+- replaced air temp/relh sensor (HC2S3 -> HMP155)
+- sensor now connected to "continuous" power
+07/01/2016: Station Maintenance: [1120]
+- annual maintenance and weed removal
+- installed additional solar panel
+==============================================================================
+07/20/2015: Station Maintenance: [1233]
+- Replaced TEMP/RH sensor with new HC2S3
+07/15/2015: Station Modernization: [1300]
+- Station upgraded with new logger and serveral new sensors.
+- loaded logger program "bnz-bbbb"
+- Due to upgrade, station was offline for the following:
+07/15/2015 (d=196) 1305 - 07/15/2015 (d=196) 1415
+- the "live" data updates were able to resume at:
+07/16/2015 (d=197) 1330
+03/01/2015: Station Maintenance: [0003]
+- loaded logger program "mawn_aacf" (hourly collection cycle)
+==============================================================================
+12/09/2014: Station Maintenance: [0006]
+- Loaded Logger Program "mawn_aacw" (3-hour collection cycle)
+09/05/2014: Station Maintenance: [1830]
+- Replaced pyranometer (solar radiation sensor)
+06/27/2014: Station Maintenance: [1530]
+- routine annual maintenance
+02/26/2014: Station Maintenance: [1204]
+- Moved data-collection to new LoggerNet server
+- Loaded Logger program: AACF (hourly cycle)
+==============================================================================
+11/30/2013: Station Maintenance: [1215]
+- Replaced Logger battery
+11/26/2013: Station Maintenance: [0001]
+- Loaded Logger Program "AACW" (3-hour collection cycle)
+08/14/2013: Station Maintenance: [1900]
+- Replaced anemometer (wind speed)
+01/14/2013: Station Maintenance: [1445]
+- Reactivated "live" updates
+01/11/2013: Station Maintenance: [1200]
+- Replaced SC932 Communication Interface Module
+- Added second battery for back-up power
+01/07/2013: Communication Troubles: [1300]
+- Although battery was replaced, communication troubles
+continue.
+01/06/2013: Station Maintenance: [1612]
+- Replaced Battery
+- Due to recent battery issues, several periods of data
+were lost or removed.
+==============================================================================
+06/03/2012: Station Maintenance: [0850]
+- Replaced Modem
+03/03/2012: Station Maintenance: [0001]
+- Loaded MAWN Program - AACF (hourly collection cycle)
+==============================================================================
+12/25/2011: Station Maintenance: [1340]
+- Battery replacement
+11/23/2011: Station Maintenance: [0009]
+- Loaded MAWN Program - AACW (three-hour collection cycle)
+03/02/2011: Station Maintenance: [0004]
+- Loaded MAWN Program - AACF (hourly collection cycle)
+01/30/2011: Station Maintenance: [1450]
+- Battery Replaced
+==============================================================================
+11/18/2010: Station Maintenance: [0001]
+- Loaded MAWN Program - AACW (3-hour collection cycle)
+05/21/2010: Station Maintenance: [1910]
+- Replaced battery
+03/13/2010: Station Maintenance:
+- Loaded MAWN Program - AACF (hourly collection cycle) [0002]
+==============================================================================
+11/24/2009: Station Maintenance: [1100]
+- Battery was replaced.
+11/20/2009: Station Maintenance:
+- Loaded MAWN Program - AACW (3-hour collection cycle) [0902]
+03/01/2009: Station Maintenance:
+- Loaded MAWN Program - AACF (hourly power cycle) [0005]
+==============================================================================
+11/23/2008: Station Maintenance:
+- Loaded MAWN Program - AACW (3-hour power cycle) [0007]
+03/02/2008: Station Maintenance (jb):
+- Loaded MAWN Program: MAWN_AACF (hourly power cycle) [0005]
+===============================================================================
+11/12/2007: Station Maintenance (jb):
+- Loaded MAWN Program: MAWN_AACW (3-hr power cycle)
+05/22/2007: Station Maintenance (bn):
+- Communication converted to broadband cell-modem:
+- Broadband cell-ip modem installed
+- Datalogger progam "mawn_aacs" loaded and compiled.
+- Battery voltage now reported every hour.
+- Data collection configured to upload every 30 minutes.
+- General station maintenance and system checks.
+- Soil Temp 1 sensor was replaced.
+- Soil Temp 0 was reburied.
+- Work was done approx: 15:30 - 16:30 (Day=142)
+===========================================================================
+10/11/2005: Quality Control (jtb):
+- Faulty Air Temperature and Relative Humidity (see note
+from 10/05/2005 below) was removed from the MAWN database.
+Air Temp/RH during the following time period was marked
+as "missing":
+From: 09/27/2005 (Day=270) 14:10
+To: 10/05/2005 (Day=278) 11:40
+10/05/2005: Station Maintenance (sm):
+- Temp/RH Sensor (HMP45C) was disconnected from radiation
+shield leading to faulty readings. The sensor was
+reinstalled properly.
+- Checked all sensors.
+- Routine maintenance and cleaning.
+==============================================================================
+07/17/2004: Station Maintenance: (jal)
+- Regular system maintenance and instrucment check.
+- No new sensors installed.
+==============================================================================
+04/08/2002: Daylight Savings Time Adjustment.
+- Daylight Savings Time Started on Day=97, Time=200.
+- Time of Obs were modified by one hour (forward)
+from Day=97, Time=200 through Day=97, Time=405.
+11/09/2001: Recent Phone Line Troubles Corrected:
+- Recent troubles allowed data buffer to fill and
+some data was lost. Data is missing between the
+following dates:
+Day: 288, Time: 510 (Oct 15, 5:10am)
+Day: 295, Time: 1830 (Oct 22, 6:30pm)
+10/29/2001: Daylight Savings Time Adjustment.
+- Daylight Savings Time Ended on Day=301, Time=200.
+- Time of Obs were modified by one hour (subtracted)
+from Day=301, Time=200 through Day=313, Time=1535.
+09/06/2001: Phone Line Activated and Data Collection Started:
+Phone Number: (see setup notes)
+Archived data set should be setup to ensure that
+the first day of record is complete. To do so,
+use the following as the start of the the data
+archive:
+24 hour data: 24:00, Day=231 (08/19/2001)
+60 min data: 01:00, Day=231 (08/19/2001)
+05 min data: 00:05, Day=231 (08/19/2001)
+08/??/2001: Datalogger Program (MAWN1B) Activated:
+Data Logger Start Times:
+24 hour data: 24:00, Day=230 (08/18/2001)
+60 min data: 20:00, Day=230 (08/18/2001)
+05 min data: 19:55, Day=230 (08/18/2001)
+08/??/2001: Station Installed:
+==============================================================================
+|
+|

@@ -1,0 +1,5 @@
+---
+import { localHref } from '../lib/route';
+const { segments } = Astro.props;
+---
+<p>{segments.map((s) => s.url ? <a href={localHref(s.url)}>{s.text === 'click here' ? 'SEMCOG precipitation data' : s.text}</a> : s.text)}</p>

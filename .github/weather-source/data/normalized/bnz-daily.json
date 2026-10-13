@@ -1,0 +1,3851 @@
+{
+  "schemaVersion": 1,
+  "stationId": "bnz",
+  "source": {
+    "id": "mawn-report-bnzd",
+    "url": "https://mawn.geo.msu.edu/report.asp?fileid=bnzd",
+    "file": "input/mawn/report-bnzd.html",
+    "sha256": "eac3c445226bdd00ee8c408a2af2e031a245bf1e27b698ce9c070baaa75165c9",
+    "retrievedAtUtc": "2026-10-13T15:34:05.924502+00:00"
+  },
+  "parsing": {
+    "method": "Fixed-width text block extracted from the captured HTML (td.courier2); rows split on whitespace after the header lines were matched exactly against the expected layout.",
+    "transformations": [
+      "Non-breaking spaces and <br> converted to spaces and line breaks.",
+      "Dates given as MM/DD/YY also stored as ISO dates, reading the year as 20YY.",
+      "Numeric strings also stored as numbers; the original string is kept and is what the site displays."
+    ],
+    "missingValues": "The markers --, --- and NA are kept as written. The source does not define them. They are never converted to zero."
+  },
+  "kind": "daily",
+  "rawText": "                             DAILY WEATHER SUMMARY \n \n                                   Mick Farms \n                                    Benzonia \n \n             Temperatures(F)      Total  Average   Total    Total   Estimated \n                                  Precip Relative  Wind     Solar      PET \n             Air        Soil             Humidity \nDate      Max   Min   Max   Min    (in)    (%)   (mi/day) (ly/day)  (in/day) \n=============================================================================== \n08/01/26  76.5  63.9  79.4  70.5   0.11    93.4     16.2    266.2     0.084 \n08/02/26  79.4  59.5  84.1  71.4    --     86.6     30.1    420.3     0.130 \n08/03/26  75.6  55.1  85.1  66.8    --     80.3     37.9    600.5     0.174 \n08/04/26  83.6  57.5  84.7  68.4    --     78.3     72.4    551.9     0.178 \n08/05/26  74.7  58.6  78.9  71.6   0.39    95.5     30.8    212.2     0.065 \n08/06/26  77.4  55.4  86.1  66.4    --     86.6     31.7    578.9     0.168 \n08/07/26  82.0  59.4  82.9  69.5    --     87.1     50.4    398.3     0.126 \n08/08/26  77.1  62.7  85.9  71.9    --     77.3     51.6    529.7     0.158 \n08/09/26  73.7  60.7  75.3  69.7   0.01    93.2     29.6    198.4     0.059 \n08/10/26  78.6  61.9  84.6  68.9    --     92.7     36.9    502.0     0.146 \n08/11/26  79.3  59.8  84.7  69.8    --     87.4     35.5    466.1     0.144 \n08/12/26  81.8  62.8  85.9  71.8   0.08    85.7     25.7    455.2     0.143 \n08/13/26  79.1  58.5  78.9  69.0    --     87.0     20.6    291.3     0.095 \n08/14/26  82.2  59.5  86.7  68.0    --     74.4     31.0    556.3     0.171 \n08/15/26  83.5  58.3  84.0  68.7    --     75.1     32.3    382.3     0.126 \n08/16/26  81.6  60.9  83.1  73.4   0.03    92.5     39.1    246.6     0.077 \n08/17/26  77.3  54.5  84.8  66.6    --     81.3     41.1    570.5     0.162 \n08/18/26  78.1  61.5  80.4  69.0   0.74    86.7     53.9    344.8     0.111 \n08/19/26  74.3  53.6  82.8  65.5   0.01    77.7     31.6    543.2     0.155 \n08/20/26  75.9  51.9  82.5  64.4    --     71.1     33.2    527.3     0.155 \n08/21/26  74.3  60.6  74.4  67.8    --     74.7     42.8    200.3     0.067 \n08/22/26  72.9  61.1  80.1  68.0    --     82.9     65.3    376.7     0.111 \n08/23/26  67.1  57.8  74.4  66.4   0.01    70.5     93.7    340.6     0.100 \n08/24/26  70.6  54.5  77.4  64.1    --     75.4     68.9    406.4     0.112 \n08/25/26  76.0  51.8  81.9  63.0    --     75.8     46.1    510.5     0.150 \n08/26/26  75.8  60.5  78.4  66.6   0.30    80.2     70.8    321.3     0.097 \n08/27/26  70.9  55.8  82.3  67.1   0.01    85.5     48.0    486.9     0.131 \n08/28/26  75.5  53.9  80.4  65.7    --     81.9     34.8    400.3     0.118 \n08/29/26  74.7  60.2  73.6  66.2   0.24    90.9     39.4    197.7     0.063 \n08/30/26  78.5  62.7  77.6  67.5    --     93.9     46.5    198.5     0.066 \n08/31/26  81.9  68.1  82.5  70.1   0.35    89.7     54.3    365.2     0.116 \n=============================================================================== \n \n- Air temperatures taken at a height of 5-ft. \n \n- Soil temperatures taken at a depth of 2-in. (under bare soil) \n \n- Reference Potential Evapotranspiration (PET) is estimated based on FAO  \n  Penman-Monteith equation (see: http://www.fao.org/docrep/X0490E/X0490E00.HTM  \n  for more information) \n \n- Data provided by the Michigan Automated Weather Network (MAWN) and \n  Enviro-weather Program. \n                              DAILY WEATHER SUMMARY \n \n                                   Mick Farms \n                                    Benzonia \n \n             Temperatures(F)      Total  Average   Total    Total   Estimated \n                                  Precip Relative  Wind     Solar      PET \n             Air        Soil             Humidity \nDate      Max   Min   Max   Min    (in)    (%)   (mi/day) (ly/day)  (in/day) \n=============================================================================== \n09/01/26  86.4  67.2  88.2  70.9    --     90.1     29.7    437.4     0.143 \n09/02/26  79.1  62.9  82.0  72.8   0.11    91.1     27.8    259.8     0.082 \n09/03/26  73.6  62.6  74.5  68.9   0.74    98.2     16.8    124.2     0.039 \n09/04/26  79.7  66.6  81.0  70.0   0.07    94.0     20.0    250.0     0.081 \n09/05/26  81.4  62.1  85.9  71.4   0.01    80.5     31.6    483.9     0.146 \n09/06/26  78.4  52.2  82.9  66.4    --     80.1     27.9    471.4     0.139 \n09/07/26  76.7  57.8  81.0  66.7    --     81.2     36.6    436.5     0.128 \n09/08/26  71.5  60.0  72.0  67.4    --     83.4     36.4    148.4     0.051 \n09/09/26   --    --    --    --     NA      --      ---      ---       ---  \n09/10/26  73.0  53.3  79.1  64.6    --      --      ---     461.2      ---  \n09/11/26  77.2  49.5  77.7  61.7    --     70.9     38.4    462.0     0.137 \n09/12/26  79.7  60.6  74.6  64.0    --     81.2     57.1    248.0     0.079 \n09/13/26  64.4  48.8  69.4  61.6    --     80.1     54.2    309.0     0.086 \n09/14/26  69.1  42.0  73.2  57.1   0.01    74.6     30.9    435.9     0.116 \n09/15/26   --    --    --    --     NA      --      ---      ---       ---  \n09/16/26   --    --    --    --     NA      --      ---      ---       ---  \n09/17/26  74.3  53.7  74.6  62.2   0.03     --      ---     335.6      ---  \n09/18/26  65.2  50.8  66.1  60.4   0.03    90.4     14.8    180.3     0.051 \n09/19/26  61.6  52.4  64.8  61.2   0.04    96.4     26.0    120.6     0.033 \n09/20/26  68.7  49.7  69.4  61.8   0.01    88.8     20.4    253.4     0.069 \n09/21/26  61.8  45.3  67.3  58.0    --     81.2     22.7    335.0     0.081 \n09/22/26  67.1  40.2  68.5  55.5    --     76.7     30.9    413.2     0.102 \n09/23/26  70.1  38.2  68.5  54.3    --     77.7     30.6    423.6     0.108 \n09/24/26  73.7  45.6  69.3  55.7   0.03    81.2     34.1    419.5     0.110 \n09/25/26  69.6  48.1  67.6  58.1    --     74.0     28.2    302.0     0.083 \n09/26/26  70.6  43.2  68.6  55.1    --     83.2     26.2    414.5     0.107 \n09/27/26  71.8  43.3  69.4  55.4    --     83.2     26.2    398.6     0.107 \n09/28/26  72.4  46.0  69.6  55.9    --     86.7     27.1    382.2     0.104 \n09/29/26  73.9  45.7  68.9  56.0    --      --      ---     356.6      ---  \n09/30/26  67.8   --   64.5  61.4   0.44    94.4     49.4     83.4     0.026 \n=============================================================================== \n \n- Air temperatures taken at a height of 5-ft. \n \n- Soil temperatures taken at a depth of 2-in. (under bare soil) \n \n- Reference Potential Evapotranspiration (PET) is estimated based on FAO  \n  Penman-Monteith equation (see: http://www.fao.org/docrep/X0490E/X0490E00.HTM  \n  for more information) \n \n- Data provided by the Michigan Automated Weather Network (MAWN) and \n  Enviro-weather Program. \n                              DAILY WEATHER SUMMARY \n \n                                   Mick Farms \n                                    Benzonia \n \n             Temperatures(F)      Total  Average   Total    Total   Estimated \n                                  Precip Relative  Wind     Solar      PET \n             Air        Soil             Humidity \nDate      Max   Min   Max   Min    (in)    (%)   (mi/day) (ly/day)  (in/day) \n=============================================================================== \n10/01/26  65.4  55.4  65.2  62.8   0.28    99.9     17.6     56.6     0.020 \n10/02/26   --    --   63.7  56.7    --      --      ---     270.8      ---  \n10/03/26   --    --   63.6  53.4    --      0.4     35.1    342.3      ---  \n10/04/26   --    --    --    --     NA      --      ---      ---       ---  \n10/05/26   --    --    --    --     NA      --      ---      ---       ---  \n10/06/26   --    --    --    --     NA      --      ---      ---       ---  \n10/07/26   --    --    --    --     NA      --      ---      ---       ---  \n10/08/26   --    --    --    --     NA      --      ---      ---       ---  \n10/09/26   --    --    --    --     NA      --      ---      ---       ---  \n10/10/26   --    --    --    --     NA      --      ---      ---       ---  \n10/11/26   --    --    --    --     NA      --      ---      ---       ---  \n10/12/26   --    --    --    --     NA      --      ---      ---       ---  \n=============================================================================== \n \n- Air temperatures taken at a height of 5-ft. \n \n- Soil temperatures taken at a depth of 2-in. (under bare soil) \n \n- Reference Potential Evapotranspiration (PET) is estimated based on FAO  \n  Penman-Monteith equation (see: http://www.fao.org/docrep/X0490E/X0490E00.HTM  \n  for more information) \n \n- Data provided by the Michigan Automated Weather Network (MAWN) and \n  Enviro-weather Program. \n \n",
+  "reportTitle": "DAILY WEATHER SUMMARY",
+  "location": [
+    "Mick Farms",
+    "Benzonia"
+  ],
+  "columns": [
+    {
+      "key": "airMax",
+      "label": "Air temperature, maximum",
+      "short": "Air max",
+      "unit": "°F",
+      "sourceHeader": "Temperatures(F) Air Max",
+      "type": "number"
+    },
+    {
+      "key": "airMin",
+      "label": "Air temperature, minimum",
+      "short": "Air min",
+      "unit": "°F",
+      "sourceHeader": "Temperatures(F) Air Min",
+      "type": "number"
+    },
+    {
+      "key": "soilMax",
+      "label": "Soil temperature, maximum",
+      "short": "Soil max",
+      "unit": "°F",
+      "sourceHeader": "Temperatures(F) Soil Max",
+      "type": "number"
+    },
+    {
+      "key": "soilMin",
+      "label": "Soil temperature, minimum",
+      "short": "Soil min",
+      "unit": "°F",
+      "sourceHeader": "Temperatures(F) Soil Min",
+      "type": "number"
+    },
+    {
+      "key": "precip",
+      "label": "Total precipitation",
+      "short": "Precip",
+      "unit": "in",
+      "sourceHeader": "Total Precip (in)",
+      "type": "number"
+    },
+    {
+      "key": "relHum",
+      "label": "Average relative humidity",
+      "short": "Avg RH",
+      "unit": "%",
+      "sourceHeader": "Average Relative Humidity (%)",
+      "type": "number"
+    },
+    {
+      "key": "wind",
+      "label": "Total wind",
+      "short": "Wind",
+      "unit": "mi/day",
+      "sourceHeader": "Total Wind (mi/day)",
+      "type": "number"
+    },
+    {
+      "key": "solar",
+      "label": "Total solar",
+      "short": "Solar",
+      "unit": "ly/day",
+      "sourceHeader": "Total Solar (ly/day)",
+      "type": "number"
+    },
+    {
+      "key": "pet",
+      "label": "Estimated PET",
+      "short": "PET",
+      "unit": "in/day",
+      "sourceHeader": "Estimated PET (in/day)",
+      "type": "number"
+    }
+  ],
+  "months": [
+    "2026-08",
+    "2026-09",
+    "2026-10"
+  ],
+  "rows": [
+    {
+      "dateRaw": "08/01/26",
+      "isoDate": "2026-08-01",
+      "cells": {
+        "airMax": {
+          "raw": "76.5",
+          "value": 76.5,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "63.9",
+          "value": 63.9,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "79.4",
+          "value": 79.4,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "70.5",
+          "value": 70.5,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.11",
+          "value": 0.11,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "93.4",
+          "value": 93.4,
+          "missing": false
+        },
+        "wind": {
+          "raw": "16.2",
+          "value": 16.2,
+          "missing": false
+        },
+        "solar": {
+          "raw": "266.2",
+          "value": 266.2,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.084",
+          "value": 0.084,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/02/26",
+      "isoDate": "2026-08-02",
+      "cells": {
+        "airMax": {
+          "raw": "79.4",
+          "value": 79.4,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "59.5",
+          "value": 59.5,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "84.1",
+          "value": 84.1,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "71.4",
+          "value": 71.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "86.6",
+          "value": 86.6,
+          "missing": false
+        },
+        "wind": {
+          "raw": "30.1",
+          "value": 30.1,
+          "missing": false
+        },
+        "solar": {
+          "raw": "420.3",
+          "value": 420.3,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.130",
+          "value": 0.13,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/03/26",
+      "isoDate": "2026-08-03",
+      "cells": {
+        "airMax": {
+          "raw": "75.6",
+          "value": 75.6,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "55.1",
+          "value": 55.1,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "85.1",
+          "value": 85.1,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "66.8",
+          "value": 66.8,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "80.3",
+          "value": 80.3,
+          "missing": false
+        },
+        "wind": {
+          "raw": "37.9",
+          "value": 37.9,
+          "missing": false
+        },
+        "solar": {
+          "raw": "600.5",
+          "value": 600.5,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.174",
+          "value": 0.174,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/04/26",
+      "isoDate": "2026-08-04",
+      "cells": {
+        "airMax": {
+          "raw": "83.6",
+          "value": 83.6,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "57.5",
+          "value": 57.5,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "84.7",
+          "value": 84.7,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "68.4",
+          "value": 68.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "78.3",
+          "value": 78.3,
+          "missing": false
+        },
+        "wind": {
+          "raw": "72.4",
+          "value": 72.4,
+          "missing": false
+        },
+        "solar": {
+          "raw": "551.9",
+          "value": 551.9,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.178",
+          "value": 0.178,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/05/26",
+      "isoDate": "2026-08-05",
+      "cells": {
+        "airMax": {
+          "raw": "74.7",
+          "value": 74.7,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "58.6",
+          "value": 58.6,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "78.9",
+          "value": 78.9,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "71.6",
+          "value": 71.6,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.39",
+          "value": 0.39,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "95.5",
+          "value": 95.5,
+          "missing": false
+        },
+        "wind": {
+          "raw": "30.8",
+          "value": 30.8,
+          "missing": false
+        },
+        "solar": {
+          "raw": "212.2",
+          "value": 212.2,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.065",
+          "value": 0.065,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/06/26",
+      "isoDate": "2026-08-06",
+      "cells": {
+        "airMax": {
+          "raw": "77.4",
+          "value": 77.4,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "55.4",
+          "value": 55.4,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "86.1",
+          "value": 86.1,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "66.4",
+          "value": 66.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "86.6",
+          "value": 86.6,
+          "missing": false
+        },
+        "wind": {
+          "raw": "31.7",
+          "value": 31.7,
+          "missing": false
+        },
+        "solar": {
+          "raw": "578.9",
+          "value": 578.9,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.168",
+          "value": 0.168,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/07/26",
+      "isoDate": "2026-08-07",
+      "cells": {
+        "airMax": {
+          "raw": "82.0",
+          "value": 82.0,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "59.4",
+          "value": 59.4,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "82.9",
+          "value": 82.9,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "69.5",
+          "value": 69.5,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "87.1",
+          "value": 87.1,
+          "missing": false
+        },
+        "wind": {
+          "raw": "50.4",
+          "value": 50.4,
+          "missing": false
+        },
+        "solar": {
+          "raw": "398.3",
+          "value": 398.3,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.126",
+          "value": 0.126,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/08/26",
+      "isoDate": "2026-08-08",
+      "cells": {
+        "airMax": {
+          "raw": "77.1",
+          "value": 77.1,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "62.7",
+          "value": 62.7,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "85.9",
+          "value": 85.9,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "71.9",
+          "value": 71.9,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "77.3",
+          "value": 77.3,
+          "missing": false
+        },
+        "wind": {
+          "raw": "51.6",
+          "value": 51.6,
+          "missing": false
+        },
+        "solar": {
+          "raw": "529.7",
+          "value": 529.7,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.158",
+          "value": 0.158,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/09/26",
+      "isoDate": "2026-08-09",
+      "cells": {
+        "airMax": {
+          "raw": "73.7",
+          "value": 73.7,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "60.7",
+          "value": 60.7,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "75.3",
+          "value": 75.3,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "69.7",
+          "value": 69.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.01",
+          "value": 0.01,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "93.2",
+          "value": 93.2,
+          "missing": false
+        },
+        "wind": {
+          "raw": "29.6",
+          "value": 29.6,
+          "missing": false
+        },
+        "solar": {
+          "raw": "198.4",
+          "value": 198.4,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.059",
+          "value": 0.059,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/10/26",
+      "isoDate": "2026-08-10",
+      "cells": {
+        "airMax": {
+          "raw": "78.6",
+          "value": 78.6,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "61.9",
+          "value": 61.9,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "84.6",
+          "value": 84.6,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "68.9",
+          "value": 68.9,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "92.7",
+          "value": 92.7,
+          "missing": false
+        },
+        "wind": {
+          "raw": "36.9",
+          "value": 36.9,
+          "missing": false
+        },
+        "solar": {
+          "raw": "502.0",
+          "value": 502.0,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.146",
+          "value": 0.146,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/11/26",
+      "isoDate": "2026-08-11",
+      "cells": {
+        "airMax": {
+          "raw": "79.3",
+          "value": 79.3,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "59.8",
+          "value": 59.8,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "84.7",
+          "value": 84.7,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "69.8",
+          "value": 69.8,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "87.4",
+          "value": 87.4,
+          "missing": false
+        },
+        "wind": {
+          "raw": "35.5",
+          "value": 35.5,
+          "missing": false
+        },
+        "solar": {
+          "raw": "466.1",
+          "value": 466.1,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.144",
+          "value": 0.144,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/12/26",
+      "isoDate": "2026-08-12",
+      "cells": {
+        "airMax": {
+          "raw": "81.8",
+          "value": 81.8,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "62.8",
+          "value": 62.8,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "85.9",
+          "value": 85.9,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "71.8",
+          "value": 71.8,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.08",
+          "value": 0.08,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "85.7",
+          "value": 85.7,
+          "missing": false
+        },
+        "wind": {
+          "raw": "25.7",
+          "value": 25.7,
+          "missing": false
+        },
+        "solar": {
+          "raw": "455.2",
+          "value": 455.2,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.143",
+          "value": 0.143,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/13/26",
+      "isoDate": "2026-08-13",
+      "cells": {
+        "airMax": {
+          "raw": "79.1",
+          "value": 79.1,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "58.5",
+          "value": 58.5,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "78.9",
+          "value": 78.9,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "69.0",
+          "value": 69.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "87.0",
+          "value": 87.0,
+          "missing": false
+        },
+        "wind": {
+          "raw": "20.6",
+          "value": 20.6,
+          "missing": false
+        },
+        "solar": {
+          "raw": "291.3",
+          "value": 291.3,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.095",
+          "value": 0.095,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/14/26",
+      "isoDate": "2026-08-14",
+      "cells": {
+        "airMax": {
+          "raw": "82.2",
+          "value": 82.2,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "59.5",
+          "value": 59.5,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "86.7",
+          "value": 86.7,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "68.0",
+          "value": 68.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "74.4",
+          "value": 74.4,
+          "missing": false
+        },
+        "wind": {
+          "raw": "31.0",
+          "value": 31.0,
+          "missing": false
+        },
+        "solar": {
+          "raw": "556.3",
+          "value": 556.3,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.171",
+          "value": 0.171,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/15/26",
+      "isoDate": "2026-08-15",
+      "cells": {
+        "airMax": {
+          "raw": "83.5",
+          "value": 83.5,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "58.3",
+          "value": 58.3,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "84.0",
+          "value": 84.0,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "68.7",
+          "value": 68.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "75.1",
+          "value": 75.1,
+          "missing": false
+        },
+        "wind": {
+          "raw": "32.3",
+          "value": 32.3,
+          "missing": false
+        },
+        "solar": {
+          "raw": "382.3",
+          "value": 382.3,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.126",
+          "value": 0.126,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/16/26",
+      "isoDate": "2026-08-16",
+      "cells": {
+        "airMax": {
+          "raw": "81.6",
+          "value": 81.6,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "60.9",
+          "value": 60.9,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "83.1",
+          "value": 83.1,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "73.4",
+          "value": 73.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.03",
+          "value": 0.03,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "92.5",
+          "value": 92.5,
+          "missing": false
+        },
+        "wind": {
+          "raw": "39.1",
+          "value": 39.1,
+          "missing": false
+        },
+        "solar": {
+          "raw": "246.6",
+          "value": 246.6,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.077",
+          "value": 0.077,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/17/26",
+      "isoDate": "2026-08-17",
+      "cells": {
+        "airMax": {
+          "raw": "77.3",
+          "value": 77.3,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "54.5",
+          "value": 54.5,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "84.8",
+          "value": 84.8,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "66.6",
+          "value": 66.6,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "81.3",
+          "value": 81.3,
+          "missing": false
+        },
+        "wind": {
+          "raw": "41.1",
+          "value": 41.1,
+          "missing": false
+        },
+        "solar": {
+          "raw": "570.5",
+          "value": 570.5,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.162",
+          "value": 0.162,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/18/26",
+      "isoDate": "2026-08-18",
+      "cells": {
+        "airMax": {
+          "raw": "78.1",
+          "value": 78.1,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "61.5",
+          "value": 61.5,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "80.4",
+          "value": 80.4,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "69.0",
+          "value": 69.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.74",
+          "value": 0.74,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "86.7",
+          "value": 86.7,
+          "missing": false
+        },
+        "wind": {
+          "raw": "53.9",
+          "value": 53.9,
+          "missing": false
+        },
+        "solar": {
+          "raw": "344.8",
+          "value": 344.8,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.111",
+          "value": 0.111,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/19/26",
+      "isoDate": "2026-08-19",
+      "cells": {
+        "airMax": {
+          "raw": "74.3",
+          "value": 74.3,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "53.6",
+          "value": 53.6,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "82.8",
+          "value": 82.8,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "65.5",
+          "value": 65.5,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.01",
+          "value": 0.01,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "77.7",
+          "value": 77.7,
+          "missing": false
+        },
+        "wind": {
+          "raw": "31.6",
+          "value": 31.6,
+          "missing": false
+        },
+        "solar": {
+          "raw": "543.2",
+          "value": 543.2,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.155",
+          "value": 0.155,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/20/26",
+      "isoDate": "2026-08-20",
+      "cells": {
+        "airMax": {
+          "raw": "75.9",
+          "value": 75.9,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "51.9",
+          "value": 51.9,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "82.5",
+          "value": 82.5,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "64.4",
+          "value": 64.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "71.1",
+          "value": 71.1,
+          "missing": false
+        },
+        "wind": {
+          "raw": "33.2",
+          "value": 33.2,
+          "missing": false
+        },
+        "solar": {
+          "raw": "527.3",
+          "value": 527.3,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.155",
+          "value": 0.155,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/21/26",
+      "isoDate": "2026-08-21",
+      "cells": {
+        "airMax": {
+          "raw": "74.3",
+          "value": 74.3,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "60.6",
+          "value": 60.6,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "74.4",
+          "value": 74.4,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "67.8",
+          "value": 67.8,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "74.7",
+          "value": 74.7,
+          "missing": false
+        },
+        "wind": {
+          "raw": "42.8",
+          "value": 42.8,
+          "missing": false
+        },
+        "solar": {
+          "raw": "200.3",
+          "value": 200.3,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.067",
+          "value": 0.067,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/22/26",
+      "isoDate": "2026-08-22",
+      "cells": {
+        "airMax": {
+          "raw": "72.9",
+          "value": 72.9,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "61.1",
+          "value": 61.1,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "80.1",
+          "value": 80.1,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "68.0",
+          "value": 68.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "82.9",
+          "value": 82.9,
+          "missing": false
+        },
+        "wind": {
+          "raw": "65.3",
+          "value": 65.3,
+          "missing": false
+        },
+        "solar": {
+          "raw": "376.7",
+          "value": 376.7,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.111",
+          "value": 0.111,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/23/26",
+      "isoDate": "2026-08-23",
+      "cells": {
+        "airMax": {
+          "raw": "67.1",
+          "value": 67.1,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "57.8",
+          "value": 57.8,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "74.4",
+          "value": 74.4,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "66.4",
+          "value": 66.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.01",
+          "value": 0.01,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "70.5",
+          "value": 70.5,
+          "missing": false
+        },
+        "wind": {
+          "raw": "93.7",
+          "value": 93.7,
+          "missing": false
+        },
+        "solar": {
+          "raw": "340.6",
+          "value": 340.6,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.100",
+          "value": 0.1,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/24/26",
+      "isoDate": "2026-08-24",
+      "cells": {
+        "airMax": {
+          "raw": "70.6",
+          "value": 70.6,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "54.5",
+          "value": 54.5,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "77.4",
+          "value": 77.4,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "64.1",
+          "value": 64.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "75.4",
+          "value": 75.4,
+          "missing": false
+        },
+        "wind": {
+          "raw": "68.9",
+          "value": 68.9,
+          "missing": false
+        },
+        "solar": {
+          "raw": "406.4",
+          "value": 406.4,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.112",
+          "value": 0.112,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/25/26",
+      "isoDate": "2026-08-25",
+      "cells": {
+        "airMax": {
+          "raw": "76.0",
+          "value": 76.0,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "51.8",
+          "value": 51.8,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "81.9",
+          "value": 81.9,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "63.0",
+          "value": 63.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "75.8",
+          "value": 75.8,
+          "missing": false
+        },
+        "wind": {
+          "raw": "46.1",
+          "value": 46.1,
+          "missing": false
+        },
+        "solar": {
+          "raw": "510.5",
+          "value": 510.5,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.150",
+          "value": 0.15,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/26/26",
+      "isoDate": "2026-08-26",
+      "cells": {
+        "airMax": {
+          "raw": "75.8",
+          "value": 75.8,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "60.5",
+          "value": 60.5,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "78.4",
+          "value": 78.4,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "66.6",
+          "value": 66.6,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.30",
+          "value": 0.3,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "80.2",
+          "value": 80.2,
+          "missing": false
+        },
+        "wind": {
+          "raw": "70.8",
+          "value": 70.8,
+          "missing": false
+        },
+        "solar": {
+          "raw": "321.3",
+          "value": 321.3,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.097",
+          "value": 0.097,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/27/26",
+      "isoDate": "2026-08-27",
+      "cells": {
+        "airMax": {
+          "raw": "70.9",
+          "value": 70.9,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "55.8",
+          "value": 55.8,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "82.3",
+          "value": 82.3,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "67.1",
+          "value": 67.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.01",
+          "value": 0.01,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "85.5",
+          "value": 85.5,
+          "missing": false
+        },
+        "wind": {
+          "raw": "48.0",
+          "value": 48.0,
+          "missing": false
+        },
+        "solar": {
+          "raw": "486.9",
+          "value": 486.9,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.131",
+          "value": 0.131,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/28/26",
+      "isoDate": "2026-08-28",
+      "cells": {
+        "airMax": {
+          "raw": "75.5",
+          "value": 75.5,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "53.9",
+          "value": 53.9,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "80.4",
+          "value": 80.4,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "65.7",
+          "value": 65.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "81.9",
+          "value": 81.9,
+          "missing": false
+        },
+        "wind": {
+          "raw": "34.8",
+          "value": 34.8,
+          "missing": false
+        },
+        "solar": {
+          "raw": "400.3",
+          "value": 400.3,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.118",
+          "value": 0.118,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/29/26",
+      "isoDate": "2026-08-29",
+      "cells": {
+        "airMax": {
+          "raw": "74.7",
+          "value": 74.7,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "60.2",
+          "value": 60.2,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "73.6",
+          "value": 73.6,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "66.2",
+          "value": 66.2,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.24",
+          "value": 0.24,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "90.9",
+          "value": 90.9,
+          "missing": false
+        },
+        "wind": {
+          "raw": "39.4",
+          "value": 39.4,
+          "missing": false
+        },
+        "solar": {
+          "raw": "197.7",
+          "value": 197.7,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.063",
+          "value": 0.063,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/30/26",
+      "isoDate": "2026-08-30",
+      "cells": {
+        "airMax": {
+          "raw": "78.5",
+          "value": 78.5,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "62.7",
+          "value": 62.7,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "77.6",
+          "value": 77.6,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "67.5",
+          "value": 67.5,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "93.9",
+          "value": 93.9,
+          "missing": false
+        },
+        "wind": {
+          "raw": "46.5",
+          "value": 46.5,
+          "missing": false
+        },
+        "solar": {
+          "raw": "198.5",
+          "value": 198.5,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.066",
+          "value": 0.066,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "08/31/26",
+      "isoDate": "2026-08-31",
+      "cells": {
+        "airMax": {
+          "raw": "81.9",
+          "value": 81.9,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "68.1",
+          "value": 68.1,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "82.5",
+          "value": 82.5,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "70.1",
+          "value": 70.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.35",
+          "value": 0.35,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "89.7",
+          "value": 89.7,
+          "missing": false
+        },
+        "wind": {
+          "raw": "54.3",
+          "value": 54.3,
+          "missing": false
+        },
+        "solar": {
+          "raw": "365.2",
+          "value": 365.2,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.116",
+          "value": 0.116,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/01/26",
+      "isoDate": "2026-09-01",
+      "cells": {
+        "airMax": {
+          "raw": "86.4",
+          "value": 86.4,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "67.2",
+          "value": 67.2,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "88.2",
+          "value": 88.2,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "70.9",
+          "value": 70.9,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "90.1",
+          "value": 90.1,
+          "missing": false
+        },
+        "wind": {
+          "raw": "29.7",
+          "value": 29.7,
+          "missing": false
+        },
+        "solar": {
+          "raw": "437.4",
+          "value": 437.4,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.143",
+          "value": 0.143,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/02/26",
+      "isoDate": "2026-09-02",
+      "cells": {
+        "airMax": {
+          "raw": "79.1",
+          "value": 79.1,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "62.9",
+          "value": 62.9,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "82.0",
+          "value": 82.0,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "72.8",
+          "value": 72.8,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.11",
+          "value": 0.11,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "91.1",
+          "value": 91.1,
+          "missing": false
+        },
+        "wind": {
+          "raw": "27.8",
+          "value": 27.8,
+          "missing": false
+        },
+        "solar": {
+          "raw": "259.8",
+          "value": 259.8,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.082",
+          "value": 0.082,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/03/26",
+      "isoDate": "2026-09-03",
+      "cells": {
+        "airMax": {
+          "raw": "73.6",
+          "value": 73.6,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "62.6",
+          "value": 62.6,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "74.5",
+          "value": 74.5,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "68.9",
+          "value": 68.9,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.74",
+          "value": 0.74,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "98.2",
+          "value": 98.2,
+          "missing": false
+        },
+        "wind": {
+          "raw": "16.8",
+          "value": 16.8,
+          "missing": false
+        },
+        "solar": {
+          "raw": "124.2",
+          "value": 124.2,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.039",
+          "value": 0.039,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/04/26",
+      "isoDate": "2026-09-04",
+      "cells": {
+        "airMax": {
+          "raw": "79.7",
+          "value": 79.7,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "66.6",
+          "value": 66.6,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "81.0",
+          "value": 81.0,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "70.0",
+          "value": 70.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.07",
+          "value": 0.07,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "94.0",
+          "value": 94.0,
+          "missing": false
+        },
+        "wind": {
+          "raw": "20.0",
+          "value": 20.0,
+          "missing": false
+        },
+        "solar": {
+          "raw": "250.0",
+          "value": 250.0,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.081",
+          "value": 0.081,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/05/26",
+      "isoDate": "2026-09-05",
+      "cells": {
+        "airMax": {
+          "raw": "81.4",
+          "value": 81.4,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "62.1",
+          "value": 62.1,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "85.9",
+          "value": 85.9,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "71.4",
+          "value": 71.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.01",
+          "value": 0.01,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "80.5",
+          "value": 80.5,
+          "missing": false
+        },
+        "wind": {
+          "raw": "31.6",
+          "value": 31.6,
+          "missing": false
+        },
+        "solar": {
+          "raw": "483.9",
+          "value": 483.9,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.146",
+          "value": 0.146,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/06/26",
+      "isoDate": "2026-09-06",
+      "cells": {
+        "airMax": {
+          "raw": "78.4",
+          "value": 78.4,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "52.2",
+          "value": 52.2,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "82.9",
+          "value": 82.9,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "66.4",
+          "value": 66.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "80.1",
+          "value": 80.1,
+          "missing": false
+        },
+        "wind": {
+          "raw": "27.9",
+          "value": 27.9,
+          "missing": false
+        },
+        "solar": {
+          "raw": "471.4",
+          "value": 471.4,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.139",
+          "value": 0.139,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/07/26",
+      "isoDate": "2026-09-07",
+      "cells": {
+        "airMax": {
+          "raw": "76.7",
+          "value": 76.7,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "57.8",
+          "value": 57.8,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "81.0",
+          "value": 81.0,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "66.7",
+          "value": 66.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "81.2",
+          "value": 81.2,
+          "missing": false
+        },
+        "wind": {
+          "raw": "36.6",
+          "value": 36.6,
+          "missing": false
+        },
+        "solar": {
+          "raw": "436.5",
+          "value": 436.5,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.128",
+          "value": 0.128,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/08/26",
+      "isoDate": "2026-09-08",
+      "cells": {
+        "airMax": {
+          "raw": "71.5",
+          "value": 71.5,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "60.0",
+          "value": 60.0,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "72.0",
+          "value": 72.0,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "67.4",
+          "value": 67.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "83.4",
+          "value": 83.4,
+          "missing": false
+        },
+        "wind": {
+          "raw": "36.4",
+          "value": 36.4,
+          "missing": false
+        },
+        "solar": {
+          "raw": "148.4",
+          "value": 148.4,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.051",
+          "value": 0.051,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/09/26",
+      "isoDate": "2026-09-09",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "precip": {
+          "raw": "NA",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "09/10/26",
+      "isoDate": "2026-09-10",
+      "cells": {
+        "airMax": {
+          "raw": "73.0",
+          "value": 73.0,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "53.3",
+          "value": 53.3,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "79.1",
+          "value": 79.1,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "64.6",
+          "value": 64.6,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "461.2",
+          "value": 461.2,
+          "missing": false
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "09/11/26",
+      "isoDate": "2026-09-11",
+      "cells": {
+        "airMax": {
+          "raw": "77.2",
+          "value": 77.2,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "49.5",
+          "value": 49.5,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "77.7",
+          "value": 77.7,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "61.7",
+          "value": 61.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "70.9",
+          "value": 70.9,
+          "missing": false
+        },
+        "wind": {
+          "raw": "38.4",
+          "value": 38.4,
+          "missing": false
+        },
+        "solar": {
+          "raw": "462.0",
+          "value": 462.0,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.137",
+          "value": 0.137,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/12/26",
+      "isoDate": "2026-09-12",
+      "cells": {
+        "airMax": {
+          "raw": "79.7",
+          "value": 79.7,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "60.6",
+          "value": 60.6,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "74.6",
+          "value": 74.6,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "64.0",
+          "value": 64.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "81.2",
+          "value": 81.2,
+          "missing": false
+        },
+        "wind": {
+          "raw": "57.1",
+          "value": 57.1,
+          "missing": false
+        },
+        "solar": {
+          "raw": "248.0",
+          "value": 248.0,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.079",
+          "value": 0.079,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/13/26",
+      "isoDate": "2026-09-13",
+      "cells": {
+        "airMax": {
+          "raw": "64.4",
+          "value": 64.4,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "48.8",
+          "value": 48.8,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "69.4",
+          "value": 69.4,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "61.6",
+          "value": 61.6,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "80.1",
+          "value": 80.1,
+          "missing": false
+        },
+        "wind": {
+          "raw": "54.2",
+          "value": 54.2,
+          "missing": false
+        },
+        "solar": {
+          "raw": "309.0",
+          "value": 309.0,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.086",
+          "value": 0.086,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/14/26",
+      "isoDate": "2026-09-14",
+      "cells": {
+        "airMax": {
+          "raw": "69.1",
+          "value": 69.1,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "42.0",
+          "value": 42.0,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "73.2",
+          "value": 73.2,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "57.1",
+          "value": 57.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.01",
+          "value": 0.01,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "74.6",
+          "value": 74.6,
+          "missing": false
+        },
+        "wind": {
+          "raw": "30.9",
+          "value": 30.9,
+          "missing": false
+        },
+        "solar": {
+          "raw": "435.9",
+          "value": 435.9,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.116",
+          "value": 0.116,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/15/26",
+      "isoDate": "2026-09-15",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "precip": {
+          "raw": "NA",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "09/16/26",
+      "isoDate": "2026-09-16",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "precip": {
+          "raw": "NA",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "09/17/26",
+      "isoDate": "2026-09-17",
+      "cells": {
+        "airMax": {
+          "raw": "74.3",
+          "value": 74.3,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "53.7",
+          "value": 53.7,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "74.6",
+          "value": 74.6,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "62.2",
+          "value": 62.2,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.03",
+          "value": 0.03,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "335.6",
+          "value": 335.6,
+          "missing": false
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "09/18/26",
+      "isoDate": "2026-09-18",
+      "cells": {
+        "airMax": {
+          "raw": "65.2",
+          "value": 65.2,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "50.8",
+          "value": 50.8,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "66.1",
+          "value": 66.1,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "60.4",
+          "value": 60.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.03",
+          "value": 0.03,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "90.4",
+          "value": 90.4,
+          "missing": false
+        },
+        "wind": {
+          "raw": "14.8",
+          "value": 14.8,
+          "missing": false
+        },
+        "solar": {
+          "raw": "180.3",
+          "value": 180.3,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.051",
+          "value": 0.051,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/19/26",
+      "isoDate": "2026-09-19",
+      "cells": {
+        "airMax": {
+          "raw": "61.6",
+          "value": 61.6,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "52.4",
+          "value": 52.4,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "64.8",
+          "value": 64.8,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "61.2",
+          "value": 61.2,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.04",
+          "value": 0.04,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "96.4",
+          "value": 96.4,
+          "missing": false
+        },
+        "wind": {
+          "raw": "26.0",
+          "value": 26.0,
+          "missing": false
+        },
+        "solar": {
+          "raw": "120.6",
+          "value": 120.6,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.033",
+          "value": 0.033,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/20/26",
+      "isoDate": "2026-09-20",
+      "cells": {
+        "airMax": {
+          "raw": "68.7",
+          "value": 68.7,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "49.7",
+          "value": 49.7,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "69.4",
+          "value": 69.4,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "61.8",
+          "value": 61.8,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.01",
+          "value": 0.01,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "88.8",
+          "value": 88.8,
+          "missing": false
+        },
+        "wind": {
+          "raw": "20.4",
+          "value": 20.4,
+          "missing": false
+        },
+        "solar": {
+          "raw": "253.4",
+          "value": 253.4,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.069",
+          "value": 0.069,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/21/26",
+      "isoDate": "2026-09-21",
+      "cells": {
+        "airMax": {
+          "raw": "61.8",
+          "value": 61.8,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "45.3",
+          "value": 45.3,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "67.3",
+          "value": 67.3,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "58.0",
+          "value": 58.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "81.2",
+          "value": 81.2,
+          "missing": false
+        },
+        "wind": {
+          "raw": "22.7",
+          "value": 22.7,
+          "missing": false
+        },
+        "solar": {
+          "raw": "335.0",
+          "value": 335.0,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.081",
+          "value": 0.081,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/22/26",
+      "isoDate": "2026-09-22",
+      "cells": {
+        "airMax": {
+          "raw": "67.1",
+          "value": 67.1,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "40.2",
+          "value": 40.2,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "68.5",
+          "value": 68.5,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "55.5",
+          "value": 55.5,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "76.7",
+          "value": 76.7,
+          "missing": false
+        },
+        "wind": {
+          "raw": "30.9",
+          "value": 30.9,
+          "missing": false
+        },
+        "solar": {
+          "raw": "413.2",
+          "value": 413.2,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.102",
+          "value": 0.102,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/23/26",
+      "isoDate": "2026-09-23",
+      "cells": {
+        "airMax": {
+          "raw": "70.1",
+          "value": 70.1,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "38.2",
+          "value": 38.2,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "68.5",
+          "value": 68.5,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "54.3",
+          "value": 54.3,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "77.7",
+          "value": 77.7,
+          "missing": false
+        },
+        "wind": {
+          "raw": "30.6",
+          "value": 30.6,
+          "missing": false
+        },
+        "solar": {
+          "raw": "423.6",
+          "value": 423.6,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.108",
+          "value": 0.108,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/24/26",
+      "isoDate": "2026-09-24",
+      "cells": {
+        "airMax": {
+          "raw": "73.7",
+          "value": 73.7,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "45.6",
+          "value": 45.6,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "69.3",
+          "value": 69.3,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "55.7",
+          "value": 55.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.03",
+          "value": 0.03,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "81.2",
+          "value": 81.2,
+          "missing": false
+        },
+        "wind": {
+          "raw": "34.1",
+          "value": 34.1,
+          "missing": false
+        },
+        "solar": {
+          "raw": "419.5",
+          "value": 419.5,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.110",
+          "value": 0.11,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/25/26",
+      "isoDate": "2026-09-25",
+      "cells": {
+        "airMax": {
+          "raw": "69.6",
+          "value": 69.6,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "48.1",
+          "value": 48.1,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "67.6",
+          "value": 67.6,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "58.1",
+          "value": 58.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "74.0",
+          "value": 74.0,
+          "missing": false
+        },
+        "wind": {
+          "raw": "28.2",
+          "value": 28.2,
+          "missing": false
+        },
+        "solar": {
+          "raw": "302.0",
+          "value": 302.0,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.083",
+          "value": 0.083,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/26/26",
+      "isoDate": "2026-09-26",
+      "cells": {
+        "airMax": {
+          "raw": "70.6",
+          "value": 70.6,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "43.2",
+          "value": 43.2,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "68.6",
+          "value": 68.6,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "55.1",
+          "value": 55.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "83.2",
+          "value": 83.2,
+          "missing": false
+        },
+        "wind": {
+          "raw": "26.2",
+          "value": 26.2,
+          "missing": false
+        },
+        "solar": {
+          "raw": "414.5",
+          "value": 414.5,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.107",
+          "value": 0.107,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/27/26",
+      "isoDate": "2026-09-27",
+      "cells": {
+        "airMax": {
+          "raw": "71.8",
+          "value": 71.8,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "43.3",
+          "value": 43.3,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "69.4",
+          "value": 69.4,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "55.4",
+          "value": 55.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "83.2",
+          "value": 83.2,
+          "missing": false
+        },
+        "wind": {
+          "raw": "26.2",
+          "value": 26.2,
+          "missing": false
+        },
+        "solar": {
+          "raw": "398.6",
+          "value": 398.6,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.107",
+          "value": 0.107,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/28/26",
+      "isoDate": "2026-09-28",
+      "cells": {
+        "airMax": {
+          "raw": "72.4",
+          "value": 72.4,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "46.0",
+          "value": 46.0,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "69.6",
+          "value": 69.6,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "55.9",
+          "value": 55.9,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "86.7",
+          "value": 86.7,
+          "missing": false
+        },
+        "wind": {
+          "raw": "27.1",
+          "value": 27.1,
+          "missing": false
+        },
+        "solar": {
+          "raw": "382.2",
+          "value": 382.2,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.104",
+          "value": 0.104,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "09/29/26",
+      "isoDate": "2026-09-29",
+      "cells": {
+        "airMax": {
+          "raw": "73.9",
+          "value": 73.9,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "45.7",
+          "value": 45.7,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "68.9",
+          "value": 68.9,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "56.0",
+          "value": 56.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "356.6",
+          "value": 356.6,
+          "missing": false
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "09/30/26",
+      "isoDate": "2026-09-30",
+      "cells": {
+        "airMax": {
+          "raw": "67.8",
+          "value": 67.8,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "64.5",
+          "value": 64.5,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "61.4",
+          "value": 61.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.44",
+          "value": 0.44,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "94.4",
+          "value": 94.4,
+          "missing": false
+        },
+        "wind": {
+          "raw": "49.4",
+          "value": 49.4,
+          "missing": false
+        },
+        "solar": {
+          "raw": "83.4",
+          "value": 83.4,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.026",
+          "value": 0.026,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "10/01/26",
+      "isoDate": "2026-10-01",
+      "cells": {
+        "airMax": {
+          "raw": "65.4",
+          "value": 65.4,
+          "missing": false
+        },
+        "airMin": {
+          "raw": "55.4",
+          "value": 55.4,
+          "missing": false
+        },
+        "soilMax": {
+          "raw": "65.2",
+          "value": 65.2,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "62.8",
+          "value": 62.8,
+          "missing": false
+        },
+        "precip": {
+          "raw": "0.28",
+          "value": 0.28,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "99.9",
+          "value": 99.9,
+          "missing": false
+        },
+        "wind": {
+          "raw": "17.6",
+          "value": 17.6,
+          "missing": false
+        },
+        "solar": {
+          "raw": "56.6",
+          "value": 56.6,
+          "missing": false
+        },
+        "pet": {
+          "raw": "0.020",
+          "value": 0.02,
+          "missing": false
+        }
+      }
+    },
+    {
+      "dateRaw": "10/02/26",
+      "isoDate": "2026-10-02",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "63.7",
+          "value": 63.7,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "56.7",
+          "value": 56.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "270.8",
+          "value": 270.8,
+          "missing": false
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/03/26",
+      "isoDate": "2026-10-03",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "63.6",
+          "value": 63.6,
+          "missing": false
+        },
+        "soilMin": {
+          "raw": "53.4",
+          "value": 53.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "0.4",
+          "value": 0.4,
+          "missing": false
+        },
+        "wind": {
+          "raw": "35.1",
+          "value": 35.1,
+          "missing": false
+        },
+        "solar": {
+          "raw": "342.3",
+          "value": 342.3,
+          "missing": false
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/04/26",
+      "isoDate": "2026-10-04",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "precip": {
+          "raw": "NA",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/05/26",
+      "isoDate": "2026-10-05",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "precip": {
+          "raw": "NA",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/06/26",
+      "isoDate": "2026-10-06",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "precip": {
+          "raw": "NA",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/07/26",
+      "isoDate": "2026-10-07",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "precip": {
+          "raw": "NA",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/08/26",
+      "isoDate": "2026-10-08",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "precip": {
+          "raw": "NA",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/09/26",
+      "isoDate": "2026-10-09",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "precip": {
+          "raw": "NA",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/10/26",
+      "isoDate": "2026-10-10",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "precip": {
+          "raw": "NA",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "isoDate": "2026-10-11",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "precip": {
+          "raw": "NA",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "isoDate": "2026-10-12",
+      "cells": {
+        "airMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "airMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMax": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "soilMin": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "precip": {
+          "raw": "NA",
+          "value": null,
+          "missing": true
+        },
+        "relHum": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        },
+        "wind": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "solar": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        },
+        "pet": {
+          "raw": "---",
+          "value": null,
+          "missing": true
+        }
+      }
+    }
+  ],
+  "footnotes": [
+    "Air temperatures taken at a height of 5-ft.",
+    "Soil temperatures taken at a depth of 2-in. (under bare soil)",
+    "Reference Potential Evapotranspiration (PET) is estimated based on FAO Penman-Monteith equation (see: http://www.fao.org/docrep/X0490E/X0490E00.HTM for more information)",
+    "Data provided by the Michigan Automated Weather Network (MAWN) and Enviro-weather Program."
+  ],
+  "footnotesIdenticalAcrossBlocks": true,
+  "blockCount": 3,
+  "stats": {
+    "rowCount": 73,
+    "cellCount": 657,
+    "missingCellCount": 163,
+    "missingByMarker": {
+      "--": 106,
+      "---": 45,
+      "NA": 12
+    },
+    "rowsWithAnyValue": 61,
+    "rowsEntirelyMissing": 12
+  }
+}

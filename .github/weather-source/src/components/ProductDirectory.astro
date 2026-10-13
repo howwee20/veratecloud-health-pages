@@ -1,0 +1,239 @@
+---
+// Directory of the products a legacy Agricultural Weather page links to.
+// Everything shown is derived from the captured link list: headings and labels
+// are printed verbatim, and the delivery classification is computed from each
+// link's URL. No linked product was retrieved, so none is reproduced.
+import '../styles/ag-climate.css';
+import Icon from './Icon.astro';
+import StatusBadge from './StatusBadge.astro';
+import ExternalLink from './ExternalLink.astro';
+import { isLegacyHost, resolveLegacy } from '../lib/legacy';
+import { plural } from '../lib/format';
+
+interface SourceLink { label: string; url: string; rowText: string | null }
+interface SourceGroup { label: string | null; links: SourceLink[] }
+interface SourceSection { heading: string; groups: SourceGroup[] }
+interface Directory { datafeedStatusRaw?: string[]; sections: SourceSection[] }
+interface Props {
+  directory: Directory;
+  /** File identifiers to quote in the inference note. Only those present in the data are printed. */
+  inferenceExamples?: string[];
+}
+
+type Kind = 'dynamic' | 'uncaptured' | 'external' | 'rebuilt';
+type Tone = 'ok' | 'partial' | 'needs' | 'none' | 'neutral';
+
+const KINDS: Record<Kind, { tone: Tone; label: string; meaning: string }> = {
+  dynamic: { tone: 'needs', label: 'Requires integration', meaning: 'Generated on request by a script on the legacy server. Not captured; showing it would need a data service.' },
+  uncaptured: { tone: 'none', label: 'Not captured', meaning: 'A static page on the legacy host that is not in the source pack.' },
+  external: { tone: 'neutral', label: 'External provider', meaning: 'Published by another organisation on its own site.' },
+  rebuilt: { tone: 'ok', label: 'Rebuilt in this prototype', meaning: 'A page that exists in this prototype.' },
+};
+
+const { directory, inferenceExamples = [] } = Astro.props;
+
+const slug = (text: string) => text.toLowerCase().replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const isGeneric = (label: string) => /^(click\s+)?here\.?$/i.test(label.trim());
+
+function describe(link: SourceLink, heading: string, groupLabel: string | null) {
+  const url = new URL(link.url);
+  const host = url.hostname.toLowerCase();
+  const file = url.pathname.split('/').filter(Boolean).pop() ?? '';
+  const workingUrl = resolveLegacy(link.url).workingUrl;
+  let kind: Kind;
+  if (workingUrl) kind = 'rebuilt';
+  else if (isLegacyHost(link.url)) kind = /\.asp$/i.test(file) ? 'dynamic' : 'uncaptured';
+  else kind = 'external';
+  const script = kind === 'dynamic' ? file : null;
+  const fileid = kind === 'dynamic' ? url.searchParams.get('fileid') : null;
+  const generic = isGeneric(link.label) && Boolean(link.rowText);
+  const visible = generic ? link.rowText! : link.label;
+  const context = [heading, groupLabel].filter(Boolean).join(', ');
+  // Lowercase text the client-side filter searches. The host is included only for
+  // external providers; on legacy links it would make every product match "weather".
+  const text = [visible, generic ? link.label : null, heading, groupLabel, fileid, file, kind === 'external' ? host : null, KINDS[kind].label]
+    .filter(Boolean).join(' ').toLowerCase().replace(/\s+/g, ' ');
+  return { ...link, kind, host, file, script, fileid, workingUrl, generic, visible, context, text, insecure: url.protocol === 'http:' };
+}
+
+const countKinds = (items: { kind: Kind }[]) => {
+  const out: Record<Kind, number> = { dynamic: 0, uncaptured: 0, external: 0, rebuilt: 0 };
+  for (const item of items) out[item.kind] += 1;
+  return out;
+};
+
+const usedIds = new Set<string>();
+const sections = directory.sections.map((section, si) => {
+  let id = `sec-${slug(section.heading) || si + 1}`;
+  if (usedIds.has(id)) id = `${id}-${si + 1}`;
+  usedIds.add(id);
+  const groups = section.groups.map((group, gi) => ({
+    label: group.label,
+    id: `${id}-g${gi + 1}`,
+    products: group.links.map((link) => describe(link, section.heading, group.label)),
+  }));
+  const products = groups.flatMap((g) => g.products);
+  // Which legacy scripts this section depends on, e.g. "all via report.asp".
+  const byScript = new Map<string, number>();
+  for (const p of products) if (p.script) byScript.set(p.script, (byScript.get(p.script) ?? 0) + 1);
+  const via = [...byScript.entries()].map(([name, n]) => ({ name, n, all: n === products.length }));
+  return { heading: section.heading, id, groups, products, counts: countKinds(products), via };
+});
+
+const all = sections.flatMap((s) => s.products);
+const total = all.length;
+const counts = countKinds(all);
+const kindsShown = (['dynamic', 'uncaptured', 'external', 'rebuilt'] as Kind[]).filter((k) => k !== 'rebuilt' || counts.rebuilt > 0);
+
+const scriptCounts = new Map<string, number>();
+for (const p of all) if (p.script) scriptCounts.set(p.script, (scriptCounts.get(p.script) ?? 0) + 1);
+const scriptList = [...scriptCounts.entries()];
+const fileids = new Set(all.map((p) => p.fileid).filter(Boolean) as string[]);
+const examples = inferenceExamples.filter((id) => fileids.has(id));
+const firstFileid = all.find((p) => p.fileid)?.fileid ?? null;
+const insecure = all.filter((p) => p.insecure);
+const ldmLine = (directory.datafeedStatusRaw ?? []).find((line) => /^\s*LDM\b/i.test(line)) ?? null;
+---
+<section aria-labelledby="pd-summary-h">
+  <h2 id="pd-summary-h">What this directory holds</h2>
+  <p class="prose">
+    The legacy page is a list of links. This prototype reproduces that list and labels each link by where its content would have to come from.
+    The label is worked out from the link's address alone. None of the {total} linked products was retrieved, so no report, graphic or value is shown.
+  </p>
+  <ul class="metrics product-metrics">
+    <li class="metric">
+      <span class="metric-label">Products linked</span>
+      <span class="metric-value">{total}</span>
+      <span class="metric-note">in {plural(sections.length, 'section')}, counted from the captured page</span>
+    </li>
+    {kindsShown.map((kind) => (
+      <li class="metric">
+        <StatusBadge tone={KINDS[kind].tone} label={KINDS[kind].label} />
+        <span class="metric-value">{counts[kind]}</span>
+        <span class="metric-note">
+          {KINDS[kind].meaning}
+          {kind === 'dynamic' && scriptList.length > 0 && <Fragment> By script: {scriptList.map(([name, n], i) => <Fragment>{i > 0 && ', '}<span class="mono">{name}</span> {n}</Fragment>)}.</Fragment>}
+        </span>
+      </li>
+    ))}
+  </ul>
+
+  <div class="table-wrap product-summary-table" tabindex="0" role="region" aria-labelledby="pd-bysection-caption">
+    <table class="data compact">
+      <caption id="pd-bysection-caption">
+        Products by section
+        <small>Section headings as printed on the legacy page. Counts computed from the captured links.</small>
+      </caption>
+      <thead>
+        <tr>
+          <th scope="col">Section</th>
+          <th scope="col" class="num">Products</th>
+          {kindsShown.map((kind) => <th scope="col" class="num">{KINDS[kind].label}</th>)}
+        </tr>
+      </thead>
+      <tbody>
+        {sections.map((s) => (
+          <tr>
+            <th scope="row" class="wrap-any"><a href={`#${s.id}`}>{s.heading}</a></th>
+            <td class="num">{s.products.length}</td>
+            {kindsShown.map((kind) => <td class="num">{s.counts[kind]}</td>)}
+          </tr>
+        ))}
+      </tbody>
+      <tfoot>
+        <tr>
+          <th scope="row">All sections</th>
+          <td class="num">{total}</td>
+          {kindsShown.map((kind) => <td class="num">{counts[kind]}</td>)}
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+  {insecure.length > 0 && (
+    <p class="small muted">
+      {plural(insecure.length, 'link')} in the source {insecure.length === 1 ? 'uses' : 'use'} an <span class="mono">http://</span> address ({[...new Set(insecure.map((p) => p.host))].join(', ')}).{' '}
+      {insecure.length === 1 ? 'It is' : 'They are'} kept exactly as captured and {insecure.length === 1 ? 'has' : 'have'} not been checked.
+    </p>
+  )}
+</section>
+
+<div class="notice notice-gap">
+  <Icon name="warning" size={20} />
+  <div>
+    <strong>Inference, not verified: what the report scripts probably serve</strong>
+    <p>
+      Many file identifiers in these links{examples.length > 0 && <Fragment> (for example {examples.map((id, i) => <Fragment>{i > 0 && ', '}<code>{id}</code></Fragment>)})</Fragment>} look like National Weather Service text product identifiers{ldmLine
+        ? <Fragment>, and the legacy page prints a data feed status line that reads <q class="mono">{ldmLine.trim()}</q>.</Fragment>
+        : '.'}
+      {' '}That suggests the legacy scripts relay NWS text products received over a data feed.
+    </p>
+    <p>
+      This is a reading of the link addresses only. No report was captured, so it has not been checked against a single product, and the legacy pages do not say what <span class="mono">LDM</span> stands for
+      (Unidata's Local Data Manager is one widely used system for relaying NWS products, which is why the label is suggestive).
+      Not every identifier has this form, and nothing in the captured pages states where any report comes from. Treat it as a lead for integration work, not as a finding.
+    </p>
+  </div>
+</div>
+
+<section class="product-finder" aria-labelledby="pd-list-h">
+  <h2 id="pd-list-h">Product directory</h2>
+  <p class="prose">
+    Headings and link labels are printed as they appear on the legacy page, including its spellings.
+    Every link opens the original address on the live legacy or provider site; this prototype holds no copy of what is behind it.
+  </p>
+  <div class="filters" role="search" aria-label="Filter products">
+    <div class="field product-search-field">
+      <label for="product-search">Filter products</label>
+      <div class="product-search-row">
+        <input type="search" id="product-search" name="q" autocomplete="off" autocapitalize="off" spellcheck="false" aria-describedby="product-search-hint" />
+        <button type="button" class="btn btn-secondary" id="product-clear" hidden>Clear filter</button>
+      </div>
+      <span class="hint" id="product-search-hint">
+        Matches names, section headings{firstFileid && <Fragment>, file identifiers such as “{firstFileid}”</Fragment>} and the delivery label, for example “external”. Every word typed must match.
+      </span>
+    </div>
+  </div>
+  <noscript><p class="small muted">Filtering needs JavaScript, which is not running. All {total} products are listed below.</p></noscript>
+  <p class="results-count" id="product-count" role="status">Showing {total} of {total} products</p>
+  <p class="product-empty" id="product-empty" hidden>No product on this page matches that filter. Remove a word, or clear the filter to see all {total}.</p>
+
+  <div class="product-sections">
+    {sections.map((s) => (
+      <section class="panel product-section" id={s.id} aria-labelledby={`${s.id}-h`} data-product-section>
+        <div class="product-section-head">
+          <h3 id={`${s.id}-h`}>{s.heading}</h3>
+          <p class="product-section-count">
+            <span data-section-count data-total={s.products.length}>{plural(s.products.length, 'product')}</span>
+            {s.via.map((v) => <Fragment> · {v.all ? 'all' : v.n} via <span class="mono">{v.name}</span></Fragment>)}
+          </p>
+        </div>
+        {s.groups.map((g) => (
+          <div class="product-group" data-product-group>
+            {g.label && <h4 id={`${g.id}-h`}>{g.label}</h4>}
+            <ul class="product-list" aria-labelledby={g.label ? `${g.id}-h` : `${s.id}-h`}>
+              {g.products.map((p) => (
+                <li class="product" data-product data-kind={p.kind} data-text={p.text}>
+                  <span class="product-name">
+                    {p.workingUrl
+                      ? <a href={p.workingUrl}>{p.visible}<span class="visually-hidden">, {p.context}</span></a>
+                      : <ExternalLink href={p.url}>{p.visible}<span class="visually-hidden">, {p.context}</span></ExternalLink>}
+                  </span>
+                  {p.generic && <span class="product-note">Link text on the legacy page: “{p.label}”</span>}
+                  <span class="product-meta">
+                    <StatusBadge tone={KINDS[p.kind].tone} label={KINDS[p.kind].label} />
+                    {' '}
+                    {p.kind === 'dynamic' && (p.fileid
+                      ? <span class="tag"><span class="visually-hidden">file identifier </span>{p.fileid}</span>
+                      : <span class="product-source">{p.script}</span>)}
+                    {p.kind === 'uncaptured' && <span class="product-source">{p.file}</span>}
+                    {p.kind === 'external' && <span class="product-source">{p.host}</span>}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </section>
+    ))}
+  </div>
+</section>

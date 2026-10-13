@@ -1,0 +1,49 @@
+Michigan Automated Weather Network
+|
+|
+|
+Station: |
+benzonia |
+Station ID: |
+bnz |
+|
+|
+Location: |
+Mick Farms |
+City: |
+Benzonia |
+|
+|
+Latitude: |
+44.5593 deg. |
+Longitude: |
+-86.1172 deg. |
+Elevation: |
+253 m |
+|
+|
+Pregenerated Data Reports: |
+|
+Daily Data |
+|
+Hourly Data |
+|
+Station Information: |
+|
+Maintenance Reports |
+|
+Custom Reports (Data-on-Demand):
+|
+Note: Change
+has been made to date/time labels. Please refer to note at the bottom
+of generated reports.
+|
+Select Data Type:
+Select Data Type
+Daily Data
+Hourly Data
+Five-Minute Data
+Growing Degree-Day Data
+(wait for page to reload after selecting)
+|
+|

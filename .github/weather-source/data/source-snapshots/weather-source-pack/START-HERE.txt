@@ -1,0 +1,56 @@
+MSU WEATHER SOURCE PACK — retrieved October 12, 2026
+
+This pack contains the public responses from all 14 URLs named in the brief.
+It gives an implementation agent real local HTML and a raw-data sample to
+build from. These are downloaded responses, not the original server-side
+ASP code, database, or a backup of the entire three websites.
+
+CONTENTS
+input/mawn: homepage, Benzonia and SWMREC station pages, and Benzonia hourly,
+  daily, and maintenance report pages.
+input/rawdata: directory listings and the unmodified 3hr/benzonia file.
+input/agweather: homepage, current-weather page, forecast-products page.
+input/climate: homepage and climate-maps page.
+derived/text: convenient text extractions; use original input/ for fidelity.
+derived/preformatted: report blocks extracted without whitespace reformatting.
+manifest.csv: each downloaded URL, local path, timestamp, status, SHA-256.
+link-inventory.csv: link and asset references extracted locally. An inventory
+  entry is NOT evidence that its target was downloaded or verified.
+receipts: robots.txt files and HTTP request records.
+
+IMPORTANT LIMITS
+Only the 14 named source URLs were fetched, once each. There was no recursive
+crawl, link following, form submission, or asset retrieval. CSS, JavaScript,
+image and climate-map files referenced by the HTML are not included. Raw HTML
+is not a self-contained saved webpage; opening it in a browser may make
+additional live requests. Inspect it as text, or use a browser with remote
+requests blocked. Do not use its appearance as a faithful offline baseline.
+
+Hourly and daily reports have real missing-value markers such as --, --- and
+NA. Preserve them; do not replace them with zero or fill in observations.
+The raw file has different record widths (10 and 20 columns were observed)
+and no column header. Do not guess a schema, field units, timezone, or quality
+flags. Use the explicitly labeled report pages first, and get a data dictionary
+from the maintainer before interpreting the raw columns.
+Downloaded time is not observation time or proof that every source is current.
+SWMREC metadata is included; its reports and raw data were not downloaded.
+Full station coverage, a complete site inventory, original screenshots, and
+before/after accessibility results are not provided by this source pack.
+
+WHAT TO DO
+Unzip the pack. Give its input/ directory, manifest.csv and this file to the
+agent building the demo, and paste the following instruction:
+
+Use the attached weather-source-pack as the local source input. I am choosing
+the files-provided path. Build the modernization demo from input/ and trace
+every source to manifest.csv. Inspect derived/preformatted/ for Benzonia's
+real reports. Keep missing values intact. Make no additional requests to the
+live hosts, including automatic browser asset requests. Label unavailable
+images, products, and station data honestly. Treat link-inventory.csv as
+discovered references, not fetched pages. Do not run a broad crawler or claim
+all-station coverage, WCAG conformance, complete source-code access, or a
+production security fix. Continue with the implementation using these files.
+
+For a full production replacement, ask the maintainer for an approved export
+of the web root/source, data schema and sample data, and backend dependencies.
+Do not request credentials or secret configuration as prototype inputs.

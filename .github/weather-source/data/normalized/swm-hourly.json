@@ -1,0 +1,2935 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "id": "mawn-report-swmh",
+    "url": "https://mawn.geo.msu.edu/report.asp?fileid=swmh",
+    "file": "data/additional-sources/swmh.html",
+    "sha256": "c104a0ff24af73fcdc5249be4064c04804f3823c4f90b0d7e879aa190cd1f8ab",
+    "retrievedAtUtc": "2026-10-13T15:35:17.402092+00:00"
+  },
+  "kind": "hourly",
+  "rawText": "                             HOURLY WEATHER SUMMARY \n \n              MSU Southwest Michigan Research and Extension Center \n                             Benton Harbor (SWMREC) \n \n                Air   Rel   Soil   Leaf      Wind       Solar   Total \n         Time   Temp  Hum   Temp  Wetness  Dir  Speed    Rad    Precip \nDate     (EDT)  (F)   (%)   (F)    Status       (mph)    (ly)    (in) \n=============================================================================== \n10/11/26 01:00  62.2  62.5  64.1    DRY    ESE   5.4      0.0     --  \n10/11/26 02:00  61.8  63.5  63.6    DRY     SE   7.0      0.0     --  \n10/11/26 03:00  60.4  67.4  63.3    DRY      E   4.8      0.0     --  \n10/11/26 04:00  58.9  70.9  62.9    DRY      E   2.2      0.0     --  \n10/11/26 05:00  58.0  73.8  62.5    DRY    ENE   2.9      0.0     --  \n10/11/26 06:00  57.6  75.1  62.3    DRY    ENE   2.5      0.0     --  \n10/11/26 07:00  57.8  76.7  62.0    DRY      E   2.6      0.0     --  \n10/11/26 08:00  57.3  79.2  61.9    DRY     NE   1.9      0.0     --  \n10/11/26 09:00  56.8  81.2  61.8    DRY    ENE   2.8      4.1     --  \n10/11/26 10:00  61.3  74.7  61.9    DRY      E   4.2     27.0     --  \n10/11/26 11:00  64.1  72.1  62.7    DRY      E   4.1     30.1     --  \n10/11/26 12:00  66.1  69.6  63.7    DRY    ESE   4.7     44.4     --  \n10/11/26 13:00  67.9  67.7  65.2    DRY     SE   3.7     51.7     --  \n10/11/26 14:00  69.8  64.9  67.1    DRY    SSE   3.0     53.3     --  \n10/11/26 15:00  70.4  65.8  68.9    DRY    WNW   3.7     50.6     --  \n10/11/26 16:00  70.1  66.7  70.1    DRY     NW   4.0     50.2     --  \n10/11/26 17:00  69.0  68.2  71.0    DRY    WNW   4.7     34.5     --  \n10/11/26 18:00  69.3  67.9  71.2    DRY    WNW   3.9     24.4     --  \n10/11/26 19:00  68.0  70.1  70.5    DRY    WNW   1.9      8.7     --  \n10/11/26 20:00  62.7  81.2  69.4    DRY      N   0.7      0.2     --  \n10/11/26 21:00  59.1  87.4  68.0    WET    ENE   1.0      0.0     --  \n10/11/26 22:00  57.3  90.2  66.7    WET      E   1.3      0.0     --  \n10/11/26 23:00  55.4  90.8  65.6    WET     SE   1.6      0.0     --  \n10/11/26 24:00  56.5  91.8  64.7    WET    SSE   3.6      0.0     --  \n=============================================================================== \n \n- Air temperatures taken at a height of 5-ft. \n \n- Soil temperatures taken at a depth of 2-in. (under bare soil) \n \n- Leaf wetness and precipitation data may not be available during \n  the winter months (i.e. Nov.1 - Feb.29) \n \n- Data provided by the Michigan Automated Weather Network (MAWN) and \n  Enviro-weather Program. \n                              HOURLY WEATHER SUMMARY \n \n              MSU Southwest Michigan Research and Extension Center \n                             Benton Harbor (SWMREC) \n \n                Air   Rel   Soil   Leaf      Wind       Solar   Total \n         Time   Temp  Hum   Temp  Wetness  Dir  Speed    Rad    Precip \nDate     (EDT)  (F)   (%)   (F)    Status       (mph)    (ly)    (in) \n=============================================================================== \n10/12/26 01:00  58.0  91.4  64.0    WET     SE   3.8      0.0     --  \n10/12/26 02:00  57.9  90.6  63.6    WET    SSE   3.9      0.0     --  \n10/12/26 03:00  58.2  89.9  63.2    WET    SSE   4.9      0.0     --  \n10/12/26 04:00  57.9  89.8  62.9    WET    SSE   3.9      0.0     --  \n10/12/26 05:00  57.1  90.2  62.6    WET     SE   0.3      0.0     --  \n10/12/26 06:00  57.9  89.4  62.3    WET    SSE   4.5      0.0     --  \n10/12/26 07:00  58.7  86.7  62.2    WET    SSE   4.8      0.0     --  \n10/12/26 08:00  58.8  86.0  62.1    WET    SSE   5.3      0.1     --  \n10/12/26 09:00  59.0  86.1  62.1    WET    SSE   5.0      2.8     --  \n10/12/26 10:00  61.4  83.5  62.1    DRY    SSE   5.8     14.5     --  \n10/12/26 11:00  66.1  77.6  62.5    DRY    SSE   4.9     24.8     --  \n10/12/26 12:00  73.9  63.5  63.5    DRY    SSW   5.4     43.7     --  \n10/12/26 13:00  79.9  53.6  65.2    DRY    SSW   6.3     54.7     --  \n10/12/26 14:00  82.8  49.7  67.2    DRY    SSW   7.3     55.8     --  \n10/12/26 15:00  84.5  48.5  69.3    DRY    SSW   8.2     55.0     --  \n10/12/26 16:00  85.2  46.3  70.9    DRY     SW   8.2     44.7     --  \n10/12/26 17:00  85.8  44.6  72.0    DRY     SW   7.9     33.7     --  \n10/12/26 18:00  84.5  45.5  72.4    DRY    SSW   6.7     17.0     --  \n10/12/26 19:00  81.5  51.1  72.2    DRY      S   4.1      6.1     --  \n10/12/26 20:00  77.3  58.0  71.5    DRY      S   4.3      0.1     --  \n10/12/26 21:00  77.1  55.7  70.6    DRY      S   5.8      0.0     --  \n10/12/26 22:00  75.7  57.0  69.8    DRY      S   6.6      0.0     --  \n10/12/26 23:00  75.5  56.7  69.2    DRY      S   7.3      0.0     --  \n10/12/26 24:00  74.9  57.0  68.7    DRY      S   7.3      0.0     --  \n=============================================================================== \n \n- Air temperatures taken at a height of 5-ft. \n \n- Soil temperatures taken at a depth of 2-in. (under bare soil) \n \n- Leaf wetness and precipitation data may not be available during \n  the winter months (i.e. Nov.1 - Feb.29) \n \n- Data provided by the Michigan Automated Weather Network (MAWN) and \n  Enviro-weather Program. \n                              HOURLY WEATHER SUMMARY \n \n              MSU Southwest Michigan Research and Extension Center \n                             Benton Harbor (SWMREC) \n \n                Air   Rel   Soil   Leaf      Wind       Solar   Total \n         Time   Temp  Hum   Temp  Wetness  Dir  Speed    Rad    Precip \nDate     (EDT)  (F)   (%)   (F)    Status       (mph)    (ly)    (in) \n=============================================================================== \n10/13/26 01:00  74.1  58.3  68.2    DRY      S   7.1      0.0     --  \n10/13/26 02:00  74.2  57.9  67.8    DRY      S   7.4      0.0     --  \n10/13/26 03:00  73.8  58.8  67.6    DRY      S   6.4      0.0     --  \n10/13/26 04:00  73.3  60.4  67.4    DRY    SSW   5.9      0.0     --  \n10/13/26 05:00  72.1  63.2  67.3    DRY    SSW   6.0      0.0     --  \n10/13/26 06:00  70.7  66.3  67.0    DRY    SSW   5.1      0.0     --  \n10/13/26 07:00  69.8  68.5  66.7    DRY    SSW   4.9      0.0     --  \n10/13/26 08:00  70.3  67.1  66.5    DRY     SW   4.4      0.1     --  \n10/13/26 09:00  71.4  64.5  66.3    DRY     SW   4.7      6.0     --  \n10/13/26 10:00  73.1  62.6  66.2    DRY     SW   5.8     20.6     --  \n10/13/26 11:00  75.0  59.5  66.5    DRY    WSW   9.4     34.6     --  \n=============================================================================== \n \n- Air temperatures taken at a height of 5-ft. \n \n- Soil temperatures taken at a depth of 2-in. (under bare soil) \n \n- Leaf wetness and precipitation data may not be available during \n  the winter months (i.e. Nov.1 - Feb.29) \n \n- Data provided by the Michigan Automated Weather Network (MAWN) and \n  Enviro-weather Program. \n \n",
+  "reportTitle": "HOURLY WEATHER SUMMARY",
+  "location": [
+    "MSU Southwest Michigan Research and Extension Center",
+    "Benton Harbor (SWMREC)"
+  ],
+  "timezoneLabel": "EDT",
+  "columns": [
+    {
+      "key": "airTemp",
+      "label": "Air temperature",
+      "unit": "°F",
+      "sourceHeader": "Air Temp (F)",
+      "type": "number"
+    },
+    {
+      "key": "relHum",
+      "label": "Relative humidity",
+      "unit": "%",
+      "sourceHeader": "Rel Hum (%)",
+      "type": "number"
+    },
+    {
+      "key": "soilTemp",
+      "label": "Soil temperature",
+      "unit": "°F",
+      "sourceHeader": "Soil Temp (F)",
+      "type": "number"
+    },
+    {
+      "key": "leafWetness",
+      "label": "Leaf wetness status",
+      "unit": null,
+      "sourceHeader": "Leaf Wetness Status",
+      "type": "text"
+    },
+    {
+      "key": "windDir",
+      "label": "Wind direction",
+      "unit": null,
+      "sourceHeader": "Wind Dir",
+      "type": "text"
+    },
+    {
+      "key": "windSpeed",
+      "label": "Wind speed",
+      "unit": "mph",
+      "sourceHeader": "Wind Speed (mph)",
+      "type": "number"
+    },
+    {
+      "key": "solarRad",
+      "label": "Solar radiation",
+      "unit": "ly",
+      "sourceHeader": "Solar Rad (ly)",
+      "type": "number"
+    },
+    {
+      "key": "precip",
+      "label": "Total precipitation",
+      "unit": "in",
+      "sourceHeader": "Total Precip (in)",
+      "type": "number"
+    }
+  ],
+  "days": [
+    "2026-10-11",
+    "2026-10-12",
+    "2026-10-13"
+  ],
+  "rows": [
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "01:00",
+      "isoDate": "2026-10-11",
+      "hour": 1,
+      "cells": {
+        "airTemp": {
+          "raw": "62.2",
+          "value": 62.2,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "62.5",
+          "value": 62.5,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "64.1",
+          "value": 64.1,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "ESE",
+          "value": "ESE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "5.4",
+          "value": 5.4,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "02:00",
+      "isoDate": "2026-10-11",
+      "hour": 2,
+      "cells": {
+        "airTemp": {
+          "raw": "61.8",
+          "value": 61.8,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "63.5",
+          "value": 63.5,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "63.6",
+          "value": 63.6,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SE",
+          "value": "SE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "7.0",
+          "value": 7.0,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "03:00",
+      "isoDate": "2026-10-11",
+      "hour": 3,
+      "cells": {
+        "airTemp": {
+          "raw": "60.4",
+          "value": 60.4,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "67.4",
+          "value": 67.4,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "63.3",
+          "value": 63.3,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "E",
+          "value": "E",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.8",
+          "value": 4.8,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "04:00",
+      "isoDate": "2026-10-11",
+      "hour": 4,
+      "cells": {
+        "airTemp": {
+          "raw": "58.9",
+          "value": 58.9,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "70.9",
+          "value": 70.9,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.9",
+          "value": 62.9,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "E",
+          "value": "E",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "2.2",
+          "value": 2.2,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "05:00",
+      "isoDate": "2026-10-11",
+      "hour": 5,
+      "cells": {
+        "airTemp": {
+          "raw": "58.0",
+          "value": 58.0,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "73.8",
+          "value": 73.8,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.5",
+          "value": 62.5,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "ENE",
+          "value": "ENE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "2.9",
+          "value": 2.9,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "06:00",
+      "isoDate": "2026-10-11",
+      "hour": 6,
+      "cells": {
+        "airTemp": {
+          "raw": "57.6",
+          "value": 57.6,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "75.1",
+          "value": 75.1,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.3",
+          "value": 62.3,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "ENE",
+          "value": "ENE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "2.5",
+          "value": 2.5,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "07:00",
+      "isoDate": "2026-10-11",
+      "hour": 7,
+      "cells": {
+        "airTemp": {
+          "raw": "57.8",
+          "value": 57.8,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "76.7",
+          "value": 76.7,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.0",
+          "value": 62.0,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "E",
+          "value": "E",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "2.6",
+          "value": 2.6,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "08:00",
+      "isoDate": "2026-10-11",
+      "hour": 8,
+      "cells": {
+        "airTemp": {
+          "raw": "57.3",
+          "value": 57.3,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "79.2",
+          "value": 79.2,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "61.9",
+          "value": 61.9,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "NE",
+          "value": "NE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "1.9",
+          "value": 1.9,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "09:00",
+      "isoDate": "2026-10-11",
+      "hour": 9,
+      "cells": {
+        "airTemp": {
+          "raw": "56.8",
+          "value": 56.8,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "81.2",
+          "value": 81.2,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "61.8",
+          "value": 61.8,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "ENE",
+          "value": "ENE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "2.8",
+          "value": 2.8,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "4.1",
+          "value": 4.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "10:00",
+      "isoDate": "2026-10-11",
+      "hour": 10,
+      "cells": {
+        "airTemp": {
+          "raw": "61.3",
+          "value": 61.3,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "74.7",
+          "value": 74.7,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "61.9",
+          "value": 61.9,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "E",
+          "value": "E",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.2",
+          "value": 4.2,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "27.0",
+          "value": 27.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "11:00",
+      "isoDate": "2026-10-11",
+      "hour": 11,
+      "cells": {
+        "airTemp": {
+          "raw": "64.1",
+          "value": 64.1,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "72.1",
+          "value": 72.1,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.7",
+          "value": 62.7,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "E",
+          "value": "E",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.1",
+          "value": 4.1,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "30.1",
+          "value": 30.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "12:00",
+      "isoDate": "2026-10-11",
+      "hour": 12,
+      "cells": {
+        "airTemp": {
+          "raw": "66.1",
+          "value": 66.1,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "69.6",
+          "value": 69.6,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "63.7",
+          "value": 63.7,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "ESE",
+          "value": "ESE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.7",
+          "value": 4.7,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "44.4",
+          "value": 44.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "13:00",
+      "isoDate": "2026-10-11",
+      "hour": 13,
+      "cells": {
+        "airTemp": {
+          "raw": "67.9",
+          "value": 67.9,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "67.7",
+          "value": 67.7,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "65.2",
+          "value": 65.2,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SE",
+          "value": "SE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "3.7",
+          "value": 3.7,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "51.7",
+          "value": 51.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "14:00",
+      "isoDate": "2026-10-11",
+      "hour": 14,
+      "cells": {
+        "airTemp": {
+          "raw": "69.8",
+          "value": 69.8,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "64.9",
+          "value": 64.9,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "67.1",
+          "value": 67.1,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSE",
+          "value": "SSE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "3.0",
+          "value": 3.0,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "53.3",
+          "value": 53.3,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "15:00",
+      "isoDate": "2026-10-11",
+      "hour": 15,
+      "cells": {
+        "airTemp": {
+          "raw": "70.4",
+          "value": 70.4,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "65.8",
+          "value": 65.8,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "68.9",
+          "value": 68.9,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "WNW",
+          "value": "WNW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "3.7",
+          "value": 3.7,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "50.6",
+          "value": 50.6,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "16:00",
+      "isoDate": "2026-10-11",
+      "hour": 16,
+      "cells": {
+        "airTemp": {
+          "raw": "70.1",
+          "value": 70.1,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "66.7",
+          "value": 66.7,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "70.1",
+          "value": 70.1,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "NW",
+          "value": "NW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.0",
+          "value": 4.0,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "50.2",
+          "value": 50.2,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "17:00",
+      "isoDate": "2026-10-11",
+      "hour": 17,
+      "cells": {
+        "airTemp": {
+          "raw": "69.0",
+          "value": 69.0,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "68.2",
+          "value": 68.2,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "71.0",
+          "value": 71.0,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "WNW",
+          "value": "WNW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.7",
+          "value": 4.7,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "34.5",
+          "value": 34.5,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "18:00",
+      "isoDate": "2026-10-11",
+      "hour": 18,
+      "cells": {
+        "airTemp": {
+          "raw": "69.3",
+          "value": 69.3,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "67.9",
+          "value": 67.9,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "71.2",
+          "value": 71.2,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "WNW",
+          "value": "WNW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "3.9",
+          "value": 3.9,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "24.4",
+          "value": 24.4,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "19:00",
+      "isoDate": "2026-10-11",
+      "hour": 19,
+      "cells": {
+        "airTemp": {
+          "raw": "68.0",
+          "value": 68.0,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "70.1",
+          "value": 70.1,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "70.5",
+          "value": 70.5,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "WNW",
+          "value": "WNW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "1.9",
+          "value": 1.9,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "8.7",
+          "value": 8.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "20:00",
+      "isoDate": "2026-10-11",
+      "hour": 20,
+      "cells": {
+        "airTemp": {
+          "raw": "62.7",
+          "value": 62.7,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "81.2",
+          "value": 81.2,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "69.4",
+          "value": 69.4,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "N",
+          "value": "N",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "0.7",
+          "value": 0.7,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.2",
+          "value": 0.2,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "21:00",
+      "isoDate": "2026-10-11",
+      "hour": 21,
+      "cells": {
+        "airTemp": {
+          "raw": "59.1",
+          "value": 59.1,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "87.4",
+          "value": 87.4,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "68.0",
+          "value": 68.0,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "ENE",
+          "value": "ENE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "1.0",
+          "value": 1.0,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "22:00",
+      "isoDate": "2026-10-11",
+      "hour": 22,
+      "cells": {
+        "airTemp": {
+          "raw": "57.3",
+          "value": 57.3,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "90.2",
+          "value": 90.2,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "66.7",
+          "value": 66.7,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "E",
+          "value": "E",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "1.3",
+          "value": 1.3,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "23:00",
+      "isoDate": "2026-10-11",
+      "hour": 23,
+      "cells": {
+        "airTemp": {
+          "raw": "55.4",
+          "value": 55.4,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "90.8",
+          "value": 90.8,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "65.6",
+          "value": 65.6,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SE",
+          "value": "SE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "1.6",
+          "value": 1.6,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/11/26",
+      "timeRaw": "24:00",
+      "isoDate": "2026-10-11",
+      "hour": 24,
+      "cells": {
+        "airTemp": {
+          "raw": "56.5",
+          "value": 56.5,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "91.8",
+          "value": 91.8,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "64.7",
+          "value": 64.7,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSE",
+          "value": "SSE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "3.6",
+          "value": 3.6,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "01:00",
+      "isoDate": "2026-10-12",
+      "hour": 1,
+      "cells": {
+        "airTemp": {
+          "raw": "58.0",
+          "value": 58.0,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "91.4",
+          "value": 91.4,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "64.0",
+          "value": 64.0,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SE",
+          "value": "SE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "3.8",
+          "value": 3.8,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "02:00",
+      "isoDate": "2026-10-12",
+      "hour": 2,
+      "cells": {
+        "airTemp": {
+          "raw": "57.9",
+          "value": 57.9,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "90.6",
+          "value": 90.6,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "63.6",
+          "value": 63.6,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSE",
+          "value": "SSE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "3.9",
+          "value": 3.9,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "03:00",
+      "isoDate": "2026-10-12",
+      "hour": 3,
+      "cells": {
+        "airTemp": {
+          "raw": "58.2",
+          "value": 58.2,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "89.9",
+          "value": 89.9,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "63.2",
+          "value": 63.2,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSE",
+          "value": "SSE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.9",
+          "value": 4.9,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "04:00",
+      "isoDate": "2026-10-12",
+      "hour": 4,
+      "cells": {
+        "airTemp": {
+          "raw": "57.9",
+          "value": 57.9,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "89.8",
+          "value": 89.8,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.9",
+          "value": 62.9,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSE",
+          "value": "SSE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "3.9",
+          "value": 3.9,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "05:00",
+      "isoDate": "2026-10-12",
+      "hour": 5,
+      "cells": {
+        "airTemp": {
+          "raw": "57.1",
+          "value": 57.1,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "90.2",
+          "value": 90.2,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.6",
+          "value": 62.6,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SE",
+          "value": "SE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "0.3",
+          "value": 0.3,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "06:00",
+      "isoDate": "2026-10-12",
+      "hour": 6,
+      "cells": {
+        "airTemp": {
+          "raw": "57.9",
+          "value": 57.9,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "89.4",
+          "value": 89.4,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.3",
+          "value": 62.3,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSE",
+          "value": "SSE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.5",
+          "value": 4.5,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "07:00",
+      "isoDate": "2026-10-12",
+      "hour": 7,
+      "cells": {
+        "airTemp": {
+          "raw": "58.7",
+          "value": 58.7,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "86.7",
+          "value": 86.7,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.2",
+          "value": 62.2,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSE",
+          "value": "SSE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.8",
+          "value": 4.8,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "08:00",
+      "isoDate": "2026-10-12",
+      "hour": 8,
+      "cells": {
+        "airTemp": {
+          "raw": "58.8",
+          "value": 58.8,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "86.0",
+          "value": 86.0,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.1",
+          "value": 62.1,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSE",
+          "value": "SSE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "5.3",
+          "value": 5.3,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.1",
+          "value": 0.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "09:00",
+      "isoDate": "2026-10-12",
+      "hour": 9,
+      "cells": {
+        "airTemp": {
+          "raw": "59.0",
+          "value": 59.0,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "86.1",
+          "value": 86.1,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.1",
+          "value": 62.1,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "WET",
+          "value": "WET",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSE",
+          "value": "SSE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "5.0",
+          "value": 5.0,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "2.8",
+          "value": 2.8,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "10:00",
+      "isoDate": "2026-10-12",
+      "hour": 10,
+      "cells": {
+        "airTemp": {
+          "raw": "61.4",
+          "value": 61.4,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "83.5",
+          "value": 83.5,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.1",
+          "value": 62.1,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSE",
+          "value": "SSE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "5.8",
+          "value": 5.8,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "14.5",
+          "value": 14.5,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "11:00",
+      "isoDate": "2026-10-12",
+      "hour": 11,
+      "cells": {
+        "airTemp": {
+          "raw": "66.1",
+          "value": 66.1,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "77.6",
+          "value": 77.6,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "62.5",
+          "value": 62.5,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSE",
+          "value": "SSE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.9",
+          "value": 4.9,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "24.8",
+          "value": 24.8,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "12:00",
+      "isoDate": "2026-10-12",
+      "hour": 12,
+      "cells": {
+        "airTemp": {
+          "raw": "73.9",
+          "value": 73.9,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "63.5",
+          "value": 63.5,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "63.5",
+          "value": 63.5,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSW",
+          "value": "SSW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "5.4",
+          "value": 5.4,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "43.7",
+          "value": 43.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "13:00",
+      "isoDate": "2026-10-12",
+      "hour": 13,
+      "cells": {
+        "airTemp": {
+          "raw": "79.9",
+          "value": 79.9,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "53.6",
+          "value": 53.6,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "65.2",
+          "value": 65.2,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSW",
+          "value": "SSW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "6.3",
+          "value": 6.3,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "54.7",
+          "value": 54.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "14:00",
+      "isoDate": "2026-10-12",
+      "hour": 14,
+      "cells": {
+        "airTemp": {
+          "raw": "82.8",
+          "value": 82.8,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "49.7",
+          "value": 49.7,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "67.2",
+          "value": 67.2,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSW",
+          "value": "SSW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "7.3",
+          "value": 7.3,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "55.8",
+          "value": 55.8,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "15:00",
+      "isoDate": "2026-10-12",
+      "hour": 15,
+      "cells": {
+        "airTemp": {
+          "raw": "84.5",
+          "value": 84.5,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "48.5",
+          "value": 48.5,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "69.3",
+          "value": 69.3,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSW",
+          "value": "SSW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "8.2",
+          "value": 8.2,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "55.0",
+          "value": 55.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "16:00",
+      "isoDate": "2026-10-12",
+      "hour": 16,
+      "cells": {
+        "airTemp": {
+          "raw": "85.2",
+          "value": 85.2,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "46.3",
+          "value": 46.3,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "70.9",
+          "value": 70.9,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SW",
+          "value": "SW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "8.2",
+          "value": 8.2,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "44.7",
+          "value": 44.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "17:00",
+      "isoDate": "2026-10-12",
+      "hour": 17,
+      "cells": {
+        "airTemp": {
+          "raw": "85.8",
+          "value": 85.8,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "44.6",
+          "value": 44.6,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "72.0",
+          "value": 72.0,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SW",
+          "value": "SW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "7.9",
+          "value": 7.9,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "33.7",
+          "value": 33.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "18:00",
+      "isoDate": "2026-10-12",
+      "hour": 18,
+      "cells": {
+        "airTemp": {
+          "raw": "84.5",
+          "value": 84.5,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "45.5",
+          "value": 45.5,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "72.4",
+          "value": 72.4,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSW",
+          "value": "SSW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "6.7",
+          "value": 6.7,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "17.0",
+          "value": 17.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "19:00",
+      "isoDate": "2026-10-12",
+      "hour": 19,
+      "cells": {
+        "airTemp": {
+          "raw": "81.5",
+          "value": 81.5,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "51.1",
+          "value": 51.1,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "72.2",
+          "value": 72.2,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "S",
+          "value": "S",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.1",
+          "value": 4.1,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "6.1",
+          "value": 6.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "20:00",
+      "isoDate": "2026-10-12",
+      "hour": 20,
+      "cells": {
+        "airTemp": {
+          "raw": "77.3",
+          "value": 77.3,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "58.0",
+          "value": 58.0,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "71.5",
+          "value": 71.5,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "S",
+          "value": "S",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.3",
+          "value": 4.3,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.1",
+          "value": 0.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "21:00",
+      "isoDate": "2026-10-12",
+      "hour": 21,
+      "cells": {
+        "airTemp": {
+          "raw": "77.1",
+          "value": 77.1,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "55.7",
+          "value": 55.7,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "70.6",
+          "value": 70.6,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "S",
+          "value": "S",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "5.8",
+          "value": 5.8,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "22:00",
+      "isoDate": "2026-10-12",
+      "hour": 22,
+      "cells": {
+        "airTemp": {
+          "raw": "75.7",
+          "value": 75.7,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "57.0",
+          "value": 57.0,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "69.8",
+          "value": 69.8,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "S",
+          "value": "S",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "6.6",
+          "value": 6.6,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "23:00",
+      "isoDate": "2026-10-12",
+      "hour": 23,
+      "cells": {
+        "airTemp": {
+          "raw": "75.5",
+          "value": 75.5,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "56.7",
+          "value": 56.7,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "69.2",
+          "value": 69.2,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "S",
+          "value": "S",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "7.3",
+          "value": 7.3,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/12/26",
+      "timeRaw": "24:00",
+      "isoDate": "2026-10-12",
+      "hour": 24,
+      "cells": {
+        "airTemp": {
+          "raw": "74.9",
+          "value": 74.9,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "57.0",
+          "value": 57.0,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "68.7",
+          "value": 68.7,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "S",
+          "value": "S",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "7.3",
+          "value": 7.3,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "01:00",
+      "isoDate": "2026-10-13",
+      "hour": 1,
+      "cells": {
+        "airTemp": {
+          "raw": "74.1",
+          "value": 74.1,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "58.3",
+          "value": 58.3,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "68.2",
+          "value": 68.2,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "S",
+          "value": "S",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "7.1",
+          "value": 7.1,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "02:00",
+      "isoDate": "2026-10-13",
+      "hour": 2,
+      "cells": {
+        "airTemp": {
+          "raw": "74.2",
+          "value": 74.2,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "57.9",
+          "value": 57.9,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "67.8",
+          "value": 67.8,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "S",
+          "value": "S",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "7.4",
+          "value": 7.4,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "03:00",
+      "isoDate": "2026-10-13",
+      "hour": 3,
+      "cells": {
+        "airTemp": {
+          "raw": "73.8",
+          "value": 73.8,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "58.8",
+          "value": 58.8,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "67.6",
+          "value": 67.6,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "S",
+          "value": "S",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "6.4",
+          "value": 6.4,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "04:00",
+      "isoDate": "2026-10-13",
+      "hour": 4,
+      "cells": {
+        "airTemp": {
+          "raw": "73.3",
+          "value": 73.3,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "60.4",
+          "value": 60.4,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "67.4",
+          "value": 67.4,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSW",
+          "value": "SSW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "5.9",
+          "value": 5.9,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "05:00",
+      "isoDate": "2026-10-13",
+      "hour": 5,
+      "cells": {
+        "airTemp": {
+          "raw": "72.1",
+          "value": 72.1,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "63.2",
+          "value": 63.2,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "67.3",
+          "value": 67.3,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSW",
+          "value": "SSW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "6.0",
+          "value": 6.0,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "06:00",
+      "isoDate": "2026-10-13",
+      "hour": 6,
+      "cells": {
+        "airTemp": {
+          "raw": "70.7",
+          "value": 70.7,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "66.3",
+          "value": 66.3,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "67.0",
+          "value": 67.0,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSW",
+          "value": "SSW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "5.1",
+          "value": 5.1,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "07:00",
+      "isoDate": "2026-10-13",
+      "hour": 7,
+      "cells": {
+        "airTemp": {
+          "raw": "69.8",
+          "value": 69.8,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "68.5",
+          "value": 68.5,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "66.7",
+          "value": 66.7,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SSW",
+          "value": "SSW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.9",
+          "value": 4.9,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "08:00",
+      "isoDate": "2026-10-13",
+      "hour": 8,
+      "cells": {
+        "airTemp": {
+          "raw": "70.3",
+          "value": 70.3,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "67.1",
+          "value": 67.1,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "66.5",
+          "value": 66.5,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SW",
+          "value": "SW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.4",
+          "value": 4.4,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.1",
+          "value": 0.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "09:00",
+      "isoDate": "2026-10-13",
+      "hour": 9,
+      "cells": {
+        "airTemp": {
+          "raw": "71.4",
+          "value": 71.4,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "64.5",
+          "value": 64.5,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "66.3",
+          "value": 66.3,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SW",
+          "value": "SW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "4.7",
+          "value": 4.7,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "6.0",
+          "value": 6.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "10:00",
+      "isoDate": "2026-10-13",
+      "hour": 10,
+      "cells": {
+        "airTemp": {
+          "raw": "73.1",
+          "value": 73.1,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "62.6",
+          "value": 62.6,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "66.2",
+          "value": 66.2,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "SW",
+          "value": "SW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "5.8",
+          "value": 5.8,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "20.6",
+          "value": 20.6,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "11:00",
+      "isoDate": "2026-10-13",
+      "hour": 11,
+      "cells": {
+        "airTemp": {
+          "raw": "75.0",
+          "value": 75.0,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "59.5",
+          "value": 59.5,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "66.5",
+          "value": 66.5,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "WSW",
+          "value": "WSW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "9.4",
+          "value": 9.4,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "34.6",
+          "value": 34.6,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    }
+  ],
+  "footnotes": [
+    "Air temperatures taken at a height of 5-ft.",
+    "Soil temperatures taken at a depth of 2-in. (under bare soil)",
+    "Leaf wetness and precipitation data may not be available during the winter months (i.e. Nov.1 - Feb.29)",
+    "Data provided by the Michigan Automated Weather Network (MAWN) and Enviro-weather Program."
+  ],
+  "footnotesIdenticalAcrossBlocks": true,
+  "blockCount": 3,
+  "stats": {
+    "rowCount": 59,
+    "cellCount": 472,
+    "missingCellCount": 59,
+    "missingByMarker": {
+      "--": 59,
+      "---": 0,
+      "NA": 0
+    },
+    "rowsWithAnyValue": 59,
+    "rowsEntirelyMissing": 0
+  }
+}

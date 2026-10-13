@@ -1,0 +1,762 @@
+{
+  "schemaVersion": 1,
+  "totalUrls": 437,
+  "capturedUrls": 14,
+  "legacyHostUrls": 392,
+  "externalUrls": 45,
+  "byTreatment": {
+    "EXTERNAL DEPENDENCY": 45,
+    "REBUILD": 131,
+    "NEEDS INVESTIGATION": 120,
+    "ARCHIVE": 20,
+    "REDIRECT": 8,
+    "PRESERVE": 113
+  },
+  "byPrototypeStatus": {
+    "link-out": 45,
+    "rebuilt": 13,
+    "not-preserved": 122,
+    "superseded": 20,
+    "redirect-planned": 8,
+    "listed-only": 108,
+    "bytes-preserved": 1,
+    "template-only": 120
+  },
+  "sites": {
+    "mawn": {
+      "name": "Michigan Automated Weather Network (MAWN)",
+      "discoveredUrls": 265,
+      "capturedUrls": 9,
+      "byTreatment": {
+        "REBUILD": 126,
+        "ARCHIVE": 10,
+        "PRESERVE": 113,
+        "NEEDS INVESTIGATION": 10,
+        "REDIRECT": 6
+      },
+      "byPrototypeStatus": {
+        "rebuilt": 8,
+        "superseded": 10,
+        "not-preserved": 12,
+        "listed-only": 108,
+        "redirect-planned": 6,
+        "bytes-preserved": 1,
+        "template-only": 120
+      },
+      "byResourceType": {
+        "html-page": 3,
+        "layout-asset": 10,
+        "image": 2,
+        "directory-listing": 17,
+        "data-file": 100,
+        "dynamic-report": 6,
+        "dynamic-page": 119,
+        "dynamic-query-form": 8
+      },
+      "patternCount": 13,
+      "contentUrls": 255
+    },
+    "agweather": {
+      "name": "MSU Agricultural Weather Office",
+      "discoveredUrls": 118,
+      "capturedUrls": 3,
+      "byTreatment": {
+        "REBUILD": 3,
+        "NEEDS INVESTIGATION": 107,
+        "ARCHIVE": 7,
+        "REDIRECT": 1
+      },
+      "byPrototypeStatus": {
+        "rebuilt": 3,
+        "not-preserved": 107,
+        "superseded": 7,
+        "redirect-planned": 1
+      },
+      "byResourceType": {
+        "dynamic-page": 3,
+        "html-page": 7,
+        "dynamic-report": 101,
+        "layout-asset": 7
+      },
+      "patternCount": 10,
+      "contentUrls": 111
+    },
+    "climate": {
+      "name": "Michigan State Climatologist's Office",
+      "discoveredUrls": 9,
+      "capturedUrls": 2,
+      "byTreatment": {
+        "REBUILD": 2,
+        "NEEDS INVESTIGATION": 3,
+        "ARCHIVE": 3,
+        "REDIRECT": 1
+      },
+      "byPrototypeStatus": {
+        "rebuilt": 2,
+        "not-preserved": 3,
+        "superseded": 3,
+        "redirect-planned": 1
+      },
+      "byResourceType": {
+        "html-page": 6,
+        "layout-asset": 3
+      },
+      "patternCount": 5,
+      "contentUrls": 6
+    },
+    "external": {
+      "name": "External",
+      "discoveredUrls": 45,
+      "capturedUrls": 0,
+      "byTreatment": {
+        "EXTERNAL DEPENDENCY": 45
+      },
+      "byPrototypeStatus": {
+        "link-out": 45
+      },
+      "byResourceType": {
+        "external-link": 14,
+        "html-page": 4,
+        "image": 27
+      },
+      "patternCount": 3,
+      "contentUrls": 45
+    }
+  },
+  "patterns": [
+    {
+      "patternId": "mawn-station",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/station.asp?id={id}",
+      "resourceType": "dynamic-page",
+      "treatment": "REBUILD",
+      "purpose": "Station page: identity, location, links to pre-generated reports and custom reports.",
+      "limitations": "One shared template. Only stations whose page was captured have a rebuilt page.",
+      "dynamic": "yes",
+      "urlCount": 119,
+      "capturedCount": 2,
+      "statuses": {
+        "template-only": 117,
+        "rebuilt": 2
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/station.asp?id=swm",
+        "https://mawn.geo.msu.edu/station.asp?id=bnz",
+        "https://mawn.geo.msu.edu/station.asp?id=acp"
+      ],
+      "newUrlExample": "/weather-network/stations/swm/"
+    },
+    {
+      "patternId": "rawdata-file",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/rawdata/{dir}/{file}",
+      "resourceType": "data-file",
+      "treatment": "PRESERVE",
+      "purpose": "Raw logger data file, possibly consumed by scripts.",
+      "limitations": "Path and bytes must be preserved exactly. Only one file was captured.",
+      "dynamic": "yes",
+      "urlCount": 100,
+      "capturedCount": 1,
+      "statuses": {
+        "listed-only": 99,
+        "bytes-preserved": 1
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/rawdata/3hr/benzonia",
+        "https://mawn.geo.msu.edu/rawdata/3hr/aetna",
+        "https://mawn.geo.msu.edu/rawdata/3hr/albion"
+      ],
+      "newUrlExample": "/rawdata/3hr/benzonia"
+    },
+    {
+      "patternId": "mawn-layout-asset",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/{images|icons}/…, style.css, mawnicon.ico",
+      "resourceType": "layout-asset",
+      "treatment": "ARCHIVE",
+      "purpose": "Legacy layout image, icon or stylesheet.",
+      "limitations": "Superseded by the new design system; not needed by the rebuild.",
+      "dynamic": "no",
+      "urlCount": 10,
+      "capturedCount": 0,
+      "statuses": {
+        "superseded": 10
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/icons/back.gif",
+        "https://mawn.geo.msu.edu/icons/blank.gif",
+        "https://mawn.geo.msu.edu/icons/folder.gif"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "rawdata-directory",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/rawdata/{dir}/",
+      "resourceType": "directory-listing",
+      "treatment": "PRESERVE",
+      "purpose": "Raw-data subdirectory listing.",
+      "limitations": "Only the 3hr listing was captured; other subdirectories are known by name only.",
+      "dynamic": "yes",
+      "urlCount": 10,
+      "capturedCount": 1,
+      "statuses": {
+        "listed-only": 9,
+        "rebuilt": 1
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/rawdata/3hr/",
+        "https://mawn.geo.msu.edu/rawdata/1wk/",
+        "https://mawn.geo.msu.edu/rawdata/3mo/"
+      ],
+      "newUrlExample": "/rawdata/3hr/"
+    },
+    {
+      "patternId": "mawn-custom-report",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/station.asp?id={id}&rt={24|60|5|0}",
+      "resourceType": "dynamic-query-form",
+      "treatment": "NEEDS INVESTIGATION",
+      "purpose": "Custom reports (data-on-demand): daily, hourly, five-minute and growing-degree-day data for a chosen station.",
+      "limitations": "Requires a query backend or data API. The form was not exercised and its results were not captured.",
+      "dynamic": "yes",
+      "urlCount": 8,
+      "capturedCount": 0,
+      "statuses": {
+        "not-preserved": 8
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/station.asp?id=bnz&rt=0",
+        "https://mawn.geo.msu.edu/station.asp?id=bnz&rt=24",
+        "https://mawn.geo.msu.edu/station.asp?id=bnz&rt=5"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "rawdata-sort-link",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/rawdata/{dir}/?C={col};O={order}",
+      "resourceType": "directory-listing",
+      "treatment": "REDIRECT",
+      "purpose": "Server-generated sort order for a directory listing.",
+      "limitations": "Sorting is offered in the listing page itself; the query-string variants would redirect to the listing.",
+      "dynamic": "yes",
+      "urlCount": 6,
+      "capturedCount": 0,
+      "statuses": {
+        "redirect-planned": 6
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/rawdata/3hr/?C=M;O=A",
+        "https://mawn.geo.msu.edu/rawdata/3hr/?C=N;O=D",
+        "https://mawn.geo.msu.edu/rawdata/3hr/?C=S;O=A"
+      ],
+      "newUrlExample": "/rawdata/3hr/"
+    },
+    {
+      "patternId": "mawn-station-photo",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/images/stations/{id}.jpg",
+      "resourceType": "image",
+      "treatment": "PRESERVE",
+      "purpose": "Photograph of a station site.",
+      "limitations": "Not in the source pack; needs an approved copy and a text alternative.",
+      "dynamic": "no",
+      "urlCount": 2,
+      "capturedCount": 0,
+      "statuses": {
+        "not-preserved": 2
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/images/stations/bnz.jpg",
+        "https://mawn.geo.msu.edu/images/stations/swm.jpg"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "mawn-regional-map",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/mawn-{region}.html",
+      "resourceType": "html-page",
+      "treatment": "NEEDS INVESTIGATION",
+      "purpose": "Regional zoom of the station map.",
+      "limitations": "Not in the source pack; content, format and update behaviour are unverified.",
+      "dynamic": "unknown",
+      "urlCount": 2,
+      "capturedCount": 0,
+      "statuses": {
+        "not-preserved": 2
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/mawn-nw.html",
+        "https://mawn.geo.msu.edu/mawn-sw.html"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "mawn-report-daily",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/report.asp?fileid={id}d",
+      "resourceType": "dynamic-report",
+      "treatment": "REBUILD",
+      "purpose": "Pre-generated daily weather summary for one station.",
+      "limitations": "One shared template per report type. Only captured reports have a rebuilt page.",
+      "dynamic": "yes",
+      "urlCount": 2,
+      "capturedCount": 1,
+      "statuses": {
+        "rebuilt": 1,
+        "template-only": 1
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/report.asp?fileid=bnzd",
+        "https://mawn.geo.msu.edu/report.asp?fileid=swmd"
+      ],
+      "newUrlExample": "/weather-network/stations/bnz/daily/"
+    },
+    {
+      "patternId": "mawn-report-hourly",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/report.asp?fileid={id}h",
+      "resourceType": "dynamic-report",
+      "treatment": "REBUILD",
+      "purpose": "Pre-generated hourly weather summary for one station.",
+      "limitations": "One shared template per report type. Only captured reports have a rebuilt page.",
+      "dynamic": "yes",
+      "urlCount": 2,
+      "capturedCount": 1,
+      "statuses": {
+        "rebuilt": 1,
+        "template-only": 1
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/report.asp?fileid=bnzh",
+        "https://mawn.geo.msu.edu/report.asp?fileid=swmh"
+      ],
+      "newUrlExample": "/weather-network/stations/bnz/hourly/"
+    },
+    {
+      "patternId": "mawn-report-maintenance",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/report.asp?fileid={id}m",
+      "resourceType": "dynamic-report",
+      "treatment": "REBUILD",
+      "purpose": "Station maintenance notes for one station.",
+      "limitations": "One shared template per report type. Only captured reports have a rebuilt page.",
+      "dynamic": "yes",
+      "urlCount": 2,
+      "capturedCount": 1,
+      "statuses": {
+        "rebuilt": 1,
+        "template-only": 1
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/report.asp?fileid=bnzm",
+        "https://mawn.geo.msu.edu/report.asp?fileid=swmm"
+      ],
+      "newUrlExample": "/weather-network/stations/bnz/maintenance/"
+    },
+    {
+      "patternId": "mawn-home",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/",
+      "resourceType": "html-page",
+      "treatment": "REBUILD",
+      "purpose": "Network home: introduction, station map, station tables, recent conditions.",
+      "limitations": "Legacy image-map station picker is replaced by a searchable directory; the map image was not captured.",
+      "dynamic": "yes",
+      "urlCount": 1,
+      "capturedCount": 1,
+      "statuses": {
+        "rebuilt": 1
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/"
+      ],
+      "newUrlExample": "/weather-network/"
+    },
+    {
+      "patternId": "rawdata-root",
+      "site": "mawn",
+      "template": "https://mawn.geo.msu.edu/rawdata/",
+      "resourceType": "directory-listing",
+      "treatment": "PRESERVE",
+      "purpose": "Root of the public raw-data directory.",
+      "limitations": "Listing reflects the capture time; it is not live.",
+      "dynamic": "yes",
+      "urlCount": 1,
+      "capturedCount": 1,
+      "statuses": {
+        "rebuilt": 1
+      },
+      "examples": [
+        "https://mawn.geo.msu.edu/rawdata/"
+      ],
+      "newUrlExample": "/rawdata/"
+    },
+    {
+      "patternId": "agweather-normals",
+      "site": "agweather",
+      "template": "https://www.agweather.geo.msu.edu/current/normal.asp?fileid={place}",
+      "resourceType": "dynamic-report",
+      "treatment": "NEEDS INVESTIGATION",
+      "purpose": "Daily temperature and growing-degree-day normals for one location.",
+      "limitations": "Report body not captured; likely a fixed climatological table but unverified.",
+      "dynamic": "yes",
+      "urlCount": 42,
+      "capturedCount": 0,
+      "statuses": {
+        "not-preserved": 42
+      },
+      "examples": [
+        "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=adrian",
+        "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=allegan",
+        "https://www.agweather.geo.msu.edu/current/normal.asp?fileid=alma"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "agweather-current-report",
+      "site": "agweather",
+      "template": "https://www.agweather.geo.msu.edu/current/report.asp?fileid={product}",
+      "resourceType": "dynamic-report",
+      "treatment": "NEEDS INVESTIGATION",
+      "purpose": "Text product: observations, statistics, summaries or growing-degree-day tables.",
+      "limitations": "Report body not captured. Product identifiers resemble National Weather Service product IDs, which suggests a relayed feed; unverified.",
+      "dynamic": "yes",
+      "urlCount": 30,
+      "capturedCount": 0,
+      "statuses": {
+        "not-preserved": 30
+      },
+      "examples": [
+        "https://www.agweather.geo.msu.edu/current/report.asp?fileid=agwxsum",
+        "https://www.agweather.geo.msu.edu/current/report.asp?fileid=base41gdd",
+        "https://www.agweather.geo.msu.edu/current/report.asp?fileid=base50gdd"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "agweather-forecast-product",
+      "site": "agweather",
+      "template": "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid={product}",
+      "resourceType": "dynamic-report",
+      "treatment": "NEEDS INVESTIGATION",
+      "purpose": "Forecast text product: state, zone, discussion, guidance or outlook.",
+      "limitations": "Forecasts are time-critical and were not captured. A stale copy must never be shown as current.",
+      "dynamic": "yes",
+      "urlCount": 29,
+      "capturedCount": 0,
+      "statuses": {
+        "not-preserved": 29
+      },
+      "examples": [
+        "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kanj",
+        "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kapn",
+        "https://www.agweather.geo.msu.edu/forecasts/fcst.asp?fileid=fous16kdlh"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "agweather-layout-asset",
+      "site": "agweather",
+      "template": "https://www.agweather.geo.msu.edu/images/…, style.css",
+      "resourceType": "layout-asset",
+      "treatment": "ARCHIVE",
+      "purpose": "Legacy layout image or stylesheet.",
+      "limitations": "Superseded by the new design system; not needed by the rebuild.",
+      "dynamic": "no",
+      "urlCount": 7,
+      "capturedCount": 0,
+      "statuses": {
+        "superseded": 7
+      },
+      "examples": [
+        "https://www.agweather.geo.msu.edu/current/style.css",
+        "https://www.agweather.geo.msu.edu/forecasts/style.css",
+        "https://www.agweather.geo.msu.edu/images/grnarrow2.gif"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "agweather-section-index",
+      "site": "agweather",
+      "template": "https://www.agweather.geo.msu.edu/{info|articles|links}/",
+      "resourceType": "html-page",
+      "treatment": "NEEDS INVESTIGATION",
+      "purpose": "Section index: information, feature articles or other sites.",
+      "limitations": "Not in the source pack; content, format and update behaviour are unverified.",
+      "dynamic": "unknown",
+      "urlCount": 3,
+      "capturedCount": 0,
+      "statuses": {
+        "not-preserved": 3
+      },
+      "examples": [
+        "https://www.agweather.geo.msu.edu/articles/",
+        "https://www.agweather.geo.msu.edu/info/",
+        "https://www.agweather.geo.msu.edu/links/"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "agweather-static-page",
+      "site": "agweather",
+      "template": "https://www.agweather.geo.msu.edu/{section}/{page}.html",
+      "resourceType": "html-page",
+      "treatment": "NEEDS INVESTIGATION",
+      "purpose": "Graphic or station-list page linked from a product directory.",
+      "limitations": "Not in the source pack; content, format and update behaviour are unverified.",
+      "dynamic": "unknown",
+      "urlCount": 3,
+      "capturedCount": 0,
+      "statuses": {
+        "not-preserved": 3
+      },
+      "examples": [
+        "https://www.agweather.geo.msu.edu/current/maxtemp.html",
+        "https://www.agweather.geo.msu.edu/current/mintemp.html",
+        "https://www.agweather.geo.msu.edu/forecasts/nbm_fcsts.html"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "agweather-home",
+      "site": "agweather",
+      "template": "https://www.agweather.geo.msu.edu/",
+      "resourceType": "dynamic-page",
+      "treatment": "REBUILD",
+      "purpose": "Office home: navigation, data-feed status, news and notes, contact details.",
+      "limitations": "Feed status and news are a snapshot.",
+      "dynamic": "yes",
+      "urlCount": 1,
+      "capturedCount": 1,
+      "statuses": {
+        "rebuilt": 1
+      },
+      "examples": [
+        "https://www.agweather.geo.msu.edu/"
+      ],
+      "newUrlExample": "/agricultural-weather/"
+    },
+    {
+      "patternId": "agweather-current",
+      "site": "agweather",
+      "template": "https://www.agweather.geo.msu.edu/current/",
+      "resourceType": "dynamic-page",
+      "treatment": "REBUILD",
+      "purpose": "Directory of current weather, statistics, summaries, growing-degree-day and normals products.",
+      "limitations": "The directory is rebuilt; the products it links to were not captured.",
+      "dynamic": "yes",
+      "urlCount": 1,
+      "capturedCount": 1,
+      "statuses": {
+        "rebuilt": 1
+      },
+      "examples": [
+        "https://www.agweather.geo.msu.edu/current/"
+      ],
+      "newUrlExample": "/agricultural-weather/current/"
+    },
+    {
+      "patternId": "agweather-forecasts",
+      "site": "agweather",
+      "template": "https://www.agweather.geo.msu.edu/forecasts/",
+      "resourceType": "dynamic-page",
+      "treatment": "REBUILD",
+      "purpose": "Directory of forecast products.",
+      "limitations": "The directory is rebuilt; the products it links to were not captured.",
+      "dynamic": "yes",
+      "urlCount": 1,
+      "capturedCount": 1,
+      "statuses": {
+        "rebuilt": 1
+      },
+      "examples": [
+        "https://www.agweather.geo.msu.edu/forecasts/"
+      ],
+      "newUrlExample": "/agricultural-weather/forecasts/"
+    },
+    {
+      "patternId": "agweather-index-alias",
+      "site": "agweather",
+      "template": "https://www.agweather.geo.msu.edu/index.html",
+      "resourceType": "html-page",
+      "treatment": "REDIRECT",
+      "purpose": "Alias of the office home used by its navigation.",
+      "limitations": "Assumed to be the same page as /; not fetched.",
+      "dynamic": "unknown",
+      "urlCount": 1,
+      "capturedCount": 0,
+      "statuses": {
+        "redirect-planned": 1
+      },
+      "examples": [
+        "https://www.agweather.geo.msu.edu/index.html"
+      ],
+      "newUrlExample": "/agricultural-weather/"
+    },
+    {
+      "patternId": "climate-content-page",
+      "site": "climate",
+      "template": "https://climate.geo.msu.edu/{about_us.html|semcog/…|climate_mi/…}",
+      "resourceType": "html-page",
+      "treatment": "NEEDS INVESTIGATION",
+      "purpose": "About the office.",
+      "limitations": "Not in the source pack; content, format and update behaviour are unverified.",
+      "dynamic": "unknown",
+      "urlCount": 3,
+      "capturedCount": 0,
+      "statuses": {
+        "not-preserved": 3
+      },
+      "examples": [
+        "https://climate.geo.msu.edu/about_us.html",
+        "https://climate.geo.msu.edu/climate_mi/index.html",
+        "https://climate.geo.msu.edu/semcog/sem/mainsem.html"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "climate-layout-asset",
+      "site": "climate",
+      "template": "https://climate.geo.msu.edu/images/…, style.css",
+      "resourceType": "layout-asset",
+      "treatment": "ARCHIVE",
+      "purpose": "Legacy layout image or stylesheet.",
+      "limitations": "Superseded by the new design system; not needed by the rebuild.",
+      "dynamic": "no",
+      "urlCount": 3,
+      "capturedCount": 0,
+      "statuses": {
+        "superseded": 3
+      },
+      "examples": [
+        "https://climate.geo.msu.edu/images/mich_cli_wordmark.png",
+        "https://climate.geo.msu.edu/images/wordmark_pos_gray_120.png",
+        "https://climate.geo.msu.edu/style.css"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "climate-home",
+      "site": "climate",
+      "template": "https://climate.geo.msu.edu/",
+      "resourceType": "html-page",
+      "treatment": "REBUILD",
+      "purpose": "Office home: welcome text, navigation, map thumbnails.",
+      "limitations": "Thumbnails are externally hosted images and are not embedded.",
+      "dynamic": "no",
+      "urlCount": 1,
+      "capturedCount": 1,
+      "statuses": {
+        "rebuilt": 1
+      },
+      "examples": [
+        "https://climate.geo.msu.edu/"
+      ],
+      "newUrlExample": "/climate/"
+    },
+    {
+      "patternId": "climate-maps",
+      "site": "climate",
+      "template": "https://climate.geo.msu.edu/climate_maps.html",
+      "resourceType": "html-page",
+      "treatment": "REBUILD",
+      "purpose": "Directory of 27 Michigan Climate Watch maps (7, 30 and 90 days).",
+      "limitations": "Map images are hosted by MRCC and were not captured.",
+      "dynamic": "no",
+      "urlCount": 1,
+      "capturedCount": 1,
+      "statuses": {
+        "rebuilt": 1
+      },
+      "examples": [
+        "https://climate.geo.msu.edu/climate_maps.html"
+      ],
+      "newUrlExample": "/climate/maps/"
+    },
+    {
+      "patternId": "climate-index-alias",
+      "site": "climate",
+      "template": "https://climate.geo.msu.edu/index.html",
+      "resourceType": "html-page",
+      "treatment": "REDIRECT",
+      "purpose": "Alias of the office home used by its navigation.",
+      "limitations": "Assumed to be the same page as /; not fetched.",
+      "dynamic": "no",
+      "urlCount": 1,
+      "capturedCount": 0,
+      "statuses": {
+        "redirect-planned": 1
+      },
+      "examples": [
+        "https://climate.geo.msu.edu/index.html"
+      ],
+      "newUrlExample": "/climate/"
+    },
+    {
+      "patternId": "external-mrcc-map",
+      "site": "external",
+      "template": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/{product}-{7|30|90}days.png",
+      "resourceType": "image",
+      "treatment": "EXTERNAL DEPENDENCY",
+      "purpose": "Climate Watch map image hosted by the Midwestern Regional Climate Center.",
+      "limitations": "Hot-linked by the legacy page. Not captured; no text or table equivalent was found in the captured pages.",
+      "dynamic": "yes",
+      "urlCount": 27,
+      "capturedCount": 0,
+      "statuses": {
+        "link-out": 27
+      },
+      "examples": [
+        "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-30days.png",
+        "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png",
+        "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-90days.png"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "external-reference-link",
+      "site": "external",
+      "template": "{external site}",
+      "resourceType": "external-link",
+      "treatment": "EXTERNAL DEPENDENCY",
+      "purpose": "Outbound link to a partner, sponsor or related site.",
+      "limitations": "Target not checked; several are plain-http links.",
+      "dynamic": "unknown",
+      "urlCount": 14,
+      "capturedCount": 0,
+      "statuses": {
+        "link-out": 14
+      },
+      "examples": [
+        "http://agbioresearch.msu.edu/",
+        "http://enviroweather.msu.edu/",
+        "http://msue.msu.edu/"
+      ],
+      "newUrlExample": null
+    },
+    {
+      "patternId": "external-noaa-cpc",
+      "site": "external",
+      "template": "http://www.cpc.ncep.noaa.gov/products/predictions/{product}/",
+      "resourceType": "html-page",
+      "treatment": "EXTERNAL DEPENDENCY",
+      "purpose": "NOAA Climate Prediction Center outlook page.",
+      "limitations": "Authoritative external provider; link out rather than copy.",
+      "dynamic": "yes",
+      "urlCount": 4,
+      "capturedCount": 0,
+      "statuses": {
+        "link-out": 4
+      },
+      "examples": [
+        "http://www.cpc.ncep.noaa.gov/products/predictions/30day/",
+        "http://www.cpc.ncep.noaa.gov/products/predictions/610day/",
+        "http://www.cpc.ncep.noaa.gov/products/predictions/814day/"
+      ],
+      "newUrlExample": null
+    }
+  ]
+}

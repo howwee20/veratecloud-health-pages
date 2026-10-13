@@ -1,0 +1,630 @@
+{
+  "schemaVersion": 1,
+  "stationId": "bnz",
+  "source": {
+    "id": "mawn-report-bnzm",
+    "url": "https://mawn.geo.msu.edu/report.asp?fileid=bnzm",
+    "file": "input/mawn/report-bnzm.html",
+    "sha256": "67cf8e5a61a90b1868114a748f6858972a1ce0664bcd1a9c030d608826857919",
+    "retrievedAtUtc": "2026-10-13T15:34:08.036603+00:00"
+  },
+  "parsing": {
+    "method": "Fixed-width text block extracted from the captured HTML (td.courier2); rows split on whitespace after the header lines were matched exactly against the expected layout.",
+    "transformations": [
+      "Non-breaking spaces and <br> converted to spaces and line breaks.",
+      "Dates given as MM/DD/YY also stored as ISO dates, reading the year as 20YY.",
+      "Numeric strings also stored as numbers; the original string is kept and is what the site displays."
+    ],
+    "missingValues": "The markers --, --- and NA are kept as written. The source does not define them. They are never converted to zero."
+  },
+  "kind": "maintenance",
+  "title": "Station Notes - Benzonia",
+  "entries": [
+    {
+      "dateRaw": "05/11/2023",
+      "isoDate": "2023-05-11",
+      "heading": "Station Maintenance",
+      "bracketCode": "1155",
+      "section": 1,
+      "body": [
+        "- routine station maintenance, including:",
+        "   - checked anemometer (bearings good)",
+        "   - checked battery (13.31 V)",
+        "   - checked battery box (good)",
+        "   - checked soil sensor cables (good)",
+        "   - checked solar panel (21.03 V)",
+        "   - replaced tipping-bucket rain gauge",
+        "   - tested leaf wetness [canopy] (good)*",
+        "   - tested leaf wetness [standard] (good)",
+        "",
+        "   * canopy: cherry trees at 40\" height"
+      ]
+    },
+    {
+      "dateRaw": "08/03/2021",
+      "isoDate": "2021-08-03",
+      "heading": "Station Maintenance",
+      "bracketCode": "1110",
+      "section": 2,
+      "body": [
+        "- routine station maintenance"
+      ]
+    },
+    {
+      "dateRaw": "06/22/2021",
+      "isoDate": "2021-06-22",
+      "heading": "Station Maintenance",
+      "bracketCode": "1240",
+      "section": 2,
+      "body": [
+        "- routine station maintenance, including:",
+        "   - modem upgrade"
+      ]
+    },
+    {
+      "dateRaw": "07/31/2020",
+      "isoDate": "2020-07-31",
+      "heading": "Station Maintenance",
+      "bracketCode": "1310",
+      "section": 3,
+      "body": [
+        "- power upgrade (battery, solar panel)",
+        "- replaced wind sentry"
+      ]
+    },
+    {
+      "dateRaw": "06/03/2020",
+      "isoDate": "2020-06-03",
+      "heading": "Station Maintenance",
+      "bracketCode": "1230",
+      "section": 3,
+      "body": [
+        "- routine station maintenance",
+        "- updated leaf wetness (standard) mount (LWS-L)"
+      ]
+    },
+    {
+      "dateRaw": "12/20/2019",
+      "isoDate": "2019-12-20",
+      "heading": "Station Maintenance",
+      "bracketCode": "1200",
+      "section": 4,
+      "body": [
+        "- replaced faulty (standard) leaf wetness (LWS-L)"
+      ]
+    },
+    {
+      "dateRaw": "07/24/2019",
+      "isoDate": "2019-07-24",
+      "heading": "Logger / Station Maintenance",
+      "bracketCode": "1255",
+      "section": 4,
+      "body": [
+        "- replaced logger (CR1000 -> CR1000)",
+        "- added PakBus modem",
+        "- loaded logger program: bnz-bbcb"
+      ]
+    },
+    {
+      "dateRaw": "08/22/2018",
+      "isoDate": "2018-08-22",
+      "heading": "Station Maintenance",
+      "bracketCode": "1110",
+      "section": 5,
+      "body": [
+        "- annual station / site maintenance"
+      ]
+    },
+    {
+      "dateRaw": "06/25/2018",
+      "isoDate": "2018-06-25",
+      "heading": "Station Maintenance",
+      "bracketCode": "1325",
+      "section": 5,
+      "body": [
+        "- general maintenance / site cleanup"
+      ]
+    },
+    {
+      "dateRaw": "05/26/2018",
+      "isoDate": "2018-05-26",
+      "heading": "Station Maintenance",
+      "bracketCode": "1440",
+      "section": 5,
+      "body": [
+        "- general maintenance / cleanup, including:",
+        "    - check/test tipping-bucket rain gauge"
+      ]
+    },
+    {
+      "dateRaw": "08/10/2017",
+      "isoDate": "2017-08-10",
+      "heading": "Station Maintenance",
+      "bracketCode": "0001",
+      "section": 6,
+      "body": [
+        "- loaded logger program \"bnz-bbcb\""
+      ]
+    },
+    {
+      "dateRaw": "07/17/2017",
+      "isoDate": "2017-07-17",
+      "heading": "Station Maintenance",
+      "bracketCode": "1305",
+      "section": 6,
+      "body": [
+        "- annual maintenance",
+        "- replaced air temp/relh sensor (HC2S3 -> HMP155)",
+        "  - sensor now connected to \"continuous\" power"
+      ]
+    },
+    {
+      "dateRaw": "07/01/2016",
+      "isoDate": "2016-07-01",
+      "heading": "Station Maintenance",
+      "bracketCode": "1120",
+      "section": 6,
+      "body": [
+        "- annual maintenance and weed removal",
+        "- installed additional solar panel"
+      ]
+    },
+    {
+      "dateRaw": "07/20/2015",
+      "isoDate": "2015-07-20",
+      "heading": "Station Maintenance",
+      "bracketCode": "1233",
+      "section": 7,
+      "body": [
+        "- Replaced TEMP/RH sensor with new HC2S3"
+      ]
+    },
+    {
+      "dateRaw": "07/15/2015",
+      "isoDate": "2015-07-15",
+      "heading": "Station Modernization",
+      "bracketCode": "1300",
+      "section": 7,
+      "body": [
+        "- Station upgraded with new logger and serveral new sensors.",
+        "",
+        "- loaded logger program \"bnz-bbbb\"",
+        "",
+        "- Due to upgrade, station was offline for the following:",
+        "",
+        "     07/15/2015 (d=196) 1305 - 07/15/2015 (d=196) 1415",
+        "",
+        "- the \"live\" data updates were able to resume at:",
+        "",
+        "     07/16/2015 (d=197) 1330"
+      ]
+    },
+    {
+      "dateRaw": "03/01/2015",
+      "isoDate": "2015-03-01",
+      "heading": "Station Maintenance",
+      "bracketCode": "0003",
+      "section": 7,
+      "body": [
+        "- loaded logger program \"mawn_aacf\" (hourly collection cycle)"
+      ]
+    },
+    {
+      "dateRaw": "12/09/2014",
+      "isoDate": "2014-12-09",
+      "heading": "Station Maintenance",
+      "bracketCode": "0006",
+      "section": 8,
+      "body": [
+        "- Loaded Logger Program \"mawn_aacw\" (3-hour collection cycle)"
+      ]
+    },
+    {
+      "dateRaw": "09/05/2014",
+      "isoDate": "2014-09-05",
+      "heading": "Station Maintenance",
+      "bracketCode": "1830",
+      "section": 8,
+      "body": [
+        "- Replaced pyranometer (solar radiation sensor)"
+      ]
+    },
+    {
+      "dateRaw": "06/27/2014",
+      "isoDate": "2014-06-27",
+      "heading": "Station Maintenance",
+      "bracketCode": "1530",
+      "section": 8,
+      "body": [
+        "- routine annual maintenance"
+      ]
+    },
+    {
+      "dateRaw": "02/26/2014",
+      "isoDate": "2014-02-26",
+      "heading": "Station Maintenance",
+      "bracketCode": "1204",
+      "section": 8,
+      "body": [
+        "- Moved data-collection to new LoggerNet server",
+        "- Loaded Logger program: AACF (hourly cycle)"
+      ]
+    },
+    {
+      "dateRaw": "11/30/2013",
+      "isoDate": "2013-11-30",
+      "heading": "Station Maintenance",
+      "bracketCode": "1215",
+      "section": 9,
+      "body": [
+        "- Replaced Logger battery"
+      ]
+    },
+    {
+      "dateRaw": "11/26/2013",
+      "isoDate": "2013-11-26",
+      "heading": "Station Maintenance",
+      "bracketCode": "0001",
+      "section": 9,
+      "body": [
+        "- Loaded Logger Program \"AACW\" (3-hour collection cycle)"
+      ]
+    },
+    {
+      "dateRaw": "08/14/2013",
+      "isoDate": "2013-08-14",
+      "heading": "Station Maintenance",
+      "bracketCode": "1900",
+      "section": 9,
+      "body": [
+        "- Replaced anemometer (wind speed)"
+      ]
+    },
+    {
+      "dateRaw": "01/14/2013",
+      "isoDate": "2013-01-14",
+      "heading": "Station Maintenance",
+      "bracketCode": "1445",
+      "section": 9,
+      "body": [
+        "- Reactivated \"live\" updates"
+      ]
+    },
+    {
+      "dateRaw": "01/11/2013",
+      "isoDate": "2013-01-11",
+      "heading": "Station Maintenance",
+      "bracketCode": "1200",
+      "section": 9,
+      "body": [
+        "- Replaced SC932 Communication Interface Module",
+        "- Added second battery for back-up power"
+      ]
+    },
+    {
+      "dateRaw": "01/07/2013",
+      "isoDate": "2013-01-07",
+      "heading": "Communication Troubles",
+      "bracketCode": "1300",
+      "section": 9,
+      "body": [
+        "- Although battery was replaced, communication troubles",
+        "  continue."
+      ]
+    },
+    {
+      "dateRaw": "01/06/2013",
+      "isoDate": "2013-01-06",
+      "heading": "Station Maintenance",
+      "bracketCode": "1612",
+      "section": 9,
+      "body": [
+        "- Replaced Battery",
+        "- Due to recent battery issues, several periods of data",
+        "  were lost or removed."
+      ]
+    },
+    {
+      "dateRaw": "06/03/2012",
+      "isoDate": "2012-06-03",
+      "heading": "Station Maintenance",
+      "bracketCode": "0850",
+      "section": 10,
+      "body": [
+        "- Replaced Modem"
+      ]
+    },
+    {
+      "dateRaw": "03/03/2012",
+      "isoDate": "2012-03-03",
+      "heading": "Station Maintenance",
+      "bracketCode": "0001",
+      "section": 10,
+      "body": [
+        "- Loaded MAWN Program - AACF (hourly collection cycle)"
+      ]
+    },
+    {
+      "dateRaw": "12/25/2011",
+      "isoDate": "2011-12-25",
+      "heading": "Station Maintenance",
+      "bracketCode": "1340",
+      "section": 11,
+      "body": [
+        "- Battery replacement"
+      ]
+    },
+    {
+      "dateRaw": "11/23/2011",
+      "isoDate": "2011-11-23",
+      "heading": "Station Maintenance",
+      "bracketCode": "0009",
+      "section": 11,
+      "body": [
+        "- Loaded MAWN Program - AACW (three-hour collection cycle)"
+      ]
+    },
+    {
+      "dateRaw": "03/02/2011",
+      "isoDate": "2011-03-02",
+      "heading": "Station Maintenance",
+      "bracketCode": "0004",
+      "section": 11,
+      "body": [
+        "- Loaded MAWN Program - AACF (hourly collection cycle)"
+      ]
+    },
+    {
+      "dateRaw": "01/30/2011",
+      "isoDate": "2011-01-30",
+      "heading": "Station Maintenance",
+      "bracketCode": "1450",
+      "section": 11,
+      "body": [
+        "- Battery Replaced"
+      ]
+    },
+    {
+      "dateRaw": "11/18/2010",
+      "isoDate": "2010-11-18",
+      "heading": "Station Maintenance",
+      "bracketCode": "0001",
+      "section": 12,
+      "body": [
+        "- Loaded MAWN Program - AACW (3-hour collection cycle)"
+      ]
+    },
+    {
+      "dateRaw": "05/21/2010",
+      "isoDate": "2010-05-21",
+      "heading": "Station Maintenance",
+      "bracketCode": "1910",
+      "section": 12,
+      "body": [
+        "- Replaced battery"
+      ]
+    },
+    {
+      "dateRaw": "03/13/2010",
+      "isoDate": "2010-03-13",
+      "heading": "Station Maintenance",
+      "bracketCode": null,
+      "section": 12,
+      "body": [
+        "- Loaded MAWN Program - AACF (hourly collection cycle)     [0002]"
+      ]
+    },
+    {
+      "dateRaw": "11/24/2009",
+      "isoDate": "2009-11-24",
+      "heading": "Station Maintenance",
+      "bracketCode": "1100",
+      "section": 13,
+      "body": [
+        "- Battery was replaced."
+      ]
+    },
+    {
+      "dateRaw": "11/20/2009",
+      "isoDate": "2009-11-20",
+      "heading": "Station Maintenance",
+      "bracketCode": null,
+      "section": 13,
+      "body": [
+        "- Loaded MAWN Program - AACW (3-hour collection cycle)     [0902]"
+      ]
+    },
+    {
+      "dateRaw": "03/01/2009",
+      "isoDate": "2009-03-01",
+      "heading": "Station Maintenance",
+      "bracketCode": null,
+      "section": 13,
+      "body": [
+        "- Loaded MAWN Program - AACF (hourly power cycle)          [0005]"
+      ]
+    },
+    {
+      "dateRaw": "11/23/2008",
+      "isoDate": "2008-11-23",
+      "heading": "Station Maintenance",
+      "bracketCode": null,
+      "section": 14,
+      "body": [
+        "- Loaded MAWN Program - AACW (3-hour power cycle)          [0007]"
+      ]
+    },
+    {
+      "dateRaw": "03/02/2008",
+      "isoDate": "2008-03-02",
+      "heading": "Station Maintenance (jb)",
+      "bracketCode": null,
+      "section": 14,
+      "body": [
+        "- Loaded MAWN Program:  MAWN_AACF  (hourly power cycle)    [0005]"
+      ]
+    },
+    {
+      "dateRaw": "11/12/2007",
+      "isoDate": "2007-11-12",
+      "heading": "Station Maintenance (jb)",
+      "bracketCode": null,
+      "section": 15,
+      "body": [
+        "- Loaded MAWN Program:  MAWN_AACW   (3-hr power cycle)"
+      ]
+    },
+    {
+      "dateRaw": "05/22/2007",
+      "isoDate": "2007-05-22",
+      "heading": "Station Maintenance (bn)",
+      "bracketCode": null,
+      "section": 15,
+      "body": [
+        "- Communication converted to broadband cell-modem:",
+        "      - Broadband cell-ip modem installed",
+        "      - Datalogger progam \"mawn_aacs\" loaded and compiled.",
+        "      - Battery voltage now reported every hour.",
+        "      - Data collection configured to upload every 30 minutes.",
+        "",
+        "- General station maintenance and system checks.",
+        "      - Soil Temp 1 sensor was replaced.",
+        "      - Soil Temp 0 was reburied.",
+        "",
+        "      - Work was done approx: 15:30 - 16:30 (Day=142)"
+      ]
+    },
+    {
+      "dateRaw": "10/11/2005",
+      "isoDate": "2005-10-11",
+      "heading": "Quality Control (jtb)",
+      "bracketCode": null,
+      "section": 16,
+      "body": [
+        "- Faulty Air Temperature and Relative Humidity (see note",
+        "  from 10/05/2005 below) was removed from the MAWN database.",
+        "  Air Temp/RH during the following time period was marked",
+        "  as \"missing\":",
+        "",
+        "     From:   09/27/2005 (Day=270) 14:10",
+        "       To:   10/05/2005 (Day=278) 11:40"
+      ]
+    },
+    {
+      "dateRaw": "10/05/2005",
+      "isoDate": "2005-10-05",
+      "heading": "Station Maintenance (sm)",
+      "bracketCode": null,
+      "section": 16,
+      "body": [
+        "- Temp/RH Sensor (HMP45C) was disconnected from radiation",
+        "  shield leading to faulty readings.   The sensor was",
+        "  reinstalled properly.",
+        "",
+        "- Checked all sensors.",
+        "",
+        "- Routine maintenance and cleaning."
+      ]
+    },
+    {
+      "dateRaw": "07/17/2004",
+      "isoDate": "2004-07-17",
+      "heading": "Station Maintenance: (jal)",
+      "bracketCode": null,
+      "section": 17,
+      "body": [
+        "- Regular system maintenance and instrucment check.",
+        "",
+        "- No new sensors installed."
+      ]
+    },
+    {
+      "dateRaw": "04/08/2002",
+      "isoDate": "2002-04-08",
+      "heading": "Daylight Savings Time Adjustment.",
+      "bracketCode": null,
+      "section": 18,
+      "body": [
+        "- Daylight Savings Time Started on Day=97, Time=200.",
+        "",
+        "- Time of Obs were modified by one hour (forward)",
+        "  from Day=97, Time=200 through Day=97, Time=405."
+      ]
+    },
+    {
+      "dateRaw": "11/09/2001",
+      "isoDate": "2001-11-09",
+      "heading": "Recent Phone Line Troubles Corrected",
+      "bracketCode": null,
+      "section": 18,
+      "body": [
+        "- Recent troubles allowed data buffer to fill and",
+        "  some data was lost.  Data is missing between the",
+        "  following dates:",
+        "",
+        "     Day: 288, Time: 510  (Oct 15, 5:10am)",
+        "     Day: 295, Time: 1830 (Oct 22, 6:30pm)"
+      ]
+    },
+    {
+      "dateRaw": "10/29/2001",
+      "isoDate": "2001-10-29",
+      "heading": "Daylight Savings Time Adjustment.",
+      "bracketCode": null,
+      "section": 18,
+      "body": [
+        "- Daylight Savings Time Ended on Day=301, Time=200.",
+        "",
+        "- Time of Obs were modified by one hour (subtracted)",
+        "  from Day=301, Time=200 through Day=313, Time=1535."
+      ]
+    },
+    {
+      "dateRaw": "09/06/2001",
+      "isoDate": "2001-09-06",
+      "heading": "Phone Line Activated and Data Collection Started",
+      "bracketCode": null,
+      "section": 18,
+      "body": [
+        "   Phone Number:  (see setup notes)",
+        "",
+        "",
+        "Archived data set should be setup to ensure that",
+        "the first day of record is complete.  To do so,",
+        "use the following as the start of the the data",
+        "archive:",
+        "",
+        "   24 hour data:  24:00, Day=231 (08/19/2001)",
+        "   60 min data:  01:00, Day=231 (08/19/2001)",
+        "   05 min data:  00:05, Day=231 (08/19/2001)"
+      ]
+    },
+    {
+      "dateRaw": "08/??/2001",
+      "isoDate": null,
+      "heading": "Datalogger Program (MAWN1B) Activated",
+      "bracketCode": null,
+      "section": 18,
+      "body": [
+        "Data Logger Start Times:",
+        "",
+        "   24 hour data: 24:00, Day=230 (08/18/2001)",
+        "   60 min data:  20:00, Day=230 (08/18/2001)",
+        "   05 min data:  19:55, Day=230 (08/18/2001)"
+      ]
+    },
+    {
+      "dateRaw": "08/??/2001",
+      "isoDate": null,
+      "heading": "Station Installed",
+      "bracketCode": null,
+      "section": 18,
+      "body": []
+    }
+  ],
+  "entryCount": 52,
+  "entriesWithPartialDate": 2,
+  "firstIsoDate": "2001-09-06",
+  "lastIsoDate": "2023-05-11",
+  "rawText": "============================================================================== \nStation Notes - Benzonia: \n \n \n05/11/2023: Station Maintenance:                                        [1155] \n \n            - routine station maintenance, including: \n               - checked anemometer (bearings good) \n               - checked battery (13.31 V) \n               - checked battery box (good) \n               - checked soil sensor cables (good) \n               - checked solar panel (21.03 V) \n               - replaced tipping-bucket rain gauge \n               - tested leaf wetness [canopy] (good)* \n               - tested leaf wetness [standard] (good) \n \n               * canopy: cherry trees at 40\" height \n \n \n \n============================================================================== \n08/03/2021: Station Maintenance:                                        [1110] \n              \n            - routine station maintenance \n \n \n06/22/2021: Station Maintenance:                                        [1240] \n \n            - routine station maintenance, including: \n               - modem upgrade \n \n \n \n============================================================================== \n07/31/2020: Station Maintenance:                                        [1310] \n            - power upgrade (battery, solar panel) \n            - replaced wind sentry \n \n \n06/03/2020: Station Maintenance:                                        [1230] \n \n            - routine station maintenance \n            - updated leaf wetness (standard) mount (LWS-L) \n \n \n \n============================================================================== \n12/20/2019: Station Maintenance:                                        [1200] \n \n            - replaced faulty (standard) leaf wetness (LWS-L) \n \n \n07/24/2019: Logger / Station Maintenance:                               [1255] \n \n            - replaced logger (CR1000 -> CR1000) \n            - added PakBus modem \n            - loaded logger program: bnz-bbcb \n \n \n \n============================================================================== \n08/22/2018: Station Maintenance:                                        [1110] \n \n            - annual station / site maintenance  \n \n \n06/25/2018: Station Maintenance:                                        [1325] \n \n            - general maintenance / site cleanup \n \n \n05/26/2018: Station Maintenance:                                        [1440] \n \n            - general maintenance / cleanup, including: \n                - check/test tipping-bucket rain gauge  \n \n \n \n============================================================================== \n08/10/2017: Station Maintenance:                                        [0001] \n \n            - loaded logger program \"bnz-bbcb\" \n \n \n07/17/2017: Station Maintenance:                                        [1305] \n \n            - annual maintenance \n            - replaced air temp/relh sensor (HC2S3 -> HMP155) \n              - sensor now connected to \"continuous\" power \n \n \n07/01/2016: Station Maintenance:                                        [1120] \n \n            - annual maintenance and weed removal \n            - installed additional solar panel \n \n \n \n============================================================================== \n07/20/2015: Station Maintenance:                                        [1233] \n \n            - Replaced TEMP/RH sensor with new HC2S3 \n \n \n07/15/2015: Station Modernization:                                      [1300] \n \n            - Station upgraded with new logger and serveral new sensors. \n \n            - loaded logger program \"bnz-bbbb\" \n \n            - Due to upgrade, station was offline for the following: \n  \n                 07/15/2015 (d=196) 1305 - 07/15/2015 (d=196) 1415 \n \n            - the \"live\" data updates were able to resume at: \n \n                 07/16/2015 (d=197) 1330 \n \n \n03/01/2015: Station Maintenance:                                        [0003] \n \n            - loaded logger program \"mawn_aacf\" (hourly collection cycle) \n \n \n \n============================================================================== \n12/09/2014: Station Maintenance:                                        [0006] \n \n            - Loaded Logger Program \"mawn_aacw\" (3-hour collection cycle) \n \n \n09/05/2014: Station Maintenance:                                        [1830] \n \n            - Replaced pyranometer (solar radiation sensor) \n \n \n06/27/2014: Station Maintenance:                                        [1530] \n \n            - routine annual maintenance \n \n \n02/26/2014: Station Maintenance:                                        [1204] \n \n            - Moved data-collection to new LoggerNet server \n            - Loaded Logger program: AACF (hourly cycle) \n \n \n \n============================================================================== \n11/30/2013:  Station Maintenance:                                       [1215] \n \n             - Replaced Logger battery \n \n \n11/26/2013:  Station Maintenance:                                       [0001] \n \n             - Loaded Logger Program \"AACW\" (3-hour collection cycle) \n \n    \n08/14/2013:  Station Maintenance:                                       [1900] \n \n             - Replaced anemometer (wind speed) \n \n \n01/14/2013:  Station Maintenance:                                       [1445] \n \n             - Reactivated \"live\" updates \n \n \n01/11/2013:  Station Maintenance:                                       [1200] \n \n             - Replaced SC932 Communication Interface Module \n             - Added second battery for back-up power \n \n \n01/07/2013:  Communication Troubles:                                    [1300] \n  \n             - Although battery was replaced, communication troubles  \n               continue.   \n \n \n01/06/2013:  Station Maintenance:                                       [1612] \n \n             - Replaced Battery \n             - Due to recent battery issues, several periods of data  \n               were lost or removed. \n \n \n \n============================================================================== \n06/03/2012:  Station Maintenance:                                       [0850] \n \n             - Replaced Modem \n \n \n03/03/2012:  Station Maintenance:                                       [0001] \n \n             - Loaded MAWN Program - AACF (hourly collection cycle) \n \n \n \n============================================================================== \n12/25/2011:  Station Maintenance:                                       [1340] \n \n             - Battery replacement \n \n \n \n11/23/2011:  Station Maintenance:                                       [0009] \n \n             - Loaded MAWN Program - AACW (three-hour collection cycle) \n \n \n \n03/02/2011:  Station Maintenance:                                       [0004] \n \n             - Loaded MAWN Program - AACF (hourly collection cycle) \n \n \n \n01/30/2011:  Station Maintenance:                                       [1450] \n \n             - Battery Replaced \n \n \n \n \n \n============================================================================== \n11/18/2010:  Station Maintenance:                                       [0001] \n \n             - Loaded MAWN Program - AACW (3-hour collection cycle) \n \n \n \n05/21/2010:  Station Maintenance:                                       [1910] \n \n             - Replaced battery \n \n \n \n03/13/2010:  Station Maintenance: \n \n             - Loaded MAWN Program - AACF (hourly collection cycle)     [0002] \n \n \n \n \n \n============================================================================== \n \n11/24/2009:  Station Maintenance:                                       [1100] \n \n             - Battery was replaced. \n \n \n \n11/20/2009:  Station Maintenance: \n \n             - Loaded MAWN Program - AACW (3-hour collection cycle)     [0902] \n \n \n \n03/01/2009:  Station Maintenance: \n \n             - Loaded MAWN Program - AACF (hourly power cycle)          [0005] \n \n \n \n \n============================================================================== \n11/23/2008:  Station Maintenance: \n \n             - Loaded MAWN Program - AACW (3-hour power cycle)          [0007] \n \n \n \n03/02/2008:  Station Maintenance (jb): \n \n             - Loaded MAWN Program:  MAWN_AACF  (hourly power cycle)    [0005] \n \n \n \n=============================================================================== \n \n11/12/2007:  Station Maintenance (jb): \n \n             - Loaded MAWN Program:  MAWN_AACW   (3-hr power cycle) \n \n \n \n \n05/22/2007:  Station Maintenance (bn): \n \n             - Communication converted to broadband cell-modem: \n                   - Broadband cell-ip modem installed \n                   - Datalogger progam \"mawn_aacs\" loaded and compiled. \n                   - Battery voltage now reported every hour. \n                   - Data collection configured to upload every 30 minutes. \n \n             - General station maintenance and system checks. \n                   - Soil Temp 1 sensor was replaced. \n                   - Soil Temp 0 was reburied. \n \n                   - Work was done approx: 15:30 - 16:30 (Day=142) \n \n \n \n \n \n=========================================================================== \n10/11/2005:  Quality Control (jtb): \n \n             - Faulty Air Temperature and Relative Humidity (see note \n               from 10/05/2005 below) was removed from the MAWN database. \n               Air Temp/RH during the following time period was marked \n               as \"missing\": \n \n                  From:   09/27/2005 (Day=270) 14:10 \n                    To:   10/05/2005 (Day=278) 11:40 \n \n \n \n10/05/2005:  Station Maintenance (sm): \n \n             - Temp/RH Sensor (HMP45C) was disconnected from radiation \n               shield leading to faulty readings.   The sensor was  \n               reinstalled properly.   \n \n             - Checked all sensors. \n \n             - Routine maintenance and cleaning. \n \n \n \n============================================================================== \n \n07/17/2004:  Station Maintenance: (jal) \n \n             - Regular system maintenance and instrucment check. \n \n             - No new sensors installed. \n \n \n \n \n \n============================================================================== \n \n04/08/2002:  Daylight Savings Time Adjustment. \n \n             - Daylight Savings Time Started on Day=97, Time=200. \n \n             - Time of Obs were modified by one hour (forward)  \n               from Day=97, Time=200 through Day=97, Time=405. \n \n \n \n11/09/2001:  Recent Phone Line Troubles Corrected: \n \n             - Recent troubles allowed data buffer to fill and \n               some data was lost.  Data is missing between the \n               following dates: \n \n                  Day: 288, Time: 510  (Oct 15, 5:10am) \n                  Day: 295, Time: 1830 (Oct 22, 6:30pm) \n \n \n \n10/29/2001:  Daylight Savings Time Adjustment. \n \n             - Daylight Savings Time Ended on Day=301, Time=200. \n \n             - Time of Obs were modified by one hour (subtracted) \n               from Day=301, Time=200 through Day=313, Time=1535. \n \n \n \n09/06/2001:  Phone Line Activated and Data Collection Started: \n \n                Phone Number:  (see setup notes) \n \n \n             Archived data set should be setup to ensure that \n             the first day of record is complete.  To do so,  \n             use the following as the start of the the data  \n             archive: \n \n                24 hour data:  24:00, Day=231 (08/19/2001) \n                60 min data:  01:00, Day=231 (08/19/2001) \n                05 min data:  00:05, Day=231 (08/19/2001) \n \n \n \n08/??/2001:  Datalogger Program (MAWN1B) Activated: \n            \n                Data Logger Start Times: \n \n                   24 hour data: 24:00, Day=230 (08/18/2001) \n                   60 min data:  20:00, Day=230 (08/18/2001) \n                   05 min data:  19:55, Day=230 (08/18/2001) \n \n \n \n08/??/2001:  Station Installed: \n \n \n \n============================================================================== \n"
+}
