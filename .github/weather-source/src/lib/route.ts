@@ -13,7 +13,7 @@ export function localHref(url: string): string {
  }
  if (['www.agweather.geo.msu.edu','agweather.geo.msu.edu'].includes(u.hostname)) {
   if (['/','/index.html'].includes(u.pathname)) return '/agricultural-weather/';
-  if (['/current/','/forecasts/'].includes(u.pathname)) return '/agricultural-weather'+u.pathname;
+  if (['/current/','/forecasts/','/info/'].includes(u.pathname)) return '/agricultural-weather'+u.pathname;
  }
  if (u.hostname === 'climate.geo.msu.edu') {
   if (['/','/index.html'].includes(u.pathname)) return '/climate/';

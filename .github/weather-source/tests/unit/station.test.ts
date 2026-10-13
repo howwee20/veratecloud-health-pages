@@ -1,5 +1,10 @@
 import { describe, expect, it } from 'vitest';
-import { daily, hourly, type Cell, type HourlyRow } from '../../src/lib/data';
+import { type Cell, type HourlyRow } from '../../src/lib/data';
+import hourlyFixture from '../fixtures/oct12/bnz-hourly.json';
+import dailyFixture from '../fixtures/oct12/bnz-daily.json';
+// Fixed October 12 edge cases; fresh release data is verified by Python and E2E integration checks.
+const hourly = hourlyFixture as unknown as typeof import('../../src/lib/data').hourly;
+const daily = dailyFixture as unknown as typeof import('../../src/lib/data').daily;
 import { duration, emptyRuns, hasAnyValue, hourlyLabel, latestWithValues, minutesBefore, seriesOf } from '../../src/lib/station';
 
 const value = (raw: string): Cell => ({ raw, value: Number(raw), missing: false });

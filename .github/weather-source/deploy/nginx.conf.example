@@ -1,0 +1,193 @@
+# nginx example for the Michigan Weather Continuity prototype (static build in dist/).
+#
+# EXAMPLE ONLY. UNTESTED. This file has never been loaded by nginx (not even
+# "nginx -t") and has never served a request. Treat every directive as a
+# starting point for review, not as a working configuration.
+#
+#   * Header values mirror deploy/security-headers.json exactly; that file is
+#     the single source. tests/unit/deploy-examples.test.ts fails if they drift.
+#   * Final headers need review by MSU IT security before any production use.
+#   * DNS, routing and hosting changes for the legacy host names need
+#     institutional approval. Nothing here should be applied to
+#     mawn.geo.msu.edu, www.agweather.geo.msu.edu or climate.geo.msu.edu
+#     without it.
+#   * Host names, certificate paths and the document root are placeholders.
+#
+# These blocks belong inside the http { } context (for example a file under
+# conf.d/). mime.types is assumed to be included there already.
+
+# ---------------------------------------------------------------------------
+# Cache lifetime by path. Keeping this in a map lets every add_header stay at
+# server level: an add_header inside a location would silently drop all the
+# inherited security headers for that location.
+# ---------------------------------------------------------------------------
+map $uri $mwc_cache_control {
+    default        "public, max-age=300";                    # HTML, data files, downloads: short
+    ~^/assets/     "public, max-age=31536000, immutable";    # fingerprinted by the build: long
+}
+
+# ---------------------------------------------------------------------------
+# EXAMPLE: legacy query-string URLs -> new paths.
+#
+# Static files cannot do this by themselves. "/station.asp?id=bnz" is a request
+# for the path /station.asp; the query string is ignored by a plain file
+# server. Mapping it needs a server-side rule such as the maps below.
+#
+# Only the rows of deploy/legacy-url-map.csv whose prototype_status is
+# "rebuilt" are shown. That CSV (written by scripts/build_data.py) is the
+# source of the full mapping; generate these maps from it, do not edit them by
+# hand. Rows marked "template-only" or "listed-only" have NO page in this
+# prototype and must not be redirected to a path that does not exist.
+# ---------------------------------------------------------------------------
+
+# https://mawn.geo.msu.edu/station.asp?id=bnz  ->  /weather-network/stations/bnz/
+map $arg_id $mwc_station_path {
+    default    "";
+    bnz        /weather-network/stations/bnz/;
+    swm        /weather-network/stations/swm/;
+}
+
+# https://mawn.geo.msu.edu/report.asp?fileid=bnzh  ->  /weather-network/stations/bnz/hourly/
+map $arg_fileid $mwc_report_path {
+    default    "";
+    bnzh       /weather-network/stations/bnz/hourly/;
+    bnzd       /weather-network/stations/bnz/daily/;
+    bnzm       /weather-network/stations/bnz/maintenance/;
+}
+
+# ---------------------------------------------------------------------------
+# Plain HTTP: redirect only. No Strict-Transport-Security here; HSTS is sent
+# on HTTPS responses only.
+# ---------------------------------------------------------------------------
+server {
+    listen 80;
+    listen [::]:80;
+    server_name weather-continuity.example.edu;    # placeholder
+    return 301 https://$host$request_uri;
+}
+
+# ---------------------------------------------------------------------------
+# HTTPS: the static site.
+# ---------------------------------------------------------------------------
+server {
+    listen 443 ssl;
+    listen [::]:443 ssl;
+    server_name weather-continuity.example.edu;    # placeholder
+
+    ssl_certificate     /etc/ssl/example/fullchain.pem;    # placeholder
+    ssl_certificate_key /etc/ssl/example/privkey.pem;      # placeholder
+
+    root /var/www/weather-continuity/dist;                 # placeholder: the built dist/ directory
+    index index.html;
+    charset utf-8;
+    charset_types text/plain text/css text/csv application/json text/javascript application/javascript image/svg+xml;
+    server_tokens off;
+
+    # --- Response headers: deploy/security-headers.json, "all" ---------------
+    # "always" also adds them to error responses such as the 404 page.
+    add_header Content-Security-Policy "default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action https://mawn.geo.msu.edu; frame-ancestors 'none'" always;
+    add_header X-Content-Type-Options "nosniff" always;
+    add_header Referrer-Policy "no-referrer" always;
+    add_header Permissions-Policy "camera=(), geolocation=(), microphone=(), payment=(), usb=()" always;
+    add_header Cross-Origin-Opener-Policy "same-origin" always;
+    add_header X-Frame-Options "DENY" always;
+
+    # --- deploy/security-headers.json, "httpsOnly": this server block is HTTPS only
+    add_header Strict-Transport-Security "max-age=31536000" always;
+
+    # --- Caching: long for /assets/, short for HTML and everything else -----
+    add_header Cache-Control $mwc_cache_control;
+
+    error_page 404 /404.html;
+
+    # Every page is a directory with an index.html. nginx answers a directory
+    # request that lacks the trailing slash with a 301 to the slash form.
+    location / {
+        try_files $uri $uri/ =404;
+    }
+
+    # Raw logger files have no file extension (for example /rawdata/3hr/benzonia).
+    # They must be served byte for byte as text/plain. default_type applies only
+    # to names that mime.types does not know, so index.html and index.json in
+    # the same directories keep their own types.
+    location /rawdata/ {
+        default_type text/plain;
+        try_files $uri $uri/ =404;
+
+        # Legacy Apache listing sort links (/rawdata/3hr/?C=N;O=D) go to the listing itself.
+        if ($args ~ "^C=[NMSD];O=[AD]$") {
+            return 301 $uri;
+        }
+    }
+
+    location /downloads/ {
+        types {
+            text/csv    csv;
+            text/plain  txt;
+            application/json json;
+        }
+        default_type text/plain;
+        try_files $uri =404;
+    }
+
+    # --- EXAMPLE: legacy query-string URLs ----------------------------------
+    # These two paths only ever existed on mawn.geo.msu.edu. They are answered
+    # here so that the mapping can be tried on a test host. Use 302 while
+    # testing: browsers cache a 301 for a long time.
+    location = /station.asp {
+        # ?id=bnz&rt=24 is the legacy "custom report" form, which this static
+        # prototype does not provide. ($arg_rt can be "0", which a bare
+        # "if ($arg_rt)" would treat as false, hence the explicit comparison.)
+        if ($arg_rt != "") {
+            return 404;
+        }
+        if ($mwc_station_path != "") {
+            return 301 $mwc_station_path;
+        }
+        return 404;    # a station that is listed but has no rebuilt page
+    }
+
+    location = /report.asp {
+        if ($mwc_report_path != "") {
+            return 301 $mwc_report_path;
+        }
+        return 404;
+    }
+}
+
+# ---------------------------------------------------------------------------
+# EXAMPLE, commented out on purpose: answering on the legacy host names.
+#
+# The three legacy sites share path names ("/" and "/index.html" mean different
+# things on each host), so a real cut-over needs one server block per legacy
+# host. That requires control of the legacy DNS names and certificates, which
+# is an institutional decision and is NOT implied by this prototype.
+#
+# Raw data paths are different from page URLs: /rawdata/... may be read by
+# scripts that do not follow redirects, so those paths should keep answering
+# on the original host name and path rather than redirecting.
+#
+# server {
+#     listen 443 ssl;
+#     server_name mawn.geo.msu.edu;                  # requires institutional approval
+#     # (same headers as above)
+#     location = /            { return 301 https://weather-continuity.example.edu/weather-network/; }
+#     location = /station.asp { ... as above, with the new host name in the target ... }
+#     location = /report.asp  { ... as above ... }
+#     location /rawdata/      { ... serve the preserved files here, same path, no redirect ... }
+# }
+# server {
+#     listen 443 ssl;
+#     server_name www.agweather.geo.msu.edu agweather.geo.msu.edu;    # requires institutional approval
+#     location = /            { return 301 https://weather-continuity.example.edu/agricultural-weather/; }
+#     location = /index.html  { return 301 https://weather-continuity.example.edu/agricultural-weather/; }
+#     location = /current/    { return 301 https://weather-continuity.example.edu/agricultural-weather/current/; }
+#     location = /forecasts/  { return 301 https://weather-continuity.example.edu/agricultural-weather/forecasts/; }
+# }
+# server {
+#     listen 443 ssl;
+#     server_name climate.geo.msu.edu;               # requires institutional approval
+#     location = /                  { return 301 https://weather-continuity.example.edu/climate/; }
+#     location = /index.html        { return 301 https://weather-continuity.example.edu/climate/; }
+#     location = /climate_maps.html { return 301 https://weather-continuity.example.edu/climate/maps/; }
+# }

@@ -1,0 +1,101 @@
+# Apache 2.4 example for the Michigan Weather Continuity prototype.
+# To try it: copy to ".htaccess" in the directory that holds the built site (dist/).
+#
+# EXAMPLE ONLY. It has not been deployed or tested on real hosting. See
+# deploy/README.md for the limited local check that was made and for what
+# was not checked.
+#
+#   * Header values mirror deploy/security-headers.json exactly; that file is
+#     the single source. tests/unit/deploy-examples.test.ts fails if they drift.
+#   * Final headers need review by MSU IT security before any production use.
+#   * DNS, routing and hosting changes for the legacy host names need
+#     institutional approval.
+#
+# Needs mod_headers, mod_rewrite, mod_mime and mod_dir, and
+# "AllowOverride FileInfo Indexes" (or All) for this directory. Where the
+# server configuration can be edited, put these directives in the
+# <VirtualHost>/<Directory> block instead and leave AllowOverride off.
+
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+# Directory listings should stay off. Uncomment where "AllowOverride Options" is
+# granted (the line causes a 500 error where it is not), or set it in the server
+# configuration:
+# Options -Indexes
+AddDefaultCharset utf-8
+AddType text/csv .csv
+AddCharset utf-8 .csv .txt .json .css .js .svg
+
+# --- Response headers: deploy/security-headers.json, "all" -------------------
+# "always" also adds them to error responses such as the 404 page.
+<IfModule mod_headers.c>
+  Header always set Content-Security-Policy "default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action https://mawn.geo.msu.edu; frame-ancestors 'none'"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "no-referrer"
+  Header always set Permissions-Policy "camera=(), geolocation=(), microphone=(), payment=(), usb=()"
+  Header always set Cross-Origin-Opener-Policy "same-origin"
+  Header always set X-Frame-Options "DENY"
+
+  # --- deploy/security-headers.json, "httpsOnly": sent on HTTPS responses only
+  Header always set Strict-Transport-Security "max-age=31536000" "expr=%{HTTPS} == 'on'"
+
+  # --- Caching: long for /assets/ (fingerprinted by the build), short for HTML and everything else
+  <If "%{REQUEST_URI} =~ m#^/assets/#">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </If>
+  <Else>
+    Header set Cache-Control "public, max-age=300"
+  </Else>
+</IfModule>
+
+# --- Raw logger files -------------------------------------------------------
+# Files under /rawdata/ have no file extension (for example /rawdata/3hr/benzonia)
+# and must be served byte for byte as text/plain. The pattern matches only a
+# last path segment without a dot, so index.html and index.json keep their types.
+<If "%{REQUEST_URI} =~ m#^/rawdata/(.+/)?[^./]+$#">
+  ForceType "text/plain; charset=utf-8"
+</If>
+
+# --- EXAMPLE: legacy query-string URLs -> new paths ---------------------------
+# Static files cannot do this by themselves. "/station.asp?id=bnz" is a request
+# for the path /station.asp; the query string is ignored by a plain file server.
+# Mapping it needs a server-side rule such as mod_rewrite below.
+#
+# Only rows of deploy/legacy-url-map.csv whose prototype_status is "rebuilt" are
+# shown. That CSV (written by scripts/build_data.py) is the source of the full
+# mapping; generate rules from it rather than editing them by hand. Rows marked
+# "template-only" or "listed-only" have NO page in this prototype and must not
+# be redirected to a path that does not exist.
+#
+# These two paths only ever existed on mawn.geo.msu.edu. Use R=302 while
+# testing: browsers cache a 301 for a long time.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # https://mawn.geo.msu.edu/station.asp?id=bnz  ->  /weather-network/stations/bnz/
+  # The pattern is anchored, so ?id=bnz&rt=24 (the legacy custom-report form,
+  # which this static prototype does not provide) is not redirected.
+  RewriteCond %{QUERY_STRING} ^id=(bnz|swm)$
+  RewriteRule ^station\.asp$ /weather-network/stations/%1/ [R=301,L,QSD]
+
+  # https://mawn.geo.msu.edu/report.asp?fileid=bnzh  ->  /weather-network/stations/bnz/hourly/
+  RewriteCond %{QUERY_STRING} ^fileid=bnzh$
+  RewriteRule ^report\.asp$ /weather-network/stations/bnz/hourly/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} ^fileid=bnzd$
+  RewriteRule ^report\.asp$ /weather-network/stations/bnz/daily/ [R=301,L,QSD]
+  RewriteCond %{QUERY_STRING} ^fileid=bnzm$
+  RewriteRule ^report\.asp$ /weather-network/stations/bnz/maintenance/ [R=301,L,QSD]
+
+  # Legacy Apache listing sort links (/rawdata/3hr/?C=N;O=D) go to the listing itself.
+  RewriteCond %{QUERY_STRING} ^C=[NMSD];O=[AD]$
+  RewriteRule ^(rawdata/(?:[^/]+/)?)$ /$1 [R=301,L,QSD]
+</IfModule>
+
+# The three legacy sites share path names ("/" and "/index.html" mean different
+# things on each host), so a real cut-over needs host-specific rules, for example
+#   RewriteCond %{HTTP_HOST} ^climate\.geo\.msu\.edu$ [NC]
+#   RewriteRule ^climate_maps\.html$ https://weather-continuity.example.edu/climate/maps/ [R=301,L]
+# That requires control of the legacy DNS names, which is an institutional
+# decision and is NOT implied by this prototype. Raw data paths (/rawdata/...)
+# may be read by scripts that do not follow redirects; they should keep
+# answering on their original host name and path.

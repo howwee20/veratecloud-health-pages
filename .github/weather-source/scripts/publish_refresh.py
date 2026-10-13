@@ -17,6 +17,7 @@ for sid in ['bnz','swm']:
   assert d['rows'] and d['columns'],f'Empty {sid} {kind}'
   assert all(set(r['cells'])=={c['key'] for c in d['columns']} for r in d['rows']), 'Column mismatch'
 run('python','-I','-m','pytest','tests/python','-q')
+run('npm','run','test:unit')
 run('npm','run','build')
 run('node','scripts/qa/check-links.mjs')
 for p in (ROOT/'dist').rglob('*'):

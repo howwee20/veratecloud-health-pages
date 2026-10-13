@@ -1,13 +1,17 @@
 // Re-derives displayed values straight from the captured HTML with a plain
 // regular expression (no Python, no HTML parser) and compares them with the
-// pipeline's JSON and the published CSV downloads.
+// frozen October 12 regression fixtures. Current release JSON and CSVs are independently
+// checked against the active source pack by tests/python/test_parsers.py.
 import { createHash } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { describe, expect, it } from 'vitest';
 
 const ROOT = fileURLToPath(new URL('../../', import.meta.url));
-const read = (relative: string) => readFileSync(`${ROOT}${relative}`);
+const read = (relative: string) => {
+ const fixture = relative.startsWith('data/normalized/') || relative.startsWith('public/downloads/') || relative === 'public/rawdata/3hr/benzonia';
+ return readFileSync(`${ROOT}${fixture ? 'tests/fixtures/oct12/' + relative.split('/').pop() : relative}`);
+};
 const PACK = 'data/source-snapshots/weather-source-pack/';
 const MARKERS = ['--', '---', 'NA'];
 const ZERO = /^-?0+(\.0+)?$/;

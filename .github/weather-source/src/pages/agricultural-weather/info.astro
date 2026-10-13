@@ -1,0 +1,10 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Prose from '../../components/Prose.astro';
+import {agweather} from '../../lib/data';
+const p=agweather.home;
+---
+<BaseLayout title="Information" section="agweather" source={p.source.url}>
+<h1 class="ag-page-heading">Information</h1><hr class="green-rule"/>
+<div class="ag-home-about"><div class="ag-support"><Prose segments={p.support}/></div><div class="ag-contact">{p.contactLines.map(l=><div>{l}</div>)}</div></div>
+</BaseLayout>
