@@ -1,0 +1,932 @@
+
+
+
+<html>
+<head>
+<title>Michigan Automated Weather Network</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+<link rel="SHORTCUT ICON" href="./mawnicon.ico">
+
+<script language="JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+   if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" border="2" height="984" bgcolor="#ffffff">
+   <tr>
+      <td rowspan="2" width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" height="546">
+            <tr>
+               <td width="125" height="546">
+                  <img src="/images/MAWNlinksBar.gif" width="125" height="546" usemap="#NavMap" border="0">
+		     <map name="NavMap">
+                        <area shape="rect" coords="0,7,125,35"   href="http://www.msu.edu" alt=MSU Home">
+                        <area shape="rect" coords="0,49,125,100" href="https://mawn.geo.msu.edu" alt="MAWN Home">
+                        <area shape="rect" coords="0,122,125,136" href="http://www.enviro-weather.msu.edu" alt="Enviro-Weather">
+                        <area shape="rect" coords="0,158,125,190" href="http://www.agweather.geo.msu.edu" alt="MSU AgWeather">
+                        <area shape="rect" coords="0,212,125,262" href="http://climate.geo.msu.edu" alt="MSU Climatologist's Office">
+                        <area shape="rect" coords="0,284,125,318" href="http://www.geo.msu.edu" alt="MSU Department of Geography">
+                        <area shape="rect" coords="0,361,125,399" href="http://www.greeen.msu.edu" alt="Project GREEEN">
+                        <area shape="rect" coords="0,414,125,458" href="http://www.msue.msu.edu" alt="MSU Extension">
+                        <area shape="rect" coords="0,474,125,543" href="http://www.maes.msu.edu" alt="MSU Ag Experiment Station">
+                     </map>
+               </td>
+            </tr>
+         </table>
+      </td>
+
+      <td height="70" width="635">
+         <a href="https://mawn.geo.msu.edu">
+         <img src="/images/MAWNheader.gif" width="476" height="70" border="0" alt="MAWN Home"></a>
+      </td>
+   </tr>
+
+   <tr>
+      <td width="635" height="914" valign="top">
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+    <tr><center>
+       <b><font color="red"><h4>State Budget Cuts Threaten This Website and Other MSUE/MAES Programs...
+       <br>Click <a href="http://anrcom.msu.edu/Budget.aspx">Here</a> For More Information...</b></font><br></b></h4>
+    </tr>
+    <tr>&nbsp<br></tr>
+  </table>
+-->
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications, including the "Custom Reports (Data-on-Demand)" tool may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              The Enviro-weather team would like to thank you for your patience and continued support.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+
+<table width="100%" height="100%" border="0" bgcolor="#ffffff">
+   <tr>
+      <td width="345" height="426" valign="top" align="left">
+
+         <p class="textlarge">
+            &nbsp;
+         </p>
+
+         <p class="textlarge">
+            &nbsp;&nbsp;&nbsp;
+            Welcome to the <b><em>Enviro-weather Automated Weather Station Network</em></b> formerly known
+            as <b>MAWN</b>.
+         </p>
+
+         <p class="textreg"> 
+            &nbsp;&nbsp;&nbsp;
+            The <b>Michigan Automated Weather Network</b>, or <b>MAWN</b>, was one of 
+            the original partners that combined to form
+            <A HREF="http://www.enviroweather.msu.edu">Enviro-weather</A>, MSU's
+            weather-based decision-making resource for pest, production and
+            resource managers. MAWN stations are now known as Enviro-weather 
+            stations. The pages linked at this site provide comprehensive, detailed data 
+            and other information from each weather station in the network.</p>
+
+         <p class="textreg">
+            &nbsp;&nbsp;&nbsp;
+            The Enviro-weather Project is supported by
+            <A HREF="http://www.greeen.msu.edu/">Project GREEEN</A>,
+            an initiative of Michigan's plant-based
+            commodities and businesses, the 
+            <A HREF="http://www.maes.msu.edu/">Michigan Agricultural Experiment Station (MAES)</A>,
+            <A HREF="http://www.msue.msu.edu/portal/">MSU Extension (MSUE)</A>, and by user donations.
+            A major emphasis of Enviro-weather is to improve the efficiency and
+            productivity of agriculture through expanding use of Integrated Crop
+            Management (ICM) strategies, many of which require highly detailed
+            weather data and information. Our objectives are to provide quality
+            data, information, and proven methodologies for expanded use of 
+            ICM and other weather-dependent management strategies in Michigan; to
+            facilitate new research using meteorological data for agricultural
+            management; and to overall reduce weather-dependent risk in
+            agricultural systems for growers and for the industry. </p>
+      </td>
+
+      <td width="290" height="426" valign="top" align="center">
+         <table width="100%" height="356" border="0">
+            <tr align="center" valign="middle">
+               <td>
+                  <img src="/images/mawnmap_web_mi.jpg" width="308" height="356" align="middle" usemap="#MawnMap" border="0">
+                     <map name="MawnMap">
+ 			<area shape="circle" coords="169,271,3" href="/station.asp?id=acp" alt="Alpine Twp / Comstock Park">                    
+			<area shape="circle" coords="161,247,3" href="/station.asp?id=aet" alt="Aetna / Fremont">                    
+                        <area shape="circle" coords="205,314,3" href="/station.asp?id=alb" alt="Albion">
+			<area shape="circle" coords="165,302,3" href="/station.asp?id=alg" alt="Allegan">
+                        <area shape="circle" coords="186,204,3" href="/station.asp?id=arl" alt="Arlene">
+                        <area shape="circle" coords="147,321,3" href="/station.asp?id=bbc" alt="Bainbridge Center / Watervliet">
+                        <area shape="circle" coords="185,270,3" href="/station.asp?id=bel" alt="Belding">
+                        <area shape="circle" coords="141,242,3" href="/station.asp?id=bna" alt="Benona / Shelby">
+			<area shape="circle" coords="155,196,3" href="/station.asp?id=bnz" alt="Benzonia">
+			<area shape="circle" coords="143,330,3" href="/station.asp?id=brs" alt="Berrien Springs">
+                        <area shape="circle" coords="158,329,3" href="/station.asp?id=cas" alt="Cassopolis (GLBRC)">
+                        <area shape="circle" coords="190,316,3" href="/station.asp?id=cer" alt="Ceresco">
+                        <area shape="circle" coords="191,330,3" href="/station.asp?id=cld" alt="Coldwater">
+                        <area shape="circle" coords="165,269,3" href="/station.asp?id=cnk" alt="Conklin / Wright">
+                        <area shape="circle" coords="186,282,3" href="/station.asp?id=clr" alt="Clarksville">
+                        <area shape="circle" coords="186,160,3" href="/station.asp?id=clx" alt="Charlevoix">
+                        <area shape="circle" coords="199,294,3" href="/station.asp?id=clt" alt="Charlotte (GLBRC)">
+			<area shape="circle" coords="253,296,3" href="/station.asp?id=cmc" alt="Commerce Twp.">
+			<area shape="circle" coords="171,336,3" href="/station.asp?id=cnt" alt="Constantine">
+                        <area shape="circle" coords="129,103,3" href="/station.asp?id=cth" alt="Chatham">
+                        <area shape="circle" coords="242,334,3" href="/station.asp?id=drf" alt="Deerfield / Blissfield">
+			<area shape="circle" coords="151,325,3" href="/station.asp?id=dow" alt="Dowagiac">
+			<area shape="circle" coords="152,241,3" href="/station.asp?id=elb" alt="Elbridge / Hart">
+			<area shape="circle" coords="172,171,3" href="/station.asp?id=eld" alt="East Leland">
+			<area shape="circle" coords="182,180,3" href="/station.asp?id=elk" alt="Elk Rapids">
+			<area shape="circle" coords="281,276,3" href="/station.asp?id=emt" alt="Emmett">
+			<area shape="circle" coords="189,257,3" href="/station.asp?id=ent" alt="Entrican">
+			<area shape="circle" coords="185,169,3" href="/station.asp?id=epr" alt="Eastport">
+			<area shape="circle" coords="119,128,3" href="/station.asp?id=esc" alt="Escanaba">
+                        <area shape="circle" coords="152,196,3" href="/station.asp?id=fev" alt="Fennville">
+			<area shape="circle" coords="253,248,3" href="/station.asp?id=fgv" alt="Fairgrove">
+                        <area shape="circle" coords="246,276,3" href="/station.asp?id=flt" alt="Flint">
+         		<area shape="circle" coords="233,247,3" href="/station.asp?id=frl" alt="Freeland">
+                        <area shape="circle" coords="161,254,3" href="/station.asp?id=frm" alt="Fremont">
+                        <area shape="circle" coords="202,172,3" href="/station.asp?id=gay" alt="Gaylord">
+                        <area shape="circle" coords="155,306,3" href="/station.asp?id=grj" alt="Grand Junction">
+                        <area shape="circle" coords="164,258,3" href="/station.asp?id=grt" alt="Grant">
+                        <area shape="circle" coords="221,288,3" href="/station.asp?id=has" alt="Haslett">
+                        <area shape="circle" coords="238,158,3" href="/station.asp?id=haw" alt="Hawks">
+			<area shape="circle" coords="226,334,3" href="/station.asp?id=hdn" alt="Hudson">
+			<area shape="circle" coords="152,315,3" href="/station.asp?id=hfd" alt="Hartford">
+                        <area shape="circle" coords="146,237,3" href="/station.asp?id=hrt" alt="Hart">
+			<area shape="circle" coords="216,291,3" href="/station.asp?id=htc" alt="East Lansing (MSUHRTC)">
+		        <area shape="circle" coords="163,283,3" href="/station.asp?id=hvl" alt="Hudsonville">
+		        <area shape="circle" coords="216,260,3" href="/station.asp?id=ith" alt="Ithaca">
+		        <area shape="circle" coords="194,191,3" href="/station.asp?id=kal" alt="Kalkaska">
+                        <area shape="circle" coords="182,306,3" href="/station.asp?id=kbs" alt="Hickory Corners (MSUKBS)">
+			<area shape="circle" coords="167,263,3" href="/station.asp?id=kct" alt="Kent City">
+			<area shape="circle" coords="151,317.3" href="/station.asp?id=klr" alt="Keeler">
+			<area shape="circle" coords="270,228,3" href="/station.asp?id=knd" alt="Kinde">
+			<area shape="circle" coords="184,175,3" href="/station.asp?id=kwd" alt="Kewadin">
+		        <area shape="circle" coords="174,309,3" href="/station.asp?id=kzo" alt="Kalamazoo (GLBRC)">
+                        <area shape="circle" coords="164,318,3" href="/station.asp?id=law" alt="Lawton">
+		        <area shape="circle" coords="146,229,3" href="/station.asp?id=ldt" alt="Ludington">
+                        <area shape="circle" coords="217,303,3" href="/station.asp?id=les" alt="Leslie (GLBRC)">
+			<area shape="circle" coords="233,239,3" href="/station.asp?id=lin" alt="Linwood">
+			<area shape="circle" coords="170,175,3" href="/station.asp?id=llu" alt="Lake Leelanau">
+                        <area shape="circle" coords="260,271,3" href="/station.asp?id=lpr" alt="Lapeer">
+			<area shape="circle" coords="192,215,3" href="/station.asp?id=mcb" alt="McBain">
+			<area shape="circle" coords="188,247,3" href="/station.asp?id=mct" alt="Mecosta">
+			<area shape="circle" coords="144,239,3" href="/station.asp?id=mea" alt="Mears">
+			<area shape="circle" coords="179,328,3" href="/station.asp?id=men" alt="Mendon">
+			<area shape="circle" coords="243,247,3" href="/station.asp?id=mgr" alt="Munger">
+			<area shape="circle" coords="175,106,3" href="/station.asp?id=mml" alt="McMillan / Newberry">
+			<area shape="circle" coords="205,246,3" href="/station.asp?id=mou" alt="Mount Pleasant (CMU)">
+                        <area shape="circle" coords="216,293,3" href="/station.asp?id=msu" alt="East Lansing (MSUHORT)">
+                        <area shape="circle" coords="199,155,3" href="/station.asp?id=ncm" alt="Petoskey (NCMC)">
+                        <area shape="circle" coords="144,246,3" href="/station.asp?id=ner" alt="New Era">
+			<area shape="circle" coords="173,166,3" href="/station.asp?id=nth" alt="Northport">
+                        <area shape="circle" coords="172,179,3" href="/station.asp?id=nwm" alt="Traverse City">
+                        <area shape="circle" coords="152,202,3" href="/station.asp?id=obl" alt="Onekama Twp / Bear Lake">
+                        <area shape="circle" coords="179,177,3" href="/station.asp?id=old" alt="Old Mission">
+                        <area shape="circle" coords="175,171,3" href="/station.asp?id=omn" alt="Omena">
+                        <area shape="circle" coords="177,182,3" href="/station.asp?id=omp" alt="Old Mission-South">
+			<area shape="circle" coords="170,312,3" href="/station.asp?id=ost" alt="Oshtemo">
+			<area shape="circle" coords="185,300,3" href="/station.asp?id=pcc" alt="Hastings (GLBRC)">
+                        <area shape="circle" coords="261,230,3" href="/station.asp?id=pig" alt="Pigeon">
+			<area shape="circle" coords="197,156,3" href="/station.asp?id=pky" alt="Petoskey">
+			<area shape="circle" coords="158,252,3" href="/station.asp?id=rfw" alt="Reeman / Fremont-West">
+                        <area shape="circle" coords="271,287,3" href="/station.asp?id=rom" alt="Romeo">
+                        <area shape="circle" coords="245,255,3" href="/station.asp?id=rvl" alt="Richville / Frankenmuth">
+                        <area shape="circle" coords="146,145,3" href="/station.asp?id=sbe" alt="Shelby-East">
+                        <area shape="circle" coords="141,325,3" href="/station.asp?id=scd" alt="Scottdale">
+			<area shape="circle" coords="278,252,3" href="/station.asp?id=sdk" alt="Sandusky">
+                        <area shape="circle" coords="147,308,3" href="/station.asp?id=shv" alt="South Haven">
+                        <area shape="circle" coords="147,308,3" href="/station.asp?id=spn" alt="Sparta-North">
+                        <area shape="circle" coords="168,269,3" href="/station.asp?id=spo" alt="Sparta">
+                        <area shape="circle" coords="168,278,3" href="/station.asp?id=stn" alt="Standale / Walker">
+                        <area shape="circle" coords="103,150,3" href="/station.asp?id=stv" alt="Stephenson">
+                        <area shape="circle" coords="144,322,4" href="/station.asp?id=swm" alt="Benton Harbor">
+                        <area shape="circle" coords="159,316,3" href="/station.asp?id=tpd" alt="Lawrence / Teapot Dome">
+			<area shape="circle" coords="277,233,3" href="/station.asp?id=ver" alt="Verona">
+			<area shape="circle" coords="146,237,3" href="/station.asp?id=wct" alt="Hart (10m tower)">
+                        <area shape="circle" coords="155,277,3" href="/station.asp?id=weo" alt="West Olive">
+                        <area shape="circle" coords="171,171,3" href="/station.asp?id=wld" alt="Leland">
+                        <area shape="circle" coords="180,182,3" href="/station.asp?id=wmt" alt="Williamsburg (20m tower)">
+                        <area shape="circle" coords="172,314,3" href="/station.asp?id=wmu" alt="Kalamazoo (WMU)">
+			<area shape="rect"   coords="61,297,131,321" href="/mawn-sw.html"  alt="Click to Zoom to SouthWest Region">
+			<area shape="rect"   coords="71,173,141,189" href="/mawn-nw.html"  alt="Click to Zoom to NorthWest Region">
+                     </map>
+	          </img>
+               </td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0">
+            <tr align="center" valign="top">
+               <td class="textsmall">
+                  <blockquote>
+                     <p class="textsmall">
+                        For station-specific weather data and related 
+                        information, select from the available stations 
+                        (highlighted in yellow) displayed on the map
+                        above.  You may also select from the station 
+                        table listed below.
+                     </p>
+                  </blockquote>
+               </td>
+            </tr>
+         </table>
+      </td>
+   </tr>
+
+   <tr>
+      <td width="345" align="center" valign="top">
+        <table width="100%" align="center" valign="top" border="0">
+          <tr>
+	    <td width="100%" align="center" valign="top">
+
+         <table width="92%" border="2">
+            <tr>
+               <td class="tableheader" colspan="2" align="left">Recent Conditions: East Lansing, MI</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">Date/Time:</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp; Mon, 10/12/26 - 07:30 PM</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">&nbsp;</td>
+               <td width="60%" class="wxtabledata" >&nbsp;</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">Air Temp:</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  75.3 (F)</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">Dew Point:</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  61.4 (F)</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">Rel. Humidity:</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  62.0 (%)</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">Wind Speed:</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;   2.9 (mph)</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">Wind Dir:</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;    SW</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">Solar Radiation:</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;   4.1 (ly)</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">&nbsp;</td>
+               <td width="60%" class="wxtabledata" >&nbsp;</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">2" Bare Soil Temp:</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  61.4 (F)</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">4" Bare Soil Temp:</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  60.8 (F)</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">4" Soil Moisture:</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp; 0.211 (in^3/in^3)</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">10" Soil Moisture:</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp; 0.171 (in^3/in^3)</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">&nbsp;</td>
+               <td width="60%" class="wxtabledata" >&nbsp;</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">Leaf Wetness:</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp; DRY</td>
+            </tr>
+            <tr>
+               <td width="40%" class="wxtablelabel">Precipitation (since midnight):</td>
+               <td width="60%" class="wxtabledata">&nbsp;&nbsp;&nbsp;  0.00 (in)</td>
+            </tr>
+         </table>
+
+
+	    </td>
+	  </tr>
+
+	  <tr>
+	    <td class="stntabledata" width="50%">
+                  &nbsp;
+	    </td>
+	  </tr>
+
+	  <tr>
+	    <td width="100%" align="center" valign="top">
+	      <table width="92%" border="2">
+		<tr>
+		  <td class="tableheader" colspan="1" align="center">Michgan Tower (10m) Stations</td>
+		</tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=mht">East Lansing (MSUHORT) [10m]</a>
+		  </td>
+                </tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=gjn">Grand Junction [10m]</a>
+		  </td>
+                </tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=wct">Hart (WCMREC) [10m]</a>
+		  </td>
+                </tr>
+	      </table>
+	     </td>
+	  </tr>
+
+	  <tr>
+	    <td class="stntabledata" width="50%">
+                  &nbsp;
+	    </td>
+	  </tr>
+
+	  <tr>
+	    <td width="100%" align="center" valign="top">
+	      <table width="92%" border="2">
+		<tr>
+		  <td class="tableheader" colspan="1" align="center">Michgan Tower (20m) Stations</td>
+		</tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=spt">Sparta [20m]</a>
+		  </td>
+                </tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=wmt">Williamsburg [20m]</a>
+		  </td>
+                </tr>
+	      </table>
+	     </td>
+	  </tr>	  
+	  
+	  <tr>
+	    <td class="stntabledata" width="50%">
+                  &nbsp;
+	    </td>
+	  </tr>
+	  
+	  <tr>
+	    <td width="100%" align="center" valign="top">
+	      <table width="92%" border="2">
+		<tr>
+		  <td class="tableheader" colspan="1" align="center">Retired Stations</td>
+		</tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=alt">Arlington (06/09/2023)</a>
+		  </td>
+                </tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=bat">Bath (11/05/2014)</a>
+		  </td>
+                </tr>
+                <tr>
+                  <td class="stntabledata" width="100%">
+                      <a href="/station.asp?id=blk">Bear Lake (09/01/2020)</a>
+                  </td>
+	        </tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=lux">Casco / Luxemburg (08/24/2023)</a>
+		  </td>
+                </tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=ehb">Egg Harbor (08/18/2023)</a>
+		  </td>
+                </tr>
+                <tr>
+                  <td class="stntabledata" width="100%">
+                      <a href="/station.asp?id=gde">Goodells (10/28/2006)</a>
+                  </td>
+                </tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=hck">Hancock (09/19/2023)</a>
+		  </td>
+                </tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=kws">Kewaunee / Stangelville (08/24/2023)</a>
+		  </td>
+                </tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=lct">Lancaster (09/19/2023)</a>
+		  </td>
+                </tr>
+                <tr>
+                  <td class="stntabledata" width="100%">
+                      <a href="/station.asp?id=mar">Marshfield (09/19/2023)</a>
+                  </td>
+		</tr>
+                <tr>
+                  <td class="stntabledata" width="100%">
+                      <a href="/station.asp?id=nsw">Nasewaupee / S. Door County (08/17/2023)</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="stntabledata" width="50%">
+                     <a href="/station.asp?id=ptr">Petersburg / Dundee (02/15/2017)</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="stntabledata" width="100%">
+                      <a href="/station.asp?id=rhn">Rhinelander (09/19/2023)</a>
+                  </td>
+		</tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=sga">Saginaw (11/26/2008)</a>
+		  </td>
+                </tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=srb">Sister Bay / Liberty Grove (08/18/2023)</a>
+		  </td>
+                </tr>
+                <tr>
+                  <td class="stntabledata" width="100%">
+                      <a href="/station.asp?id=pnr">Spooner (09/19/2023)</a>
+                  </td>
+		</tr>
+                <tr>
+                  <td class="stntabledata" width="100%">
+                      <a href="/station.asp?id=stb">Sturgeon Bay (08/16/2023)</a>
+                  </td>
+		</tr>
+                <tr>
+                  <td class="stntabledata" width="100%">
+                      <a href="/station.asp?id=sdr">Sturgeon Bay / Southern Door (08/17/2023)</a>
+                  </td>
+		</tr>
+		<tr>
+		  <td class="stntabledata" width="100%">
+		      <a href="/station.asp?id=wjp">West Jacksonport (08/18/2023)</a>
+		  </td>
+                </tr>
+	      </table>
+	     </td>
+	  </tr>
+
+	</table>
+      </td>
+
+      <td width="290" align="center" valign="top">
+         <table width="95%" border="2">
+       
+            <tr>
+               <td class="tableheader" colspan="2" align="center">Michigan Stations</td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=aet">Aetna / Fremont</a>
+               </td>            
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=alb">Albion</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=alg">Allegan</a>
+               </td>            
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=acp">Alpine Twp / Comstock Park</a>
+               </td>           
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=arl">Arlene</a>
+               </td>           
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=bbc">Bainbridge Center / Watervliet</a>
+               </td>           
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=bel">Belding</a>
+               </td> 
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=bna">Benona / Shelby</a>
+               </td>                           
+            </tr>
+            <tr>    
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=swm">Benton Harbor / SWMREC</a>
+               </td> 
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=bnz">Benzonia</a>
+               </td>                                 
+            </tr>
+            <tr>       
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=brs">Berrien Springs</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=cas">Cassopolis (GLBRC)</a>
+               </td>                           
+            </tr>
+            <tr>                
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=cer">Ceresco</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=clx">Charlevoix</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=clt">Charlotte (GLBRC)</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=cth">Chatham</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=clr">Clarksville</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=cld">Coldwater</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=cmc">Commerce Twp.</a>
+               </td>
+                <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=cnk">Conklin / Wright</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=cnt">Constantine</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=drf">Deerfield / Blissfield</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=dow">Dowagiac</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=msu">East Lansing / MSUHORT</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=htc">East Lansing / MSUHTRC</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=eld">East Leland / Suttons Bay</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=epr">Eastport</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=elb">Elbridge / Hart</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=elk">Elk Rapids</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=emt">Emmett</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=ent">Entrican/Lakeview</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                 <a href="/station.asp?id=esc">Escanaba</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=fgv">Fairgrove</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=fev">Fennville</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=flt">Flint</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=frl">Freeland</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=frm">Fremont</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=gay">Gaylord</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=grj">Grand Junction</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=grt">Grant</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=hrt">Hart</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=hfd">Hartford</a>
+               </td>
+            </tr>               
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=has">Haslett</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=pcc">Hastings (GLBRC)</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=haw">Hawks</a>
+               </td>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=kbs">Hickory Corners / MSUKBS</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=hdn">Hudson</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=hvl">Hudsonville</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=ith">Ithaca</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=kzo">Kalamazoo (GLBRC)</a>
+               </td>
+            </tr>
+            <tr> 
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=wmu">Kalamazoo (WMU)</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=kal">Kalkaska</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=klr">Keeler</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=kct">Kent City</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=kwd">Kewadin</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=knd">Kinde</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=llu">Lake Leelanau</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=lpr">Lapeer</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=tpd">Lawrence / Teapot Dome</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=law">Lawton</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=wld">Leland</a>
+               </td>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=les">Leslie (GLBRC)</a>
+               </td>
+            </tr>
+            <tr>
+              <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=lin">Linwood</a>
+               </td>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=ldt">Ludington</a>
+               </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=mcb">McBain</a>
+               </td>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=mml">McMillan / Newberry</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=mea">Mears</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=mct">Mecosta</a>
+               </td>
+            </tr>
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=men">Mendon</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=mou">Mount Pleasant (CMU)</a>
+               </td>
+            </tr> 
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=mgr">Munger</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=ner">New Era</a>
+               </td>
+            </tr>
+            <tr> 
+              <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=nth">Northport</a>
+              </td>
+	      <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=old">Old Mission</a>
+	      </td>
+            </tr>  
+            <tr> 
+	      <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=omp">Old Mission-South</a>
+	      </td>
+	      <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=omn">Omena</a>
+	      </td>
+            </tr>
+            <tr>
+	      <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=obl">Onekama Twp / Bear Lake</a>
+	      </td>
+	      <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=ost">Oshtemo</a>
+	      </td>
+            </tr>
+            <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=pky">Petoskey</a>
+               </td>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=ncm">Petoskey (NCMC)</a>
+               </td>
+            </tr> 
+            <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=pig">Pigeon</a>
+               </td>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=rfw">Reeman / Fremont-West</a>
+               </td>
+	    </tr>
+	    <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=rvl">Richville / Frankenmuth</a>
+               </td>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=rom">Romeo</a>
+               </td>
+            </tr> 
+            <tr>
+ 	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=sdk">Sandusky</a>
+               </td>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=scd">Scottdale</a>
+               </td>
+            </tr>                    
+	    <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=sbe">Shelby-East</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=shv">South Haven</a>
+               </td>
+	    </tr> 
+	    <tr>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=spo">Sparta</a>
+               </td>
+ 	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=spn">Sparta-North</a>
+               </td>
+	    </tr>             	    
+	    <tr>    
+  	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=stn">Standale / Walker</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=stv">Stephenson</a>
+               </td>
+	    </tr>             
+	    <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=nwm">Traverse City / NWMHRS</a>
+               </td>
+	       <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=ver">Verona</a>
+               </td>
+	    </tr>
+	    <tr>
+               <td class="stntabledata" width="50%">
+                  <a href="/station.asp?id=weo">West Olive</a>
+               </td>
+               <td class="stntabledata" width="50%">
+                  <a>&nbsp;</a>
+               </td>
+	    </tr>
+
+         </table>
+      </td>
+   </tr>
+</table>
+
+
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

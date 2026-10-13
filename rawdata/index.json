@@ -1,0 +1,77 @@
+{
+  "note": "Snapshot of the legacy /rawdata/ listing. Not live. Times are as printed by the legacy listing.",
+  "listingRetrievedAtUtc": "2026-10-12T23:46:14.896430+00:00",
+  "source": "https://mawn.geo.msu.edu/rawdata/",
+  "entries": [
+    {
+      "name": "1wk/",
+      "type": "directory",
+      "lastModifiedAsListed": "2026-05-08 16:27",
+      "originalUrl": "https://mawn.geo.msu.edu/rawdata/1wk/",
+      "listingCaptured": false
+    },
+    {
+      "name": "3hr/",
+      "type": "directory",
+      "lastModifiedAsListed": "2026-05-08 16:28",
+      "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/",
+      "listingCaptured": true
+    },
+    {
+      "name": "3mo/",
+      "type": "directory",
+      "lastModifiedAsListed": "2026-05-08 16:28",
+      "originalUrl": "https://mawn.geo.msu.edu/rawdata/3mo/",
+      "listingCaptured": false
+    },
+    {
+      "name": "disabled/",
+      "type": "directory",
+      "lastModifiedAsListed": "2026-10-08 15:52",
+      "originalUrl": "https://mawn.geo.msu.edu/rawdata/disabled/",
+      "listingCaptured": false
+    },
+    {
+      "name": "mcemo/",
+      "type": "directory",
+      "lastModifiedAsListed": "2025-01-24 16:52",
+      "originalUrl": "https://mawn.geo.msu.edu/rawdata/mcemo/",
+      "listingCaptured": false
+    },
+    {
+      "name": "meta/",
+      "type": "directory",
+      "lastModifiedAsListed": "2026-10-08 15:43",
+      "originalUrl": "https://mawn.geo.msu.edu/rawdata/meta/",
+      "listingCaptured": false
+    },
+    {
+      "name": "mrcc/",
+      "type": "directory",
+      "lastModifiedAsListed": "2022-02-14 14:36",
+      "originalUrl": "https://mawn.geo.msu.edu/rawdata/mrcc/",
+      "listingCaptured": false
+    },
+    {
+      "name": "nrcc/",
+      "type": "directory",
+      "lastModifiedAsListed": "2022-02-14 14:36",
+      "originalUrl": "https://mawn.geo.msu.edu/rawdata/nrcc/",
+      "listingCaptured": false
+    },
+    {
+      "name": "solar_fcsts/",
+      "type": "directory",
+      "lastModifiedAsListed": "2022-02-14 14:36",
+      "originalUrl": "https://mawn.geo.msu.edu/rawdata/solar_fcsts/",
+      "listingCaptured": false
+    },
+    {
+      "name": "unl-soysim/",
+      "type": "directory",
+      "lastModifiedAsListed": "2022-02-14 14:36",
+      "originalUrl": "https://mawn.geo.msu.edu/rawdata/unl-soysim/",
+      "listingCaptured": false
+    }
+  ]
+}
