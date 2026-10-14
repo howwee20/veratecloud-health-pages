@@ -20,7 +20,7 @@ const markup=page.html.replace(/href="([^"]+)"/g,(_:string,href:string)=>`href="
 <BaseLayout title={displayTitle} section={page.section} source={page.source?.url || 'unavailable'}>
 <article class="local-product"><h1>{displayTitle}</h1>
 <p><a href={page.section==='climate'?'/climate/':'/agricultural-weather/current/'}>{page.section==='climate'?'Climate Office':'Current Weather'}</a>{page.section!=='climate'&&<> · <a href="/agricultural-weather/forecasts/">Forecast Products</a></>}</p>
-{(page.source?.url.endsWith('/maxtemp.html') || page.source?.url.endsWith('/mintemp.html')) && <p>{page.html.includes('[Image unavailable from source]') && 'Temperature map currently unavailable. '}<a href="/agricultural-weather/daily-temperatures/">MAWN daily maximum and minimum temperatures</a> are available separately by station.</p>}
+{(page.source?.url.endsWith('/maxtemp.html') || page.source?.url.endsWith('/mintemp.html')) && <p>Temperature map currently unavailable. <a href="/agricultural-weather/daily-temperatures/">MAWN daily maximum and minimum temperatures</a> are available separately by station.</p>}
 {page.unavailable ? <p>This report is currently unavailable. Other reports are available from the indexes above.</p> : <>
 {semMatch?.[1]==='maps' && <p>Precipitation data: <a href={localHref(dailySource)}>Daily precipitation table</a> · <a href={localHref(hourlySource)}>Hourly precipitation table</a>.</p>}
 {stale && <p><strong>Archived report: {issued![0]}.</strong> This is not current weather.</p>}
