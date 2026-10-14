@@ -272,7 +272,7 @@
   {
     "url": "https://mawn.geo.msu.edu/report.asp?fileid=swmd",
     "file": "data/additional-sources/swmd.html",
-    "retrievedAtUtc": "2026-10-13T15:35:15.328860+00:00",
+    "retrievedAtUtc": "2026-10-14T01:27:46.169073+00:00",
     "status": 200,
     "bytes": 29053,
     "contentType": "text/html",
@@ -281,16 +281,16 @@
   {
     "url": "https://mawn.geo.msu.edu/report.asp?fileid=swmh",
     "file": "data/additional-sources/swmh.html",
-    "retrievedAtUtc": "2026-10-13T15:35:17.402092+00:00",
+    "retrievedAtUtc": "2026-10-14T01:27:48.212911+00:00",
     "status": 200,
-    "bytes": 24371,
+    "bytes": 26686,
     "contentType": "text/html",
-    "sha256": "c104a0ff24af73fcdc5249be4064c04804f3823c4f90b0d7e879aa190cd1f8ab"
+    "sha256": "32bf8a7c4ed2cf2e306f49e16a7bbd4b362e4b0631adcdcba76755b1e074c24e"
   },
   {
     "url": "https://mawn.geo.msu.edu/report.asp?fileid=swmm",
     "file": "data/additional-sources/swmm.html",
-    "retrievedAtUtc": "2026-10-13T15:35:19.492718+00:00",
+    "retrievedAtUtc": "2026-10-14T01:27:50.254260+00:00",
     "status": 200,
     "bytes": 59233,
     "contentType": "text/html",

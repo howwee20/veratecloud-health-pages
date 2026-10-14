@@ -70,3 +70,8 @@ Verified successor URLs replace 12 dead legacy links to official weather and
 climate services. Original link labels and layout are retained.
 The source cache now retains core captures as well as expanded reports/maps so
 subsequent design-only publications can retain the most recent successful data.
+
+Core homepage captures use a separate cache from expanded weather data/maps.
+GitHub Actions includes the cached path set in its internal cache version; adding
+paths to the existing cache prevented restoration of the latest successful data.
+The expanded cache path set is retained exactly, and the core cache is separate.

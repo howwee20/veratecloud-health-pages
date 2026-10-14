@@ -4,8 +4,8 @@
     "id": "mawn-home",
     "url": "https://mawn.geo.msu.edu/",
     "file": "input/mawn/home.html",
-    "sha256": "57d730f37b09e4e44c706bd7de3d41dd2e1fbd9a91fb45a5306f9cc985400ccb",
-    "retrievedAtUtc": "2026-10-14T00:42:50.200130+00:00"
+    "sha256": "2ed4a8f9e75f3f8e94b70ebb824b839402f29a8f88a7bf566db3adc605a58b27",
+    "retrievedAtUtc": "2026-10-14T01:27:16.780602+00:00"
   },
   "counts": {
     "tower-10m": 3,

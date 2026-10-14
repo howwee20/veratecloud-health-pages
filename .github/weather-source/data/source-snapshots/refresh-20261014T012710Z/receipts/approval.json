@@ -1,0 +1,7 @@
+{
+  "approved_by": "Evan Howe",
+  "robots_override_approved_by": "Site maintainers; authorization confirmed by Evan Howe on 2026-10-13",
+  "user_agent": "MichiganWeatherContinuity-Prototype/0.1 (read-only refresh of 14 named URLs; contact: MSU Enviroweather staff)",
+  "run_started_utc": "20261014T012710Z",
+  "based_on_pack": "weather-source-pack"
+}

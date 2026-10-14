@@ -4,11 +4,11 @@
     "id": "mawn-report-swmh",
     "url": "https://mawn.geo.msu.edu/report.asp?fileid=swmh",
     "file": "data/additional-sources/swmh.html",
-    "sha256": "c104a0ff24af73fcdc5249be4064c04804f3823c4f90b0d7e879aa190cd1f8ab",
-    "retrievedAtUtc": "2026-10-13T15:35:17.402092+00:00"
+    "sha256": "32bf8a7c4ed2cf2e306f49e16a7bbd4b362e4b0631adcdcba76755b1e074c24e",
+    "retrievedAtUtc": "2026-10-14T01:27:48.212911+00:00"
   },
   "kind": "hourly",
-  "rawText": "                             HOURLY WEATHER SUMMARY \n \n              MSU Southwest Michigan Research and Extension Center \n                             Benton Harbor (SWMREC) \n \n                Air   Rel   Soil   Leaf      Wind       Solar   Total \n         Time   Temp  Hum   Temp  Wetness  Dir  Speed    Rad    Precip \nDate     (EDT)  (F)   (%)   (F)    Status       (mph)    (ly)    (in) \n=============================================================================== \n10/11/26 01:00  62.2  62.5  64.1    DRY    ESE   5.4      0.0     --  \n10/11/26 02:00  61.8  63.5  63.6    DRY     SE   7.0      0.0     --  \n10/11/26 03:00  60.4  67.4  63.3    DRY      E   4.8      0.0     --  \n10/11/26 04:00  58.9  70.9  62.9    DRY      E   2.2      0.0     --  \n10/11/26 05:00  58.0  73.8  62.5    DRY    ENE   2.9      0.0     --  \n10/11/26 06:00  57.6  75.1  62.3    DRY    ENE   2.5      0.0     --  \n10/11/26 07:00  57.8  76.7  62.0    DRY      E   2.6      0.0     --  \n10/11/26 08:00  57.3  79.2  61.9    DRY     NE   1.9      0.0     --  \n10/11/26 09:00  56.8  81.2  61.8    DRY    ENE   2.8      4.1     --  \n10/11/26 10:00  61.3  74.7  61.9    DRY      E   4.2     27.0     --  \n10/11/26 11:00  64.1  72.1  62.7    DRY      E   4.1     30.1     --  \n10/11/26 12:00  66.1  69.6  63.7    DRY    ESE   4.7     44.4     --  \n10/11/26 13:00  67.9  67.7  65.2    DRY     SE   3.7     51.7     --  \n10/11/26 14:00  69.8  64.9  67.1    DRY    SSE   3.0     53.3     --  \n10/11/26 15:00  70.4  65.8  68.9    DRY    WNW   3.7     50.6     --  \n10/11/26 16:00  70.1  66.7  70.1    DRY     NW   4.0     50.2     --  \n10/11/26 17:00  69.0  68.2  71.0    DRY    WNW   4.7     34.5     --  \n10/11/26 18:00  69.3  67.9  71.2    DRY    WNW   3.9     24.4     --  \n10/11/26 19:00  68.0  70.1  70.5    DRY    WNW   1.9      8.7     --  \n10/11/26 20:00  62.7  81.2  69.4    DRY      N   0.7      0.2     --  \n10/11/26 21:00  59.1  87.4  68.0    WET    ENE   1.0      0.0     --  \n10/11/26 22:00  57.3  90.2  66.7    WET      E   1.3      0.0     --  \n10/11/26 23:00  55.4  90.8  65.6    WET     SE   1.6      0.0     --  \n10/11/26 24:00  56.5  91.8  64.7    WET    SSE   3.6      0.0     --  \n=============================================================================== \n \n- Air temperatures taken at a height of 5-ft. \n \n- Soil temperatures taken at a depth of 2-in. (under bare soil) \n \n- Leaf wetness and precipitation data may not be available during \n  the winter months (i.e. Nov.1 - Feb.29) \n \n- Data provided by the Michigan Automated Weather Network (MAWN) and \n  Enviro-weather Program. \n                              HOURLY WEATHER SUMMARY \n \n              MSU Southwest Michigan Research and Extension Center \n                             Benton Harbor (SWMREC) \n \n                Air   Rel   Soil   Leaf      Wind       Solar   Total \n         Time   Temp  Hum   Temp  Wetness  Dir  Speed    Rad    Precip \nDate     (EDT)  (F)   (%)   (F)    Status       (mph)    (ly)    (in) \n=============================================================================== \n10/12/26 01:00  58.0  91.4  64.0    WET     SE   3.8      0.0     --  \n10/12/26 02:00  57.9  90.6  63.6    WET    SSE   3.9      0.0     --  \n10/12/26 03:00  58.2  89.9  63.2    WET    SSE   4.9      0.0     --  \n10/12/26 04:00  57.9  89.8  62.9    WET    SSE   3.9      0.0     --  \n10/12/26 05:00  57.1  90.2  62.6    WET     SE   0.3      0.0     --  \n10/12/26 06:00  57.9  89.4  62.3    WET    SSE   4.5      0.0     --  \n10/12/26 07:00  58.7  86.7  62.2    WET    SSE   4.8      0.0     --  \n10/12/26 08:00  58.8  86.0  62.1    WET    SSE   5.3      0.1     --  \n10/12/26 09:00  59.0  86.1  62.1    WET    SSE   5.0      2.8     --  \n10/12/26 10:00  61.4  83.5  62.1    DRY    SSE   5.8     14.5     --  \n10/12/26 11:00  66.1  77.6  62.5    DRY    SSE   4.9     24.8     --  \n10/12/26 12:00  73.9  63.5  63.5    DRY    SSW   5.4     43.7     --  \n10/12/26 13:00  79.9  53.6  65.2    DRY    SSW   6.3     54.7     --  \n10/12/26 14:00  82.8  49.7  67.2    DRY    SSW   7.3     55.8     --  \n10/12/26 15:00  84.5  48.5  69.3    DRY    SSW   8.2     55.0     --  \n10/12/26 16:00  85.2  46.3  70.9    DRY     SW   8.2     44.7     --  \n10/12/26 17:00  85.8  44.6  72.0    DRY     SW   7.9     33.7     --  \n10/12/26 18:00  84.5  45.5  72.4    DRY    SSW   6.7     17.0     --  \n10/12/26 19:00  81.5  51.1  72.2    DRY      S   4.1      6.1     --  \n10/12/26 20:00  77.3  58.0  71.5    DRY      S   4.3      0.1     --  \n10/12/26 21:00  77.1  55.7  70.6    DRY      S   5.8      0.0     --  \n10/12/26 22:00  75.7  57.0  69.8    DRY      S   6.6      0.0     --  \n10/12/26 23:00  75.5  56.7  69.2    DRY      S   7.3      0.0     --  \n10/12/26 24:00  74.9  57.0  68.7    DRY      S   7.3      0.0     --  \n=============================================================================== \n \n- Air temperatures taken at a height of 5-ft. \n \n- Soil temperatures taken at a depth of 2-in. (under bare soil) \n \n- Leaf wetness and precipitation data may not be available during \n  the winter months (i.e. Nov.1 - Feb.29) \n \n- Data provided by the Michigan Automated Weather Network (MAWN) and \n  Enviro-weather Program. \n                              HOURLY WEATHER SUMMARY \n \n              MSU Southwest Michigan Research and Extension Center \n                             Benton Harbor (SWMREC) \n \n                Air   Rel   Soil   Leaf      Wind       Solar   Total \n         Time   Temp  Hum   Temp  Wetness  Dir  Speed    Rad    Precip \nDate     (EDT)  (F)   (%)   (F)    Status       (mph)    (ly)    (in) \n=============================================================================== \n10/13/26 01:00  74.1  58.3  68.2    DRY      S   7.1      0.0     --  \n10/13/26 02:00  74.2  57.9  67.8    DRY      S   7.4      0.0     --  \n10/13/26 03:00  73.8  58.8  67.6    DRY      S   6.4      0.0     --  \n10/13/26 04:00  73.3  60.4  67.4    DRY    SSW   5.9      0.0     --  \n10/13/26 05:00  72.1  63.2  67.3    DRY    SSW   6.0      0.0     --  \n10/13/26 06:00  70.7  66.3  67.0    DRY    SSW   5.1      0.0     --  \n10/13/26 07:00  69.8  68.5  66.7    DRY    SSW   4.9      0.0     --  \n10/13/26 08:00  70.3  67.1  66.5    DRY     SW   4.4      0.1     --  \n10/13/26 09:00  71.4  64.5  66.3    DRY     SW   4.7      6.0     --  \n10/13/26 10:00  73.1  62.6  66.2    DRY     SW   5.8     20.6     --  \n10/13/26 11:00  75.0  59.5  66.5    DRY    WSW   9.4     34.6     --  \n=============================================================================== \n \n- Air temperatures taken at a height of 5-ft. \n \n- Soil temperatures taken at a depth of 2-in. (under bare soil) \n \n- Leaf wetness and precipitation data may not be available during \n  the winter months (i.e. Nov.1 - Feb.29) \n \n- Data provided by the Michigan Automated Weather Network (MAWN) and \n  Enviro-weather Program. \n \n",
+  "rawText": "                             HOURLY WEATHER SUMMARY \n \n              MSU Southwest Michigan Research and Extension Center \n                             Benton Harbor (SWMREC) \n \n                Air   Rel   Soil   Leaf      Wind       Solar   Total \n         Time   Temp  Hum   Temp  Wetness  Dir  Speed    Rad    Precip \nDate     (EDT)  (F)   (%)   (F)    Status       (mph)    (ly)    (in) \n=============================================================================== \n10/11/26 01:00  62.2  62.5  64.1    DRY    ESE   5.4      0.0     --  \n10/11/26 02:00  61.8  63.5  63.6    DRY     SE   7.0      0.0     --  \n10/11/26 03:00  60.4  67.4  63.3    DRY      E   4.8      0.0     --  \n10/11/26 04:00  58.9  70.9  62.9    DRY      E   2.2      0.0     --  \n10/11/26 05:00  58.0  73.8  62.5    DRY    ENE   2.9      0.0     --  \n10/11/26 06:00  57.6  75.1  62.3    DRY    ENE   2.5      0.0     --  \n10/11/26 07:00  57.8  76.7  62.0    DRY      E   2.6      0.0     --  \n10/11/26 08:00  57.3  79.2  61.9    DRY     NE   1.9      0.0     --  \n10/11/26 09:00  56.8  81.2  61.8    DRY    ENE   2.8      4.1     --  \n10/11/26 10:00  61.3  74.7  61.9    DRY      E   4.2     27.0     --  \n10/11/26 11:00  64.1  72.1  62.7    DRY      E   4.1     30.1     --  \n10/11/26 12:00  66.1  69.6  63.7    DRY    ESE   4.7     44.4     --  \n10/11/26 13:00  67.9  67.7  65.2    DRY     SE   3.7     51.7     --  \n10/11/26 14:00  69.8  64.9  67.1    DRY    SSE   3.0     53.3     --  \n10/11/26 15:00  70.4  65.8  68.9    DRY    WNW   3.7     50.6     --  \n10/11/26 16:00  70.1  66.7  70.1    DRY     NW   4.0     50.2     --  \n10/11/26 17:00  69.0  68.2  71.0    DRY    WNW   4.7     34.5     --  \n10/11/26 18:00  69.3  67.9  71.2    DRY    WNW   3.9     24.4     --  \n10/11/26 19:00  68.0  70.1  70.5    DRY    WNW   1.9      8.7     --  \n10/11/26 20:00  62.7  81.2  69.4    DRY      N   0.7      0.2     --  \n10/11/26 21:00  59.1  87.4  68.0    WET    ENE   1.0      0.0     --  \n10/11/26 22:00  57.3  90.2  66.7    WET      E   1.3      0.0     --  \n10/11/26 23:00  55.4  90.8  65.6    WET     SE   1.6      0.0     --  \n10/11/26 24:00  56.5  91.8  64.7    WET    SSE   3.6      0.0     --  \n=============================================================================== \n \n- Air temperatures taken at a height of 5-ft. \n \n- Soil temperatures taken at a depth of 2-in. (under bare soil) \n \n- Leaf wetness and precipitation data may not be available during \n  the winter months (i.e. Nov.1 - Feb.29) \n \n- Data provided by the Michigan Automated Weather Network (MAWN) and \n  Enviro-weather Program. \n                              HOURLY WEATHER SUMMARY \n \n              MSU Southwest Michigan Research and Extension Center \n                             Benton Harbor (SWMREC) \n \n                Air   Rel   Soil   Leaf      Wind       Solar   Total \n         Time   Temp  Hum   Temp  Wetness  Dir  Speed    Rad    Precip \nDate     (EDT)  (F)   (%)   (F)    Status       (mph)    (ly)    (in) \n=============================================================================== \n10/12/26 01:00  58.0  91.4  64.0    WET     SE   3.8      0.0     --  \n10/12/26 02:00  57.9  90.6  63.6    WET    SSE   3.9      0.0     --  \n10/12/26 03:00  58.2  89.9  63.2    WET    SSE   4.9      0.0     --  \n10/12/26 04:00  57.9  89.8  62.9    WET    SSE   3.9      0.0     --  \n10/12/26 05:00  57.1  90.2  62.6    WET     SE   0.3      0.0     --  \n10/12/26 06:00  57.9  89.4  62.3    WET    SSE   4.5      0.0     --  \n10/12/26 07:00  58.7  86.7  62.2    WET    SSE   4.8      0.0     --  \n10/12/26 08:00  58.8  86.0  62.1    WET    SSE   5.3      0.1     --  \n10/12/26 09:00  59.0  86.1  62.1    WET    SSE   5.0      2.8     --  \n10/12/26 10:00  61.4  83.5  62.1    DRY    SSE   5.8     14.5     --  \n10/12/26 11:00  66.1  77.6  62.5    DRY    SSE   4.9     24.8     --  \n10/12/26 12:00  73.9  63.5  63.5    DRY    SSW   5.4     43.7     --  \n10/12/26 13:00  79.9  53.6  65.2    DRY    SSW   6.3     54.7     --  \n10/12/26 14:00  82.8  49.7  67.2    DRY    SSW   7.3     55.8     --  \n10/12/26 15:00  84.5  48.5  69.3    DRY    SSW   8.2     55.0     --  \n10/12/26 16:00  85.2  46.3  70.9    DRY     SW   8.2     44.7     --  \n10/12/26 17:00  85.8  44.6  72.0    DRY     SW   7.9     33.7     --  \n10/12/26 18:00  84.5  45.5  72.4    DRY    SSW   6.7     17.0     --  \n10/12/26 19:00  81.5  51.1  72.2    DRY      S   4.1      6.1     --  \n10/12/26 20:00  77.3  58.0  71.5    DRY      S   4.3      0.1     --  \n10/12/26 21:00  77.1  55.7  70.6    DRY      S   5.8      0.0     --  \n10/12/26 22:00  75.7  57.0  69.8    DRY      S   6.6      0.0     --  \n10/12/26 23:00  75.5  56.7  69.2    DRY      S   7.3      0.0     --  \n10/12/26 24:00  74.9  57.0  68.7    DRY      S   7.3      0.0     --  \n=============================================================================== \n \n- Air temperatures taken at a height of 5-ft. \n \n- Soil temperatures taken at a depth of 2-in. (under bare soil) \n \n- Leaf wetness and precipitation data may not be available during \n  the winter months (i.e. Nov.1 - Feb.29) \n \n- Data provided by the Michigan Automated Weather Network (MAWN) and \n  Enviro-weather Program. \n                              HOURLY WEATHER SUMMARY \n \n              MSU Southwest Michigan Research and Extension Center \n                             Benton Harbor (SWMREC) \n \n                Air   Rel   Soil   Leaf      Wind       Solar   Total \n         Time   Temp  Hum   Temp  Wetness  Dir  Speed    Rad    Precip \nDate     (EDT)  (F)   (%)   (F)    Status       (mph)    (ly)    (in) \n=============================================================================== \n10/13/26 01:00  74.1  58.3  68.2    DRY      S   7.1      0.0     --  \n10/13/26 02:00  74.2  57.9  67.8    DRY      S   7.4      0.0     --  \n10/13/26 03:00  73.8  58.8  67.6    DRY      S   6.4      0.0     --  \n10/13/26 04:00  73.3  60.4  67.4    DRY    SSW   5.9      0.0     --  \n10/13/26 05:00  72.1  63.2  67.3    DRY    SSW   6.0      0.0     --  \n10/13/26 06:00  70.7  66.3  67.0    DRY    SSW   5.1      0.0     --  \n10/13/26 07:00  69.8  68.5  66.7    DRY    SSW   4.9      0.0     --  \n10/13/26 08:00  70.3  67.1  66.5    DRY     SW   4.4      0.1     --  \n10/13/26 09:00  71.4  64.5  66.3    DRY     SW   4.7      6.0     --  \n10/13/26 10:00  73.1  62.6  66.2    DRY     SW   5.8     20.6     --  \n10/13/26 11:00  75.0  59.5  66.5    DRY    WSW   9.4     34.6     --  \n10/13/26 12:00  74.9  60.9  67.4    DRY      W  11.6     40.9     --  \n10/13/26 13:00  74.3  64.5  68.4    DRY      W  10.4     47.7     --  \n10/13/26 14:00  74.3  65.5  69.6    DRY    WNW   7.1     45.3     --  \n10/13/26 15:00  75.9  62.0  71.0    DRY      W   8.0     55.0     --  \n10/13/26 16:00  75.4  62.8  72.3    DRY      W   8.4     47.1     --  \n10/13/26 17:00  75.8  59.1  73.1    DRY      W   8.0     32.5     --  \n10/13/26 18:00  77.0  55.5  73.3    DRY      W   7.0     20.6     --  \n10/13/26 19:00  74.2  61.7  72.8    DRY    WNW   3.4      4.2     --  \n10/13/26 20:00  69.4  71.8  71.9    DRY    NNE   0.8      0.1     --  \n10/13/26 21:00  66.1  79.9  70.8    DRY      N   0.1      0.0     --  \n=============================================================================== \n \n- Air temperatures taken at a height of 5-ft. \n \n- Soil temperatures taken at a depth of 2-in. (under bare soil) \n \n- Leaf wetness and precipitation data may not be available during \n  the winter months (i.e. Nov.1 - Feb.29) \n \n- Data provided by the Michigan Automated Weather Network (MAWN) and \n  Enviro-weather Program. \n \n",
   "reportTitle": "HOURLY WEATHER SUMMARY",
   "location": [
     "MSU Southwest Michigan Research and Extension Center",
@@ -2910,6 +2910,486 @@
           "missing": true
         }
       }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "12:00",
+      "isoDate": "2026-10-13",
+      "hour": 12,
+      "cells": {
+        "airTemp": {
+          "raw": "74.9",
+          "value": 74.9,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "60.9",
+          "value": 60.9,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "67.4",
+          "value": 67.4,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "W",
+          "value": "W",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "11.6",
+          "value": 11.6,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "40.9",
+          "value": 40.9,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "13:00",
+      "isoDate": "2026-10-13",
+      "hour": 13,
+      "cells": {
+        "airTemp": {
+          "raw": "74.3",
+          "value": 74.3,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "64.5",
+          "value": 64.5,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "68.4",
+          "value": 68.4,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "W",
+          "value": "W",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "10.4",
+          "value": 10.4,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "47.7",
+          "value": 47.7,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "14:00",
+      "isoDate": "2026-10-13",
+      "hour": 14,
+      "cells": {
+        "airTemp": {
+          "raw": "74.3",
+          "value": 74.3,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "65.5",
+          "value": 65.5,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "69.6",
+          "value": 69.6,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "WNW",
+          "value": "WNW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "7.1",
+          "value": 7.1,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "45.3",
+          "value": 45.3,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "15:00",
+      "isoDate": "2026-10-13",
+      "hour": 15,
+      "cells": {
+        "airTemp": {
+          "raw": "75.9",
+          "value": 75.9,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "62.0",
+          "value": 62.0,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "71.0",
+          "value": 71.0,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "W",
+          "value": "W",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "8.0",
+          "value": 8.0,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "55.0",
+          "value": 55.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "16:00",
+      "isoDate": "2026-10-13",
+      "hour": 16,
+      "cells": {
+        "airTemp": {
+          "raw": "75.4",
+          "value": 75.4,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "62.8",
+          "value": 62.8,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "72.3",
+          "value": 72.3,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "W",
+          "value": "W",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "8.4",
+          "value": 8.4,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "47.1",
+          "value": 47.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "17:00",
+      "isoDate": "2026-10-13",
+      "hour": 17,
+      "cells": {
+        "airTemp": {
+          "raw": "75.8",
+          "value": 75.8,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "59.1",
+          "value": 59.1,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "73.1",
+          "value": 73.1,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "W",
+          "value": "W",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "8.0",
+          "value": 8.0,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "32.5",
+          "value": 32.5,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "18:00",
+      "isoDate": "2026-10-13",
+      "hour": 18,
+      "cells": {
+        "airTemp": {
+          "raw": "77.0",
+          "value": 77.0,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "55.5",
+          "value": 55.5,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "73.3",
+          "value": 73.3,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "W",
+          "value": "W",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "7.0",
+          "value": 7.0,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "20.6",
+          "value": 20.6,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "19:00",
+      "isoDate": "2026-10-13",
+      "hour": 19,
+      "cells": {
+        "airTemp": {
+          "raw": "74.2",
+          "value": 74.2,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "61.7",
+          "value": 61.7,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "72.8",
+          "value": 72.8,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "WNW",
+          "value": "WNW",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "3.4",
+          "value": 3.4,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "4.2",
+          "value": 4.2,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "20:00",
+      "isoDate": "2026-10-13",
+      "hour": 20,
+      "cells": {
+        "airTemp": {
+          "raw": "69.4",
+          "value": 69.4,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "71.8",
+          "value": 71.8,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "71.9",
+          "value": 71.9,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "NNE",
+          "value": "NNE",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "0.8",
+          "value": 0.8,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.1",
+          "value": 0.1,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
+    },
+    {
+      "dateRaw": "10/13/26",
+      "timeRaw": "21:00",
+      "isoDate": "2026-10-13",
+      "hour": 21,
+      "cells": {
+        "airTemp": {
+          "raw": "66.1",
+          "value": 66.1,
+          "missing": false
+        },
+        "relHum": {
+          "raw": "79.9",
+          "value": 79.9,
+          "missing": false
+        },
+        "soilTemp": {
+          "raw": "70.8",
+          "value": 70.8,
+          "missing": false
+        },
+        "leafWetness": {
+          "raw": "DRY",
+          "value": "DRY",
+          "missing": false
+        },
+        "windDir": {
+          "raw": "N",
+          "value": "N",
+          "missing": false
+        },
+        "windSpeed": {
+          "raw": "0.1",
+          "value": 0.1,
+          "missing": false
+        },
+        "solarRad": {
+          "raw": "0.0",
+          "value": 0.0,
+          "missing": false
+        },
+        "precip": {
+          "raw": "--",
+          "value": null,
+          "missing": true
+        }
+      }
     }
   ],
   "footnotes": [
@@ -2921,15 +3401,15 @@
   "footnotesIdenticalAcrossBlocks": true,
   "blockCount": 3,
   "stats": {
-    "rowCount": 59,
-    "cellCount": 472,
-    "missingCellCount": 59,
+    "rowCount": 69,
+    "cellCount": 552,
+    "missingCellCount": 69,
     "missingByMarker": {
-      "--": 59,
+      "--": 69,
       "---": 0,
       "NA": 0
     },
-    "rowsWithAnyValue": 59,
+    "rowsWithAnyValue": 69,
     "rowsEntirelyMissing": 0
   }
 }

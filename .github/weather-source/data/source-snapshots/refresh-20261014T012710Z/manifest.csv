@@ -1,0 +1,15 @@
+url,file,status,bytes,sha256,retrieved_at_utc,title
+https://mawn.geo.msu.edu/,input/mawn/home.html,200,40802,2ed4a8f9e75f3f8e94b70ebb824b839402f29a8f88a7bf566db3adc605a58b27,2026-10-14T01:27:16.780602+00:00,Michigan Automated Weather Network
+https://mawn.geo.msu.edu/rawdata/,input/rawdata/index.html,200,1581,f660856c93109089d3cd08a01bbca30c5dff87fb50f66e528582b54b37337da4,2026-10-14T01:27:18.816245+00:00,Index of /rawdata
+https://www.agweather.geo.msu.edu/,input/agweather/home.html,200,10721,dd0fb9196fbbf6dfd448328e72a7e670d1a19708995f4f1c1cf45112504d9df6,2026-10-14T01:27:20.939465+00:00,Michigan Agricultural Weather Office
+https://climate.geo.msu.edu/,input/climate/home.html,200,3373,f78c0a240e9a581179d78619240f4c49a1e1a9863d6d6227430effac5ad46c90,2026-10-12T23:46:15.358070+00:00,Michigan State Climatologist's Office
+https://mawn.geo.msu.edu/station.asp?id=bnz,input/mawn/station-bnz.html,200,8780,112b20a7ab698ff83538ad3ad1cf11bb4d971c57dcaed51017b057d1af2d67fb,2026-10-14T01:27:25.268012+00:00,Michigan Automated Weather Network
+https://mawn.geo.msu.edu/station.asp?id=swm,input/mawn/station-swm.html,200,8825,2a9fdc569e57d05291f23381905f11cc244e5691f9b91e248344dd4bfa5c4e62,2026-10-14T01:27:27.345348+00:00,Michigan Automated Weather Network
+https://mawn.geo.msu.edu/report.asp?fileid=bnzh,input/mawn/report-bnzh.html,200,27077,2e29feda0032c9c33c76eed83928bf22d42619a5150ada5c612214d845fc6816,2026-10-14T01:27:29.384998+00:00,Michigan Automated Weather Network
+https://mawn.geo.msu.edu/report.asp?fileid=bnzd,input/mawn/report-bnzd.html,200,30394,eac3c445226bdd00ee8c408a2af2e031a245bf1e27b698ce9c070baaa75165c9,2026-10-14T01:27:31.416677+00:00,Michigan Automated Weather Network
+https://mawn.geo.msu.edu/report.asp?fileid=bnzm,input/mawn/report-bnzm.html,200,38790,67cf8e5a61a90b1868114a748f6858972a1ce0664bcd1a9c030d608826857919,2026-10-14T01:27:33.452656+00:00,Michigan Automated Weather Network
+https://mawn.geo.msu.edu/rawdata/3hr/,input/rawdata/3hr-index.html,200,11962,a203e8cdd2e501b994458b863f4930bd03c65b9fbf41594d89809fa94ae3589a,2026-10-14T01:27:35.519550+00:00,Index of /rawdata/3hr
+https://mawn.geo.msu.edu/rawdata/3hr/benzonia,input/rawdata/3hr/benzonia,200,2022,eb61500cc825499aa540e37d03062c5b102426e438203db4eb2310101c8e21e6,2026-10-14T01:27:37.543084+00:00,Unmodified raw data; schema not verified
+https://www.agweather.geo.msu.edu/current/,input/agweather/current.html,200,26515,3a4c70394dda4ef06cc5079ac1366857312516b0d5cb37f149a296056189432e,2026-10-14T01:27:39.664330+00:00,Michigan Agricultural Weather Office
+https://www.agweather.geo.msu.edu/forecasts/,input/agweather/forecasts.html,200,16072,1a77716daefeacd7f4a9fc3447a76d74d65d3f1ea34815f2d1e683a388b24beb,2026-10-14T01:27:41.693226+00:00,Michigan Agricultural Weather Office
+https://climate.geo.msu.edu/climate_maps.html,input/climate/climate_maps.html,200,17580,cbae25f8c50182d2093715c6a3d5e74925e73ffa9115f8e67599cd97e4084473,2026-10-12T23:46:24.059477+00:00,Michigan State Climatologist's Office

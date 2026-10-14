@@ -6,7 +6,7 @@
     "url": "https://mawn.geo.msu.edu/report.asp?fileid=bnzh",
     "file": "input/mawn/report-bnzh.html",
     "sha256": "2e29feda0032c9c33c76eed83928bf22d42619a5150ada5c612214d845fc6816",
-    "retrievedAtUtc": "2026-10-14T00:43:02.753987+00:00"
+    "retrievedAtUtc": "2026-10-14T01:27:29.384998+00:00"
   },
   "status": "observation only; no schema adopted",
   "assumptionTested": "In 20-field records, field 2 is the year, field 3 the day of year and field 4 HHMM on the clock used by the hourly report's time labels.",

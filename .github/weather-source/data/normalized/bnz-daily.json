@@ -6,7 +6,7 @@
     "url": "https://mawn.geo.msu.edu/report.asp?fileid=bnzd",
     "file": "input/mawn/report-bnzd.html",
     "sha256": "eac3c445226bdd00ee8c408a2af2e031a245bf1e27b698ce9c070baaa75165c9",
-    "retrievedAtUtc": "2026-10-14T00:43:04.788756+00:00"
+    "retrievedAtUtc": "2026-10-14T01:27:31.416677+00:00"
   },
   "parsing": {
     "method": "Fixed-width text block extracted from the captured HTML (td.courier2); rows split on whitespace after the header lines were matched exactly against the expected layout.",
