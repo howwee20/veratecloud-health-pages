@@ -1,0 +1,225 @@
+<html>
+<head>
+<title>Michigan Automated Weather Network</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+<link rel="SHORTCUT ICON" href="./mawnicon.ico">
+
+<script language="JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+   if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" border="2" height="984" bgcolor="#ffffff">
+   <tr>
+      <td rowspan="2" width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" height="546">
+            <tr>
+               <td width="125" height="546">
+                  <img src="/images/MAWNlinksBar.gif" width="125" height="546" usemap="#NavMap" border="0">
+		     <map name="NavMap">
+                        <area shape="rect" coords="0,7,125,35"   href="http://www.msu.edu" alt=MSU Home">
+                        <area shape="rect" coords="0,49,125,100" href="https://mawn.geo.msu.edu" alt="MAWN Home">
+                        <area shape="rect" coords="0,122,125,136" href="http://www.enviro-weather.msu.edu" alt="Enviro-Weather">
+                        <area shape="rect" coords="0,158,125,190" href="http://www.agweather.geo.msu.edu" alt="MSU AgWeather">
+                        <area shape="rect" coords="0,212,125,262" href="http://climate.geo.msu.edu" alt="MSU Climatologist's Office">
+                        <area shape="rect" coords="0,284,125,318" href="http://www.geo.msu.edu" alt="MSU Department of Geography">
+                        <area shape="rect" coords="0,361,125,399" href="http://www.greeen.msu.edu" alt="Project GREEEN">
+                        <area shape="rect" coords="0,414,125,458" href="http://www.msue.msu.edu" alt="MSU Extension">
+                        <area shape="rect" coords="0,474,125,543" href="http://www.maes.msu.edu" alt="MSU Ag Experiment Station">
+                     </map>
+               </td>
+            </tr>
+         </table>
+      </td>
+
+      <td height="70" width="635">
+         <a href="https://mawn.geo.msu.edu">
+         <img src="/images/MAWNheader.gif" width="476" height="70" border="0" alt="MAWN Home"></a>
+      </td>
+   </tr>
+
+   <tr>
+      <td width="635" height="914" valign="top">
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+    <tr><center>
+       <b><font color="red"><h4>State Budget Cuts Threaten This Website and Other MSUE/MAES Programs...
+       <br>Click <a href="http://anrcom.msu.edu/Budget.aspx">Here</a> For More Information...</b></font><br></b></h4>
+    </tr>
+    <tr>&nbsp<br></tr>
+  </table>
+-->
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications, including the "Custom Reports (Data-on-Demand)" tool may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              The Enviro-weather team would like to thank you for your patience and continued support.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+
+
+   <table width="100%" height="216" border="1">
+      <tr>
+         <td width="310" height="216" valign="top">
+            <table width="100%" height="216" border="0">
+               <tr>
+                  <td width="70" class="infotablelabel">Station:</td>
+                  <td width="240" class="infotabledata">haslett</td>
+               </tr>
+               <tr>
+                  <td width="70" class="infotablelabel">Station ID:</td>
+                  <td width="240" class="infotabledata">has</td>
+               </tr>
+               <tr>
+                  <td width="70" class="infotablelabel">&nbsp;</td>
+                  <td width="240" class="infotabledata">&nbsp;</td>
+               </tr>
+               <tr>
+                  <td width="70" class="infotablelabel">Location:</td>
+                  <td width="240" class="infotabledata">Clearview Orchards</td>
+               </tr>
+               <tr>
+                  <td width="70" class="infotablelabel">City:</td>
+                  <td width="240" class="infotabledata">Haslett</td>
+               </tr>
+               <tr>
+                  <td width="70" class="infotablelabel">&nbsp;</td>
+                  <td width="240" class="infotabledata">&nbsp;</td>
+               </tr>
+               <tr>
+                  <td width="70" class="infotablelabel">Latitude:</td>
+                  <td width="240" class="infotabledata"> 42.7703 deg.</td>
+               </tr>
+               <tr>
+                  <td width="70" class="infotablelabel">Longitude:</td>
+                  <td width="240" class="infotabledata">-84.3297 deg.</td>
+               </tr>
+               <tr>
+                  <td width="70" class="infotablelabel">Elevation:</td>
+                  <td width="240" class="infotabledata">  281 m</td>
+               </tr>
+                        
+            </table>
+         </td>
+
+         <td width="325" height="216" valign="top">
+            <img src="./images/stations/has.jpg" width="325" height="216" align="middle">
+         </td>
+      </tr>
+   </table>
+   <br>
+
+   <table width="100%" border="0" valign="top">
+      <tr>
+         <td width="300" valign="top">
+            <table width="90%" border="0">
+               <tr>
+                  <td class="tableheader1" valign="top" align="left" colspan="2">Pregenerated Data Reports:</td>
+               </tr>
+               <tr>
+                  <td width="05%" height="20" align="right"><img src="/images/grnarrow2.gif"></td>
+                  <td width="95%" height="20" align="left"><a href="./report.asp?fileid=hasd" class="arial2"><b>Daily Data</b></a></td>
+               </tr>
+               <tr>
+                  <td width="05%" height="20" align="right"><img src="/images/grnarrow2.gif"></td>
+                  <td width="95%" height="20" align="left"><a href="./report.asp?fileid=hash" class="arial2"><b>Hourly Data</b></a></td>
+               </tr>
+            </table>
+         </td>
+
+         <td width="300" valign="top">
+            <table width="90%" align="right" border="0">
+               <tr>
+                  <td class="tableheader1" valign="top" align="left" colspan="2">Station Information:</td>
+               </tr>
+               <tr>
+                  <td width="05%" height="20" align="right"><img src="/images/grnarrow2.gif"></td>
+                  <td width="95%" height="20" align="left"><a href="./report.asp?fileid=hasm" class="arial2"><b>Maintenance Reports</b></a></td>
+               </tr>
+            </table>
+         </td>
+      </tr>
+   </table>
+   <br>
+
+   <table width="100%" border="2">
+      <tr align="center">
+         <td class="tableheader1">
+            <p>Custom Reports (Data-on-Demand):</p>
+         </td>
+      </tr>
+      <tr align="center">  
+         <td class="arial2"> 
+            <div align="center"><b><font color="#FF0000">Note: </font></b><font color="#FF0000">Change 
+             has been made to date/time labels. Please refer to note at the bottom 
+             of generated reports.</font></div>
+         </td>
+      </tr>
+      <tr>
+         <td class="arial2">
+            <form name="rtype">
+               <b>Select Data Type:</b>
+                  <select name="rtype" onChange="MM_jumpMenu('parent',this,0)">
+                     <option value="./station.asp?id=has" selected>Select Data Type</option>
+                     <option value="./station.asp?id=has&rt=24">Daily Data</option>
+                     <option value="./station.asp?id=has&rt=60">Hourly Data</option>
+                     <option value="./station.asp?id=has&rt=5">Five-Minute Data</option>
+                     <option value="./station.asp?id=has&rt=0">Growing Degree-Day Data</option>
+                  </select>
+               <i class="caption"><font color="#990000">&nbsp;&nbsp;&nbsp;(wait for page to reload after selecting)</font></i>
+            </form>
+         </td>
+      </tr>
+   </table>
+
+
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

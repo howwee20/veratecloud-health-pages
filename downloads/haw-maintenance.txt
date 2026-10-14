@@ -1,0 +1,335 @@
+============================================================================== 
+Station Notes - Hawks: 
+ 
+ 
+07/20/2023: Logger / Station Maintnenace:                               [1002] 
+ 
+            - loaded logger program: haw-bbad.cr1* (237 -> LWS-L)** 
+                  * supports "maintenance mode" 
+                 ** sensor replaced: 07/28/2020 (no canopy) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+07/19/2023: Station Maintenance:                                        [1215] 
+ 
+            - site maintenance, including: 
+               - troubleshoot power issues to possible resolve recent 
+                 drops in voltage which may be leading to logger issues 
+                 (i.e. loss of hourly data table) 
+               - replaced battery cable 
+ 
+ 
+07/11/2023: Station Maintenance:                                        [1205] 
+           
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery (13.56V) 
+               - checked pyranometer (adjusted level) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (20.37V) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned battery terminals\ 
+               - cleaned tipping-bucket rain gauge 
+               - tested leaf wetness sensor [standard] (N/A)* 
+               - weed removal 
+ 
+               * logger program needed to support newer LWS-L sensors 
+               * there is no canopy sensor at this site 
+ 
+ 
+ 
+============================================================================== 
+07/14/2022: Station Maintenance:                                        [1330] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery (13.64V) 
+               - checked pyranometer (good) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (20.08V) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield  
+               - cleaned battery box (removed wasp and mouse nests) 
+               - cleaned battery terminals 
+               - cleaned tipping-bucket rain gauge 
+               - tested leaf wetness sensor [standard] (N/A)* 
+               - weed removal 
+ 
+               * logger program needed to support newer LWS-L sensors 
+               * there is no canopy sensor at this site 
+ 
+ 
+ 
+============================================================================== 
+08/20/2021: Station Maintenance:                                        [1130] 
+ 
+            - routine site maintenance  
+ 
+ 
+06/18/2021: Station Maintenance:                                        [1320] 
+ 
+            - routine site maintenance, including: 
+               - installed updated modem 
+               - replaced soil moisture sensor (MSTR0) 
+ 
+ 
+ 
+============================================================================== 
+07/28/2020: Station Maintenance:                                        [1250] 
+ 
+            - station maintenance, including: 
+               - replace leaf wetness (237 -> LWS)* 
+ 
+               * needs updated logger program / db change 
+ 
+ 
+ 
+============================================================================== 
+08/26/2019: Logger / Station Maintenance:                               [1250] 
+ 
+            - replaced logger (CR10X -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: haw-bbac 
+ 
+ 
+ 
+============================================================================== 
+11/26/2018: Logger Maintenance:                                         [1003] 
+ 
+            - loaded proper logger program "mawn-aacf" 
+ 
+ 
+11/21/2018: Station Maintenance:                                        [----] 
+ 
+            - replaced logger battery / charge controller 
+            - temporary logger program was loaded 
+ 
+ 
+07/06/2018: Station Maintenance:                                        [1315] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+============================================================================== 
+08/21/2017: Station Maintenance:                                        [1600] 
+ 
+            - routine maintenance  
+ 
+ 
+05/17/2017: Station Maintenance:                                        [1510] 
+ 
+            - annual maintenance 
+            - replaced wind sentry (faulty wind speed) 
+            - replaced atmp/relh (hmp45c -> hmp45c) 
+            - remounted leaf wetness (standard mount) 
+ 
+ 
+ 
+============================================================================== 
+07/28/2016: Station Maintenance:                                        [1340] 
+ 
+            - replaced battery (large battery setup) 
+ 
+ 
+02/02/2016: Station Maintenance:                                        [0900] 
+ 
+            - replaced battery 
+            - adjusted station solar panel 
+ 
+ 
+01/05/2016: Station Maintenance:                                        [0900] 
+ 
+            - replaced battery 
+ 
+ 
+ 
+============================================================================== 
+02/13/2014: Station Maintenance:                                        [1605] 
+ 
+            - Moved data-colletion to new LoggerNet Server 
+            - Loaded Logger Program: AACF (hourly cycle) 
+ 
+ 
+02/08/2014: Station Maintenance:                                        [1200] 
+ 
+            - Solar panel cleaned. 
+            - Battery replacement planned 
+ 
+ 
+ 
+============================================================================== 
+01/31/2011: Data Correction:                                            [1300] 
+ 
+            - Recent battery failure led to the introduction of some 
+              faulty data as well as eventual data loss after the  
+              battery completely died.   Data during the following  
+              time periods was either removed or was missing: 
+ 
+                 01/17/11 (d=017) 07:05 - 01/17/11 (d=017) 10:00 
+                 01/18/11 (d=018) 21:05 - 01/26/11 (d=026) 16:00 
+ 
+ 
+ 
+============================================================================== 
+12/17/2010:  Data Correction:                                           [1400] 
+ 
+             - Several periods of faulty data were removed from the  
+               data archive.  It appears that power issues (weak  
+               battery) lead to faulty data during the following  
+               time periods which has since been removed: 
+ 
+                  11/26/10 (d=330) 19:05 - 11/27/10 (d=331) 10:00 
+                  12/12/10 (d=346) 22:05 - 12/14/10 (d=348) 12:00 
+                  12/14/10 (d=348) 17:05 - 12/15/10 (d=349) 09:00 
+ 
+ 
+ 
+07/28/2010:  Station Maintenance:                                       [1300] 
+ 
+             - Replaced wireless broadband modem 
+ 
+ 
+ 
+07/01/2010:  Station Maintenance:                                       [1500] 
+ 
+             - Added "battery voltage" to hourly data table 
+ 
+ 
+ 
+06/14/2010:  Station Maintenance:                                       [1150] 
+ 
+             - Replaced land-line with wireless broadband. 
+             - Loaded MAWN Program AACF (hourly power cycle) 
+ 
+ 
+ 
+============================================================================== 
+09/29/2004:  Station Maintenance (sm): 
+ 
+             - Replaced Anemometer [14:00]. 
+ 
+             - Replaced Temperature/Relative Humidity Sensor (HMP45C) [14:05]. 
+ 
+             - Replaced Soil Moisture A (10 cm) [14:30]. 
+ 
+             - General Station Maintenance and System Checks: 
+                  - weed removal and application of Round-Up above soil temps 
+ 
+             - Work was done approx: 14:00 - 14:35 (Day=273) 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+04/08/2002:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+             - Time of Obs were modified by one hour (forward)  
+               from Day=97, Time=200 through Day=97, Time=420. 
+ 
+ 
+ 
+10/30/2001:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=301, Time=200 through Day=301, Time=605. 
+ 
+ 
+ 
+10/09/2001:  Phone Number Change. 
+ 
+             - Area code for the HAWKS region was changed over the 
+               past weekend from "517" to "989".  Phone number was 
+               modified to reflect this change. 
+ 
+ 
+ 
+10/30/2000:  Daylight Savings Time Adjustment. 
+                 
+             - Daylight Savings Time Ended on Day=303, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=303, Time=200 through Day=304, Time=1320. 
+               Only Observation Times were modified, not times of 
+               Maxs and Mins.  Users will need to take that into 
+               consideration when using this data. 
+ 
+ 
+ 
+04/21/2000:  Installed Leaf Wet A - NE Fence Post, Facing North, 
+             Height = ~39". 
+  
+             Notes: 
+ 
+             - High grass prety much everywhere. Soil temps 
+               and soil moisture probes completely covered 
+               with tall grass.  Time: ~ 2:48pm 
+ 
+             - Roundup appears to have been applied south of 
+               tipping bucket rain gauge. 
+ 
+             - Tall grass may eventually cover Leaf Wet A.  
+ 
+ 
+ 
+04/16/2000:  Downloaded all data, uploaded MAWN1B (replacing MAWN1BW).  
+             Day=107, hhmm=0035 
+ 
+ 
+ 
+02/07/2000:  Fixed old data to reflect recent change in "mawn1b" program  
+             - padded missing values to 5-minute data. 
+ 
+ 
+ 
+02/05/2000:  Updated "mawn1b" to include Wind Speed, Air Temp, and Relative  
+             Humidity in 5-minute data. 
+ 
+ 
+ 
+12/03/1999:  Phone Line To Station Activated. 
+              
+             - Hawks station added to MAWN database 
+ 
+ 
+ 
+11/30/1999:  Data Logging Activated (mon1bw) 
+            
+             - Note: "mon1bw" is "mon1b" adjusted for Snowfall Adapter Use 
+                     (Multiplier of 0.1437 instead of 0.254) 
+            
+             - Data Logger Start Time:  13:35pm, Day=334 
+ 
+ 
+ 
+11/23/99:  Station Installed.   
+ 
+           - Leaf Wetness Sensors Disconnected For The Winter. 
+ 
+           - Soil Probe A:     2-inch under sod, east of south leg. 
+ 
+           - Soil Probe B:     4-inch under sod, east of south leg, south of 
+                               Soil Probe A. 
+ 
+           - Soil Moisture A:  On sod, south and east of south leg, west 
+                               of Soil Moisture B. 
+ 
+           - Soil Moisture B:  On sod, south and east of south leg, east  
+                               of Soil Moisture A. 
+ 
+           - Air Temp/RH:      HMP45C - 59-inches (1.5m) to 8th rim of 
+                               radiation shield 
+ 
+ 
+ 
+============================================================================== 
+

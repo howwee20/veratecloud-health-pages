@@ -1,0 +1,85 @@
+============================================================================== 
+Station Notes - Goodells 
+ 
+ 
+ 
+12/18/2006:  Station Decommissioned: 
+ 
+             - The MAWN station at Goodells has been moved to a new 
+               location.  The former Goodells station is now available 
+               at Emmett (MAWN Station ID: emt) 
+ 
+ 
+ 
+ 
+ 
+ 
+05/16/2005:  Station Maitnenance: 
+ 
+             - The clock on the Goodells MAWN station was never properly set 
+               to EDT.   This change was applied this morning (9:40am) and 
+               the data stored in the MAWN database was corrected adjusted 
+               to EDT as well. 
+ 
+ 
+ 
+04/15/2005:  Station Maintenance (sm): 
+ 
+      - Replaced Wine Vane 
+ 
+             - Erroneous Wind Direction Values Marked As Missing For the 
+               Following Time Period: 
+ 
+                  03/25/05 (Day=84), 01:00 - 04/15/05 (Day=105), 12:00 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+ 
+10/20/2004:  Telecommunication Troubleshooting (sm): 
+ 
+                - Site visit to troubleshoot PC208W software. 
+ 
+                - Reset "mawncopy" script to run every Monday morning at 00:00. 
+ 
+                - Disabled Datalogger Clock Synchornization - Clock on PC 
+                  runs slow.  Datalogger synchronization will not be re-enabled 
+                  until internal PC battery is replaced. 
+ 
+ 
+ 
+09/17/2004:  Station Online: 
+ 
+                - Data Collection and Data Archive for new station begins and 
+                  now made available via the MAWN website: 
+ 
+                     First data report:   Sep 17, 2004 - 00:05   (Day=261) 
+ 
+ 
+ 
+09/16/2004:  Station Maintenance: 
+ 
+                - Established telecommunication between remote data collection PC  
+                  and server on campus.  Able to now collect raw weather data. 
+ 
+ 
+ 
+July 2004:   New Station Installed: 
+ 
+                Notes: 
+                  
+                   - leaf wetness B (canopy) - still needs to be installed. 
+ 
+                   - Data Logger Program Loaded:    MAWN?? 
+ 
+ 
+                Additional Station Needs: 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+

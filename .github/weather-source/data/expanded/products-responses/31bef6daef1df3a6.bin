@@ -1,0 +1,213 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:31
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+
+
+
+
+<table width="100%" height="120" border="0">
+   <tr height="100">
+      <td align="center">
+         <h1>MSU Agricultural Weather Office<h1>
+         <h2>Forecast Products</h2>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+
+<!--
+   <tr height="35">
+      <td align="center">
+         <font color="red" font size=3><b>State Budget Cuts Threaten This Website and Other MSUE/MAES Programs...
+         <br>Click  <a href="http://anrcom.msu.edu/Budget.aspx">Here</a> For More Information...</b></font>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+-->
+
+</table>
+
+<br>
+<table width="95%" border="0" valign="top" align="center">
+   <tr>
+      <td class="courier2">
+        
+         &nbsp;<br>700&nbsp;&nbsp;<br>FXUS06&nbsp;KWBC&nbsp;131902&nbsp;<br>PMDMRD&nbsp;<br>Prognostic&nbsp;Discussion&nbsp;for&nbsp;6&nbsp;to&nbsp;10&nbsp;and&nbsp;8&nbsp;to&nbsp;14&nbsp;day&nbsp;outlooks&nbsp;<br>NWS&nbsp;Climate&nbsp;Prediction&nbsp;Center&nbsp;College&nbsp;Park,&nbsp;MD&nbsp;<br>300&nbsp;PM&nbsp;EDT&nbsp;Tue&nbsp;October&nbsp;13&nbsp;2026&nbsp;<br>&nbsp;<br>6-10&nbsp;DAY&nbsp;OUTLOOK&nbsp;FOR&nbsp;OCT&nbsp;19&nbsp;-&nbsp;23&nbsp;2026&nbsp;<br>&nbsp;<br>There&nbsp;is&nbsp;good&nbsp;agreement&nbsp;among&nbsp;the&nbsp;dynamical&nbsp;model&nbsp;ensemble&nbsp;solutions&nbsp;depicting&nbsp;&nbsp;<br>the&nbsp;mean&nbsp;500-hPa&nbsp;height&nbsp;anomalies&nbsp;during&nbsp;the&nbsp;6-10&nbsp;day&nbsp;period.&nbsp;The&nbsp;model&nbsp;&nbsp;<br>guidance&nbsp;indicates&nbsp;good&nbsp;consistency&nbsp;between&nbsp;today&nbsp;and&nbsp;yesterday.&nbsp;A&nbsp;strong&nbsp;&nbsp;<br>mid-level&nbsp;positive&nbsp;anomaly&nbsp;and&nbsp;associated&nbsp;ridging&nbsp;is&nbsp;forecast&nbsp;over&nbsp;the&nbsp;eastern&nbsp;&nbsp;<br>contiguous&nbsp;U.S.&nbsp;(CONUS).&nbsp;Meanwhile,&nbsp;a&nbsp;weak&nbsp;negative&nbsp;anomaly&nbsp;and&nbsp;mid-level&nbsp;&nbsp;<br>troughing&nbsp;is&nbsp;forecast&nbsp;along&nbsp;the&nbsp;West&nbsp;Coast.&nbsp;Further&nbsp;west,&nbsp;positive&nbsp;500-hPa&nbsp;&nbsp;<br>height&nbsp;anomalies&nbsp;are&nbsp;forecast&nbsp;over&nbsp;the&nbsp;north-central&nbsp;Pacific&nbsp;between&nbsp;Hawaii&nbsp;and&nbsp;&nbsp;<br>Alaska.&nbsp;This&nbsp;leads&nbsp;to&nbsp;near-normal&nbsp;500-hPa&nbsp;heights&nbsp;across&nbsp;Hawaii.&nbsp;Guidance&nbsp;is&nbsp;&nbsp;<br>indicating&nbsp;mid-level&nbsp;troughing&nbsp;to&nbsp;move&nbsp;into&nbsp;the&nbsp;Bering&nbsp;Sea&nbsp;and&nbsp;Aleutian&nbsp;Islands&nbsp;&nbsp;<br>during&nbsp;the&nbsp;period.&nbsp;&nbsp;<br>&nbsp;<br>Above&nbsp;normal&nbsp;temperatures&nbsp;are&nbsp;favored&nbsp;across&nbsp;much&nbsp;of&nbsp;the&nbsp;CONUS&nbsp;beneath&nbsp;the&nbsp;&nbsp;<br>strong&nbsp;mid-level&nbsp;positive&nbsp;height&nbsp;anomalies&nbsp;over&nbsp;the&nbsp;central&nbsp;and&nbsp;eastern&nbsp;U.S.&nbsp;&nbsp;<br>Chances&nbsp;for&nbsp;above&nbsp;normal&nbsp;exceed&nbsp;80%&nbsp;across&nbsp;the&nbsp;north-central&nbsp;CONUS.&nbsp;Below&nbsp;&nbsp;<br>normal&nbsp;is&nbsp;the&nbsp;favored&nbsp;outcome&nbsp;over&nbsp;much&nbsp;of&nbsp;the&nbsp;West&nbsp;beneath&nbsp;the&nbsp;500-hPa&nbsp;&nbsp;<br>troughing&nbsp;forecast.&nbsp;In&nbsp;Alaska,&nbsp;a&nbsp;transient&nbsp;mid-level&nbsp;height&nbsp;pattern&nbsp;leads&nbsp;to&nbsp;&nbsp;<br>near&nbsp;normal&nbsp;heights&nbsp;supporting&nbsp;near&nbsp;normal&nbsp;temperatures&nbsp;across&nbsp;Mainland&nbsp;Alaska&nbsp;&nbsp;<br>with&nbsp;a&nbsp;slight&nbsp;tilt&nbsp;towards&nbsp;above&nbsp;over&nbsp;the&nbsp;Aleutians&nbsp;and&nbsp;Southeast&nbsp;Alaska.&nbsp;In&nbsp;&nbsp;<br>Hawaii,&nbsp;above&nbsp;normal&nbsp;temperatures&nbsp;are&nbsp;forecast.&nbsp;<br>&nbsp;<br>Above&nbsp;normal&nbsp;precipitation&nbsp;is&nbsp;favored&nbsp;across&nbsp;much&nbsp;of&nbsp;the&nbsp;West&nbsp;and&nbsp;into&nbsp;the&nbsp;&nbsp;<br>central&nbsp;CONUS&nbsp;corresponding&nbsp;to&nbsp;the&nbsp;increasing&nbsp;strength&nbsp;of&nbsp;the&nbsp;mid-level&nbsp;trough&nbsp;&nbsp;<br>over&nbsp;the&nbsp;West.&nbsp;This&nbsp;helps&nbsp;to&nbsp;force&nbsp;strong&nbsp;precipitation&nbsp;chances&nbsp;across&nbsp;much&nbsp;of&nbsp;&nbsp;<br>the&nbsp;western&nbsp;and&nbsp;central&nbsp;CONUS&nbsp;with&nbsp;chances&nbsp;exceeding&nbsp;60%&nbsp;for&nbsp;parts&nbsp;of&nbsp;the&nbsp;&nbsp;&nbsp;<br>Great&nbsp;Basin,&nbsp;Four&nbsp;Corners,&nbsp;and&nbsp;into&nbsp;the&nbsp;Southern&nbsp;Plains.&nbsp;Above&nbsp;normal&nbsp;&nbsp;<br>precipitation&nbsp;chances&nbsp;have&nbsp;increased&nbsp;relative&nbsp;to&nbsp;yesterday&nbsp;over&nbsp;the&nbsp;Northern&nbsp;&nbsp;<br>Plains&nbsp;and&nbsp;Upper&nbsp;Mississippi&nbsp;Valley&nbsp;with&nbsp;chances&nbsp;now&nbsp;exceeding&nbsp;50%&nbsp;in&nbsp;parts&nbsp;of&nbsp;&nbsp;<br>this&nbsp;region.&nbsp;Below&nbsp;normal&nbsp;precipitation&nbsp;is&nbsp;still&nbsp;forecast&nbsp;for&nbsp;much&nbsp;of&nbsp;the&nbsp;&nbsp;<br>Northeast,&nbsp;eastern&nbsp;Great&nbsp;Lakes,&nbsp;and&nbsp;Mid-Atlantic&nbsp;ahead&nbsp;of&nbsp;the&nbsp;mid-level&nbsp;&nbsp;<br>ridging.&nbsp;In&nbsp;Alaska,&nbsp;above&nbsp;normal&nbsp;precipitation&nbsp;is&nbsp;forecast&nbsp;over&nbsp;the&nbsp;southern&nbsp;&nbsp;<br>half&nbsp;of&nbsp;the&nbsp;state.&nbsp;In&nbsp;Hawaii,&nbsp;a&nbsp;slight&nbsp;tilt&nbsp;towards&nbsp;above&nbsp;normal&nbsp;precipitation&nbsp;&nbsp;<br>is&nbsp;favored.&nbsp;&nbsp;<br>&nbsp;<br>The&nbsp;official&nbsp;6-10&nbsp;day&nbsp;500-hPa&nbsp;height&nbsp;blend&nbsp;consists&nbsp;of&nbsp;10%&nbsp;of&nbsp;Today's&nbsp;0z&nbsp;GFS&nbsp;&nbsp;<br>Ensemble&nbsp;Mean&nbsp;centered&nbsp;on&nbsp;Day&nbsp;8,&nbsp;20%&nbsp;of&nbsp;Today's&nbsp;6z&nbsp;GFS&nbsp;Ensemble&nbsp;Mean&nbsp;centered&nbsp;&nbsp;<br>on&nbsp;Day&nbsp;8,&nbsp;40%&nbsp;of&nbsp;Today's&nbsp;0z&nbsp;European&nbsp;Ensemble&nbsp;Mean&nbsp;centered&nbsp;on&nbsp;Day&nbsp;8,&nbsp;and&nbsp;30%&nbsp;&nbsp;<br>of&nbsp;Today's&nbsp;0z&nbsp;Canadian&nbsp;Ensemble&nbsp;Mean&nbsp;centered&nbsp;on&nbsp;Day&nbsp;8&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>&nbsp;<br>FORECAST&nbsp;CONFIDENCE&nbsp;FOR&nbsp;THE&nbsp;6-10&nbsp;DAY&nbsp;PERIOD:&nbsp;Above&nbsp;Average,&nbsp;4&nbsp;out&nbsp;5,&nbsp;Growing&nbsp;&nbsp;<br>confidence&nbsp;in&nbsp;the&nbsp;mid-level&nbsp;height&nbsp;pattern&nbsp;is&nbsp;offset&nbsp;by&nbsp;the&nbsp;precipitation&nbsp;&nbsp;<br>anomaly&nbsp;forecast&nbsp;in&nbsp;the&nbsp;West.&nbsp;<br>&nbsp;<br>8-14&nbsp;DAY&nbsp;OUTLOOK&nbsp;FOR&nbsp;OCT&nbsp;21&nbsp;-&nbsp;27&nbsp;2026&nbsp;&nbsp;<br>&nbsp;<br>As&nbsp;in&nbsp;the&nbsp;6-10&nbsp;day&nbsp;period,&nbsp;there&nbsp;is&nbsp;good&nbsp;agreement&nbsp;among&nbsp;the&nbsp;dynamical&nbsp;model&nbsp;&nbsp;<br>ensemble&nbsp;solutions&nbsp;depicting&nbsp;the&nbsp;week-2&nbsp;500-hPa&nbsp;heights.&nbsp;Strong&nbsp;mid-level&nbsp;&nbsp;<br>ridging&nbsp;remains&nbsp;in&nbsp;place&nbsp;over&nbsp;the&nbsp;north-central&nbsp;CONUS&nbsp;with&nbsp;positive&nbsp;anomalies&nbsp;&nbsp;<br>extending&nbsp;to&nbsp;the&nbsp;Gulf&nbsp;Coast.&nbsp;Mid-level&nbsp;ridging&nbsp;over&nbsp;the&nbsp;Pacific&nbsp;in&nbsp;the&nbsp;6-10&nbsp;day&nbsp;&nbsp;<br>period&nbsp;has&nbsp;progressed&nbsp;eastwards&nbsp;towards&nbsp;British&nbsp;Columbia&nbsp;and&nbsp;the&nbsp;Pacific&nbsp;&nbsp;<br>Northwest.&nbsp;However,&nbsp;there&nbsp;is&nbsp;a&nbsp;stronger&nbsp;signal&nbsp;for&nbsp;continued&nbsp;troughing&nbsp;over&nbsp;the&nbsp;&nbsp;<br>southwestern&nbsp;CONUS&nbsp;relative&nbsp;to&nbsp;yesterday.&nbsp;Meanwhile,&nbsp;in&nbsp;Alaska,&nbsp;weak&nbsp;troughing&nbsp;&nbsp;<br>is&nbsp;favored&nbsp;to&nbsp;develop.&nbsp;Near&nbsp;normal&nbsp;heights&nbsp;remain&nbsp;forecast&nbsp;in&nbsp;Hawaii.&nbsp;&nbsp;<br>&nbsp;<br>As&nbsp;in&nbsp;the&nbsp;6-10&nbsp;day,&nbsp;above&nbsp;normal&nbsp;temperatures&nbsp;are&nbsp;favored&nbsp;across&nbsp;much&nbsp;of&nbsp;the&nbsp;&nbsp;<br>CONUS&nbsp;beneath&nbsp;mid-level&nbsp;positive&nbsp;height&nbsp;anomalies.&nbsp;Chances&nbsp;for&nbsp;above&nbsp;normal&nbsp;&nbsp;<br>exceed&nbsp;70%&nbsp;across&nbsp;the&nbsp;north-central&nbsp;CONUS.&nbsp;Below&nbsp;normal&nbsp;remains&nbsp;the&nbsp;favored&nbsp;&nbsp;<br>outcome&nbsp;during&nbsp;week-2&nbsp;over&nbsp;much&nbsp;of&nbsp;the&nbsp;West&nbsp;beneath&nbsp;500-hPa&nbsp;troughing.&nbsp;In&nbsp;&nbsp;<br>Alaska,&nbsp;weak&nbsp;mid-level&nbsp;ridging&nbsp;over&nbsp;eastern&nbsp;Alaska&nbsp;favors&nbsp;warm&nbsp;southerly&nbsp;flow&nbsp;&nbsp;<br>across&nbsp;the&nbsp;eastern&nbsp;Mainland&nbsp;and&nbsp;Southeast&nbsp;Alaska&nbsp;with&nbsp;near&nbsp;Normal&nbsp;over&nbsp;the&nbsp;&nbsp;<br>western&nbsp;Mainland.&nbsp;In&nbsp;Hawaii,&nbsp;above&nbsp;normal&nbsp;temperatures&nbsp;are&nbsp;forecast&nbsp;consistent&nbsp;&nbsp;<br>with&nbsp;above&nbsp;normal&nbsp;sea&nbsp;surface&nbsp;temperatures&nbsp;in&nbsp;the&nbsp;area.&nbsp;<br>&nbsp;<br>Above&nbsp;normal&nbsp;precipitation&nbsp;is&nbsp;forecast&nbsp;for&nbsp;much&nbsp;of&nbsp;the&nbsp;western&nbsp;and&nbsp;central&nbsp;&nbsp;<br>CONUS&nbsp;consistent&nbsp;with&nbsp;the&nbsp;mid-level&nbsp;troughing&nbsp;in&nbsp;the&nbsp;West&nbsp;and&nbsp;potential&nbsp;&nbsp;<br>propagation&nbsp;of&nbsp;shortwave&nbsp;troughing&nbsp;moving&nbsp;into&nbsp;the&nbsp;central&nbsp;CONUS.&nbsp;Near-normal&nbsp;&nbsp;<br>precipitation&nbsp;is&nbsp;favored&nbsp;along&nbsp;the&nbsp;Pacific&nbsp;Northwest&nbsp;and&nbsp;Northern&nbsp;California&nbsp;&nbsp;<br>coast&nbsp;behind&nbsp;the&nbsp;mid-level&nbsp;trough&nbsp;axis.&nbsp;Near&nbsp;to&nbsp;below&nbsp;normal&nbsp;precipitation&nbsp;is&nbsp;&nbsp;<br>also&nbsp;favored&nbsp;in&nbsp;the&nbsp;East&nbsp;with&nbsp;mid-level&nbsp;ridging&nbsp;dominating.&nbsp;In&nbsp;Alaska,&nbsp;above&nbsp;&nbsp;<br>normal&nbsp;precipitation&nbsp;is&nbsp;forecast&nbsp;for&nbsp;much&nbsp;of&nbsp;the&nbsp;state&nbsp;consistent&nbsp;with&nbsp;a&nbsp;&nbsp;<br>mid-level&nbsp;low&nbsp;over&nbsp;the&nbsp;Aleutians.&nbsp;Above&nbsp;normal&nbsp;precipitation&nbsp;remains&nbsp;favored&nbsp;in&nbsp;&nbsp;<br>Hawaii.&nbsp;<br>&nbsp;<br>The&nbsp;official&nbsp;8-14&nbsp;day&nbsp;500-hPa&nbsp;height&nbsp;blend&nbsp;consists&nbsp;of:&nbsp;10%&nbsp;of&nbsp;Today's&nbsp;0z&nbsp;GFS&nbsp;&nbsp;<br>Ensemble&nbsp;Mean&nbsp;centered&nbsp;on&nbsp;Day&nbsp;11,&nbsp;20%&nbsp;of&nbsp;Today's&nbsp;6z&nbsp;GFS&nbsp;Ensemble&nbsp;Mean&nbsp;centered&nbsp;&nbsp;<br>on&nbsp;Day&nbsp;11,&nbsp;40%&nbsp;of&nbsp;Today's&nbsp;0z&nbsp;European&nbsp;Ensemble&nbsp;Mean&nbsp;centered&nbsp;on&nbsp;Day&nbsp;11,&nbsp;and&nbsp;30%&nbsp;&nbsp;<br>of&nbsp;Today's&nbsp;0z&nbsp;Canadian&nbsp;Ensemble&nbsp;Mean&nbsp;centered&nbsp;on&nbsp;Day&nbsp;11&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;<br>FORECAST&nbsp;CONFIDENCE&nbsp;FOR&nbsp;THE&nbsp;8-14&nbsp;DAY&nbsp;PERIOD:&nbsp;Average,&nbsp;3&nbsp;out&nbsp;of&nbsp;5,&nbsp;Increased&nbsp;&nbsp;<br>confidence&nbsp;in&nbsp;the&nbsp;mid-level&nbsp;height&nbsp;pattern&nbsp;is&nbsp;offset&nbsp;by&nbsp;small&nbsp;precipitation&nbsp;and&nbsp;&nbsp;<br>temperature&nbsp;anomalies&nbsp;<br>&nbsp;<br>FORECASTER:&nbsp;Ryan&nbsp;Bolt&nbsp;<br>&nbsp;<br>Notes:&nbsp;<br>&nbsp;<br>&nbsp;<br>The&nbsp;notation&nbsp;for&nbsp;the&nbsp;categorical&nbsp;forecast&nbsp;indicated&nbsp;on&nbsp;the&nbsp;maps&nbsp;is&nbsp;&nbsp;<br>the&nbsp;same&nbsp;as&nbsp;that&nbsp;in&nbsp;the&nbsp;tables:&nbsp;A-above&nbsp;&nbsp;&nbsp;N-near&nbsp;normal&nbsp;&nbsp;&nbsp;B-below&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>The&nbsp;temperature&nbsp;map&nbsp;shows&nbsp;regions&nbsp;with&nbsp;>&nbsp;33%&nbsp;chance&nbsp;of&nbsp;being&nbsp;warmer&nbsp;<br>(orange,&nbsp;"A"),&nbsp;colder&nbsp;(blue,&nbsp;"B"),&nbsp;or&nbsp;close&nbsp;to&nbsp;(gray,&nbsp;"N")&nbsp;normal.&nbsp;<br>Labels&nbsp;on&nbsp;the&nbsp;shaded&nbsp;lines&nbsp;give&nbsp;the&nbsp;probability&nbsp;(>&nbsp;33%)&nbsp;of&nbsp;the&nbsp;more&nbsp;<br>likely&nbsp;category&nbsp;(B&nbsp;or&nbsp;A).&nbsp;Probability&nbsp;of&nbsp;N&nbsp;is&nbsp;always&nbsp;<&nbsp;40%.&nbsp;<br>&nbsp;&nbsp;<br>The&nbsp;precipitation&nbsp;map&nbsp;shows&nbsp;regions&nbsp;with&nbsp;>&nbsp;33%&nbsp;chance&nbsp;of&nbsp;being&nbsp;&nbsp;<br>wetter&nbsp;(green,&nbsp;"A"),&nbsp;drier&nbsp;(tan,&nbsp;"B"),&nbsp;or&nbsp;close&nbsp;to&nbsp;(gray,&nbsp;"N")&nbsp;<br>normal.&nbsp;Labels&nbsp;on&nbsp;the&nbsp;shaded&nbsp;lines&nbsp;give&nbsp;the&nbsp;probability&nbsp;(>&nbsp;33%)&nbsp;of&nbsp;<br>the&nbsp;more&nbsp;likely&nbsp;category&nbsp;(B&nbsp;or&nbsp;A).&nbsp;Probability&nbsp;of&nbsp;N&nbsp;is&nbsp;always&nbsp;<&nbsp;40%.&nbsp;<br>&nbsp;&nbsp;<br>In&nbsp;the&nbsp;southwest&nbsp;and&nbsp;other&nbsp;climatologically&nbsp;dry&nbsp;regions&nbsp;-&nbsp;there&nbsp;will&nbsp;&nbsp;<br>be&nbsp;a&nbsp;greater&nbsp;than&nbsp;33.3%&nbsp;chance&nbsp;of&nbsp;no&nbsp;precipitation&nbsp;and&nbsp;occasionally&nbsp;&nbsp;<br>even&nbsp;a&nbsp;normal&nbsp;(i.e.&nbsp;Median)&nbsp;value&nbsp;of&nbsp;zero&nbsp;-&nbsp;especially&nbsp;during&nbsp;the&nbsp;dry&nbsp;&nbsp;<br>seasons.&nbsp;&nbsp;In&nbsp;such&nbsp;cases&nbsp;a&nbsp;forecast&nbsp;of&nbsp;near&nbsp;normal&nbsp;is&nbsp;effectively&nbsp;a&nbsp;&nbsp;<br>forecast&nbsp;of&nbsp;little&nbsp;or&nbsp;no&nbsp;precipitation.&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>The&nbsp;climate&nbsp;prediction&nbsp;center&nbsp;uses&nbsp;1991-2020&nbsp;base&nbsp;period&nbsp;means&nbsp;as&nbsp;&nbsp;&nbsp;<br>reference&nbsp;in&nbsp;the&nbsp;climate&nbsp;outlooks.&nbsp;<br>&nbsp;<br>The&nbsp;next&nbsp;set&nbsp;of&nbsp;long-lead&nbsp;monthly&nbsp;and&nbsp;seasonal&nbsp;outlooks&nbsp;will&nbsp;be&nbsp;released&nbsp;on&nbsp;&nbsp;<br>October&nbsp;15.&nbsp;<br>&nbsp;<br>&nbsp;<br>Analogs&nbsp;to&nbsp;the&nbsp;5&nbsp;day&nbsp;mean&nbsp;observed&nbsp;pattern&nbsp;centered&nbsp;3&nbsp;days&nbsp;ago&nbsp;(D-3)&nbsp;<br>for&nbsp;the&nbsp;region&nbsp;from&nbsp;20N&nbsp;to&nbsp;70N&nbsp;latitude&nbsp;and&nbsp;175E&nbsp;to&nbsp;60W&nbsp;longitude&nbsp;<br>include&nbsp;the&nbsp;5&nbsp;day&nbsp;periods&nbsp;centered&nbsp;on&nbsp;the&nbsp;following&nbsp;dates:&nbsp;<br>20050925&nbsp;-&nbsp;20061005&nbsp;-&nbsp;19980924&nbsp;-&nbsp;20131010&nbsp;-&nbsp;19891002&nbsp;<br>&nbsp;<br>&nbsp;<br>Analogs&nbsp;to&nbsp;the&nbsp;7&nbsp;day&nbsp;mean&nbsp;observed&nbsp;pattern&nbsp;centered&nbsp;4&nbsp;days&nbsp;ago&nbsp;(D-4)&nbsp;<br>for&nbsp;the&nbsp;region&nbsp;from&nbsp;20N&nbsp;to&nbsp;70N&nbsp;latitude&nbsp;and&nbsp;175E&nbsp;to&nbsp;60W&nbsp;longitude&nbsp;<br>include&nbsp;the&nbsp;7&nbsp;day&nbsp;periods&nbsp;centered&nbsp;on&nbsp;the&nbsp;following&nbsp;dates:&nbsp;<br>19891001&nbsp;-&nbsp;20050925&nbsp;-&nbsp;19980923&nbsp;-&nbsp;20251006&nbsp;-&nbsp;20061004&nbsp;<br>&nbsp;<br>&nbsp;<br>6-10&nbsp;DAY&nbsp;OUTLOOK&nbsp;TABLE&nbsp;<br>Outlook&nbsp;for&nbsp;Oct&nbsp;19&nbsp;-&nbsp;23&nbsp;2026&nbsp;<br>&nbsp;<br>STATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEMP&nbsp;PCPN&nbsp;&nbsp;&nbsp;STATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEMP&nbsp;PCPN&nbsp;&nbsp;&nbsp;STATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEMP&nbsp;PCPN&nbsp;&nbsp;&nbsp;&nbsp;<br>WASHINGTON&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OREGON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NRN&nbsp;CALIF&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>SRN&nbsp;CALIF&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IDAHO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEVADA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>W&nbsp;MONTANA&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E&nbsp;MONTANA&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WYOMING&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>UTAH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARIZONA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COLORADO&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>NEW&nbsp;MEXICO&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;DAKOTA&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&nbsp;DAKOTA&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>NEBRASKA&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KANSAS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OKLAHOMA&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>N&nbsp;TEXAS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&nbsp;TEXAS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W&nbsp;TEXAS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>MINNESOTA&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IOWA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MISSOURI&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>ARKANSAS&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOUISIANA&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WISCONSIN&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>ILLINOIS&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MISSISSIPPI&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MICHIGAN&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>INDIANA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OHIO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KENTUCKY&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>TENNESSEE&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ALABAMA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEW&nbsp;YORK&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>VERMONT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEW&nbsp;HAMP&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAINE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>MASS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CONN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RHODE&nbsp;IS&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>PENN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEW&nbsp;JERSEY&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W&nbsp;VIRGINIA&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>MARYLAND&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DELAWARE&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VIRGINIA&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>N&nbsp;CAROLINA&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&nbsp;CAROLINA&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GEORGIA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>FL&nbsp;PNHDL&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FL&nbsp;PENIN&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AK&nbsp;N&nbsp;SLOPE&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>AK&nbsp;ALEUTIAN&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AK&nbsp;WESTERN&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AK&nbsp;INT&nbsp;BSN&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>AK&nbsp;S&nbsp;INT&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AK&nbsp;SO&nbsp;COAST&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AK&nbsp;PNHDL&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>8-14&nbsp;DAY&nbsp;OUTLOOK&nbsp;TABLE&nbsp;<br>Outlook&nbsp;for&nbsp;Oct&nbsp;21&nbsp;-&nbsp;27&nbsp;2026&nbsp;<br>&nbsp;<br>STATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEMP&nbsp;PCPN&nbsp;&nbsp;&nbsp;STATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEMP&nbsp;PCPN&nbsp;&nbsp;&nbsp;STATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEMP&nbsp;PCPN&nbsp;&nbsp;&nbsp;&nbsp;<br>WASHINGTON&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OREGON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NRN&nbsp;CALIF&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>SRN&nbsp;CALIF&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IDAHO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEVADA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>W&nbsp;MONTANA&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E&nbsp;MONTANA&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WYOMING&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>UTAH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARIZONA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COLORADO&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>NEW&nbsp;MEXICO&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;DAKOTA&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&nbsp;DAKOTA&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>NEBRASKA&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KANSAS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OKLAHOMA&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>N&nbsp;TEXAS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&nbsp;TEXAS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W&nbsp;TEXAS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>MINNESOTA&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IOWA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MISSOURI&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>ARKANSAS&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOUISIANA&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WISCONSIN&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>ILLINOIS&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MISSISSIPPI&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MICHIGAN&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>INDIANA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OHIO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KENTUCKY&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>TENNESSEE&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ALABAMA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEW&nbsp;YORK&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>VERMONT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEW&nbsp;HAMP&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAINE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>MASS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CONN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RHODE&nbsp;IS&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>PENN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEW&nbsp;JERSEY&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W&nbsp;VIRGINIA&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>MARYLAND&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DELAWARE&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VIRGINIA&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>N&nbsp;CAROLINA&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&nbsp;CAROLINA&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GEORGIA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>FL&nbsp;PNHDL&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FL&nbsp;PENIN&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AK&nbsp;N&nbsp;SLOPE&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>AK&nbsp;ALEUTIAN&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AK&nbsp;WESTERN&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AK&nbsp;INT&nbsp;BSN&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>AK&nbsp;S&nbsp;INT&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AK&nbsp;SO&nbsp;COAST&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AK&nbsp;PNHDL&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LEGEND&nbsp;<br>TEMPS&nbsp;WITH&nbsp;RESPECT&nbsp;TO&nbsp;NORMAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PCPN&nbsp;WITH&nbsp;RESPECT&nbsp;TO&nbsp;MEDIAN&nbsp;<br>A&nbsp;-&nbsp;ABOVE&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;-&nbsp;NEAR&nbsp;NORMAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;-&nbsp;ABOVE&nbsp;&nbsp;&nbsp;N&nbsp;-&nbsp;NEAR&nbsp;MEDIAN&nbsp;<br>B&nbsp;-&nbsp;BELOW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;-&nbsp;BELOW&nbsp;<br>&nbsp;&nbsp;<br>THE&nbsp;FORECAST&nbsp;CLASSES&nbsp;REPRESENT&nbsp;AVERAGES&nbsp;FOR&nbsp;EACH&nbsp;STATE.&nbsp;NORMAL&nbsp;<br>VALUES&nbsp;-&nbsp;WHICH&nbsp;MAY&nbsp;VARY&nbsp;WIDELY&nbsp;ACROSS&nbsp;SOME&nbsp;STATES&nbsp;-&nbsp;ARE&nbsp;<br>AVAILABLE&nbsp;FROM&nbsp;YOUR&nbsp;LOCAL&nbsp;WEATHER&nbsp;SERVICE&nbsp;FORECAST&nbsp;OFFICE.&nbsp;<br>&nbsp;&nbsp;<br>FOR&nbsp;ADDITIONAL&nbsp;INFORMATION&nbsp;SEE&nbsp;MESSAGE&nbsp;FXUS06&nbsp;KWBC&nbsp;-&nbsp;ON&nbsp;AWIPS&nbsp;AS&nbsp;<br>PMDMRD.&nbsp;<br>&nbsp;<br>$$&nbsp;<br>&nbsp;<br>&nbsp;<br>
+       
+      </td>
+   </tr>
+</table>
+
+
+
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

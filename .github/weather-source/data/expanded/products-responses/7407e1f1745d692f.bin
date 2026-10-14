@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.06 [en] (Win98; I) [Netscape]">
+   <TITLE>MSU Climatology Program</TITLE>
+</HEAD>
+<body>
+
+<h1>West Central Lower Division -- Click on a station symbol for tables</h1>
+
+<HR width="100%">
+
+<center>
+   <img src="wc-lower.gif" usemap="#WC-LOWER" hspace=5 vspace=5 border=0 height=336 width=269>
+      <map name="WC-LOWER">
+         <area shape="circle" coords="212,25,5"  href="stations/1176" alt="">
+         <area shape="circle" coords="240,12,5"  href="stations/4502" alt="">
+         <area shape="circle" coords="133,24,5"  href="stations/8772" alt="">
+         <area shape="circle" coords="79,28,5"   href="stations/5065" alt="">
+         <area shape="circle" coords="65,97,5"   href="stations/4954" alt="">
+         <area shape="circle" coords="86,81,5"   href="stations/7405" alt="">
+         <area shape="circle" coords="150,94,5"  href="stations/0446" alt="">
+         <area shape="circle" coords="240,93,5"  href="stations/2671" alt="">
+         <area shape="circle" coords="202,138,5" href="stations/0779" alt="">
+         <area shape="circle" coords="67,142,5"  href="stations/3632" alt="Hart">
+         <area shape="circle" coords="111,161,5" href="stations/3769" alt="">
+         <area shape="circle" coords="62,190,5"  href="stations/5567" alt="">
+         <area shape="circle" coords="88,252,5"  href="stations/5712" alt="">
+         <area shape="circle" coords="99,275,5"  href="stations/3290" alt="">
+         <area shape="circle" coords="112,326,5" href="stations/3858" alt="Holland">
+         <area shape="circle" coords="229,295,5" href="stations/4944" alt="">
+         <area shape="circle" coords="166,243,5" href="stations/4320" alt="">
+         <area shape="circle" coords="243,241,5" href="stations/3429" alt="">
+         <area shape="circle" coords="200,309,5" href="stations/3333" alt="">
+      </map>
+   </img>
+</center>
+
+<p>Additional Stations:</p>
+
+</BODY>
+</HTML>

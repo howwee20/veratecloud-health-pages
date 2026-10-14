@@ -1,0 +1,229 @@
+============================================================================== 
+Station Notes - Lawrewnce/Teapot Dome (Mandigo Farms) 
+ 
+ 
+06/04/2026: Station Maintenance:                                        [1230] 
+ 
+            - sensor repair / replacement, including: 
+               - replaced atmp/relh radiation shield 
+               - replaced atmp/relh sensor (HMP45 -> HygroVue10) 
+               - repalced leaf wetness sensor [canopy] 
+               - upgraded logger program: tpd-bbsb.cr1 (12:52 EDT) 
+ 
+            - routine site maintenance, including: 
+               - adjusted station tripod (adjusted level) 
+               - weed removal / trimmed grass 
+ 
+ 
+ 
+============================================================================== 
+08/13/2021: Logger Maintenance:                                         [0908] 
+ 
+            - loaded logger program: tpd-bbab.cr1* 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+05/05/2021: Station Maintenance:                                        [1210] 
+ 
+            - routine maintenance  
+            - updated modem 
+ 
+ 
+02/10/2021: Logger / Station Maintnenace:                               [1200] 
+ 
+            - loaded logger program: tpd-bbab   (237 -> LWS-L)* 
+                 * sensor replaced: 07/23/2020 (both) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+ 
+============================================================================== 
+07/23/2020: Logger / Station Maintenance:                               [1115] 
+ 
+            - replaced leaf wetness (237 -> LWS-L)   [both] 
+            - requires logger program change 
+ 
+ 
+05/26/2020: Station Maintenance:                                        [1220] 
+ 
+            - routine station maintenance  
+ 
+ 
+ 
+=============================================================================== 
+06/19/2019: Logger Maintenance:                                          [1305] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: tpd-bbaa 
+ 
+ 
+ 
+============================================================================== 
+07/18/2018: Station Maintenance:                                        [1355] 
+  
+            - station / site maintenance  
+ 
+ 
+05/24/2018: Station Maintenance:                                        [1355] 
+ 
+            - annual station / site maintenance  
+ 
+ 
+01/03/2018: Station Maintenance:                                        [1100] 
+ 
+            - replaced faulty logger battery 
+ 
+ 
+ 
+============================================================================== 
+09/19/2017: Station Maintenance:                                        [0001] 
+ 
+            - loaded logger program "tpd-bbaa" 
+ 
+ 
+07/17/2017: Station Maintenance:                                        [1030] 
+ 
+            - annual maintenance, including: 
+               - rewire of atmp/relh (HMP45C) to "continuous" power 
+ 
+ 
+05/08/2017: Station Maintenance:                                        [1135] 
+ 
+            - annual maintenance 
+ 
+ 
+ 
+============================================================================== 
+08/09/2016: Station Maintenance:                                        [1215] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+ 
+============================================================================== 
+06/09/2015: Station Maintenance:                                        [????] 
+ 
+            - routine station maintenance, including: 
+               - lithium battery check 
+               - weed removal 
+ 
+ 
+ 
+============================================================================== 
+10/10/2014: System Maintenance:                                         [1203] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbaa-tpd" 
+ 
+ 
+ 
+============================================================================== 
+09/03/2013: Station Maintenance:                                        [1430] 
+ 
+            - Replaced Soil Moisture 0 sensor.   Due to faulty  
+              sensor, data for the following period has been  
+              marked as "missing": 
+ 
+                 08/14/2013 (d=226) 1130 - 09/03/2013 (d=246) 1430 
+ 
+ 
+07/16/2013: Station Maintenance:                                        [1130] 
+ 
+            - Repaired Soil Temp (4")... loose wiring.  Due to the  
+              trouble, data for the following period has been marked 
+              as "missing": 
+ 
+                 06/09/2013 (d=160) 0005 - 07/16/2013 (d=197) 1130 
+ 
+ 
+04/17/2013: Station Maintenance:                                        [1300] 
+ 
+            - Several Sensors replaced: 
+ 
+                - Soil Temp 0 (2") 
+                - Soil Temp 1 (4") 
+                - Soil Moisture 0 
+                - Soil Moisture 1 
+                - Leaf Wetness 0 (Standard) 
+                - Leaf Wetness 1 (Canopy) 
+ 
+             - Due to faulty sensors, data for "Soil Temp 0", "Soil Temp 1", 
+               "Soil Moisture 1" marked as "missing" for the following: 
+ 
+                  09/22/2013 (d=266) 0200 - 04/17/2013 (d=107) 1400 
+ 
+ 
+ 
+============================================================================== 
+06/21/2010: Station Maintenance:                                        [1130] 
+ 
+            - Routine maintence, including: 
+              - leaf wetness sensor replaced (severe oxidation) 
+              - weed removal 
+              - all other sensors appear to be ok 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+09/09/2009: Data Quality:                                               [1630] 
+ 
+            - Faulty Soil Moisture data that was introduced prior to 
+              sensor repair was removed from the data archive.  The 
+              soil moisture data (both sensors) that was recorded 
+              during the following time period has been marked as  
+              "missing": 
+ 
+                06/30/09 (d=181) 08:00  -  07/13/09 (d=194) 09:00 
+ 
+ 
+ 
+06/30/2009: Station Maintenance:                                        [0900] 
+ 
+            - Faulty soil moisture sensor was repaired/replaced. 
+ 
+ 
+ 
+06/22/2009: Station Online: 
+ 
+            - Station added to MAWN web site. 
+ 
+ 
+ 
+06/15/2009: Data Collection Enabled: 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                 First data report:   Jun 16, 2009 - 00:05 (Day=167) 
+ 
+ 
+ 
+06/15/2009: Station Maintenance: 
+ 
+            - Established telecommunication between station cell-modem and 
+              data collection PC/server on campus.    
+ 
+            - Loaded MAWN Program:   BBC-TPD 
+                                         B => CR1000 
+                                         B => CS616  
+                                         C => Broadband Cell Modem (IP) 
+                                       TPD => Station ID (Teapot Dome) 
+                                        
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+ 
+06/15/2009: Station Setup: 
+ 
+            - Station Installed. 
+ 
+ 
+ 
+============================================================================== 
+

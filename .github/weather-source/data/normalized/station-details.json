@@ -66,7 +66,7 @@
         "url": "https://mawn.geo.msu.edu/station.asp?id=bnz",
         "file": "input/mawn/station-bnz.html",
         "sha256": "112b20a7ab698ff83538ad3ad1cf11bb4d971c57dcaed51017b057d1af2d67fb",
-        "retrievedAtUtc": "2026-10-13T15:33:58.484295+00:00"
+        "retrievedAtUtc": "2026-10-14T00:42:58.635482+00:00"
       },
       "rawFile": {
         "directory": "3hr",
@@ -76,7 +76,7 @@
           "href": "benzonia",
           "url": "https://mawn.geo.msu.edu/rawdata/3hr/benzonia",
           "type": "file",
-          "lastModifiedRaw": "2026-10-13 11:11",
+          "lastModifiedRaw": "2026-10-13 16:11",
           "sizeRaw": "2.0K"
         },
         "basis": "The station page's \"Station\" field equals a file name in the captured /rawdata/3hr/ listing."
@@ -86,22 +86,22 @@
           "id": "mawn-report-bnzh",
           "url": "https://mawn.geo.msu.edu/report.asp?fileid=bnzh",
           "file": "input/mawn/report-bnzh.html",
-          "sha256": "d365ca491f10709329b33c6e7b891ffa9bc38c8ec2290dcd7c9633592d321379",
-          "retrievedAtUtc": "2026-10-13T15:34:03.821402+00:00"
+          "sha256": "2e29feda0032c9c33c76eed83928bf22d42619a5150ada5c612214d845fc6816",
+          "retrievedAtUtc": "2026-10-14T00:43:02.753987+00:00"
         },
         "daily": {
           "id": "mawn-report-bnzd",
           "url": "https://mawn.geo.msu.edu/report.asp?fileid=bnzd",
           "file": "input/mawn/report-bnzd.html",
           "sha256": "eac3c445226bdd00ee8c408a2af2e031a245bf1e27b698ce9c070baaa75165c9",
-          "retrievedAtUtc": "2026-10-13T15:34:05.924502+00:00"
+          "retrievedAtUtc": "2026-10-14T00:43:04.788756+00:00"
         },
         "maintenance": {
           "id": "mawn-report-bnzm",
           "url": "https://mawn.geo.msu.edu/report.asp?fileid=bnzm",
           "file": "input/mawn/report-bnzm.html",
           "sha256": "67cf8e5a61a90b1868114a748f6858972a1ce0664bcd1a9c030d608826857919",
-          "retrievedAtUtc": "2026-10-13T15:34:08.036603+00:00"
+          "retrievedAtUtc": "2026-10-14T00:43:06.824526+00:00"
         }
       }
     },
@@ -170,7 +170,7 @@
         "url": "https://mawn.geo.msu.edu/station.asp?id=swm",
         "file": "input/mawn/station-swm.html",
         "sha256": "2a9fdc569e57d05291f23381905f11cc244e5691f9b91e248344dd4bfa5c4e62",
-        "retrievedAtUtc": "2026-10-13T15:34:01.612583+00:00"
+        "retrievedAtUtc": "2026-10-14T00:43:00.716122+00:00"
       },
       "rawFile": {
         "directory": "3hr",
@@ -180,8 +180,8 @@
           "href": "swmrec",
           "url": "https://mawn.geo.msu.edu/rawdata/3hr/swmrec",
           "type": "file",
-          "lastModifiedRaw": "2026-10-13 11:32",
-          "sizeRaw": "2.7K"
+          "lastModifiedRaw": "2026-10-13 20:32",
+          "sizeRaw": "2.6K"
         },
         "basis": "The station page's \"Station\" field equals a file name in the captured /rawdata/3hr/ listing."
       },

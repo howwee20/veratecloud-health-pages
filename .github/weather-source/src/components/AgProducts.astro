@@ -1,7 +1,8 @@
 ---
+import {localHref} from '../lib/route';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import {agweather} from '../lib/data';
 const {kind}=Astro.props;const page=agweather[kind];
 const columns=kind==='current'?[page.sections.slice(0,3),page.sections.slice(3)]:[page.sections.slice(0,4),page.sections.slice(4)];
 ---
-<BaseLayout title={page.pageHeading} section="agweather" source={page.source.url}><h1 class="ag-page-heading">{page.pageHeading}</h1><hr class="green-rule"/><div class="ag-columns">{columns.map(sections=><div>{sections.map(s=><section class="product-section"><h2 class="green-heading">{s.heading}:</h2>{s.groups.map(g=><>{g.label&&<h3>{g.label}:</h3>}<ul class="arrow-links">{g.links.map(l=><li><a href={l.url} aria-label={`${l.label} — ${s.heading}${g.label ? ` (${g.label})` : ""}`}>{l.label}</a></li>)}</ul></>)}</section>)}</div>)}</div></BaseLayout>
+<BaseLayout title={page.pageHeading} section="agweather" source={page.source.url}><h1 class="ag-page-heading">{page.pageHeading}</h1><hr class="green-rule"/><div class="ag-columns">{columns.map(sections=><div>{sections.map(s=><section class="product-section"><h2 class="green-heading">{s.heading}:</h2>{s.groups.map(g=><>{g.label&&<h3>{g.label}:</h3>}<ul class="arrow-links">{g.links.map(l=><li><a href={localHref(l.url)} aria-label={`${l.label} — ${s.heading}${g.label ? ` (${g.label})` : ""}`}>{l.label}</a></li>)}</ul></>)}</section>)}</div>)}</div></BaseLayout>

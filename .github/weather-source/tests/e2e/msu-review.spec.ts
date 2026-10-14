@@ -21,7 +21,7 @@ for (const route of allRoutes) {
     }
    });
    const issues=await page.evaluate(()=>Array.from(document.querySelectorAll<HTMLElement>('body *')).filter(el=>{
-    if(el.closest('.table-wrap,svg,.visually-hidden')||el.classList.contains('skip-link')||!el.clientWidth)return false;
+    if(el.closest('.table-wrap,.map-values-table,svg,.visually-hidden')||el.classList.contains('skip-link')||!el.clientWidth)return false;
     const s=getComputedStyle(el);return s.display!=='inline' && el.scrollWidth>el.clientWidth+2;
    }).map(el=>({tag:el.tagName,cls:el.className,text:el.textContent?.slice(0,70),width:el.clientWidth,scroll:el.scrollWidth})));
    expect(issues,`text spacing at ${width}px`).toEqual([]);

@@ -1,0 +1,110 @@
+=============================================================================== 
+Station Notes - Arlington (WI) 
+ 
+ 
+06/09/2023: Station Retired                                             [0000] 
+  
+            - station retired 
+               - station now being managed by Wisconet (Wisconsin Mesonet)... 
+                  ...for more information and current data, refer to: 
+ 
+                        https://wisconet.wisc.edu 
+                        https://wisconet.wisc.edu/stations/arlington 
+ 
+ 
+ 
+============================================================================== 
+09/22/2021: Station Maintenance:                                        [1500] 
+ 
+            - repaired tipping bucket rain gauge (cleared obstruction) 
+ 
+ 
+07/14/2021: Logger Maintenance:                                          [1001] 
+ 
+            - loaded logger program: alt-cbcd.cr1* 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+06/04/2021: Logger Maintenance:                                          [2002] 
+ 
+            - loaded logger program: alt-cbcd.cr1*  
+                 * supports "maintenance mode" 
+ 
+ 
+ 
+=============================================================================== 
+10/18/2019: Logger Maintenance:                                          [0000] 
+ 
+            - upgraded logger program to mask out canopy wetness 
+            - loaded logger program: alt-cbcd 
+ 
+ 
+07/30/2019: Logger Maintenance:                                          [0905] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: alt-cbcb 
+ 
+ 
+ 
+=============================================================================== 
+10/17/2018: Station Maintenance:                                         [1500] 
+  
+            - corrected faulty battery/logger wiring 
+            - repaired atmp/relh sensor wiring connection 
+ 
+ 
+08/24/2018: Station Maintenance:                                         [----] 
+ 
+            - replaced cell modem 
+ 
+ 
+02/12/2018: Station Maintenance:                                         [1100] 
+ 
+            - replaced logger battery 
+            - installed solid-state relay 
+ 
+ 
+01/23/2018: Station Maintenance:                                         [1100] 
+ 
+            - replaced logger battery 
+ 
+ 
+01/19/2018: Station Online:                                              [1700] 
+     
+            - Station added to Enviroweather/MAWN database system 
+ 
+ 
+11/14/2017: Data Collection Enabled                                      [0848] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   Nov 15, 2017 (d=319) 00:05 
+ 
+ 
+11/14/2017: Station Maintenance:                                         [0848] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+11/14/2017: Logger Setup                                                 [0848] 
+ 
+            - Loaded MAWN Program: alt-cbcb 
+                                      alt => Station ID (Arlington [WI]) 
+                                        c => CR1000/WI (Logger/State) 
+                                        b => CS616 (Soil Moisture) 
+                                        c => HMP155A (Temp/RH) 
+                                        b => LWS-L (Leaf Wetness) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+10/03/2017: Station Setup                                                [1000] 
+ 
+            - station setup/activated at field site 
+ 
+ 
+=============================================================================== 
+

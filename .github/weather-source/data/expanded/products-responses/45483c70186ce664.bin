@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Microsoft FrontPage 5.0">
+   <TITLE>MSU Climatology Program</TITLE>
+</HEAD>
+<body>
+
+<h1>Central Lower Division --
+Click on a station symbol for tables</h1>
+
+<HR width="100%">
+<CENTER>
+   <img src="c-lower.gif" usemap="#C-LOWER" hspace=5 vspace=5 border=0 height=320 width=354>
+      <map name="C-LOWER">
+         <area shape="circle" coords="224,93,5"  href="stations/3170" alt="Gladwin">
+         <area shape="circle" coords="183,83,5"  href="stations/3616" alt="Harrison">
+         <area shape="circle" coords="260,33,5"  href="stations/3616" alt="West Branch">
+         <area shape="circle" coords="192,15,5"  href="stations/3932" alt="">
+         <area shape="circle" coords="113,27,5"  href="stations/4502" alt="">
+         <area shape="circle" coords="85,41,5"   href="stations/1176" alt="">
+         <area shape="circle" coords="8,43,5"    href="stations/8772" alt="">
+         <area shape="circle" coords="20,111,5"  href="stations/0446" alt="">
+         <area shape="circle" coords="75,157,5"  href="stations/0779" alt="">
+         <area shape="circle" coords="39,259,5"  href="stations/4320" alt="">
+         <area shape="circle" coords="143,305,5" href="stations/4078" alt="">
+         <area shape="circle" coords="115,258,5" href="stations/3429" alt="">
+         <area shape="circle" coords="206,215,5" href="stations/0146" alt="">
+         <area shape="circle" coords="221,297,5" href="stations/7280" alt="">
+         <area shape="circle" coords="279,291,5" href="stations/6300" alt="">
+         <area shape="circle" coords="283,229,5" href="stations/7253" alt="">
+         <area shape="circle" coords="306,202,5" href="stations/7217" alt="">
+         <area shape="circle" coords="287,186,5" href="stations/7227" alt="">
+         <area shape="circle" coords="261,162,5" href="stations/5434" alt="">
+         <area shape="circle" coords="302,92,5"  href="stations/7820" alt="">
+         <area shape="circle" coords="112,111,5" href="stations/2671" alt="">
+         <area shape="circle" coords="103,309,5" href="stations/4944" alt="">
+         <area shape="circle" coords="184,175,5" href="stations/5662" alt="">
+         <area shape="circle" coords="327,165,5" href="stations/2631" alt="Essexville">
+      </map>
+   </img>
+</CENTER>
+
+<p>Additional Stations:</p>
+<p><font size="4"><a href="stations/0632/">0632 Beaverton 1 SSE</a></font></p>
+
+</BODY>
+</HTML>

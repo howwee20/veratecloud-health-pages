@@ -1,0 +1,111 @@
+=============================================================================== 
+Station Notes - Petsoskey (MI) 
+ 
+ 
+05/28/2026: Station / Logger Maintenance:                               [1400] 
+ 
+            - data-collection troubleshooting, including:  
+               - replaced logger 
+               - loaded logger program "pky-bbcd.cr1" (1422) 
+ 
+            - routine maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery (good) 
+               - checked soil sensors (good) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane (good) 
+               - checked / cleaned atmp/relh radiation shield (good) 
+               - checked / cleaned atmp/relh sensor [HMP155] (good) 
+               - checked / cleaned leaf wetness [standard]* 
+               - checked / cleaned pyranometer (good) 
+               - cleaned solar panel 
+               - weed removal / trimmed grass 
+ 
+               * canopy leaf wetness sensor is broken, but not replacing  
+                 at this time because current program does not support the  
+                 canopy sensor. 
+                
+ 
+  
+============================================================================== 
+08/25/2021: Logger / Station Maintenance:                               [1140] 
+ 
+            - routine site maintenance 
+ 
+ 
+06/30/2021: Station Maintenance:                                        [1230] 
+ 
+            - routine site / station maintenance  
+            - updated modem 
+            - replaced faulty soil temperature (10-cm) sensor 
+ 
+ 
+ 
+============================================================================== 
+08/25/2020: Station Maintenance:                                        [1200] 
+ 
+            - replaced atmp/relh sensor (hmp155) 
+ 
+ 
+06/29/2020: Logger / Station Maintenance:                               [1445] 
+ 
+            - site maintenance, including 
+              - replacement of standard leaf wetness sensor 
+              - relocation of solar panel 
+ 
+ 
+ 
+============================================================================== 
+07/19/2019: Logger / Station Maintenance:                               [1320] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: pky-bbcd 
+ 
+ 
+ 
+=============================================================================== 
+06/13/2018: Logger Maintenance:                                          [0003] 
+ 
+            - loaded logger program "pky-bbcd" 
+               - should hopefully correct solar radiation issue 
+ 
+ 
+06/11/2018: Station Online:                                              [1510] 
+     
+            - Station added to Enviroweather/MAWN database system 
+          
+ 
+06/07/2018: Data Collection Enabled                                      [1005] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   June 08, 2018 (d=159) 00:05 
+ 
+ 
+06/07/2018: Logger Setup                                                 [1003] 
+ 
+            - Loaded MAWN Program: pky-bbcd 
+                                      pky => Station ID (Petoskey [MI]) 
+                                        b => CR1000/MI (Logger/State) 
+                                        b => CS616 (Soil Moisture) 
+                                        c => HMP155A (Temp/RH) 
+                                        d => LWS-L (Leaf Wetness) [no canopy] 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+06/07/2018: Station Maintenance:                                         [1000] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+06/01/2018: Station Setup                                                [----] 
+ 
+            - station setup/activated at field site 
+ 
+ 
+ 
+=============================================================================== 
+

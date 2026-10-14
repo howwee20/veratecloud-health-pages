@@ -1,0 +1,322 @@
+============================================================================== 
+Station Notes - Petersburg/Dundee 
+ 
+02/15/2017: Station Decommissioned                                      [2400] 
+ 
+ 
+ 
+============================================================================== 
+08/23/2016: System Maintenance:                                         [----] 
+ 
+            - unclogged tipping-bucket rain gauge 
+ 
+ 
+ 
+============================================================================== 
+06/30/2015: System Maintenance:                                         [1145] 
+ 
+            - replaced wind instruments 
+ 
+ 
+ 
+============================================================================== 
+11/19/2014: System Maintenance:                                         [1504] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "mawn_abcf" 
+ 
+ 
+ 
+============================================================================== 
+07/05/2012: Data Quality:                                               [1530] 
+ 
+            - Marked Leaf Wetness 0 and Leaf Wetness 1 as "missing" 
+              during following time period: 
+ 
+                 04/01/2012 (d=092) 00:05 - 04/20/2012 (d=111) 11:00 
+ 
+ 
+06/14/2012: Station Maintenance:                                        [1440] 
+ 
+            - Replaced Modem 
+ 
+ 
+04/20/2012: Station Maintenance:                                        [1100] 
+ 
+            - Replaced Both Leaf Wetness Sensors 
+ 
+ 
+04/16/2012: Station Maintenace:                                         [1500] 
+ 
+            - Cleaned Leaf Wetness Sensors 
+            - Cleaned Precipitation Bucket 
+ 
+ 
+ 
+============================================================================== 
+03/18/2011: Station Maintenance:                                        [1025] 
+ 
+            - Replaced Battery 
+            - Performed Early Spring Maintenance 
+ 
+ 
+03/16/2011: Data Correction:                                            [1045] 
+ 
+            - Recent battery issues have led to a loss of data during 
+              the following time periods: 
+  
+                 03/06/2011 (d=065) 0705 - 03/06/2011 (d=065) 0900 
+                 03/07/2011 (d=066) 0205 - 03/07/2011 (d=066) 0800 
+                 03/08/2011 (d=067) 0605 - 03/08/2011 (d=067) 0900 
+                 03/09/2011 (d=068) 1705 - 03/10/2011 (d=069) 1100 
+                 03/10/2011 (d=069) 1705 - 03/11/2011 (d=070) 1000  
+ 
+ 
+03/06/2011: Station Maintenance:                                        [0008] 
+ 
+            - Loaded MAWN Program - ABCF (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/08/2010: Station Maintenance:                                        [0006] 
+ 
+            - Loaded MAWN Program - ABCW (3-hour collection cycle) 
+ 
+ 
+03/11/2010: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCF (hourly collection cycle)      [0004] 
+ 
+ 
+ 
+============================================================================== 
+12/05/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCW (3-hour collection cycle)      [0001] 
+ 
+ 
+12/02/2009: Station Maintenance: 
+ 
+            - Data Logger Battery was replaced. 
+ 
+ 
+09/11/2009: Data Correction:                                            [1530] 
+ 
+            - Faulty Solar Radiation data that was introduced during 
+              the following time period has been marked as "missing" 
+ 
+                 07/31/09 (d=212) 1055 - 08/07/09 (d=219) 1200 
+ 
+ 
+08/07/2009: Station Maintenance:                                        [1100] 
+ 
+            - Faulty Solar Radiation Sensor was replaced. 
+ 
+ 
+07/31/2009: Station Maintenance:                                        [1000] 
+ 
+            - Recent data outage was due to a lightning strike.  The 
+              logger was replaced along with a new wind vane/anemometer. 
+ 
+            - However, it appears that the solar radiation sensor is  
+              not reporting. 
+ 
+ 
+07/29/2009: Data Outage: 
+ 
+            - The Logger connected to the Petersburg MAWN station 
+              appears to have failed at the following time: 
+ 
+                 07/23/2009 (d=204) 20:30 
+ 
+              Repairs are being scheduled for possibly later this 
+              week. 
+ 
+ 
+05/21/2009: Station Maintenance:                                        [1200] 
+ 
+     - General station maintenance and system checks... 
+ 
+            - Replaced Anemometer. 
+ 
+            - NOTE: Due to the faulty sensor, incorrect wind speed values 
+                    that were reported during the following time period  
+                    have been removed from the data archive: 
+ 
+                       09/22/08 (d=266) 11:00 - 05/21/09 (d=141) 12:00 
+ 
+ 
+04/13/2009: Station Maintenance:                                        [1015] 
+ 
+            - Configured LoggerNet software to connect to new modem. 
+              Successful connection and data download once again 
+              possible. 
+ 
+ 
+04/10/2009: Station Maintenance:                                        [????] 
+ 
+            - Replaced Wireless Broadband (cell-ip) Modem. 
+ 
+ 
+02/18/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCF (hourly power cycle)           [0005] 
+ 
+ 
+ 
+============================================================================== 
+11/21/2008: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCW (3-hour power cycle)           [1104] 
+ 
+ 
+07/02/2008: Database Modification: 
+ 
+            - Added hourly battery voltage (logging of the hourly 
+              voltage data actually started at 1:00am on June 15, 
+              2008 (d=167). 
+ 
+ 
+06/30/2008: Station Maintenance: 
+ 
+            - General station maintenance and system checks, including: 
+              - convert to wireless broadband (cell-ip). 
+             
+              - replaced HMP45C (temp/rh) sensor 
+ 
+              - Work was done approx: 1030 - 1100 (Day=182) 
+ 
+ 
+ 
+============================================================================== 
+06/27/2007: Station Maintenance (bn): 
+ 
+            - General station maintenance and system checks. 
+              - Soil Moisture 0 sensor was replaced (CS615 to CS616) 
+              - Soil Moisture 1 sensor was replaced (CD615 to CS616) 
+              - MAWN Program MAWN1C loaded to properly read new moisture probes 
+ 
+              - Work was done approx: 11:45 - 12:25 (Day=178) 
+ 
+ 
+ 
+============================================================================== 
+09/01/2004: Station Maintenance: (jal): 
+ 
+            - Replaced Temperature/Relative Humidity Sensor (HMP45C). 
+ 
+            - Replaced Anemometer (Wind Speed). 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+ 
+            - Work was done approx: 11:20 - 11:35 (Day=245) 
+ 
+ 
+ 
+============================================================================== 
+08/15/2003: Precipitation Guage Corrected: 
+ 
+            - Tipping-bucket rain gauge was found clogged with  
+              debris and was cleaned out on Thu, Aug 14, 2003. 
+     
+            - Precipitation values during the time of obstruction 
+              are inaccurate due to the decreased flow through the 
+              funnel.  Precipitation values were marked as "missing" 
+              for the following days: 
+ 
+                 Aug 01, 2003 (Day 213)  thru  Aug 14, 2003 (Day 226) 
+ 
+            - Total amount of measured precipitation removed from the 
+              database during the time listed above: 
+ 
+                 2.79 inches 
+ 
+ 
+ 
+============================================================================== 
+07/31/2002: Telecommunication Repair: 
+ 
+            - Telephone service was lost on July 22 due to  
+              thunderstorms in the area.  Phone company made  
+              repairs and service was re-established. 
+ 
+            - No data was lost.  Datalogger continued to  
+              collect data while phone service was down. 
+ 
+ 
+04/08/2002: Daylight Savings Time Adjustment. 
+ 
+            - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+            - Time of Obs were modified by one hour (forward)  
+              from Day=97, Time=200 through Day=97, Time=415. 
+ 
+ 
+10/31/2001: Daylight Savings Time Adjustment. 
+ 
+            - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+            - Time of Obs were modified by one hour (subtracted) 
+              from Day=301, Time=200 through Day=301, Time=610 
+ 
+ 
+10/30/2000: Daylight Savings Time Adjustment. 
+                 
+            - Daylight Savings Time Ended on Day=303, Time=200. 
+ 
+            - Time of Obs were modified by one hour (subtracted) 
+              from Day=303, Time=200 through Day=304, Time=1445. 
+              Only Observation Times were modified, not times of 
+              Maxs and Mins.  Users will need to take that into 
+              consideration when using this data. 
+ 
+ 
+05/09/2000: Installed Leaf Wetness A - installed on wooden block 
+            attached to NE Leg (approx. 1 meter high) - facing 
+            north.  Install Time: Approx: 10:30am 
+ 
+            Added 2 new Desi-Packs to Enclosure as there were no 
+            existing packs in the enclosure. 
+ 
+            Soil Temps are buried under sod - RoundUp has not 
+            yet been applied. 
+ 
+ 
+02/07/2000: Fixed old data to reflect recent change in "mawn1b" 
+            program - padded missing values to 5-minute data. 
+ 
+ 
+02/05/2000: Updated "mawn1b" to include Wind Speed, Air Temp, 
+            and Relative Humidity in 5-minute data. 
+ 
+ 
+11/18/1999: Phone Line To Station Activated.   
+ 
+            - Petersburg station added to MAWN database. 
+ 
+ 
+11/11/1999: Station Installed: 
+  
+            - Leaf Wetness Sensors Disconnected For The Winter. 
+ 
+            - Soil Probe A:    2-inch under sod, east of south leg. 
+ 
+            - Soil Probe B:    4-inch under sod, east of south leg, south of 
+                               Soil Probe A. 
+ 
+            - Soil Moisture A: On sod, south and east of south leg, west 
+                               of Soil Moisture B. 
+ 
+            - Soil Moisture B: On sod, south and east of south leg, east  
+                               of Soil Moisture A. 
+ 
+            - Data Logging Activated (mawn1b) 
+ 
+            - Data Logger Start Time:  12:40pm, Day=315 
+ 
+ 
+ 
+============================================================================== 
+

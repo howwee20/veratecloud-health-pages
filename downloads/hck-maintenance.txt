@@ -1,0 +1,112 @@
+=============================================================================== 
+Station Notes - Hancock (WI) 
+ 
+ 
+09/19/2023: Station Retired                                             [0000] 
+  
+            - station retired 
+               - station now being managed by Wisconet (Wisconsin Mesonet)... 
+                  ...for more information and current data, refer to: 
+ 
+                        https://wisconet.wisc.edu 
+                        https://wisconet.wisc.edu/stations/hancock 
+ 
+ 
+ 
+============================================================================== 
+04/15/2022: Station Maintenance / Logger Maintenance:                   [1430] 
+ 
+            - installed new CR6 station to replace CR1000  
+ 
+            - Note: logger program "hck-cssd.cr6" preinstalled* 
+                    * no canopy sensor 
+                    * supports "maintenance mode" 
+ 
+ 
+ 
+============================================================================== 
+08/02/2021: Logger Maintenance:                                         [1304] 
+ 
+            - loaded logger program: hck-cbcd.cr1* 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+06/02/2021: Logger Maintenance:                                          [1202] 
+ 
+            - upgraded logger program to mask out canopy wetness 
+            - loaded logger program: hck-cbcd* 
+                 * supports "maintenance mode" 
+ 
+ 
+04/28/2021: Station Maintenance:                                         [1515] 
+ 
+            - replaced tipping-bucket rain gauge 
+ 
+ 
+ 
+=============================================================================== 
+08/10/2020: Station Maintenance:                                         [1500] 
+ 
+            - replaced faulty tipping-bucket rain guage 
+ 
+ 
+07/09/2020: Station Maintenance:                                         [9000] 
+ 
+            - site maintenance, including... 
+              ...check of tipping-bucket rain gauge 
+ 
+ 
+ 
+=============================================================================== 
+07/16/2019: Logger / Station Maintenance:                                [0940] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: hck-cbcb 
+ 
+ 
+06/17/2019: Station Maintenance:                                         [0730] 
+ 
+            - replaced faulty atmp/relh sensor 
+ 
+ 
+ 
+=============================================================================== 
+03/08/2018: Station Online:                                              [1620] 
+     
+            - Station added to Enviroweather/MAWN database system 
+          
+ 
+02/14/2018: Data Collection Enabled                                      [1600] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   Feb 15, 2017 (d=046) 00:05 
+ 
+ 
+02/14/2018: Station Maintenance:                                         [1600] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+02/14/2018: Logger Setup                                                 [1600] 
+ 
+            - Loaded MAWN Program: hck-cbcb 
+                                      hck => Station ID (Hancock [WI]) 
+                                        c => CR1000/WI (Logger/State) 
+                                        b => CS616 (Soil Moisture) 
+                                        c => HMP155A (Temp/RH) 
+                                        b => LWS-L (Leaf Wetness) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+02/12/2018: Station Setup                                                [----] 
+ 
+            - station setup/activated at field site 
+ 
+ 
+=============================================================================== 
+

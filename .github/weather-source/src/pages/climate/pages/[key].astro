@@ -1,0 +1,6 @@
+---
+import LocalProduct from '../../../components/LocalProduct.astro';
+import products from '../../../../data/expanded/products.json';
+export function getStaticPaths(){return Object.values(products.pages).filter(p=>p.section==='climate').map(page=>({params:{key:page.path.split('/').filter(Boolean).pop()},props:{page}}))}
+---
+<LocalProduct page={Astro.props.page}/>

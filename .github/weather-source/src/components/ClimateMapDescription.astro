@@ -1,0 +1,12 @@
+---
+import descriptions from '../../data/normalized/map-descriptions.json';
+interface Props { name: keyof typeof descriptions; }
+const {name}=Astro.props;
+const d=descriptions[name];
+---
+<p><strong>{d.period}</strong></p>
+<p>{d.summary}</p>
+<p>Legend boundaries ({d.unit}): {d.legend.join(', ')}.</p>
+<p>{d.basis}</p>
+<p>Midwestern Regional Climate Center · {d.dataSource}. Generated {d.generated}.</p>
+<p>Source checked <time datetime={d.checkedAtUtc}>{new Date(d.checkedAtUtc).toLocaleString('en-US',{timeZone:'America/Detroit',month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit',timeZoneName:'short'})}</time>.</p>

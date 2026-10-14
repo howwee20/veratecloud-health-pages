@@ -1,0 +1,45 @@
+=============================================================================== 
+Station Notes: MBG Marketing: Grand Junction, MI 
+=============================================================================== 
+ 
+05/14/2025: Station Online:                                              [1520] 
+     
+            - Station added to Enviroweather/MAWN database system 
+          
+ 
+04/09/2025: Data Collection Enabled                                      [1445] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   April 05, 2025 (d=095) 00:05 
+ 
+ 
+04/09/2025: Station Maintenance:                                         [1415] 
+ 
+            - Established telecommunication between station cell-modem 
+              and data-collection PC/server on campus. 
+ 
+ 
+03/26/2025: Logger Setup                                                 [----] 
+ 
+            - Loaded Logger Program:  
+                 gjn-bssdT.cr1x 
+                    gjn => Station ID (grandjunction10) 
+                      b => MI (state network) 
+                      s => SDI-12 [CS655] (Soil Moisture) 
+                      s => SDI-12 [HygroVue10] (Temp/RH) 
+                      d => LWS-L (Leaf Wetness) [no canopy] 
+                      T => Tower Station (extra sensors: 10m tower config) 
+                   cr1x => CR1000X (logger / logger program type) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+04/04/2025: Station Setup                                                [----] 
+ 
+            - station setup / activated at field site 
+ 
+ 
+ 
+=============================================================================== 
+

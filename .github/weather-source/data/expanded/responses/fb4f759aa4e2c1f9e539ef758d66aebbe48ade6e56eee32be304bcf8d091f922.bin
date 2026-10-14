@@ -1,0 +1,125 @@
+<html>
+<head>
+<title>Michigan Automated Weather Network</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+<link rel="SHORTCUT ICON" href="./mawnicon.ico">
+
+<script language="JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+   if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" border="2" height="984" bgcolor="#ffffff">
+   <tr>
+      <td rowspan="2" width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" height="546">
+            <tr>
+               <td width="125" height="546">
+                  <img src="/images/MAWNlinksBar.gif" width="125" height="546" usemap="#NavMap" border="0">
+		     <map name="NavMap">
+                        <area shape="rect" coords="0,7,125,35"   href="http://www.msu.edu" alt=MSU Home">
+                        <area shape="rect" coords="0,49,125,100" href="https://mawn.geo.msu.edu" alt="MAWN Home">
+                        <area shape="rect" coords="0,122,125,136" href="http://www.enviro-weather.msu.edu" alt="Enviro-Weather">
+                        <area shape="rect" coords="0,158,125,190" href="http://www.agweather.geo.msu.edu" alt="MSU AgWeather">
+                        <area shape="rect" coords="0,212,125,262" href="http://climate.geo.msu.edu" alt="MSU Climatologist's Office">
+                        <area shape="rect" coords="0,284,125,318" href="http://www.geo.msu.edu" alt="MSU Department of Geography">
+                        <area shape="rect" coords="0,361,125,399" href="http://www.greeen.msu.edu" alt="Project GREEEN">
+                        <area shape="rect" coords="0,414,125,458" href="http://www.msue.msu.edu" alt="MSU Extension">
+                        <area shape="rect" coords="0,474,125,543" href="http://www.maes.msu.edu" alt="MSU Ag Experiment Station">
+                     </map>
+               </td>
+            </tr>
+         </table>
+      </td>
+
+      <td height="70" width="635">
+         <a href="https://mawn.geo.msu.edu">
+         <img src="/images/MAWNheader.gif" width="476" height="70" border="0" alt="MAWN Home"></a>
+      </td>
+   </tr>
+
+   <tr>
+      <td width="635" height="914" valign="top">
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+    <tr><center>
+       <b><font color="red"><h4>State Budget Cuts Threaten This Website and Other MSUE/MAES Programs...
+       <br>Click <a href="http://anrcom.msu.edu/Budget.aspx">Here</a> For More Information...</b></font><br></b></h4>
+    </tr>
+    <tr>&nbsp<br></tr>
+  </table>
+-->
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications, including the "Custom Reports (Data-on-Demand)" tool may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              The Enviro-weather team would like to thank you for your patience and continued support.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+
+
+
+
+<br>
+<table width="95%" border="0" valign="top" align="center">
+   <tr>
+      <td class="courier2">
+        
+         ===============================================================================&nbsp;<br>Station&nbsp;Notes&nbsp;-&nbsp;Gaylord&nbsp;(MI)&nbsp;<br>&nbsp;<br>&nbsp;<br>10/26/2021:&nbsp;Logger&nbsp;/&nbsp;Station&nbsp;Maintnenace:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1000]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;loaded&nbsp;logger&nbsp;program:&nbsp;gay-bbad.cr1*&nbsp;(237&nbsp;->&nbsp;LWS-L)**&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;supports&nbsp;"maintenance&nbsp;mode"&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;sensor&nbsp;replaced:&nbsp;08/25/2020&nbsp;(no&nbsp;canopy)&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;cleaned-up&nbsp;previously&nbsp;collected&nbsp;data&nbsp;<br>&nbsp;<br>&nbsp;<br>08/25/2021:&nbsp;Logger&nbsp;/&nbsp;Station&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1050]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;routine&nbsp;site&nbsp;maintenance&nbsp;<br>&nbsp;<br>&nbsp;<br>06/30/2021:&nbsp;Station&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1130]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;routine&nbsp;site&nbsp;/&nbsp;station&nbsp;maintenance&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;updated&nbsp;modem&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>==============================================================================&nbsp;<br>05/15/2020:&nbsp;Station&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1405]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;routine&nbsp;site&nbsp;/&nbsp;station&nbsp;maintenance&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;replaced&nbsp;faulty&nbsp;soil&nbsp;temperature&nbsp;(10-cm)&nbsp;sensor&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;replaced&nbsp;soil&nbsp;temperature&nbsp;(5-cm)&nbsp;sensor&nbsp;<br>&nbsp;<br>&nbsp;<br>07/19/2019:&nbsp;Logger&nbsp;/&nbsp;Station&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1610]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;replaced&nbsp;logger&nbsp;(CR1000&nbsp;->&nbsp;CR1000)&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;added&nbsp;PakBus&nbsp;modem&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;loaded&nbsp;logger&nbsp;program:&nbsp;gay-bbaa&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>===============================================================================&nbsp;<br>08/23/2018:&nbsp;Station&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1115]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;routine&nbsp;station&nbsp;/&nbsp;site&nbsp;maintenance&nbsp;<br>&nbsp;<br>&nbsp;<br>07/06/2018:&nbsp;Station&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1545]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;annual&nbsp;station&nbsp;/&nbsp;site&nbsp;maintenance&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>===============================================================================&nbsp;<br>08/21/2017:&nbsp;Station&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1215]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;routine&nbsp;maintenance&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;<br>05/19/2017:&nbsp;Station&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[0001]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;loaded&nbsp;logger&nbsp;program&nbsp;"gay-bbaa"&nbsp;<br>&nbsp;<br>&nbsp;<br>05/17/2017:&nbsp;Station&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1250]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;annual&nbsp;maintenance&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;replaced&nbsp;atmp/relh&nbsp;(HC2S3&nbsp;->&nbsp;HMP45C)&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;atmp/relh&nbsp;now&nbsp;wired&nbsp;to&nbsp;"continuous"&nbsp;power&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;replaced&nbsp;leaf&nbsp;wetness&nbsp;(standard&nbsp;mount)&nbsp;<br>&nbsp;<br>&nbsp;<br>03/23/2017:&nbsp;Station&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1355]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;replaced&nbsp;soil&nbsp;temperature&nbsp;sensors&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>===============================================================================&nbsp;<br>04/26/2016:&nbsp;Station&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1300]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;replaced&nbsp;leaf&nbsp;wetness&nbsp;sensors&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;replaced&nbsp;tipping&nbsp;bucket&nbsp;rain&nbsp;gauge&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;rplaced&nbsp;soil&nbsp;temperature&nbsp;sensors&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>===============================================================================&nbsp;<br>06/04/2015:&nbsp;System&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1305]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;replaced&nbsp;faulty&nbsp;temp/rh&nbsp;sensor&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;relative&nbsp;humidity&nbsp;data&nbsp;marked&nbsp;as&nbsp;missing&nbsp;for&nbsp;the&nbsp;following:&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05/27/2015&nbsp;(d=147)&nbsp;0135&nbsp;-&nbsp;06/04/2015&nbsp;(d=155)&nbsp;1305&nbsp;<br>&nbsp;<br>&nbsp;<br>05/19/2015:&nbsp;System&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1225]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;replaced&nbsp;faulty&nbsp;RH&nbsp;sensor.&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Relative&nbsp;humidity&nbsp;data&nbsp;marked&nbsp;as&nbsp;missing&nbsp;for&nbsp;the&nbsp;following:&nbsp;<br>&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05/09/2015&nbsp;(d=129)&nbsp;0255&nbsp;-&nbsp;05/19/2015&nbsp;(d=139)&nbsp;1225&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;NOTE:&nbsp;As&nbsp;of&nbsp;05/27/2015,&nbsp;RH&nbsp;problems&nbsp;have&nbsp;resurfaced&nbsp;<br>&nbsp;<br>&nbsp;<br>04/24/2015:&nbsp;System&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[????]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;replaced&nbsp;faulty&nbsp;2"&nbsp;soil&nbsp;temperature&nbsp;sensor&nbsp;(SOIL0).&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;2"&nbsp;soil&nbsp;temperature&nbsp;data&nbsp;marked&nbsp;as&nbsp;missing&nbsp;for&nbsp;the&nbsp;following:&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11/15/2014&nbsp;(d=319)&nbsp;2005&nbsp;-&nbsp;04/24/2105&nbsp;(d=114)&nbsp;2400&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>===============================================================================&nbsp;<br>09/08/2014:&nbsp;System&nbsp;Maintenance:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1632]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;moved&nbsp;data-collection&nbsp;to&nbsp;new&nbsp;LoggerNet&nbsp;server&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;loaded&nbsp;logger&nbsp;program&nbsp;"bbba-gay"&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>===============================================================================&nbsp;<br>05/04/2012:&nbsp;Station&nbsp;Online:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1600]&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Station&nbsp;added&nbsp;to&nbsp;MAWN&nbsp;web&nbsp;site.&nbsp;<br>&nbsp;<br>&nbsp;<br>05/01/2012:&nbsp;Data&nbsp;Collection&nbsp;Enabled:&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Data&nbsp;Collection&nbsp;and&nbsp;Data&nbsp;Archive&nbsp;for&nbsp;new&nbsp;station&nbsp;begins:&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First&nbsp;data&nbsp;report:&nbsp;&nbsp;&nbsp;May&nbsp;02,&nbsp;2012&nbsp;-&nbsp;00:05&nbsp;(Day=123)&nbsp;<br>&nbsp;<br>&nbsp;<br>05/01/2012:&nbsp;Station&nbsp;Maintenance:&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Established&nbsp;telecommunication&nbsp;between&nbsp;station&nbsp;cell-modem&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and&nbsp;data-collection&nbsp;PC/server&nbsp;on&nbsp;campus.&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;<br>05/01/2012:&nbsp;Station&nbsp;Installed:&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Loaded&nbsp;MAWN&nbsp;Program:&nbsp;&nbsp;&nbsp;BBBA-GAY&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;=>&nbsp;CR1000/MI&nbsp;(Logger/State)&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;=>&nbsp;CS616&nbsp;(Soil&nbsp;Moisture)&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;=>&nbsp;HC2S3&nbsp;(Temp/RH)&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;=>&nbsp;237&nbsp;(Leaf&nbsp;Wetness)&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GAY&nbsp;=>&nbsp;Station&nbsp;ID&nbsp;(Gaylord)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Now&nbsp;able&nbsp;to&nbsp;collect&nbsp;raw&nbsp;weather&nbsp;data.&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>==============================================================================&nbsp;<br>
+       
+      </td>
+   </tr>
+</table>
+
+
+
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

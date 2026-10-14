@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://www.agweather.geo.msu.edu/current/maxtemp.html",
+    "file": "data/expanded/graphics-recovery/maxtemp.html",
+    "checkedAtUtc": "2026-10-14T00:47:08.529714+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "lastModified": null,
+    "bytes": 5949,
+    "sha256": "66c00dabdb5f46e32d50a6904e2075379b6b51c64b77fba810b40ec91695b8ae",
+    "referrer": null,
+    "authenticationUsed": false
+  },
+  {
+    "url": "https://www.agweather.geo.msu.edu/images/maxtemp.jpg",
+    "file": "data/expanded/graphics-recovery/maxtemp.jpg.response.txt",
+    "checkedAtUtc": "2026-10-14T00:47:13.671621+00:00",
+    "status": 403,
+    "contentType": "text/html; charset=iso-8859-1",
+    "lastModified": null,
+    "bytes": 227,
+    "sha256": "d2af1dfbc675312c1cddc8a2ec284b3773d854c00b45181a1db6722be300de99",
+    "referrer": "https://www.agweather.geo.msu.edu/current/maxtemp.html",
+    "authenticationUsed": false
+  },
+  {
+    "url": "https://www.agweather.geo.msu.edu/current/mintemp.html",
+    "file": "data/expanded/graphics-recovery/mintemp.html",
+    "checkedAtUtc": "2026-10-14T00:47:15.777296+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "lastModified": null,
+    "bytes": 5948,
+    "sha256": "3501e1ca871d537af1104e3c0530df0dd402d3c438499e7be9c74125b195abf7",
+    "referrer": null,
+    "authenticationUsed": false
+  },
+  {
+    "url": "https://www.agweather.geo.msu.edu/images/mintemp.jpg",
+    "file": "data/expanded/graphics-recovery/mintemp.jpg.response.txt",
+    "checkedAtUtc": "2026-10-14T00:47:17.876597+00:00",
+    "status": 403,
+    "contentType": "text/html; charset=iso-8859-1",
+    "lastModified": null,
+    "bytes": 227,
+    "sha256": "22ac57d1f282c63203ba5dd6c4751d49d6b65ac4d085e17b2530a382d0d43fea",
+    "referrer": "https://www.agweather.geo.msu.edu/current/mintemp.html",
+    "authenticationUsed": false
+  }
+]

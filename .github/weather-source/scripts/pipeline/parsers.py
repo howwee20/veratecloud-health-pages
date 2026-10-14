@@ -211,7 +211,7 @@ HOURLY_TITLE = "HOURLY WEATHER SUMMARY"
 HOURLY_HEADER = [
     "Air Rel Soil Leaf Wind Solar Total",
     "Time Temp Hum Temp Wetness Dir Speed Rad Precip",
-    re.compile(r"Date \((E[SD]T)\) \(F\) \(%\) \(F\) Status \(mph\) \(ly\) \(in\)"),
+    re.compile(r"Date \(([EC][SD]T)\) \(F\) \(%\) \(F\) Status \(mph\) \(ly\) \(in\)"),
 ]
 HOURLY_COLUMNS = [
     {"key": "airTemp", "label": "Air temperature", "unit": "°F", "sourceHeader": "Air Temp (F)", "type": "number"},
@@ -360,7 +360,7 @@ def parse_daily(data: bytes) -> dict:
     }
 
 
-_ENTRY = re.compile(r"^(\d{2}/[\d?]{2}/\d{4}):\s*(.*)$")
+_ENTRY = re.compile(r"^([\d?]{2}/[\d?]{2}/(?:\d{4}|\d{2})):?\s+(.*)$")
 _BRACKET = re.compile(r"\s*\[(\d{4})\]\s*$")
 
 
@@ -384,6 +384,7 @@ def parse_maintenance(data: bytes) -> dict:
     lines = [line.rstrip() for line in text.split("\n")]
     title = None
     entries: list[dict] = []
+    preface: list[str] = []
     current: dict | None = None
     section = 0
     for line in lines:
@@ -416,7 +417,10 @@ def parse_maintenance(data: bytes) -> dict:
         if current is not None:
             current["_body"].append(line)
         elif stripped:
-            raise SourceFormatError(f"maintenance text outside any entry: {line!r}")
+            if not entries and title and (stripped.startswith("NOTE:") or preface):
+                preface.append(stripped)
+            else:
+                raise SourceFormatError(f"maintenance text outside any entry: {line!r}")
     if title is None or not entries:
         raise SourceFormatError("maintenance notes not recognised")
     for entry in entries:
@@ -426,10 +430,11 @@ def parse_maintenance(data: bytes) -> dict:
         "kind": "maintenance",
         "title": title,
         "entries": entries,
+        "preface": preface,
         "entryCount": len(entries),
         "entriesWithPartialDate": sum(1 for e in entries if e["isoDate"] is None),
-        "firstIsoDate": min(dated),
-        "lastIsoDate": max(dated),
+        "firstIsoDate": min(dated) if dated else None,
+        "lastIsoDate": max(dated) if dated else None,
         "rawText": text,
     }
 
@@ -443,10 +448,10 @@ def parse_station(data: bytes, page_url: str) -> dict:
     info: dict[str, str] = {}
     for label in soup.find_all("td", class_="infotablelabel"):
         key = clean(label.get_text()).rstrip(":")
-        value_cell = label.find_next_sibling("td", class_="infotabledata")
+        value_cell = label.find_next_sibling("td", class_=re.compile(r"^infotable(?:data|miss)$"))
         if key and value_cell is not None:
             info[key] = clean(value_cell.get_text())
-    required = ["Station", "Station ID", "Location", "City", "Latitude", "Longitude", "Elevation"]
+    required = ["Station", "Station ID", "Location", "City", "Latitude", "Longitude"]
     missing = [k for k in required if k not in info]
     if missing:
         raise SourceFormatError(f"station page lacks fields: {missing}")
@@ -479,7 +484,7 @@ def parse_station(data: bytes, page_url: str) -> dict:
         "city": info["City"],
         "latitude": {"raw": info["Latitude"], "value": number(info["Latitude"], r"(-?\d+\.\d+) deg\.")},
         "longitude": {"raw": info["Longitude"], "value": number(info["Longitude"], r"(-?\d+\.\d+) deg\.")},
-        "elevation": {"raw": info["Elevation"], "value": number(info["Elevation"], r"(-?\d+(?:\.\d+)?) m"), "unit": "m"},
+        "elevation": {"raw": info.get("Elevation", "Not provided"), "value": number(info["Elevation"], r"(-?\d+(?:\.\d+)?) m") if info.get("Elevation") and info["Elevation"] not in ("N/A", "NA", "--") else None, "unit": "m"},
         "reportLinks": reports,
         "customReportTypes": custom,
         "customReportNotice": clean(note.find_parent("div").get_text()) if note is not None and note.find_parent("div") else None,

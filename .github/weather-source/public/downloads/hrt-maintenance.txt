@@ -1,0 +1,352 @@
+============================================================================== 
+Station Notes - Hart: 
+ 
+ 
+06/15/2022: Station Maintenance:                                        [1100] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearings are good) 
+               - checked soil sensor cables (good) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - checked wind vane (properly aligned) 
+               - checked / cleaned pyranometer (adjusted level) 
+               - checked / cleaned solar panel 
+               - checked / tested battery (good) 
+               - checked / tested leaf wetness [canopy] (good) 
+               - checked / tested leaf wetness [standard] (good) 
+               - cleaned battery box 
+               - cleaned hygrovue sensor and radiation shield (atmp/relh) 
+               - weed removal (site already in good condition) 
+ 
+               * site does include a canopy leaf wetness sensor 
+ 
+ 
+ 
+============================================================================== 
+07/22/2021: Station Maintenance:                                        [1145] 
+ 
+            - routine site maintenance  
+ 
+ 
+05/18/2021: Station Maintenance:                                        [1145] 
+ 
+            - routine site maintenance, including: 
+               - replaced HygroVue (atmp/relh) sensor 
+               - replace soil sensor (5cm) 
+               - update modem 
+ 
+ 
+ 
+============================================================================== 
+08/05/2020: Station Maintenance:                                        [1430] 
+ 
+            - routine site maintenance, including: 
+               - adjusted wind vane (corrected orientation) 
+               - cleaned leaf wetness sensor  
+               - cleaned solar panel 
+ 
+ 
+06/03/2020: Station Maintenance:                                        [1650] 
+ 
+            - routine site maintenance, including: 
+               - updated leaf wetness sensor mount 
+ 
+ 
+02/12/2020: Logger Maintenance:                                         [1310] 
+ 
+            - power cycle (modem & logger) 
+ 
+ 
+ 
+============================================================================== 
+08/22/2019: Logger Maintenance:                                         [1550] 
+ 
+            - replaced logger (CR1000 -> CR6) 
+            - added PakBus modem 
+            - loaded logger program: hrt-bssb* 
+ 
+            * activated at: 08/22/2019 (d=234) 1705 
+ 
+ 
+ 
+============================================================================== 
+08/14/2018: Station Maintenance:                                        [1315] 
+ 
+            - routine station / site maintenance 
+ 
+ 
+06/25/2018: Station Maintenance:                                        [1700] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+05/30/2018: Station Maitenance:                                         [1600] 
+ 
+            - replaced faulty cellular modem 
+ 
+ 
+ 
+============================================================================== 
+07/17/2017: Station Maintenance:                                        [1630] 
+ 
+            - annual maintenance  
+ 
+ 
+05/12/2017: Station Maintenance:                                        [0005] 
+ 
+            - loaded logger program "hrt-bbabC" 
+ 
+ 
+05/10/2017: Station Maintenance:                                        [1145] 
+ 
+            - replaced air temp/relh sensor (HC2S3 -> HMP45C) 
+              - sensor now connected to "continuous" power 
+            - annual maintenance and weed removal 
+ 
+ 
+============================================================================== 
+05/08/2015: Station Modernization:                                      [1400] 
+ 
+            - Station upgraded with serveral new sensors. 
+ 
+            - loaded logger program "hrt-bbbbC (additional custom sensors) 
+ 
+            - Due to upgrade, station was offline for the following: 
+  
+                 06/08/2015 (d=159) 1405 - 06/08/2015 (d=159) 1800 
+ 
+            - the "live" data updates were able to resume at: 
+ 
+                 06/09/2015 (d=160) 1445 
+ 
+ 
+05/06/2015: Station Maintenance:                                        [1335] 
+ 
+            - Reloaded logger program "bbaaC-hrt" in an attempt to  
+              resolve some data collection issues with the daily  
+              data table (Table24) 
+ 
+ 
+05/04/2015: Station Maintenance:                                        [1100] 
+ 
+            - tipping-bucket rain gauge repaired (cable replaced) 
+ 
+ 
+ 
+============================================================================== 
+09/05/2014: Station Maintenance:                                        [2000] 
+ 
+            - Continued logger maintenance to resolve power and 
+              communication issues. 
+ 
+ 
+09/03/2014: Station Maintenance:                                        [1345] 
+ 
+             - Replaced logger (CR1000) 
+             - Loaded logger program "bbaaC-hrt" 
+ 
+ 
+08/28/2014:  Station Maintenance:                                       [1330] 
+ 
+             - Replaced power supply... 
+              
+             - NOTE: logger/collection issues continue 
+ 
+ 
+08/28/2014:  Station Maintenance:                                       [1230] 
+ 
+             - loaded logger program "bbaaC-hrt" 
+ 
+  
+06/27/2014:  Station Maintenance:                                       [1315] 
+ 
+             - replaced logger battery 
+             - cleaned air temp/rh sensor 
+             - cleaned leaf wetness sensors 
+             - tall weeds removed 
+ 
+ 
+ 
+============================================================================== 
+07/26/2013:  Station Maintenance:                                       [1120] 
+ 
+             - General Station Maintenance, including: 
+                - Replacement of Leaf Wetness Sensors 
+                - Replacement of Anemoment (Wind Speed) 
+ 
+ 
+04/23/2013:  Station Maintenance:                                       [2000] 
+ 
+             - Replaced Logger Battery. 
+ 
+             - Recent Battery Failure Led To Missing/Faulty Data During: 
+ 
+                  04/12/2013 (d=102) 2105 - 04/13/2013 (d=103) 1300 
+                  04/14/2013 (d=104) 0405 - 04/14/2013 (d=104) 1000 
+                  04/15/2013 (d=105) 0705 - 04/16/2013 (d=106) 1000 
+                  04/19/2013 (d=109) 0605 - 04/19/2013 (d=109) 1200 
+                  04/20/2013 (d=110) 0005 - 04/20/2013 (d=110) 1200 
+ 
+ 
+ 
+============================================================================== 
+06/24/2012:  Station Maintenance:                                       [1030] 
+ 
+             - Replaced Modem 
+ 
+ 
+ 
+============================================================================== 
+03/12/2010:  Data Update:                                               [1645] 
+ 
+             - Added fields to MAWN database for new sensors 
+             - Reactivated "live" data updates 
+ 
+ 
+03/10/2010:  Station Maintenance:                                       [1015] 
+ 
+             - Replaced CR10X with CR1000. 
+             - Added The Following Extra Sensors: 
+                  - stmp06in (soil temp @ 06" depth) 
+                  - stmp12in (soil temp @ 12" depth) 
+             - Loaded Custom MAWN Program (BBC-HRT) 
+ 
+ 
+ 
+============================================================================== 
+02/15/2009:  Station Maintenance: 
+ 
+             - Loaded MAWN Program - AACF (hourly power cycle)          [0004] 
+ 
+ 
+02/11/2009:  Station Maintenance: 
+ 
+             - Faulty Broadband Modem replaced.                         [1050] 
+             - Automated Updates to MAWN database resumed.              [1215] 
+ 
+             - Due to recent communication troubles, data for the  
+               following time period was lost and not recoverable: 
+ 
+                  12/07/08 [d=342] 0605  -  01/24/09 [d=024] 1655 
+              
+ 
+ 
+============================================================================== 
+11/23/2008:  Station Maintenance: 
+ 
+             - Loaded MAWN Program - AACW (3-hour power cycle)          [0008] 
+ 
+ 
+08/25/2008:  Data Cleanup: 
+ 
+             - Faulty solar radiation data due to failing sensor was 
+               removed from the database.  Solar data during the 
+               following time period was marked as "missing": 
+ 
+                   08/07/08 (d=220) 15:00 - 08/13/08 (d=226) 12:30 
+ 
+ 
+07/09/2008:  Station Maintenance: 
+ 
+             - General station maintenance and system checks, including: 
+                   - Check on Precipitation tipping bucket (required  
+                     removal of faulty data). 
+ 
+                   - Soil Moisture sensors now installed vertically: 
+                         - MSTR 0:  profile of depth =  0 - 12" 
+                         - MSTR 1:  profile of depth = 12 - 24" 
+         
+             - Work was done approx: 1400 - 1530 (Day=191) 
+ 
+ 
+ 
+============================================================================== 
+05/15/2007:  Station Maintenance (sm, bn): 
+ 
+             - Sensor Replacement: 
+                   - Replaced Soil Temp 0 (2"). 
+                   - Replaced Soil Temp 1 (4"). 
+ 
+             - General station maintenance and system checks. 
+                   - Work was done approx: 14:30 - 15:15 (Day=135) 
+ 
+ 
+ 
+============================================================================== 
+09/22/2006:  Station Maintenance: (bn): 
+ 
+             - Power Adjustments (hopefully will correct power issues 
+               that recently introduced faulty/missing data at stations 
+               such as at Fremont):  [Work done: ~ 12:30] 
+ 
+               - Cell-IP modem now uses external solid-state relay 
+                 (SW12) instead of internal switched circuit. 
+    
+               - solid-state relay (SW) connected to terminals inside 
+                 the power supply instead of the wiring panel. 
+ 
+               - datalogger battery replaced. 
+ 
+ 
+09/22/2006:  Station Maintenance (jb): 
+ 
+                - Loaded MAWN Program:   MAWN_AACF (00:05) 
+ 
+ 
+08/21/2006:  Station Maintenance: (sm, bn): 
+ 
+             - Communication converted to broadband cell-modem: 
+ 
+                  - Broadband Cell modem installed. 
+                  - Datalogger Program "mawn_aacs" Loaded and Compiled 
+                  - Data Collection Configured To Upload Every 30 minutes. 
+ 
+             - General Station Maintenance and System Checks: 
+                  - replaced anemometer (installed new) 
+ 
+             - Work was done approx: 11:30 - 12:00 (Day=233) 
+ 
+ 
+ 
+============================================================================== 
+04/08/2002:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+             - Time of Obs were modified by one hour (forward)  
+               from Day=97, Time=200 through Day=97, Time=410. 
+ 
+ 
+10/30/2001:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=301, Time=200 through Day=301, Time=610. 
+ 
+ 
+10/30/2000:  Daylight Savings Time Adjustment. 
+                 
+             - Daylight Savings Time Ended on Day=303, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=303, Time=200 through Day=304, Time=1230. 
+               Only Observation Times were modified, not times of 
+               Maxs and Mins.  Users will need to take that into 
+               consideration when using this data. 
+ 
+ 
+02/07/2000:  Fixed old data to reflect recent change in "mawn1a" 
+             program - padded missing values to 5-minute data. 
+ 
+ 
+02/05/2000:  Updated "mawn1a" to include Wind Speed, Air Temp, 
+             and Relative Humidity in 5-minute data. 
+ 
+ 
+08/07/1999:  Hart station updated - (mawn1a). 
+ 
+ 
+ 
+============================================================================== 
+

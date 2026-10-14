@@ -1,0 +1,731 @@
+============================================================================== 
+Station Notes - West Olive: 
+ 
+ 
+03/30/2023: Station Maintenance:                                        [1010] 
+ 
+            - site maintenance, including: 
+               - checked battery (13.4V) 
+               - checked solar panel (22.7V) 
+               - corrected connection from logger to grounding rod 
+               - corrected ground connection of HMP45C (atmp/relh) 
+               - corrected tripod level (NW leg was bent) 
+               - corrected wind vane level 
+               - replaced logger wiring panel 
+               - replaced modem 
+               - replaced power switch 
+ 
+ 
+ 
+============================================================================== 
+08/05/2022: Station Maintenance:                                        [1030] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked pyranometer (good) 
+               - checked soil sensor cables (good)** 
+               - checked wind vane (properly aligned)  
+               - checked / cleaned tipping-bucket rain gauge 
+               - checked / tested leaf wetness [standard] (good)* 
+               - cleaned hmp45c sensor and radiation shield (atmp/relh) 
+               - cleaned / tested solar panel 
+               - removed damaged polyhouse sensor (cables cut... three sensors) 
+               - weed removal  
+ 
+               * site does not include a canopy leaf wetness sensor 
+ 
+              ** NOTE: cables may be okay, but 12" soil temperature no longer  
+                       reporting since this site visit. 
+ 
+ 
+06/17/2022: Station Maintenance:                                        [1005] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked pyranometer (good) 
+               - checked soil sensor cables (good) 
+               - checked wind vane (properly aligned) 
+               - checked / tested battery (good) 
+               - checked / tested leaf wetness [standard] (good)*  
+               - cleaned hmp45c sensor and radiation shield (atmp/relh) 
+               - cleaned tipping-bucket rain gauge 
+               - cleaned / tested solar panel (good) 
+ 
+               * site does not include a canopy leaf wetness sensor 
+ 
+               NOTE: polyhouse sensors have all been cut 
+ 
+ 
+ 
+============================================================================== 
+08/13/2021: Logger Maintenance:                                         [0935] 
+ 
+            - loaded logger program: weo-bbadC.cr1* 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+07/26/2021: Station Maintenance:                                        [1240] 
+ 
+            - routine site maintenance 
+ 
+ 
+06/08/2021: Station Maintenance:                                        [1030] 
+ 
+            - replaced faulty atmp/relh sensor [hmp45c] 
+ 
+ 
+05/20/2021: Station Maintenance:                                        [1100] 
+ 
+            - routine site maintenance  
+            - replaced atmp/relh sensor 
+ 
+ 
+03/28/2021: Station Maintenance:                                        [1350] 
+ 
+            - replaced faulty leaf wetness sensor (standard mount) 
+            - replaced cell modem 
+ 
+ 
+03/23/2021: Logger / Station Maintnenace:                               [1500] 
+ 
+            - loaded logger program: weo-bbadC (237 -> LWS-L)* 
+                 * sensor replaced: 07/21/2020 (no canopy) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+ 
+============================================================================== 
+07/21/2020: Logger / Station Maintenance:                               [1230] 
+ 
+            - replaced leaf wetness (237 -> LWS-L)   [no canopy] 
+            - requires logger program change 
+ 
+ 
+06/01/2020: Station Maintenance:                                        [1330] 
+ 
+            - replaced faulty atmp/relh sensor 
+            - repaired polyhouse atmp sensor 
+ 
+ 
+ 
+============================================================================== 
+11/15/2019: Station / Logger Maintnenace:                               [1229] 
+ 
+            - replaced faulty battery 
+            - replaced charged controller 
+            - restarted logger progam "weo-bbaaC" 
+ 
+ 
+09/27/2019: Station / Logger Maintenance:                               [1530] 
+   
+            - replaced faulty logger 
+            
+ 
+09/25/2019: Station / Logger Maintenance:                               [1330] 
+ 
+            - replaced faulty atmp/relh sensor (HMP45C) 
+            - replaced faulty soil moisture sensors (CS616) 
+            - replaced charge controller 
+            - installed new battery 
+ 
+ 
+09/12/2019: Station Maintenance:                                        [1130] 
+ 
+            - replaced faulty atmp/relh sensor (HMP45C) 
+ 
+ 
+08/05/2019: Logger Maintenance:                                         [1330] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: weo-bbaaC 
+ 
+ 
+03/28/2019: Station Maintenance:                                        [1400] 
+ 
+            - replaced faulty polyhouse sensors 
+ 
+ 
+ 
+============================================================================== 
+07/26/2018: Station Maintenance:                                        [1425] 
+  
+            - routine station / site maintenance  
+ 
+ 
+06/11/2018: Station Maintenance:                                        [1230] 
+ 
+            - annual station / site maintenance, including:  
+               - replacement of wind instruments (wind vane, anemometer) 
+ 
+ 
+01/04/2018: Station Maintenance:                                        [1400] 
+ 
+            - replaced faulty logger battery 
+ 
+ 
+ 
+============================================================================== 
+07/19/2017: Station Maintenance:                                        [1050] 
+ 
+            - routine maintenance  
+ 
+ 
+07/18/2017: Station Maintenance:                                        [0002] 
+ 
+            - loaded logger program "weo-bbaaC" 
+ 
+ 
+07/11/2017: Station Maintenance:                                        [1145] 
+ 
+            - replaced faulty pyranometer (solar radiation) 
+ 
+ 
+05/31/2017: Station Maintenance:                                        [1435]  
+  
+            - annual maintenance, including: 
+               - rewired atmp/relh (now wired to "continuous" power) 
+ 
+ 
+ 
+============================================================================== 
+05/31/2016: Station Maintenance:                                        [1250] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+ 
+============================================================================== 
+11/24/2014: System Maintenance:                                         [1804] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbaaC-weo" 
+ 
+ 
+05/14/2014: Station Maintenance:                                        [1345] 
+ 
+            - routine maintenance  
+            - cleaned temp/rh sensor 
+            - replaced top of tipping-bucket rain gauge 
+  
+   
+04/28/2014: Station Maintenance:                                        [----] 
+ 
+            - Reinstalled Polyhouse Soil Temperature Sensors (apparently, 
+              they were removed from the pots since 04/25) 
+ 
+ 
+ 
+============================================================================== 
+03/04/2013: Station Maintenance:                                        [1100] 
+ 
+            - Replace Air Temp/RH sensor.    
+            - Since July 2012, relative humidity values during periods of 
+              high humidity have been too high.  Sensor was replaced to  
+              correct this problem. 
+ 
+ 
+ 
+============================================================================== 
+12/22/2012: Station Maintenance:                                      
+ 
+            - Polyhouse Sensors replaced. 
+ 
+ 
+11/02/2012: Station Maintenance:                                        [1100] 
+ 
+            - Station Move.... moved about 550-feet. 
+ 
+ 
+06/07/2012: Station Maintenance:                                        [1110] 
+ 
+            - Replaced Modem 
+ 
+ 
+ 
+============================================================================== 
+12/03/2010: Data Quality                                                [1600] 
+ 
+            - Faulty polyhouse soil temperature (Pot B) that was 
+              reported during the following time period has been 
+              marked as "missing": 
+ 
+                 04/04/10 (d=94) 00:05  -  08/31/10 (d=243) 24:00 
+ 
+ 
+05/24/2010: Station Maintenance:                                        [1400] 
+ 
+            - General station maintenance 
+ 
+ 
+03/08/2010: Station Maintenance:                                        [1215] 
+ 
+            - Replaced CR23X with CR1000. 
+            - Loaded Custom MAWN Program (BBC-WEO) 
+ 
+ 
+ 
+============================================================================== 
+12/08/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - WEOW (3-hour collection cycle)      [0108] 
+ 
+ 
+ 
+============================================================================== 
+05/21/2008: Station Maintenance: 
+ 
+            - Replaced anemometer (10:55) 
+ 
+ 
+05/20/2008: Station Maintenance: 
+ 
+            - General station maintenance and system checks, including: 
+              - Soil Moisture sensors now installed vertically: 
+                - MSTR 0:  profile of depth =  0 - 12" 
+                - MSTR 1:  profile of depth = 12 - 24" 
+ 
+            - Work was done approx: 12:30 - 1330 (Day=141) 
+ 
+ 
+ 
+============================================================================== 
+11/26/2007: Data Correction (jb): 
+ 
+            - Station Maintenance last week (11/21/07) led to some 
+              faulty data being introduced.  Removed all faulty 
+              data.  The loss of power also introduced a gap in 
+              the dataset. 
+ 
+            - Loaded MAWN Program, 1WO (hourly power cycle) [10:35] 
+ 
+ 
+11/21/2007: Station Maintenance (bn): 
+ 
+            - Replaced battery   [15:40]  
+ 
+ 
+10/03/2007: Station Maintenance (sm): 
+ 
+            - Recent telecommunication problems (faulty cell-modem) 
+              have been corrected.  Cell modem was replaced at 
+              11:00am this morning (d=276). 
+ 
+ 
+06/13/2007: Data Management (jtb): 
+ 
+            - Data from CR23X datalogger that was pulled from the field 
+              was recovered.   Data for the following time period was  
+              reloaded into the MAWN database: 
+ 
+                 May 30. 2007 [22:05]  -  June 06, 2007 [12:45] 
+ 
+              Small gaps of missing data still exist due to periods of 
+              system work and hardware replacement. 
+ 
+ 
+05/24/2007: Station Maintenance (bn): 
+ 
+            - Telecommunications Troubleshooting: 
+              - Recent connection troubles continue which led to 
+                the replacement of the CR23X datalogger this afternoon. 
+              - As of 5:00pm, communications back online 
+ 
+              - Work performed:  3:45pm - 5:15pm 
+ 
+ 
+05/21/2007: Station Maintenance (bn): 
+ 
+            - Recent telecommunication trouble: 
+              - Faulty serial cable may have been the cause of 
+                recent telecommunication problems.  Cable was  
+                replaced this morning at 11:00am. 
+ 
+ 
+05/16/2007: Station Maintenance (sm, bn): 
+ 
+            - Communication converted to broadband cell-modem: 
+              - Broadband cell-ip modem installed 
+              - Datalogger progam "mawn1wo" loaded and compiled. 
+              - Data collection configured to upload every 30 minutes. 
+ 
+            - General station maintenance and system checks. 
+              - Work was done approx: 14:00 - 15:00 (Day=136) 
+ 
+ 
+ 
+============================================================================== 
+11/30/2005: Station Maintenance: (sm): 
+ 
+            - Faulty Phone Line Was Repaired By SBC 
+ 
+            - Modem was showing signs of inconsistent behavior, so that was 
+              also replaced. 
+ 
+            - Battery had failed and was also replaced.  Due to the battery  
+              failure, data for the following time period was lost: 
+ 
+                 Day=329 (11/25/05) 18:15 - Day=334 (11/30/2004) 10:35 
+ 
+ 
+11/02/2005: Station Maintenance: (sm): 
+ 
+            - Checked/Cleaned Polyhouse sensors (107 Thermistor for Polyhouse 
+              Air Temperatures was covered with spider webs). 
+ 
+            - MAWN station and sensors checked.  Several terminal leads 
+              were tightened 
+ 
+            - Time of maintenance:   approx: 11:30am 
+ 
+ 
+04/13/2005: Station Maintenance: (sm): 
+ 
+            - Replaced Temperature/Relative Humidity Sensor. 
+ 
+              It was determined that the Temp/RH sensor at the West Olive 
+              station has slowly drifted toward higher readings.  The drift 
+              can be traced back to August 2004.   Air Temperature and  
+              Relative Humidity readings between August 2004 - April 13, 2005 
+              are not completely accurate and eventually may be removed from 
+              the MAWN database. 
+ 
+ 
+ 
+============================================================================== 
+08/04/2004: Station Maintenance: (crn, jal): 
+ 
+            - Replaced Anemometer 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+              - tipping bucket rain guage checked for accuracy 
+ 
+            - Work was done approx: 17:45 - 18:45 (Day=217) 
+ 
+ 
+ 
+============================================================================== 
+11/28/2003: Station Update (jtb): 
+   
+            - Replaced Modem. 
+              
+            - Data Transfer from Station Reconnected with No Loss of Data. 
+ 
+ 
+11/14/2003: Communication Failure: 
+ 
+            - Failure to communicate with West Olice station since 17:20 
+              (Day=318).  Cause of failure currently unknown.  Site visit 
+              planned within the next 7-10 days. 
+ 
+ 
+11/07/2003: Data Cleanup (jtb): 
+ 
+            - Faulty Soil Temperature and Polyhouse data were corrected or 
+              marked as "missing" for the following time periods: 
+ 
+            - Polyhouse Air Temperature, Polyhouse Pot A, Polyhouse Pot B: 
+  
+                  Jul 28, 2003 (Day=209) 15:00  -  Nov 05, 2003 (Day=309) 12:00 
+ 
+            - Soil Temp A (2"), Soil Temp B (4"): 
+   
+                  Jul 28, 2003 (Day=209) 15:00  -  Oct 08, 2003 (Day=281) 12:00 
+                  Oct 22, 2003 (Day=295) 15:00  -  Oct 22, 2003 (Day=295) 23:00 
+ 
+            - Soil Temp C (12"), Soil Temp D (16"): 
+   
+                  Jul 28, 2003 (Day=209) 15:00  -  Nov 05, 2003 (Day=309) 12:00 
+ 
+ 
+11/05/2003: Station Update (crn): 
+ 
+            - Replaced Soil Temperature Sensors (12", 16" depths) 
+            - Replaced Polyhouse Temperature Sensors (air, pot A, pot B) 
+ 
+ 
+11/08/2003: Station Update (crn): 
+ 
+            - Replaced Soil Temperature Sensors (2", 4" depths) 
+ 
+ 
+08/27/2003: Station Update (crn): 
+ 
+            - Replaced Temp/RH sensor (HMP45C) 
+            - Installed Pressure Sensor 
+ 
+            - Loaded New Datalogger Program: MAWN3A  (11:20am, Day=239) 
+ 
+ 
+ 
+============================================================================== 
+04/24/2002: Field Maintanence (jaa, crn): 
+ 
+            - Existing phone was damaged on 04/20.  Was spliced 
+              back together and moved towards the NE corner of  
+              the property. 
+ 
+            - Current repair is only temporary.  Needs to be 
+              permanently repaired before phone line is buried. 
+ 
+ 
+04/08/2002: Daylight Savings Time Adjustment (jtb) 
+ 
+            - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+            - Time of Obs were modified by one hour (forward)  
+              from Day=97, Time=200 through Day=97, Time=415. 
+ 
+ 
+ 
+============================================================================== 
+12/04/2001: Field Maintanence: 
+                
+            - Replaced CR10X with CR23 datalogger.  This move allows 
+              extra inputs for additional sensors needed at this site. 
+ 
+            - Moved and Reburied Soil Temperatures.  Also installed a 
+              fourth sensor - installed in SW quadrant of station: 
+ 
+                 Soil A:  2-inches under bare soil,  W of S leg 
+                 Soil B:  4-inches under bare soil,  W of S leg 
+                 Soil C:  12-inches under bare soil, W of S leg 
+                 Soil D:  16-inches under bars soil, W of S leg 
+               
+            - Installed temperature sensors in polyhouse (cables buried 
+              from bottom of south leg diagonally to southwest polyhouse: 
+         
+                 PTEMP A: Polyhouse Air Temperature            (sensor 1) 
+                 PSOIL A: Polyhouse Soil Temp-A (juniper)      (sensor 2) 
+                 PSOIL B: Polyhouse Soil Temp-B (yaxus [yew])  (sensor 3) 
+ 
+ 
+10/31/2001: Daylight Savings Time Adjustment. 
+ 
+            - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+            - Time of Obs were modified by one hour (subtracted) 
+              from Day=301, Time=200 through Day=301, Time=605. 
+ 
+ 
+05/31/2001: Data Cleanup: 
+ 
+            - Add missing fields to old data to reflect changes made by 
+              the installation of new datalogger program.  Added the  
+              following to entries prior to Day=150, Obs Time=1700: 
+ 
+                 Data Code: 60, field #: 18, value = 6999 
+                 Data Code: 24, field #: 35, value = 6999 
+                 Data Code: 24, field #: 36, value = 6999 
+                 Data Code: 24, field #: 37, value = 6999 
+                 Data Code: 24, field #: 38, value = 6999 
+             
+            - Clean-Up Faulty Data.  Leaf Wetness Sensors were tested 
+              at 1:40pm on May 30 (Day=150).  Marked the following as 
+              "dry" (value=6999):  
+ 
+                 Five Minute Data:  
+ 
+                    Day=150, Time=1340, Field 5 (value=6999) 
+                    Day=150, Time=1340, Field 6 (value=6999) 
+ 
+ 
+                 Hourly Data:  
+ 
+                    Day=150, Time=1400, Field 16 (value=0) 
+                    Day=150, Time=1400, Field 17 (value=0) 
+ 
+ 
+            - NOTE: Since new program was loaded at approximately 4:15pm 
+                    on 05/30/2001, Daily totals and Max/Min values that 
+                    are calculated by the datalogger were reset to the 
+                    time the new program was loaded. 
+ 
+ 
+05/30/2001: Field Maintanence: 
+                
+            - Moved and Reburied Soil Temperatures.  Also installed a 
+              third sensor - installed in SW quadrant of station: 
+ 
+                 Soil A:  2-inches under bare soil,  W of S leg, N of Soil B 
+                 Soil B:  4-inches under bare soil,  W of S leg, S of Soil A 
+                 Soil C:  12-inches under bare soil, W of S leg, S of Soil B 
+ 
+            - Buried Soil Moisture Probes (Horizontal Placement) in  
+              SE quadrant of station: 
+ 
+                 Soil Moisture A: 04" depth, E of S leg, facing south 
+                 Soil Moisture B: 10" depth, E of S leg, facing south 
+ 
+            - Added Leaf Wetness Sensors: 
+ 
+                 Leaf A: Standard:     NE leg fence post.  1 meter high 
+                 Leaf B: Selected Canopy:  Shrubs end of NE leg.  14" high 
+ 
+            - Loaded New Datalogger Program: mawn1wo 
+  
+                 Program:         mawn1wo 
+                 Time (approx):   4:15pm, Day 150 (5/30/2001) 
+ 
+             - Needs: 
+ 
+                  Data Cleanup:  Adding third soil temperature probe  
+                                 required the loading of a modified  
+                                 version of "mawn1b". 
+ 
+                                 The new program is called "mawn1wo"  
+                                 and the following new fields were added: 
+ 
+                                    Hourly: Soil Temp C 
+            
+                                    Daily:  Max Soil Temp C, 
+                                            Time of Max Soil Temp C, 
+                                            Min Soil Temp C, 
+                                            Time of Min Soil Temp C 
+ 
+                                  MAWN database table for West Olive will  
+                                  need be modified and rebuild.  Also,  
+                                  "decoder" which produces pre-generated  
+                                  reports will need to be modified. 
+ 
+                                  Reinstalling soil temperature and soil  
+                                  moisture probes and adding/testing leaf  
+                                  wetness grida most likely introduced  
+                                  faulty data - rawdata will need to be  
+                                  corrected.  
+ 
+ 
+01/30/2001: Data Cleanup: 
+ 
+            - Updating Program to MAWN1B on 01/29/2001 reset all max/min 
+              and totalling buffers on datalogger.  Needed to repair some 
+              of the daily data entries for 01/29 (24,2001,29,2400,....): 
+ 
+                 Field #:              Replacement Value: 
+                  
+                 06: ATMP_MIN          -5.97 (based on hourly values) 
+                 07: ATMP_MINT         100 (based on hourly values) 
+                 08: RELH_MAX             *** no change made *** 
+                 09: RELH_MAXT            *** no change made *** 
+                 10: RELH_MIN          84.9 (based on hourly values) 
+                 11: RELH_MINT         300 (based on hourly values) 
+                 12: SRAD              1971.36 (sum of hourly values) 
+                 13: SDEN_MAX             *** no change made *** 
+                 14: SDEN_MAXT            *** no change made *** 
+                 15: SOIL0_MAX            *** no change made *** 
+                 16: SOIL0_MAXT           *** no change made *** 
+                 17: SOIL0_MIN            *** no change made *** 
+                 18: SOIL0_MINT           *** no change made *** 
+                 19: SOIL1_MAX            *** no change made *** 
+                 20: SOIL1_MAXT           *** no change made *** 
+                 21: SOIL1_MIN            *** no change made *** 
+                 22: MSTR1_MINT           *** no change made *** 
+                 23: MSTR0_MAX            *** no change made *** 
+                 24: MSTR0_MAXT           *** no change made *** 
+                 25: MSTR0_MIN            *** no change made *** 
+                 26: MSTR0_MINT           *** no change made *** 
+                 27: MSTR1_MAX            *** no change made *** 
+                 28: MSTR1_MAXT           *** no change made *** 
+                 29: MSTR1_MIN            *** no change made *** 
+                 30: MSTR1_MINT           *** no change made *** 
+                 31: WSPD_MAX             *** no change made *** 
+                 32: WSPD_MAXT            *** no change made *** 
+ 
+ 
+                 *** NOTE: Soil probes are snow covered and should  
+                           experience little change.  Wind speed max 
+                           should have occurred after new program  
+                           was loaded. 
+ 
+ 
+ 
+01/29/2001: West Olive station added to MAWN database 
+ 
+              
+01/29/2001: Phone Line/Modem:  
+ 
+            - Com200 modem.  Mounted to back of enclosure. 
+                             Phone line connected directly to modem: 
+ 
+                                blue/white    => tip 
+                                blue          => ring 
+                                n/a           => ground * 
+ 
+                                * Burial cable did not contain copper  
+                                  sheathing to be used as ground connection. 
+ 
+ 
+  
+            - Data Logging Activated (mawn1b) 
+           
+                 Data Logger Start Times: 
+ 
+                    24 hour data:     01:00, Day=11 (01/11/2001) 
+                    60 min data:     24:00, Day=11 (01/11/2001) 
+                    05 min data:     16:30, Day=29 (01/29/2001) 
+ 
+ 
+01/25/2001: Phone Line To Station Activated. 
+ 
+ 
+01/10/2001: Station Installed.   
+ 
+            - Leaf Wetness A:  N/A 
+ 
+            - Soil Temp A:     2-inch under sod, west of south leg, north 
+                               of Soil Temp B (just north of fence post). 
+ 
+            - Soil Temp B:     4-inch under sod, west of south leg, south of 
+                               Soil Temp A (just north of fence post). 
+ 
+            = Soil Moisture A: East of south leg, approx. one foot north 
+                               of Soil Moisture B (just north of fence post). 
+ 
+            - Soil Moisture B: East of South leg, approx. one foot south 
+                               of Soil Moisture A (just north of fence post). 
+ 
+            - Air Temp/RH:     HMP45C (requires mawn1b).  59" to 8th ring 
+                               of radiation shield 
+ 
+            - Wind Vane:       Points to North 
+ 
+            - Anemometer:      Points to South 
+ 
+            - Pyranometer:     Stand mounted to SW.  Mounted high enough to 
+                               keep shadow from solar panel from falling on 
+                               plate (e.g. bottom of bracket should be  
+                               approx. 39" above tripod bracket. 
+ 
+            - Solar Panel:     Installed near the top of the mast, bracket 
+                               sits apporx. six inches below coupling at  
+                               the top of the mast.  The top edge of the  
+                               solar panel must not exceed height of the  
+                               Pryanomter.   Solar panel faces south with  
+                               an angle of about 44-degrees. 
+ 
+            - Precipitation:   Tipping bucket rain guage.  Mounted on NW leg 
+                               fence post.  39.73" (1 meter) to top of rain 
+                               guage. 
+ 
+ 
+            - Phone Line:      N/A 
+ 
+            - Modem:           N/A 
+ 
+            - Needs:           Leaf Wetness Mounting Block w/ mounting pipe, 
+                               Phone line, 
+                               modem 
+ 
+ 
+            - Comments:        Temporary Program Loaded on Datalogger (MAWN1B 
+                               without the 5 minute data).   The MAWN1B  
+                               program will need to be loaded after phone  
+                               line and modem is installed. 
+ 
+ 
+ 
+============================================================================== 
+

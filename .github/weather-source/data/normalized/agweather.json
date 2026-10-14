@@ -5,8 +5,8 @@
       "id": "agweather-home",
       "url": "https://www.agweather.geo.msu.edu/",
       "file": "input/agweather/home.html",
-      "sha256": "c66facb540e83865d75b1a23e8fa56fb0ce8584682330854de617fa4305b18f6",
-      "retrievedAtUtc": "2026-10-13T15:33:53.814322+00:00"
+      "sha256": "ad38d25e7700e7b9532b8bd2fc1aca6c5d1fbb9f33c6536bf012f78ef15eecb7",
+      "retrievedAtUtc": "2026-10-14T00:42:54.359717+00:00"
     },
     "siteTitle": "MSU Agricultural Weather Office",
     "pageHeading": null,
@@ -44,7 +44,7 @@
         "url": "http://enviroweather.msu.edu"
       }
     ],
-    "pageStampRaw": "10/13/26 - 11:33",
+    "pageStampRaw": "10/13/26 - 20:42",
     "datafeedStatusRaw": [
       "LDM : ok",
       "MAWN : ok"
@@ -185,8 +185,8 @@
       "id": "agweather-current",
       "url": "https://www.agweather.geo.msu.edu/current/",
       "file": "input/agweather/current.html",
-      "sha256": "02393542d337876ef4e9b98b61598ac4ea4f638712c64552d5476aa6032be9c0",
-      "retrievedAtUtc": "2026-10-13T15:34:14.573908+00:00"
+      "sha256": "e3e153debb9b2ec095d36157edcc74d4b982f7ceeb1252c8c8e418bd3903ad42",
+      "retrievedAtUtc": "2026-10-14T00:43:13.046357+00:00"
     },
     "siteTitle": "MSU Agricultural Weather Office",
     "pageHeading": "Current Weather & Climatological Info",
@@ -224,7 +224,7 @@
         "url": "http://enviroweather.msu.edu"
       }
     ],
-    "pageStampRaw": "10/13/26 - 11:34",
+    "pageStampRaw": "10/13/26 - 20:43",
     "datafeedStatusRaw": [
       "LDM : ok",
       "MAWN : ok"
@@ -717,8 +717,8 @@
       "id": "agweather-forecasts",
       "url": "https://www.agweather.geo.msu.edu/forecasts/",
       "file": "input/agweather/forecasts.html",
-      "sha256": "b480b1195832bb6155cb930a8dfce052d4ac55d8480fef2a793fac9889feb2bd",
-      "retrievedAtUtc": "2026-10-13T15:34:16.658918+00:00"
+      "sha256": "e5c0ec8ad93ab592cf53373085f03161d6ba74d1045714bd9889bb9fecad58c8",
+      "retrievedAtUtc": "2026-10-14T00:43:15.153123+00:00"
     },
     "siteTitle": "MSU Agricultural Weather Office",
     "pageHeading": "Forecast Products",
@@ -756,7 +756,7 @@
         "url": "http://enviroweather.msu.edu"
       }
     ],
-    "pageStampRaw": "10/13/26 - 11:34",
+    "pageStampRaw": "10/13/26 - 20:43",
     "datafeedStatusRaw": [
       "LDM : ok",
       "MAWN : ok"

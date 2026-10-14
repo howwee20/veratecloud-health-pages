@@ -1,0 +1,207 @@
+============================================================================== 
+Station Notes - Commerce Township 
+ 
+ 
+07/15/2021: Station Maintenance:                                        [1220] 
+ 
+            - routine site maintenance  
+ 
+ 
+07/14/2021: Logger Maintenance:                                         [1105] 
+ 
+            - loaded logger program: cmc-bbad.cr1* 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+05/27/2021: Logger / Station Maintenance:                               [1235] 
+ 
+            - routine site maintenance  
+            - updated modem 
+ 
+ 
+02/23/2021: Logger / Station Maintnenace:                               [1800] 
+ 
+            - loaded logger program: cmc-bbad.cr1   (237 -> LWS-L)* 
+                 * sensor replaced: 08/07/2020 (no canopy) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+ 
+============================================================================== 
+08/07/2020: Logger / Station Maintenance:                               [1300] 
+ 
+            - replaced leaf wetness (237 -> LWS-L)   [no canopy] 
+            - requires logger program change 
+ 
+ 
+06/16/2020: Station Maintenance:                                        [1330] 
+ 
+            - routine station maintenance 
+ 
+ 
+ 
+============================================================================== 
+08/27/2019: Station Maintenance:                                        [1600] 
+ 
+            - replaced faulty wind sentry (wind speed / direction) 
+ 
+ 
+08/15/2019: Logger / Station Maintenance:                               [1120] 
+ 
+            - replaced logger (CR10X -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: cmc-bbac 
+ 
+ 
+ 
+============================================================================== 
+10/30/2018: Logger Maintenance:                                         [1030] 
+ 
+            - replaced faulty battery 
+ 
+ 
+08/16/2018: Station Maintenance:                                        [1500] 
+  
+            - routine station / site maintenance 
+ 
+ 
+06/19/2018: Station Maintenance:                                        [1440] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+============================================================================== 
+07/26/2017: Station Maintenance:                                        [1155] 
+ 
+            - annual maintenance  
+ 
+ 
+05/25/2017: Station Maintenance:                                        [1400] 
+ 
+            - annual maintenance 
+ 
+ 
+ 
+============================================================================== 
+02/27/2015: Station Maintenance:                                        [0008] 
+ 
+            - loaded logger program "mawn_abcf" (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/23/2014: System Maintenance:                                         [0003] 
+ 
+            - loaded logger program "mawn_abcw" 
+ 
+ 
+11/12/2014: System Maintenance:                                         [1503] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "mawn_abcf" 
+ 
+ 
+09/19/2014: Station Maintenance:                                        [1700] 
+ 
+            - Replaced faulty anemometer (i.e. wind speed) 
+ 
+ 
+ 
+============================================================================== 
+04/12/2013: Station Maintenance:                                        [1100] 
+ 
+            - Modem failure... replaced modem, new IP 
+ 
+ 
+02/25/2013: Station Maintenance:                                        [0005] 
+ 
+            - Loaded Logger Program - ABCF (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/12/2012: Station Maintenance:                                        [1502] 
+ 
+            - Loaded Logger Program - ABCW (3-hour collection cycle) 
+ 
+ 
+12/11/2012: Station Maintenance:                                        [1230] 
+ 
+            - Battery replaced.  Weak battery has led to recent loss 
+              of data. 
+ 
+ 
+04/06/2012: Station Maintenance:                                        [0004] 
+ 
+            - Loaded Logger Program "ABCS" (30-minute cycle) 
+ 
+ 
+ 
+============================================================================== 
+05/27/2011: Spring Maintenance:                                         [1100] 
+ 
+            - Routine Spring Maintenance, including: 
+               - Weed-Control (removal and herbicide application) 
+ 
+ 
+ 
+============================================================================== 
+05/18/2009: Station Maintenace: 
+ 
+            - General station maintenance and system checks.            [1700] 
+ 
+ 
+ 
+============================================================================== 
+08/15/2008: Station Maintenance: 
+ 
+            - General station maintenance and system checks, including: 
+                  - Soil Moisture sensors now installed vertically: 
+                        - MSTR 0:  profile of depth =  0 - 12" 
+                        - MSTR 1:  profile of depth = 12 - 24" 
+ 
+            - Work was done approx: 13:30 - 1415 (Day=228) 
+ 
+ 
+ 
+============================================================================== 
+10/18/2006: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:   MAWN_ABCF (09:35) 
+ 
+ 
+09/18/2006: Station Online: 
+ 
+            - Station added to MAWN web site. 
+ 
+ 
+09/15/2006: Data Collection Enabled: 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                 First data report:   Sep 16, 2006 - 00:05   (Day=259) 
+ 
+ 
+09/15/2006: Station Maintenance: 
+ 
+            - Established telecommunication between station cell-modem and 
+              data collection PC/server on campus.   Now able to collect 
+              raw weather data. 
+ 
+ 
+09/15/2006: New Station Installed: 
+ 
+               Notes: 
+  
+                  - Data Logger Program Loaded:    MAWN_ABCS 
+ 
+ 
+               Additional Station Needs: 
+ 
+ 
+ 
+============================================================================== 
+

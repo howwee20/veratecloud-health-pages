@@ -1,0 +1,230 @@
+=============================================================================== 
+Station Notes - Deerfield / Blissfield (MI) 
+ 
+ 
+10/09/2025: Logger Maintenance:                                         [1049] 
+ 
+            - loaded logger program: drf-bbsdS.cr1* 
+ 
+               * supports HMP155A -> HygroVue10 change (atmp/relh) 
+ 
+ 
+ 
+============================================================================== 
+03/19/2023: Logger / Station Maintenance:                               [1015] 
+ 
+            - resolved communication issue: 
+                - reconnected ground wire 
+                - replaced modem 
+ 
+            - routine site maintenance, including: 
+                - checked anemometer (bearings good) 
+                - checked leaf wetness sensor [standard mount]* 
+                - checked pyranometer   
+                - checked soil moisture sensors (installed vertically) 
+                - checked soil temperature senosors (orientation unknown) 
+                - checked wind vane (properly aligned) 
+                - checked / cleaned atmp/relh sensors (45cm, 1.5m, 3m) 
+                - checked / cleaned battery (14.5V) 
+                - checked / cleaned solar panel (over 20V) 
+                - checked / cleaned tipping-bucket raing gauge (adjusted level) 
+ 
+                * site does not include a canopy sensor 
+                 
+ 
+  
+============================================================================== 
+12/20/2022: Logger Maintenance:                                         [1020] 
+ 
+            - checked battery and charging system (good) 
+            - replaced modem* 
+               * communication issues not resolved 
+ 
+ 
+08/12/2022: Station Maintenance:                                        [1005] 
+ 
+            - routine site maintenance, including: 
+                - checked anemometer (bearings good) 
+                - checked leaf wetness sensor [standard mount]* 
+                - checked pyranometer (good, no adjustments needed) 
+                - checked soil sensor cables (good) 
+  - checked wind vane (properly aligned) 
+                - checked / cleaned tipping-bucket rain gauge 
+                - checked / cleaned battery (13.03 V) 
+                - checked / cleaned solar panel (20.16 V) 
+                - cleaned battery box 
+  - cleaned radiation shield on ATMP/RELH sensor 
+                - site well-maintained, no weed removal needed 
+ 
+                * site does not included a canopy sensor 
+ 
+ 
+07/12/2022: Station Maintenance:                                        [0935] 
+ 
+            - routine site maintenance, including: 
+                - checked anemometer (good) 
+                - checked leaf wetness sensor [standard mount]*  
+                - checked pyranometer (good) 
+                - checked soil sensors (adjusted install of soil moisture) 
+                - checked soil sensor cables (good) 
+                - checked wind vane (properly aligned)  
+                - checked / cleaned tipping-bucket rain gauge 
+                - checked / tested battery (13.23 V) 
+                - checked / tested solar panel (20.56 V) 
+                - cleaned battery box 
+                - site well-maintained, no weed removal needed 
+ 
+                * site does not included a canopy sensor  
+ 
+ 
+ 
+============================================================================== 
+12/03/2021: Logger Maintenance:                                         [1502] 
+ 
+            - loaded logger program: drf-bbcdS.cr1*  
+                 - no canopy leaf wetness sensor        
+                 * supports "maintenance mode" 
+ 
+ 
+07/15/2021: Logger / Station Maintenance:                               [1055] 
+ 
+            - routine site maintenance 
+ 
+ 
+06/09/2021: Station Maintenance                                         [1200] 
+ 
+            - replaced faulty atmp/relh (hmp155a) sensor 
+ 
+ 
+05/27/2021: Station Maintenance                                         [1110] 
+ 
+            - routine site maintenance  
+            - upgraded cell modem 
+            - reinstalled 5cm soul temp sensor (soil0) 
+ 
+ 
+ 
+============================================================================== 
+06/09/2020: Logger Maintenance:                                         [1100] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - logger program "drf-bbcdS" started  
+  
+ 
+06/07.2020: Logger / Station Maintenance:                               [1130] 
+ 
+            - replace wireless modem 
+            - added antenna  
+            - checked power supply 
+            - routine maintenance  
+ 
+ 
+ 
+============================================================================== 
+08/16/2019: Logger Maintenance:                                         [1100] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: drf-bbcdS 
+ 
+ 
+08/09/2019: Logger Maintenance:                                         [1120] 
+ 
+            - replaced logger (CR1000 -> CR1000)  [failed] 
+            - postpone PakBus modem upgrade 
+ 
+ 
+ 
+=============================================================================== 
+08/07/2018: Station Maintenance:                                         [1010] 
+ 
+            - annual station / site maintenance  
+ 
+ 
+06/26/2018: Logger Maintenance:                                          [0002] 
+ 
+            - loaded logger program "drf-bbcdS" 
+ 
+ 
+06/06/2018: Logger Maintenance:                                          [0031] 
+ 
+            - loaded logger program "drf-bbcdS" 
+ 
+ 
+04/24/2018: Logger Maintenance:                                          [0001] 
+ 
+            - loaded updated logged program "drf-bbcbS": 
+                - program modified to mask-out all canopy leaf  
+                  wetness (lws1) data.  If sensor is ever installed 
+                  within a representative canopy, logger program will 
+                  need to be modified. 
+ 
+ 
+05/18/2018: Station Maintenance:                                         [1120] 
+ 
+            - Soybean Inversion Study Upgrade, including: 
+                - replace ATMP/RELH sensor @ 1.5m (HMP45C -> HMP155A) 
+                - install new ATMP/RELH sensor @ 45cm 
+                - install new ATMP/RELH sensor @ 3m 
+                - load new logger program "drf-bbcbS" 
+ 
+ 
+ 
+=============================================================================== 
+07/26/2017: Station Maintenance:                                         [1400] 
+ 
+            - annual maintenance  
+ 
+ 
+06/14/2017: Station Maintenance:                                         [0001] 
+ 
+            - loaded logger program "drf-bbab" 
+ 
+ 
+05/25/2017: Station Maintenance:                                         [1110] 
+ 
+            - annual maintenance  
+            - replaced atmp/relh (HC2S3 -> HMP45C) 
+               - atmp/relh now wired to "continuous" power 
+ 
+ 
+ 
+=============================================================================== 
+10/19/2015: Station Online:                                              [1700] 
+ 
+            - Station added to Enviroweather/MAWN Web Site 
+ 
+ 
+08/31/2015: Data Collection Enabled                                      [1700] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   September 01, 2015 (Day=244) 00:05 
+ 
+ 
+08/31/2015: Station Maintenance:                                         [1630] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+08/31/2015: Station Setup                                                [1610] 
+ 
+            - Loaded MAWN Program:   DRF-BBBB 
+                                      DRF => Station ID (Deerfield) 
+                                        B => CR1000/MI (Logger/State) 
+                                        B => CS616 (Soil Moisture) 
+                                        B => HC2S3 (Temp/RH) 
+                                        B => LWS-L (Leaf Wetness) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+08/06/2014: Station Installed:                                           [----] 
+ 
+            - Station installed at station field site 
+ 
+ 
+ 
+=============================================================================== 
+

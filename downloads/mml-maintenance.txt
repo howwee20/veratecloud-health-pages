@@ -1,0 +1,178 @@
+============================================================================== 
+Station Notes - McMillan / Newberry (MI) 
+ 
+ 
+05/07/2024: Logger / Station Maintenance:                               [1606] 
+ 
+            - loaded logger program: mml-bbcd.cr1* (237 -> LWS-L)** 
+                  * supports "maintenance mode" 
+                 ** sensor replaced: 08/26/2023 (no canopy) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+03/21/2024: Logger / Station Maintenance:                               [1415] 
+ 
+            - site maintenance, including: 
+               - checked anemometer (good) 
+               - checked leaf wetness [standard] sensor (program update needed)* 
+               - checked soil sensors (good) 
+               - checked tipping-bucket rain gauge (new and level from last visit) 
+               - checked tripod (leveled using fence post for support) 
+               - checked voltages (good) 
+               - checked wind vane (properly aligned) 
+               - replaced atmp/relh sensor and radiation shield** 
+ 
+               * site does not include a canopy sensor 
+              ** faulty sensor was causing logger issues 
+              
+  
+ 
+==============================================================================  
+08/26/2023: Logger / Station Maintenance:                               [1340] 
+ 
+            - routine site maintenance, including: 
+               - readjusted tripod* 
+               - replaced leaf wetness (standard) sensor [237 -> LWS]** 
+               - replaced tipping-bucket rain gauge 
+ 
+               * station was hit by a tractor on 07/24/2023... the only sensor that was  
+                 damaged was rain gauge.  However, due to the orientation of the sensor,  
+                 the solar radiation data was faulty from 07/24/2023 - 08/26/2023 
+ 
+              ** updated logger program is needed 
+               
+              ** station will no longer support canopy leaf wetness. 
+ 
+ 
+ 
+============================================================================== 
+09/15/2022: Logger / Station Maintenance:                               [1020] 
+ 
+            - routine site maintenance, including: 
+               - checked anemomter (good) 
+               - checked battery (13.51 V) 
+               - checked leaf wetness [standard] sensor (working properly, but sensor is old) 
+               - checked lead wetness [canopy] sensor (working properly, but sensor is old)  
+               - checked pyranometer (no adjustments needed) 
+               - checked soil sensors (good)* 
+               - checked solar panel (21.83 V) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned pyranomter 
+               - cleaned solar panel (wire showing signs of UV rot) 
+               - removal of grass / weeds under tripod 
+ 
+               * note: soil moisture probes are installed vertically at this location 
+ 
+ 
+04/18/2022: Logger Maintenance:                                         [1144] 
+ 
+            - communications modem replaced 
+            - logger reset 
+ 
+ 
+03/21/2022: Logger Maintenance:                                         [1500] 
+ 
+            - reset logger / modem (troubleshoot comm failures) 
+ 
+ 
+  
+============================================================================== 
+08/22/2021: Station Maintenance:                                        [1145] 
+ 
+            - routine site maintenance  
+ 
+ 
+ 
+============================================================================== 
+05/27/2019: Logger Maintenance:                                         [1030] 
+ 
+            - loaded logger program: mml-bbca 
+ 
+ 
+05/24/2019: Logger Maintenance:                                         [1230] 
+ 
+            - replaced faulty logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+ 
+ 
+ 
+============================================================================== 
+10/14/2018: Station Maintenance:                                        [1800] 
+ 
+            - repaired faulty atmp/relh sensor  
+ 
+ 
+06/05/2018: Station Maintenance:                                        [1545] 
+ 
+            - replaced faulty cellular modem 
+ 
+ 
+ 
+============================================================================== 
+08/15/2017: Logger Maintenance:                                         [0001] 
+ 
+            - loaded logger program "mml-bbca" 
+ 
+ 
+08/12/2017: Station Maintenance:                                        [1650] 
+ 
+            - replaced atmp/relh sensor (HC2S3 -> HMP155A) 
+               - sensor now connected to continuous power 
+ 
+ 
+ 
+============================================================================== 
+09/16/2014: System Maintenance:                                         [1307] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbba-mml" 
+ 
+ 
+07/17/2014: Station Maintenance:                                        [1300] 
+ 
+            - Replaced both Soil Temperature sensors 
+ 
+ 
+01/14/2014: Station Maintenance:                                        [1500] 
+ 
+            - Logger battery replaced 
+ 
+ 
+ 
+============================================================================== 
+07/11/2012: Station Online:                                             [xxxx] 
+ 
+            - Station added to MAWN web site. 
+ 
+ 
+06/27/2012: Data Collection Enabled: 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   June 28, 2012 (Day=180) 
+ 
+ 
+06/27/2012: Station Maintenance: 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+06/27/2012: Station Installed: 
+ 
+            - Loaded MAWN Program:   BBBA-MML 
+                                          B => CR1000/MI (Logger/State) 
+                                          B => CS616 (Soil Moisture) 
+                                          B => HC2S3 (Temp/RH) 
+                                          A => 237 (Leaf Wetness) 
+                                        MML => Station ID (McMillan)                                 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

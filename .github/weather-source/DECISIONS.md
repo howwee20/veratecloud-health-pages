@@ -49,3 +49,11 @@
 
 ## October 13, 2026: approved read-only refresh
 Evan Howe confirmed in chat: “Yes, maintainers authorize read-only refreshes” in response to the explicit question about fetching these hosts despite robots.txt. This authorizes bounded GET refreshes of the named public sources, with at least two seconds between requests, no credentials, no production writes, and recorded receipts. No claim of MSU accessibility approval follows from this authorization.
+
+## October 13, 2026 — All-station expansion and recurring refresh
+
+Evan confirmed: "Yes, maintainers authorize read-only refreshes." He then requested all station/report click-throughs on Verate Cloud and updating climate maps. This authorizes the bounded expansion beyond the original two-station demonstration. Captures use GET only, at least 1.1 seconds between request starts on each host (no more than one request per second); no database credentials, logger controls, original-site writes, or arbitrary historical-query crawling. Named climate archive links are followed within a bounded inventory. Broken duplicated SEMCOG relative-path prefixes are repaired before fetching. Supporting organizations and separate NOAA/Wisconsin services remain external links.
+
+Station source values, timestamps, missing markers, explicit N/A fields, partial maintenance dates, and undated instrument warnings must be retained. Source availability failures are visible; unavailable records must never be replaced with invented measurements. Recurring builds retain previously validated data on individual source errors and keep the deployed release on failed validation. Image-derived climate regional samples are approximate color bands, not the underlying grid.
+
+The local custom-report interface filters captured daily/hourly records. Full historical database queries, five-minute data, and the legacy GDD query engine are not represented as completed equivalents. Raw source archive directories beyond the recent three-hour files are inventoried but not mirrored. Review notes must distinguish this scope from complete production replacement and must not claim ADA certification or a new institutional Silktide score.

@@ -1,0 +1,156 @@
+=============================================================================== 
+Station Notes - ONEKAMA TWP / BEAR LAKE:  Bear Lake, MI 
+ 
+ 
+04/10/2026: Logger / Station Maintenance (FS#3702)                       [1100] 
+ 
+            - logger status showing strange start time (01/25/2038) 
+               - reloaded logger program "obl-bbcb.cr1" to reset 
+ 
+     
+04/03/2026: Logger / Station Maintenance (FS#3702, FS#3679)              [1315] 
+ 
+            - logger OS downgrade (32.07 -> 32.05)* 
+            - replaced internal battery 
+ 
+            * v32.07 resets logger after manual LoggerNet connection. 
+ 
+ 
+ 
+=============================================================================== 
+11/06/2025: Logger / Site Maintenance (FS#3679):                         [1130] 
+ 
+            - logger support, including: 
+               - installed new comm cable 
+               - installed new 12V relay 
+               - replaced modem 
+               - upgraded logger OS (32.07) 
+               
+            - routine site maintenance, including: 
+               - checked air temperature / relative humidity (good) 
+               - checked anemometer (good) 
+               - checked battery (13.99 V) 
+               - checked pyranometer (good) 
+               - checked soil sensors (taped up some minor damage) 
+               - checked wind vane (good) 
+               - checked / cleaned leaf wetness [standard] (good) 
+               - ehecked / cleaned leaf wetness [canopy] (good) 
+               - cleaned radiation shield (HMP155) 
+               - cleaned solar panels 
+               - weed removal / trimmed grass 
+ 
+ 
+09/25/2025: Station Maintenance (FS#3661):                               [1200] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery (13.76 V) 
+               - checked pyranometer (good) 
+               - checked soil sensors (good) 
+               - checked wind vane (good) 
+               - checked / cleaned air temp / relative humidity (good) 
+               - checked / cleaned leaf wetness [standard] (good) * 
+               - checked / cleaned leaf wetness [canopy] (good)  
+               - cleaned radiation shield (HMP155) 
+               - cleaned solar panels 
+               - weed removal / trimmed grass 
+ 
+               * may need to replace standard leaf wetness sensors [lws0] soon 
+ 
+ 
+06/25/2025: Station Maintenance (FS#3560):                               [1210] 
+ 
+            - routine site maintenance, including: 
+               - checked air temp / relative humidity (good) 
+               - checked battery (13.52 V) 
+               - checked anemomter (good) 
+               - checked power source [solar] connection (good) 
+               - checked soil sensors (good) 
+               - checked wind vane (good) 
+               - checked / cleaned leaf wetness [standard] (good) 
+               - checked / cleaned leaf wetness [canopy] (good) 
+               - checked / cleaned pyranometer (good) 
+               - checked / cleaned solar panel (good) 
+               - checked / cleaned tipping-bucket rain gauge (good) 
+               - cleaned radiation shield (HMP155) 
+               - weed removal / trimmed grass 
+ 
+ 
+ 
+=============================================================================== 
+05/31/2024: Logger / Station Maintenance:                                [1200] 
+ 
+            - routine site maintenance, including: 
+               - checked battery (good) 
+               - checked leaf wetness [canopy] (good) 
+               - checked leaf wetness [standard] (good) 
+               - checked soil sensors (good) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - checked pyranometer (good) 
+               - cleaned solar panel 
+               - replaced atmp/relh sensor (hmp45c -> hmp155)* 
+               - replaced wind sentry (i.e. anemometer, wind vane) 
+               - weed / grass removal around station 
+ 
+               * loaded logger program: obl-bbcb.cr1 
+                  - supports "maintenance mode" 
+                  - supports "hmp155" sensor (atmp/relh) 
+ 
+ 
+ 
+=============================================================================== 
+08/03/2021: Station Maintenance:                                         [1140] 
+ 
+            - routine station maintenance, including: 
+               - update modem 
+ 
+ 
+ 
+=============================================================================== 
+09/17/2020: Station Maintenance:                                         [1145] 
+ 
+            - replaced faulty anemometer (i.e. wind direction) 
+            - cleaned / tested leaf wetness sensor (standard mount) 
+            - cleaned / tested tipping bucket rain gauge 
+ 
+ 
+09/11/2020: Station Online:                                              [1115] 
+     
+            - Station added to Enviroweather/MAWN database system 
+          
+ 
+09/02/2020: Data Collection Enabled                                      [1400] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   Sept 03, 2020 (d=247) 00:05 
+ 
+ 
+09/02/2020: Logger Setup                                                 [1400] 
+ 
+            - Loaded MAWN Program: obl-bbab.cr1 
+                                      obl => Station Id (onekama) 
+                                        b = MI (state network) 
+                                        b = CR616 (soil moisture) 
+                                        a = HMP45C (air temp / rh) 
+                                        b = LWS-L (leaf wetness) [both] 
+                                      cr1 => CR1000 (logger / logger program type) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+09/01/2020: Station Maintenance:                                         [----] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+09/01/2020: Station Setup                                                [----\ 
+ 
+            - station relocated from former Bear Lake (blk) site 
+            - station setup/activated at field site 
+ 
+ 
+ 
+=============================================================================== 
+

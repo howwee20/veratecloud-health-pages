@@ -1,0 +1,35 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.77 [en] (Windows NT 5.0; U) [Netscape]">
+   <title>file:///Untitled</title>
+</head>
+<body>
+<font size=+3>Harrison (3616)</font>
+<p><font size=+1><a href="smry.pdf">All
+tables for this station in Adobe Acrobat format</a></font>
+<p>&nbsp;The following tables are the 1951-1980 Normals and Narrative Summary
+<p>3. <a href="prec_nm.txt">Precipitation
+normals</a>
+<p>4. <a href="narrat.txt">Narrative
+summary</a>
+<p>The following tables are statistical probabilities based on the 1951-1980
+data
+<p>using the indicated Probability Distribution Function (PDF).
+<p>22. <a href="prec_st.txt">Monthly
+&amp; annual total precipitation (Gamma PDF)</a>
+<p>23. <a href="snow_st.txt">Monthly
+&amp; seasonal (Sep-May) total snowfall (Gamma PDF)</a>
+<p>24. <a href="dpg10_st.txt">#
+of days with precipitation of .10 inch or above (Weibull PDF)</a>
+<p>25. <a href="dpg25_st.txt">#
+of days with precipitation of .25 inch or above (Weibull PDF)</a>
+<p>26. <a href="dpg50_st.txt">#
+of days with precipitation of .50 inch or above (Weibull PDF)</a>
+<p>27. <a href="prssn_st.txt">Monthly
+&amp; seasonal (Apr-Sep) precipitation (Gamma PDF)</a>
+<br>&nbsp;
+<br>&nbsp;
+</body>
+</html>

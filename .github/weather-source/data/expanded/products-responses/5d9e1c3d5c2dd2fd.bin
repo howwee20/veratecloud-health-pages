@@ -1,0 +1,177 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:31
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+
+<br>
+<br>
+<br>
+The page that you selected does not exist...
+
+<br>
+<br>
+<br>
+Click <a href="./forecasts.html">HERE</a> to return to the:<br><br><b>MSU Agricultural Weather Office - Forecast Products Page.</b>
+
+ 
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

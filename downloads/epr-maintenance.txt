@@ -1,0 +1,309 @@
+============================================================================== 
+Station Notes - Eastport 
+ 
+ 
+04/25/2021: Station Maintenance:                                        [0755] 
+ 
+            - replaced wind sentry (wind speed / wind direction)  
+ 
+ 
+04/12/2021: Station Maintenance:                                        [1850] 
+ 
+            - repaired tipping-bucket rain gauge (reinstalled) 
+ 
+ 
+ 
+============================================================================== 
+06/29/2020: Logger / Station Maintenance:                               [1230] 
+ 
+            - power system upgrade 
+            - replaced / remounted leaf wetness (standard mount) 
+ 
+ 
+ 
+============================================================================== 
+07/26/2019: Logger / Station Maintenance:                               [1240] 
+ 
+            - several issues... replaced the following: 
+               - logger and solid state relay 
+               - atmp/relh sensor (HMP155A) 
+               - all soil sensors 
+               - solar radiation (pyranometer) 
+               - tipping-bucket rain gauge 
+               - all leaf wetness sensors 
+ 
+  
+07/19/2019: Logger Maintenance:                                         [1145] 
+ 
+            - replaced logger (CR1000 -> CR1000 / PakBus change) 
+            - loaded logger program: epr-bbcd 
+ 
+ 
+04/30/2019: Station Maintenance:                                        [1800] 
+ 
+            - replaced faulty pyranometer (solar radiation sensor) 
+ 
+ 
+ 
+============================================================================== 
+09/10/2018: Logger Maintenance:                                         [1232] 
+ 
+            - loaded logger program (epr-bbcd): 
+               - corrected issue with missing canopy leaf wetness 
+               - corrected issue with "air temp" sensor change 
+ 
+ 
+09/06/2018: Station Maintenance:                                        [1200] 
+ 
+            - site rebuild... 
+              - replaced logger (CR1000) 
+              - replaced atmp/relh (HMP45C -> HMP155A) 
+              - replaced leaf wetness (237 -> LWS-L) 
+              - replaced soil temp sensors 
+              - replaced soil moisture sensors 
+ 
+            - loaded logger program (epr-bbab)* 
+                  * needs to be upgraded to "epr-bbcd" 
+ 
+ 
+06/06/2018: Station Maitenance:                                         [1330] 
+ 
+            - replaced faulty cellular modem 
+ 
+ 
+01/03/2018: Station Maintenance:                                        [1650] 
+ 
+            - replaced faulty logger battery 
+ 
+ 
+ 
+============================================================================== 
+11/06/2017: Station Maintenance:                                        [1853] 
+ 
+            - replaced logger battery 
+ 
+ 
+06/29/2017: Station Maintenance:                                        [1845] 
+ 
+            - replaced logger battery 
+ 
+ 
+02/22/2017: Station Maintenance:                                        [0955] 
+ 
+            - replaced logger battery 
+ 
+ 
+ 
+============================================================================== 
+12/16/2015: Station Maintenance:                                        [1435] 
+ 
+            - replaced faulty CR10X logger with CR1000 logger 
+ 
+ 
+03/06/2015: Station Maintenance:                                        [0006] 
+ 
+            - loaded logger program "mawn_abcf" (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+11/16/2014: Station Maintenance:                                        [1830] 
+ 
+            - faulty logger battery replaced 
+            
+  
+11/12/2014: System Maintenance:                                         [1508] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "mawn_abcw" 
+ 
+ 
+08/26/2014: Station Maintenance:                                        [0800] 
+ 
+            - routine maintenance  
+ 
+ 
+02/25/2014: Station Maintenance:                                        [0007] 
+ 
+            - Loaded Logger Program "ABCF" (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/18/2013: Station Maintenance:                                        [1334] 
+ 
+            - Loaded Logger Program "ABCW" (3-hour collection cycle) 
+ 
+ 
+12/15/2013: Station Maintenance:                                        [0825] 
+ 
+            - Replaced logger battery.    
+            - Battery issues led to recent data loss. 
+ 
+ 
+01/27/2013: Station Maintenance:                                        [1335] 
+ 
+            - Replaced Battery.  Battery issues led to recent data loss 
+ 
+ 
+ 
+============================================================================== 
+12/15/2012: Station Maintenance:                                        [0820] 
+ 
+            - Replaced Battery.  Battery issues led to recent data loss 
+ 
+ 
+09/17/2012: Station Maintenance:                                        [1806] 
+ 
+            - Removed blockage from rain gauge funnel.   
+ 
+            - Will need to mark all precipitation data as "missing" 
+              during the following time period: 
+ 
+                 09/04/2012 (d=248) 00:00 - 09/17/2012 (d=261) 18:10 
+ 
+ 
+05/23/2012: Station Maintenance:                                        [1645] 
+ 
+            - Replaced Modem 
+ 
+ 
+ 
+============================================================================== 
+12/20/2011: Station Maintenance:                                        [1820] 
+ 
+            - Replaced Battery 
+            - Battery issues led to data loss during following periods: 
+ 
+                 12/15/2011 (d=349) 1705 - 12/17/2011 (d=351) 1000 
+                 12/17/2011 (d=351) 1705 - 12/18/2011 (d=352) 1300 
+                 12/18/2011 (d=352) 1705 - 12/20/2011 (d=354) 1820 
+ 
+ 
+03/02/2011: Station Maintenance:                                        [0001] 
+ 
+            - Loaded MAWN Program - ABCF (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+11/18/2010: Station Maintenance:                                        [0003] 
+ 
+            - Loaded MAWN Program - ABCW (3-hour collection cycle) 
+ 
+ 
+03/05/2010: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCF (hourly collection cycle)      [0004] 
+ 
+ 
+ 
+============================================================================== 
+11/04/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCW (3-hour collection cycle)      [0005]  
+ 
+  
+06/08/2009: Station Maintenance:                                        [0930] 
+ 
+            - Recent communication troubles... 
+               - Wireless broadband modem replaced on 06/07/09. 
+               - LoggerNet software adjusted on 06/08/09. 
+  
+ 
+01/27/2009: Station Maintenance:                                        [1650] 
+ 
+            - Telecommunication trouble with the Eastport MAWN 
+              station was corrected - blown fuse in modem power 
+              cable was replaced.   
+ 
+ 
+ 
+============================================================================== 
+11/10/2008: Data Cleanup: 
+ 
+            - Removed faulty data introduced due to battery failure. 
+              There is now a large chunk of several missing data 
+              entries between 11/18/08 - 12/08/08. 
+ 
+ 
+11/08/2008: Station Maintenance: 
+ 
+            - Replaced faulty battery                                   [1726] 
+ 
+ 
+10/28/2008: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCF (60-minute power cycle) [0006]  
+ 
+ 
+10/05/2008: Station Maintenance: 
+ 
+            - Tipping Bucket rain gauge was repaired (cleaned)  [1430] 
+ 
+ 
+05/13/2008: Station Maintenance (sm): 
+ 
+            - Communication converted to broadband cell-modem: 
+                  - Broadband cell-ip modem installed 
+                  - Datalogger progam "mawn_abcs" loaded and compiled. 
+                  - Battery voltage now reported every hour. 
+                  - Data collection configured to upload every 30 minutes. 
+ 
+            - General station maintenance and system checks. 
+                  - Work was done approx: 14:35 (Day=134) 
+ 
+ 
+ 
+============================================================================== 
+06/01/2005: Station Maintenance (sm): 
+ 
+            - Phone line to datalogger was accidentally cut on Friday,  
+              May 27, 2005 and was repaired today - phone line was  
+              spliced at gated entrance to the orchard and buried for  
+              *temporary* protection.    
+ 
+            - Data collection and data upload to MAWN database resumed 
+              normal operation. 
+ 
+            - General Station Maintenance and System Checks: 
+                 - weed removal and application of Round-Up above soil temps 
+                 - cleaned Air Temp/Relative Humidty sensor 
+                 - check Anemometer/Wind Vane 
+                 - cleaned Precipitation bucket 
+ 
+ 
+========================================================================== 
+ 
+04/12/2004: Station Maintenance (jtb) 
+ 
+            - New Datalogger Program (MAWN1C) Loaded (16:30, Day=103). 
+              The new program corrects soil moisture readings which 
+              were previously reported as missing. 
+ 
+ 
+04/12/2004: Phone Line Connected.   Station Added to MAWN Website 
+ 
+ 
+04/05/2004: Data Collection and Data Archive for new station begins 
+ 
+               First report:  April 05, 2004 - 00:05   (Day=096) 
+ 
+ 
+ 
+============================================================ 
+05/15/2003: New Station Installed: 
+ 
+               Notes: 
+                  
+                  - leaf wetness B (canopy) - sensor is installed, but stii 
+                    needs to be installed in tree canopy. 
+ 
+ 
+               Additional Station Needs: 
+                  - phone line 
+ 
+ 
+ 
+============================================================================== 
+

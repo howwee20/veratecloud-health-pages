@@ -1,0 +1,96 @@
+=============================================================================== 
+Station Notes - New Era (MI) 
+ 
+ 
+06/15/2022: Station Maintenance:                                        [1300] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked battery (may need replacement soon) 
+               - checked hygrovue [atmp/relh] (adjusted mount) 
+               - checked pyranometer (new mount needed next visit) 
+               - checked tipping-bucket rain gauge (clean and level) 
+               - checked wind vane (properly aligned) 
+               - checked / cleaned solar panel 
+               - checked / tested leaf wetness [standard] (good)* 
+               - cleaned battery box  
+               - weed removal and trimming  
+               
+               * this site does not include a canopy leaf wetness sensor 
+ 
+  
+ 
+=============================================================================== 
+07/22/2021: Station Maintenance:                                         [1405] 
+  
+            - routine site maintenance  
+ 
+ 
+06/08/2021: Station Maintenance:                                         [1140] 
+ 
+            - routine site maintenance, including: 
+               - modem update 
+ 
+ 
+ 
+=============================================================================== 
+08/05/2020: Station Maintenance:                                         [1500] 
+ 
+            - routine site maintenance, including: 
+               - battery replacement            
+               - charge controller installed 
+ 
+ 
+06/03/2020: Station Maintenance:                                         [1300] 
+ 
+            - routine site maintenance, including: 
+               - rewired Hygrovue (atmp/relh) and CS650 (soil) sensors 
+ 
+ 
+ 
+=============================================================================== 
+05/28/2019: Station Maintenance:                                         [1400] 
+ 
+            - reinstalled all soil sensors... 
+               - added soil sensors at 50cm 
+               - repaired faulty atmp/relh/dwpt sensor 
+ 
+ 
+03/18/2019: Station Online:                                              [1110] 
+     
+            - Station added to Enviroweather/MAWN database system 
+          
+ 
+03/07/2019: Data Collection Enabled                                      [1505] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   March 07, 2019 (d=066) 00:05 
+ 
+ 
+03/06/2019: Logger Setup                                                 [1505] 
+ 
+            - Loaded MAWN Program: ner-bssd 
+                                      ner => Station ID (New Era [MI]) 
+                                        b => CR1000/MI (Logger/Site) 
+                                        s => SDI-12 [CS650] (Soil Moisture) 
+                                        s => SDI-12 [HygroVue10] (Temp/RH) 
+                                        d => LWS-L (Leaf Wetness) [no canopy] 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+02/03/2019: Station Maintenance:                                         [1000] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+02/03/2019: Station Setup                                                [----] 
+ 
+            - station setup/activated at field site 
+ 
+ 
+ 
+=============================================================================== 
+

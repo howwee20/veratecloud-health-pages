@@ -1,0 +1,138 @@
+============================================================================== 
+Station Notes - Sturgeon Bay (WI) 
+ 
+ 
+08/16/2023: Station Retired                                             [0000] 
+  
+            - station retired 
+               - station now being managed by Wisconet (Wisconsin Mesonet)... 
+                  ...for more information and current data, refer to: 
+ 
+                        https://wisconet.wisc.edu 
+                        https://wisconet.wisc.edu/stations/pars 
+ 
+ 
+ 
+============================================================================== 
+08/06/2021: Station / Logger Maintenance:                           [1010 CDT] 
+ 
+            - routine site maintenance  
+            - replaced battery / modem 
+            - reset / power cycle logger 
+ 
+ 
+ 
+============================================================================== 
+09/12/2019: Logger / Station Maintenance:                           [0002 CDT] 
+ 
+            - loaded logger program: stb-cbab 
+ 
+ 
+09/05/2019: Logger / Station Maintenance:                           [1615 CDT] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+ 
+ 
+ 
+============================================================================== 
+07/22/2015: Station Maintenance:                                    [2200 CDT] 
+ 
+            - replaced faulty 4" soil temperature sensor (SOIl1) 
+ 
+ 
+============================================================================== 
+09/23/2014: Station Maintenance:                                    [1500 CDT] 
+ 
+            - Replaced faulty 4" soil temperature sensor (SOIL1) 
+ 
+ 
+04/16/2014: Station Maintenance:                                    [1403 CDT] 
+ 
+            - Loaded Logger Program "cbab-stb" which should now properly 
+              report Leaf Wetness values from LWS-L sensors 
+ 
+ 
+ 
+============================================================================== 
+11/25/2013:  Station Maintenance:                                       [1200] 
+  
+             - Repaired wiring to tipping-bucket rain gauge 
+ 
+ 
+11/25/2013:  Data Quality:                                              [1230] 
+  
+             - Faulty 4" Soil Temperature Data Removed For Following 
+               Time Period: 
+ 
+                  05/10/2013 (d=121) 0005 - 11/14/2013 (d=318) 1430 
+ 
+ 
+11/14/2013:  Station Maintenance:                                       [1430] 
+ 
+             - replaced 4" Soil Temperature Sensor (SOIL1) 
+             - replaced tipping-bucket rain gauge 
+ 
+ 
+03/22/2013:  Station Maintenance:                                       [1042] 
+ 
+             - replaced battery 
+ 
+ 
+ 
+============================================================================== 
+04/25/2012:  Station Maintenance:                                       [0003] 
+ 
+             - Loaded updated Logger Program CBAA-STB.  Logger now 
+               set to collect on a 30-minute cycle from Apr - Sep. 
+ 
+ 
+04/20/2012: Station Maintenance                                        [15:30] 
+ 
+            - Precipiation gauge was temporarily unavailable.  Repairs 
+              were made today.  However, there is no precipitation  
+              data available during the follwing time period (CDT): 
+ 
+                 04/19/2012 (d=110) 00:05 - 04/20/2012 (d=111) 12:00 
+ 
+ 
+ 
+============================================================================== 
+06/29/2011  Station Online:                                            [16:30] 
+ 
+                - Station added to MAWN web site. 
+ 
+ 
+ 
+06/22/2011:  Data Collection Enabled: 
+ 
+                - Data Collection and Data Archive for new station begins: 
+ 
+                     First data report:   Jun 07, 2011 - 00:05 (Day=158)* 
+ 
+                        * earlier data may be added later. 
+ 
+ 
+ 
+06/06/2011:  Station Maintenance: 
+ 
+                - Established telecommunication between station cell-modem and 
+                  data collection PC/server on campus.    
+ 
+ 
+ 
+xx/xx/2011:  Station Installed: 
+ 
+                - Loaded MAWN Program:   BBC-WISC 
+                                             B => CR1000 
+                                             B => CS616  
+                                             C => Broadband Cell Modem (IP) 
+                                          WISC => Generic MAWN Progrm For Wisconsin 
+                                        
+ 
+                - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

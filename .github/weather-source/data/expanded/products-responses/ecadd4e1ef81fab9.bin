@@ -1,0 +1,1274 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:33
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+<table><tr><td align="left">
+
+
+
+<center><b><font size=+2>Agriculture and Climate Change in the Great Lakes
+Region</font></b>
+<p>Agriculture Sectoral Report from:
+<p>The U.S. National Assessment: The Potential Consequences of Climate
+Variability and Change
+<p>Upper Great Lakes Region Final Report
+<p>December 1999
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<p>Jeffrey A. Andresen and Gopta Alagarswamy,
+<p>Michigan State University, East Lansing, MI
+<p>and
+<p>William B. Sea, H.H. Cheng,
+<p>University of Minnesota, St. Paul, MN</center>
+
+<p><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><b>Introduction</b>
+<br>&nbsp;
+<p>Agriculture ranks among the most important economic activities of the
+Great Lakes region, accounting for more than $15B in annual cash receipts
+(USDA/NASS, 1997a). Livestock, including dairy, is the number one agricultural
+commodity group, comprising over half of the total. Dairy production alone
+produces almost $5B in receipts. Other major commodity groups include;
+grains/oilseeds, vegetables, ornamentals, and fruit. Crop diversity is
+an important characteristic of agriculture in the region due at least partially
+to the moderating influence of the Great Lakes on regional climate (Changnon
+and Jones, 1972). Over 120 commodities are grown or raised commercially
+in the region (USDA/NASS, 1997a).
+<br>&nbsp;
+<p>Geographically, agriculture in the region follows a south to north gradient,
+with intensive rowcrop monoculture in southern sections gradually giving
+way to forests and other natural vegetation across the north. Southern
+sections of the region form the northern boundary of the U.S. Corn Belt
+region, with corn, soybeans, hogs, and cattle as major commodities. Dairy
+and associated alfalfa production are common in the driftless area of southeastern
+Minnesota and southwestern Wisconsin and scattered across central and northern
+sections of the region. Vegetable production is centered in the Central
+Sands area of central Wisconsin, across Lower Michigan, and in the Red
+River Valley of Minnesota, which also forms the eastern boundary of the
+Great Plains small grain production area. Fruit and ornamental crops are
+grown intensively along the eastern shore of Lake Michigan.
+<br>&nbsp;
+<p>The amount of water and the frequency of its availability are primary
+climatological constraints for the production of most annual crops (Thompson,
+1986; Andresen, 1989). Approximately 2-3% of farmland in the region is
+commercially irrigated, largely for potato, sugarbeet, and seed corn production
+(USDA/NASS, 1997b). During drought periods, such as 1988, large area yields
+for corn and soybeans were less than 50 % of average trend yields (USDA/NASS,
+1997a). Conversely, farmers lost entire crops during the extensive flooding
+years of 1993 and 1997, particularly in Minnesota and Wisconsin. Early
+season cool, wet spells can lead to delays in planting which require a
+shift to a shorter season cultivar or to a different crop such as soybeans
+(Schwartz, 1999) and may lead to substantial crop yield and quality reductions
+due to plant diseases (McMullen, 1997).
+<br>&nbsp;
+<p><b>Regional Agricultural Stresses</b>
+<br>&nbsp;
+<p>The major stresses on agriculture in the Upper Great Lakes region can
+be generally categorized as economic, environmental, social, and regulatory.
+Most important among these categories currently are economic stresses,
+which include commodity prices near or below the costs of production, price
+volatility, difficulty in obtaining finance and capital, high farm labor
+costs and low labor availability, and loss of industry infrastructure (Olson,
+1999; Lotterman, 1998). Environmental factors may also create direct stress
+on regional agriculture. Major environmental factors include climate and
+its inherent variability, long-term degradation of soil resources, geographical
+concentration of livestock production and the associated management of
+large amounts of livestock waste, and the contamination of surface waters
+and groundwater by agricultural chemicals (Lakshminarayan,et al., 1996).
+Societal issues influencing the agricultural industry include population
+shifts to and from rural areas, loss of farmland to urban sprawl, and increasing
+land values and property taxes. Finally, one category of stresses that
+integrates many of the above factors is governmental regulation, which
+may drastically change standards or alter the economics of the production
+system. One current example is the gradual implementation of the 1996 Food
+Quality Protection Act, which may ultimately result in the loss of many
+pesticides used commercially in agriculture (especially in fruit and vegetable
+production) and for which few, if any, substitutes now exist (DiFonzo and
+Olsen, 1997).
+<br>&nbsp;
+<p><b>Potential Impacts from Climate Change: Past Studies</b>
+<br>&nbsp;
+<p>The potential impacts of climate change on regional agriculture will
+depend greatly on the magnitude, timing, and the variability associated
+with the change. Of these elements, variability is generally considered
+the most difficult with which to cope and adapt, especially should it increase
+in the future (Parry and Carter, 1985). The majority of research on climate
+change in the Great Lakes region suggests a warmer and wetter climate in
+the future (Wigley, 1999), with relatively more warming occurring in the
+winter and spring than in other seasons (Mortsch and Quinn, 1996). Agriculturally,
+this would most likely lead to a longer growing season and greater potential
+productivity, but also to greater potential rates of evapotranspiration.
+An additional critical factor in determining potential productivity is
+CO<sub>2</sub> enrichment, which has been associated with increases in
+total plant dry matter accumulation and improved crop water use efficiency
+through decreases in transpiration<font face="Times New Roman"> rates.
+While </font>some research studies have shown that yield increases due
+to higher CO<sub>2 </sub>levels may decrease when other resources are limiting
+and that the enrichment effect may decrease over time for some plant species,
+most scientific literature suggests significant long term benefits to agriculture
+a<font face="Times New Roman">s ambient atmospheric concentrations of CO<sub>2</sub>
+increase in the future (Rosenzweig and Hillel, 1998; Idso and Idso, 1994).</font>
+<br>&nbsp;
+<p><font face="Times New Roman">There are relatively few previous research
+studies pertaining to potential agricultural impacts of climate change
+within the Great Lakes region itself. Early research on crops in this region
+suggested future increases in the yields of several major grain crops,
+largely the result of a longer growing season and shift to crop cultivars
+and varieties with greater potential productivity (e.g. Rosenzweig et al.,
+1994; Ritchie et al., 1989). Subsequent studies have yielded mixed results,
+however, with yield increases associated with CO<sub>2</sub> enrichment
+at least partially offset by a hastening of crop phenological cycles and
+increasing levels of water stress (Brown and Rosenberg, 1999). Impact studies
+which have included estimates of the costs and benefits associated with
+changes in crop productivity at locations within or close to the Great
+Lakes region have also tended to suggest a net cancellation of the potential
+positive and negative effects of climate change, resulting in overall minor
+economic impacts on agriculture (Lewandowski and Schimmelpfennig, 1999;
+Doering et al., 1997; Adams et al., 1995; Kaiser et al., 1993).</font>
+<br>&nbsp;
+<p><b><font face="Times New Roman">Adaptations and Coping Mechanisms</font></b>
+<br>&nbsp;
+<p><font face="Times New Roman">If the magnitude of regional climatic changes
+in the future reaches values suggested by general circulation studies,
+farmers will be forced to adapt to the changes or become uncompetitive
+and unprofitable. Future adaptations could include longer season or different
+crop varieties, double cropping systems, use of irrigation, and other unforseen
+technological improvements. There is evidence based on past performance
+that agriculture could at least partially adapt to a changing climate and
+that the costs of such adaptations would be small compared to costs associated
+with an expansion of or changes to major production areas (Easterling,
+1996; Doering et al., 1997; Mendelsohn, et al., 1996). Ultimately, however,
+the ability to adapt will likely depend upon the nature of the climatic
+change, as increases in variability could make future adaptations difficult
+(Mearns et al., 1997).</font>
+<br>&nbsp;
+<p><b>Current Regional Study</b>
+<br>&nbsp;
+<p>Given relatively few past studies concerning climate and agricultural
+production in the Great Lakes region, the major objective of this study
+was the deterministic simulation of crop behavior at a local level as a
+function of weather and climate alone under both historical and projected
+future climates. Particular attention was given to areas within the region
+where agricultural activities have historically been limited by climatological
+and soil constraints, but which could become more favorable for agriculture
+in the future given a warmer climate. Three crops commonly grown in the
+region were chosen for the study: alfalfa, a forage used extensively for
+dairy production; maize, a coarse grain; and soybean, an oilseed. <font face="Times New Roman">Simulation
+models based on the physiological processes which govern growth and development
+of the crops were used: DAFOSYM (Rotz et al., 1989), CERES-Maize (Jones
+and Kiniry, 1986), and SOYGRO (Jones et al., 1988) for alfalfa, maize,
+and soybean crops, respectively. These simulation models have been successfully
+used in a wide number of past studies and applications (e.g. Easterling,
+1998; Adams et al., 1995; Pickering et al., 1995). The models require large
+amounts of input data including daily values of precipitation, maximum
+and minimum temperatures, and solar radiation. Thirteen locations across
+the region (5 in Minnesota, 3 in Wisconsin, and 5 in Michigan) were chosen
+for the study on the basis of climatological series record length and homogeneity,
+as well as geographical coverage across the region and its major land use
+zones (see <a href="#stationtable">Table 1</a>). Three of the study locations
+were specifically chosen from northern, historically non-agricultural areas
+of the region to investigate the potential for agriculture under a warmer
+climate. The study was divided into two major categories; historical and
+future. Historical scenarios were based on observed daily weather data
+at each of the locations. The individual lengths of the data series ranged
+from 67-102 years and all but 4 of the series began in the 1895-1900 period.
+Potential future weather scenarios were derived from two of the general
+circulation models chosen for use in the U.S. National Assessment: 1) the
+United Kingdom Meteorological Office/ Hadley Centre for Climate Prediction
+and Research HADCM2 model (Johns et al, 1997); and 2) the Canadian Climate
+Centre First generation Coupled General Circulation Model (CGCM1) (Flato
+et al., 1998). Both models were run with assumed future transient increases
+of 1% equivalent CO2 increase per year plus the effects of atmospheric
+aerosols through year 2100 as outlined in the Intergovernmental Panel on
+Climate Change (IPCC) scenario IS92a (IPCC, 1994). Future daily weather
+series used in the study were taken from the gridded VEMAP2 0.5X 0.5 resolution
+data set for the United States (UCAR, 1999) developed by Kittel et al.
+(1997). Daily series for each grid were generated synthetically on the
+basis of monthly differences between GCM projections and historical (observed)
+data. For all 13 station locations in the study, data were taken from the
+nearest available VEMAP2 grid cell.</font>
+<br>&nbsp;
+<p><font face="Times New Roman">In order to isolate the effects of weather
+and climate on crop performance, fertility levels in all models were assumed
+to be non-limiting for crop growth and development. Soils data in the simulations
+were based on profile data typical of agricultural soils in the vicinity
+of each location in the study and were taken from laboratory pedon data
+available at the National Soil Survey Center (USDA/NRCS/NSSC, 1999). Other
+agronomic input data necessary for the crop simulations (e.g. crop cultivar
+characteristics, plant populations) were chosen to reflect typical current
+(i.e. late 1990's) technology and growing conditions. Planting dates of
+both maize and soybean crops each season were determined automatically
+by the models based on user-specified weather and soil conditions. For
+all alfalfa simulations, a first-year crop stand was assumed. Maize and
+soybean were harvested each season at physiological maturity while the
+automatic harvest option was used for alfalfa, with four seasonal cuts
+of alfalfa taken at the 7 southernmost stations and three seasonal cuts
+taken at the remaining 6 northern stations depending on weather conditions.</font>
+<br>&nbsp;
+<p><font face="Times New Roman">Verification of the crop simulation models
+used in the study consisted of a comparison of simulated yields vs. observed
+county-levels yields on an independent 5-station set of data for the period
+1961-1990. Because of significant upward trends in the observed yields
+over the verification period due to improvements in technology and other
+factors, the simulated and observed series were not directly comparable
+as the simulated series assumes constant levels of technology. As a result,
+the observed data series were first statistically detrended with linear
+or nonlinear regressions. Series of residuals defined as the difference
+of observed (simulated) and trend (1961-1990 simulated average) yields
+were then computed. General agreement was found in comparisons of the observed
+and simulated residuals, with mean absolute differences between simulated
+vs. observed residuals ranging from 0.41-0.72, 0.48-0.65, and 0.16-0.26
+ton/acre for alfalfa, maize, and soybean crops, respectively. In general,
+the models tended to overestimate interannual variability relative to the
+observed yields, which is expected since the observed series are spatial
+averages of smaller scale yields within a county and the model simulations,
+by definition, are single, plot-level estimates. Most importantly, however,
+the models appeared to account for the majority of within-season shortages
+and surpluses of plant available moisture and the resulting negative and
+positive deviations from mean yields, and were, therefore, judged to be
+acceptable for use in this study.</font>
+<br>&nbsp;
+<p><font face="Times New Roman">To investigate the effects of possible
+future CO<sub>2 </sub>enrichment, the ambient atmospheric concentration
+of CO<sub>2 </sub>for future crop model simulations was based on the IPCC
+IS92a scenario following Joos et al.(1996). CO<sub>2</sub> concentrations
+in this scenario are expected to increase to just above 700ppm by the year
+2100. For all historical simulations, ambient atmospheric CO<sub>2</sub>
+concentrations were held constant at the model default level of 330 ppm.
+CO<sub>2</sub>-dependent changes in rates of biomass production for each
+crop were taken from Curry et al. (1990) while changes in stomatal resistance
+were obtained from Rogers et al. (1983).</font>
+<br>&nbsp;
+<p><font face="Times New Roman">Historical and future model simulations
+for all three crops were run in chronological order for each location and
+scenario, with soil moisture in the models initialized each season at the
+drained upper limit (DUL) on the 1<sup>st</sup> of March for DAFOSYM and
+on the 1<sup>st</sup> of April for CERES-Maize and SOYGRO. Model output
+including daily estimates of crop moisture usage, soil water content, and
+water stress intensity was saved and archived, with growing season statistics
+calculated in a secondary processing step. For statistical summation and
+averaging purposes, the growing season was defined as the date of planting
+through physiological maturity for maize and soybean, and from 1 March
+through 31 October for alfalfa. In order to determine the nature of changes
+in the model output variables studied, estimates of both trend magnitude
+and significance were calculated.</font>
+<br>&nbsp;
+<p><a NAME="stationtable"></a>
+<center><table BORDER=3 WIDTH="380" NOSAVE >
+<tr VALIGN=TOP NOSAVE>
+<td NOSAVE>
+<br><b><font face="Times New Roman">Station</font></b></td>
+
+<td ALIGN=CENTER>
+<br><b><font face="Times New Roman">Latitude</font></b></td>
+
+<td ALIGN=CENTER>
+<br><b><font face="Times New Roman">Longitude</font></b></td>
+
+<td ALIGN=CENTER><b><font face="Times New Roman">No. of Years</font></b>
+<br><b><font face="Times New Roman">In Record</font></b></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td><font face="Times New Roman">Bay City, MI</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">43 37'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">83 52'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">101</font></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td><font face="Times New Roman">Big Rapids, MI</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">43 42'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">85 29'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">101</font></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td><font face="Times New Roman">Chatham, MI</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">46 20'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">86 55'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">96</font></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td><font face="Times New Roman">Coldwater, MI</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">41 57'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">85 00'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">100</font></td>
+</tr>
+
+<tr VALIGN=TOP NOSAVE>
+<td><font face="Times New Roman">Crookston, MN</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">47 48'</font></td>
+
+<td ALIGN=CENTER NOSAVE><font face="Times New Roman">96 37'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">102</font></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td><font face="Times New Roman">East Jordan, MI</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">45 09'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">85 08'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">67</font></td>
+</tr>
+
+<tr VALIGN=TOP NOSAVE>
+<td NOSAVE><font face="Times New Roman">Eau Claire, WI</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">44 52'</font></td>
+
+<td ALIGN=CENTER NOSAVE><font face="Times New Roman">91 29'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">96</font></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td><font face="Times New Roman">Grand Rapids, MN</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">47 14'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">93 30'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">82</font></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td><font face="Times New Roman">Madison, WI</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">43 08'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">89 20'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">92</font></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td><font face="Times New Roman">Morris, MN</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">45 35'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">95 53'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">102</font></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td><font face="Times New Roman">Spooner, WI</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">45 49'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">91 53'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">86</font></td>
+</tr>
+
+<tr VALIGN=TOP>
+<td><font face="Times New Roman">Waseca, MN</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">44 04'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">93 31'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">82</font></td>
+</tr>
+
+<tr VALIGN=TOP NOSAVE>
+<td><font face="Times New Roman">Worthington, MN</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">43 39'</font></td>
+
+<td ALIGN=CENTER><font face="Times New Roman">95 35'</font></td>
+
+<td ALIGN=CENTER NOSAVE><font face="Times New Roman">102</font></td>
+</tr>
+
+<caption ALIGN=BOTTOM>&nbsp;
+<br>Table 1.&nbsp; Study station locations and climatological record lengths.</caption>
+</table></center>
+
+<p><b>Model Simulation Results</b>
+<br>&nbsp;
+<p><u>Historical Trends</u>
+<br>&nbsp;
+<p>When averaged across the historical record of the study, simulated seasonal
+crop yields at the 13 regional study locations are comparable to observed
+yields with regional ranges of 3.77-4.93 ton/acre (8.46-11.06 ton/ha),
+17.88-116.52 bu/ac (1.20-7.82 ton/ha), and 15.58-41.34 bu/ac (0.98-2.60
+ton/ha) for alfalfa, maize, and soybean, respectively. Highest simulated
+yields for all crops occurred at southern locations with decreasing yields
+to the north. Greatest interannual yield variability for maize and soybean
+was found at northern stations, where crop failures due to extreme low
+temperatures and lack of seasonal growing degree day accumulations (i.e.
+insufficient heat unit accumulation) were common. Yield variability of
+alfalfa was also greatest at northern locations, but less pronounced than
+for maize and soybean. The impact of the soil profile chosen for the simulations
+could also be identified at some of the locations, with relatively higher
+yields on deeper soil profiles (greater than 60 in. (150 cm) in depth)
+and lesser yields on shallow (1m or less) profiles.
+<br>&nbsp;
+<p>Several trends were identified in the historical climatological data
+and from agroclimatological output variables derived from the model simulations.
+Across the study period, increases in growing season precipitation were
+found at 10 or more of the 13 locations for all three crops. These increases
+have generally taken place from the 1920's and 1930's through the present,
+are in agreement with larger regional scale trends (Karl et al., 1994),
+and are at least partially due to greater frequency of wet days and wet
+days which follow wet days (Andresen, 1999). Increases in simulated soil
+moisture available to the plant at mid-season, a key variable in determining
+ultimate yield potential, were also found for maize (1l of 13 locations
+with increases) and soybean (12 of 13 locations with increases). In contrast,
+simulated potential evapotranspiration, the potential loss of water due
+to soil evaporation and plant transpiration, was found to decrease at 11,
+10, and 9 of the 13 locations for alfalfa, maize, and soybean crops, respectively.
+As a result of the trends towards wetter, less stressful conditions, there
+were increases in both maize (positive trends at 11 out of 13 locations)
+and soybean (positive trends at all 13 locations) yields occurred across
+much of the region. Alfalfa yield trends were mixed, with decreases at
+8 locations and increases at 5 locations. Overall, greatest increases in
+simulated yields for all crops over time were found at western and northern
+study locations.
+<br>&nbsp;
+<p><u>Projected Future Results</u>
+<br>&nbsp;
+<p>Projected data for the period 2000-2099 from the United Kingdom Meteorological
+Office Hadley Centre HADCM2 and Canadian Climate Centre CCGCM1 general
+circulation model simulations (see Appendix B for additional information)
+suggest an overall warmer and wetter climate by the year 2099 across the
+region. The CGCM1 model is the warmer of the two models, with a 7.2F (4C)
+or greater increase in mean annual temperatures at the study locations
+by 2099 relative to historical averages (versus a 4.5F (2.5C) increase
+for HADCM2). Average annual precipitation totals across the region generally
+increase from approximately 31.5 inches (800mm) at 2000 to 39.4 inches
+(1000mm) at 2099 for both GCMs. However, the rate of precipitation increase
+for the HADCM2 GCM is much more consistent over the 100 year period than
+for the CGCM1 GCM, in which much of the overall 100-year increase occurs
+during the last 20 years of the period.
+<br>&nbsp;
+<p>A comparison of historical and potential future simulated yields for
+the three crops averaged from 2000-2099 and across all 13 study locations
+for both GCM and CO2 enrichment scenarios is given in&nbsp; <a href="#cropyields">Table
+2</a>. In general, the warmer and wetter climate suggested by both GCMs
+leads to increases in average simulated non-CO<sub> 2</sub> enriched crop
+yields relative to historical yields, ranging from 6% for alfalfa for both
+GCMs to 26% for maize in the CGCM1 model. When the impacts of CO<sub> 2</sub>
+enrichment are also considered, the yield differential relative to the
+historical period increases to a range of 16% for alfalfa with the CGCM1
+model to 81% for soybean with the CGCM1 model. Largest percentage increases
+in yield across the 2000-2099 study period were at northern locations.
+The ratios of the future scenarios with and without CO<sub> 2</sub> enrichment
+suggest that the majority of yield increases during this period are due
+to CO<sub> 2</sub> enrichment.
+<br>&nbsp;
+<p>It is important to note that the ratios given in&nbsp; <a href="#cropyields">Table
+2</a> represent averages over the entire 100-year future period. The majority
+of the simulated yield series actually exhibited consistent increases through
+the period, especially with the HADCM2 model data. Other yield series tended
+to decrease across the period, or increase during the initial decades of
+the period, followed by decreases later in the period. The latter pattern
+was especially true for crop simulations at southern and western study
+locations with the CGCM1 model. Decadal box plots illustrating these trends
+at Waseca, MN and Madison, WI relative to historical yields are given in
+<a href="#fig1a">1a</a> and&nbsp; <a href="#fig1b">1b</a>. In&nbsp; <a href="#fig1a">Figure
+1a</a> with the HADCM2 model and CO<sub>2</sub> enrichment, simulated soybean
+yields increase more than 100% relative to historical yields across the
+period. With maize and the CGCM1 model at Madison, WI (<a href="#fig1b">Fig.
+1b</a>), however, CO<sub>2</sub>-enriched yields gradually decrease during
+future decades. Also, with a few exceptions, interannual yield variability
+(represented by the width of the box/whiskers) is generally equal or less
+than for the historical series, especially for the CGCM1 model simulation,
+and appears to decrease towards later decades of the period. These decreases
+are likely associated with corresponding decreases in the interannual variability
+of GCM-derived annual mean temperature and precipitation series.
+<br>&nbsp;
+<p><a NAME="cropyields"></a>
+<center><table BORDER=3 WIDTH="600" NOSAVE >
+<tr VALIGN=TOP NOSAVE>
+<td NOSAVE>
+<br><b>Scenario</b></td>
+
+<td ALIGN=CENTER COLSPAN="2" NOSAVE><b>Alfalfa</b>
+<br><b>HADCM2&nbsp;&nbsp; CGCM1</b></td>
+
+<td ALIGN=CENTER COLSPAN="2" NOSAVE><b>Maize</b>
+<br><b>HADCM2&nbsp;&nbsp; CGCM1</b></td>
+
+<td ALIGN=CENTER COLSPAN="2" NOSAVE><b>Soybean</b>
+<br><b>HADCM2&nbsp;&nbsp; CGCM1</b></td>
+</tr>
+
+<tr VALIGN=TOP NOSAVE>
+<td NOSAVE>Future without CO<sub>2</sub>
+<br>vs.
+<br>Historical</td>
+
+<td ALIGN=CENTER>
+<br>1.06</td>
+
+<td ALIGN=CENTER>
+<br>1.06</td>
+
+<td ALIGN=CENTER>
+<br>1.11</td>
+
+<td ALIGN=CENTER NOSAVE>
+<br>1.26</td>
+
+<td ALIGN=CENTER>
+<br>1.13</td>
+
+<td ALIGN=CENTER>
+<br>1.24</td>
+</tr>
+
+<tr VALIGN=TOP NOSAVE>
+<td NOSAVE>Future with CO<sub>2</sub>
+<br>vs.
+<br>Historical</td>
+
+<td ALIGN=CENTER>
+<br>1.16</td>
+
+<td ALIGN=CENTER>
+<br>1.16</td>
+
+<td ALIGN=CENTER>
+<br>1.23</td>
+
+<td ALIGN=CENTER NOSAVE>
+<br>1.40</td>
+
+<td ALIGN=CENTER>
+<br>1.64</td>
+
+<td ALIGN=CENTER>
+<br>1.81</td>
+</tr>
+
+<tr VALIGN=TOP>
+<td>Future with CO<sub>2</sub>
+<br>vs.
+<br>Future without CO<sub>2</sub></td>
+
+<td ALIGN=CENTER>
+<br>1.11</td>
+
+<td ALIGN=CENTER>
+<br>1.09</td>
+
+<td ALIGN=CENTER>
+<br>1.11</td>
+
+<td ALIGN=CENTER>
+<br>1.11</td>
+
+<td ALIGN=CENTER>
+<br>1.45</td>
+
+<td ALIGN=CENTER>
+<br>1.46</td>
+</tr>
+
+<caption ALIGN=BOTTOM>&nbsp;
+<br>Table 2.&nbsp; Ratios of crop yields for historical and GCM-projected
+future scenarios, 2000-2099, averaged over all 13 stations.&nbsp; Note:
+'with' and 'without' CO<sub>2</sub> refers to the inclusion of plant impacts
+resulting from enhanced CO<sub>2</sub> concentrations in the simulations
+in addition to climate change impacts.</caption>
+</table></center>
+
+<br>&nbsp;
+<p><a NAME="fig1a"></a>
+<center><img SRC="./fig04-01.gif" ALT="Simulated Historical and Future Soybean Yields">
+<p>Fig. 1a</center>
+
+<p><br>
+<br>
+<p><a NAME="fig1b"></a>
+<center><img SRC="./fig04-02.gif" ALT="Simulated Historical and Future Maize Yields">
+<p>Fig. 1b</center>
+
+<br>&nbsp;
+<p>The water balance for a crop at a given location can be described as
+a balance between the water source, precipitation, and the sum of evapotranspiration,
+runoff, and drainage (the sinks). Assuming no other water is added or lost
+from the soil profile, the seasonal change in water from soil storage can
+then be obtained as the residual of the sources and sinks. A water balance
+averaged over time for historical and future maize simulations at Madison,
+WI is given in&nbsp; <a href="#simcomp">Table 3</a>. On a historical basis,
+the simulations indicate that growing season precipitation is insufficient
+to meet the evapotranspiration demands of the crop, and that 5.2 inches
+(132mm) of water (or 29% of the evapotranspiration) must be supplied from
+soil storage, usually from accumulated non-growing season precipitation.
+In the two selected future decades, the average fraction of water supplied
+to the crop by storage decreases to 16%(22%) of the historical values for
+HADCM2 (CGCM1) models in the 2025-2034 decade and to 7%(24%) of historical
+values in the 2090-2099 decade. For the HADCM2 model, the reduction in
+the storage term is a result of an increase in growing season precipitation,
+runoff, and drainage, and a reduction of evapotranspiration. For the CGCM1
+model, the reduction is primarily a result of a reduction in evapotranspiration
+alone. The reduction in evapotranspiration from the historical values through
+2090-2099, ranging from 2.32 inches (59mm) for the HADCM2 model to 3.82
+inches (97mm) for CGCM1, is primarily a result of decreases in the transpiration
+rate of the crop due to CO<sub>2</sub> enrichment.
+<br>&nbsp;
+<p><a NAME="simcomp"></a>
+<center><table BORDER=3 WIDTH="600" NOSAVE >
+<tr VALIGN=TOP NOSAVE>
+<td>Time Period</td>
+
+<td ALIGN=CENTER COLSPAN="2" NOSAVE>
+<br><b>Precipitation</b>
+<br>HAD&nbsp;&nbsp; CGCM</td>
+
+<td ALIGN=CENTER COLSPAN="2" NOSAVE><b>Evapo-</b>
+<br><b>transpiration</b>
+<br>HAD&nbsp;&nbsp; CGCM</td>
+
+<td ALIGN=CENTER COLSPAN="2" NOSAVE>
+<br><b>Runoff</b>
+<br>HAD&nbsp;&nbsp; CGCM</td>
+
+<td ALIGN=CENTER COLSPAN="2" NOSAVE>
+<br><b>Drainage</b>
+<br>HAD&nbsp;&nbsp; CGCM</td>
+
+<td ALIGN=CENTER COLSPAN="2" NOSAVE><b>Change in</b>
+<br><b>Storage</b>
+<br>HAD&nbsp;&nbsp; CGCM</td>
+</tr>
+
+<tr VALIGN=TOP NOSAVE>
+<td>2026-2035</td>
+
+<td ALIGN=CENTER>17.6</td>
+
+<td ALIGN=CENTER>15.9</td>
+
+<td ALIGN=CENTER>-17.9</td>
+
+<td ALIGN=CENTER>-16.6</td>
+
+<td ALIGN=CENTER NOSAVE>-1.0</td>
+
+<td ALIGN=CENTER>-0.7</td>
+
+<td ALIGN=CENTER>-1.6</td>
+
+<td ALIGN=CENTER>-2.1</td>
+
+<td ALIGN=CENTER>2.9</td>
+
+<td ALIGN=CENTER>3.6</td>
+</tr>
+
+<tr VALIGN=TOP>
+<td>2090-2099</td>
+
+<td ALIGN=CENTER>20.5</td>
+
+<td ALIGN=CENTER>14.7</td>
+
+<td ALIGN=CENTER>-15.6.</td>
+
+<td ALIGN=CENTER>-14.1</td>
+
+<td ALIGN=CENTER>-1.7</td>
+
+<td ALIGN=CENTER>-1.1</td>
+
+<td ALIGN=CENTER>-4.2</td>
+
+<td ALIGN=CENTER>-1.9</td>
+
+<td ALIGN=CENTER>1.1</td>
+
+<td ALIGN=CENTER>2.4</td>
+</tr>
+
+<tr VALIGN=TOP>
+<td>Historical</td>
+
+<td ALIGN=CENTER COLSPAN="2">15.1</td>
+
+<td ALIGN=CENTER COLSPAN="2">-17.9</td>
+
+<td ALIGN=CENTER COLSPAN="2">-1.0</td>
+
+<td ALIGN=CENTER COLSPAN="2">-1.4</td>
+
+<td ALIGN=CENTER COLSPAN="2">5.2</td>
+</tr>
+
+<caption ALIGN=BOTTOM>&nbsp;
+<br>Table 3.&nbsp; Simulated components of the growing season water balance
+for maize at Madison, WI&nbsp; averaged over future (HAD=HADCM2 , CGCM=CGCM1)&nbsp;
+and historical (1896-1996) time periods. All values are expressed in inches.</caption>
+</table></center>
+
+<p>The projected GCM data suggest a warmer and wetter climate for the Great
+Lakes region by the end of the next century, possibly leading to a northward
+shift of some current crop production areas (Brklacich and Smit, 1992;
+Smit et al., 1990). Even with less suitable soils agronomically, the model
+simulations suggest an improving yield potential (relative to climatology)
+at three of the northernmost study locations currently outside of major
+agricultural production areas: Chatham, MI, East Jordan, MI, and Grand
+Rapids, MN. Simulated CO<sub>2</sub> enriched crop yields averaged over
+these locations for historical and two future decades are given in 
+<a href="#avgsimyields">Table
+4</a>. The average yields for maize and soybean increase dramatically by
+the 2090-2099 decade relative to historical yields, ranging from 276%(263%)
+for soybean with HADCM2 (CGCM1) models to 343%(373%) for maize. The increases
+for alfalfa were smaller, ranging from 26% with the CGCM1 model to 29%
+with the HADCM2 model.
+<br>&nbsp;
+<p><a NAME="avgsimyields"></a>
+<center><table BORDER=3 WIDTH="475" NOSAVE >
+<tr VALIGN=TOP NOSAVE>
+<td ALIGN=CENTER NOSAVE>
+<br>Time Period</td>
+
+<td ALIGN=CENTER COLSPAN="2" NOSAVE><b>Alfalfa</b>
+<br>HAD&nbsp;&nbsp; CGCM</td>
+
+<td ALIGN=CENTER COLSPAN="2" NOSAVE><b>Maize</b>
+<br>HAD&nbsp;&nbsp; CGCM</td>
+
+<td ALIGN=CENTER COLSPAN="2" NOSAVE><b>Soybean</b>
+<br>HAD&nbsp;&nbsp; CGCM</td>
+</tr>
+
+<tr VALIGN=TOP>
+<td ALIGN=CENTER>2025-2034</td>
+
+<td ALIGN=CENTER>4.56</td>
+
+<td ALIGN=CENTER>4.55</td>
+
+<td ALIGN=CENTER>64.2</td>
+
+<td ALIGN=CENTER>77.0</td>
+
+<td ALIGN=CENTER>31.6</td>
+
+<td ALIGN=CENTER>39.6</td>
+</tr>
+
+<tr VALIGN=TOP>
+<td ALIGN=CENTER>2090-2099</td>
+
+<td ALIGN=CENTER>5.09</td>
+
+<td ALIGN=CENTER>4.99</td>
+
+<td ALIGN=CENTER>96.4</td>
+
+<td ALIGN=CENTER>104.6</td>
+
+<td ALIGN=CENTER>55.2</td>
+
+<td ALIGN=CENTER>52.6</td>
+</tr>
+
+<tr VALIGN=TOP>
+<td ALIGN=CENTER>Historical</td>
+
+<td ALIGN=CENTER COLSPAN="2">3.86</td>
+
+<td ALIGN=CENTER COLSPAN="2">28.0</td>
+
+<td ALIGN=CENTER COLSPAN="2">20.0</td>
+</tr>
+
+<caption ALIGN=BOTTOM>&nbsp;
+<br>Table 4.&nbsp; Average of simulated crop yields (ton/acre for alfalfa,
+bu/acre for maize and soybean) with CO<sub>2</sub> enrichment at Chatham,
+MI, East Jordon, MI, and Grand Rapids, MN locations for future (HAD=HADCM2
+, CGCM=CGCM1) and historical (1896-1996) time periods.</caption>
+</table></center>
+
+<br>&nbsp;
+<p><font face="Times New Roman">Should climate change occur across the
+region at some point in the future, it is highly likely that the producers
+of the crops would adapt to the changes as long as the adaptations were
+economically feasible (Easterling, 1996). As a simple example of an adaptative
+strategy, agronomic input data in the CERES-Maize crop model were modified
+to better suit the warmer future climate suggested by the GCMs at Coldwater,
+MI, a location typical of the northern Corn Belt region. In particular,
+the crop was planted 15 days earlier each season (on or after 1 May, depending
+on weather and soil conditions) and the total number of base 46.4F growing
+degree days required for the crop to advance from silking to physiological
+maturity, was increased from 1224 units to 1440 units. Cumulative frequency
+distributions of simulated yields, derived by ranking the yields from both
+'adapted' and 'non-adapted' cultivars from 2000-2099, are given in&nbsp;</font>
+<a href="#fig2">Figure 2</a><font face="Times New Roman">. Due to total
+crop failures in 4 of the 100 years of simulation (due to early freezes
+in the beginning decades of the future scenarios), the adapted crop exhibited
+a probability of zero yields for a small portion of the distribution. At
+a probability of 0.11 or greater, however, the adapted yields exceed non-adapted
+yields and continue as such for the remainder of the distribution, with
+the magnitude of the differences generally ranging from 14.9-26.1 bu/ac
+(1.0-1.75 t/ha).</font>
+<br>&nbsp;
+<p><a NAME="fig2"></a>
+<center><img SRC="./fig04-03.gif" ALT="Cumulative Simulated Frequency Distributions">
+<p>Fig. 2</center>
+
+<p><b><font face="Times New Roman">Conclusions</font></b>
+<br>&nbsp;
+<p><font face="Times New Roman">Overall, this study attempts to identify
+changes in the potential productivity of three crops in the region as a
+function of weather and climate alone. Increases in simulated crop yields
+during the past several decades were likely associated with corresponding
+trends toward wetter, less stressful growing season weather. The model
+simulation results from the two GCMs differ somewhat, but suggest that
+crop yields in the future may be substantially greater than those observed
+during the past century due to the effects of CO<sub>2</sub> enrichment
+and because of more favorable growing season weather, especially in northern
+sections of the region. The simulations also suggest that the amount of
+water from soil storage necessary to meet crop demands will decrease, making
+in-season water shortages (and moisture stress) less likely than in the
+past. Finally, the majority of projected future yield series exhibit decreasing
+interannual variability with time, which was associated with decreases
+of growing season temperature and precipitation variability.</font>
+<br>&nbsp;
+<p><u><font face="Times New Roman">Limitations and Further Study</font></u>
+<br>&nbsp;
+<p><font face="Times New Roman">There are many limitations to this study.
+Perhaps most importantly (and due to its primary objective of isolating
+the effects of weather and climate), it did not consider the impacts of
+major limiting factors in agriculture such as inadequate fertility or pressure
+from weeds, diseases, and insect pests. In addition, the projected future
+weather scenarios are simplistic synthetically-derived series from the
+coarse-scale, monthly grid output values of the GCMs and represent the
+output of only two GCM simulations. Future studies based on more representative
+regional- or local-scale climate simulations which include these and other
+limiting factors as well as resulting economic impacts are needed for future
+risk assessment and for the development of new technologies necessary for
+commercial adaptative strategies if and when climate change does occur.</font>
+<br>&nbsp;
+<br>&nbsp;
+<br>
+<br>
+<center>
+<p><b>Figure Captions</b></center>
+
+<p><br>
+<p>1a) Simulated historical and future soybean yields by decade, HADCM2
+model data with CO<sub>2</sub> enrichment, Waseca, MN. Lower, middle, and
+upper horizontal bars in the box represent 25<sup>th</sup>, 50<sup>th</sup>,
+and 75<sup>th</sup> percentiles, respectively while bottom and top whiskers
+represent 10<sup>th</sup> and 90<sup>th</sup> percentiles.
+<br>&nbsp;
+<p>1b) Simulated historical and future maize yields by decade, CGCM1 model
+data with CO<sub>2</sub> enrichment, Madison, WI. Lower, middle, and upper
+horizontal bars in the box represent 25<sup>th</sup>, 50<sup>th</sup>,
+and 75<sup>th</sup> percentiles, respectively while bottom and top whiskers
+represent 10<sup>th</sup> and 90<sup>th</sup> percentiles.
+<br>&nbsp;
+<p>2) Cumulative simulated frequency distributions of adapted vs. non-adapted
+crop cultivars, 2000-2099, with HADCM2 data, Coldwater, MI. The Y-axis
+(p(x)) value indicates the fraction of all yields less than or equal to
+the corresponding number on the X-axis. The adapted cultivar required 18%
+more growing degree days between silk and maturity than non-adapted cultivar
+and was planted 15 days earlier.
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<p><b><font face="Times New Roman">References</font></b>
+<br>&nbsp;
+<p><font face="Times New Roman">Adams, R. M., Fleming, R. A., Chang, C.C.,
+McCarl, B., and C. Rozenzweig, 1995: A reassessment of the economic effects
+of global climate change on U.S. agriculture. <i>Climatic Change</i>, <b>30,</b>
+147-167.</font>
+<br>&nbsp;
+<p><font face="Times New Roman">Andresen, J.A., 1999: Climatological Trends
+and Potential Agricultural Impacts in Michigan: 1930-1995. </font>Submitted
+to <i>Michigan Agricultural Experiment Station Research Report Series</i>,
+Michigan State University, East Lansing, MI.
+<br>&nbsp;
+<p>Andresen, J.A., R.F. Dale, J.J. Fletcher, and P.V. Preckel, 1989: Prediction
+of County-Level corn Yields Using and Energy-Crop Growth Index. <i>J. Clim.</i>
+2:48-56.
+<br>&nbsp;
+<p><font face="Times New Roman">Brklacich, M. and B. Smit, 1992. Implications
+of changes in climatic averages and variability on food production opportunities
+in Ontario, Canada. <i>Climatic Change </i><b>20,</b> 1-21.</font>
+<br>&nbsp;
+<p>Brown, R. A. and N. J. Rosenberg, 1999: Climate change impacts on the
+potential productivity of corn and winter wheat in their primary United
+States growing regions. <i>Climatic Change</i> <b>41, </b>73-107.
+<br>&nbsp;
+<p>Changnon, S.A. and D.M.A. Jones, 1972: Review of the influences of the
+Great Lakes on Weather. <i>Water Resour. Res.</i> <b>8,</b> 360-371.
+<br>&nbsp;
+<p>Curry, R.B., R.M. Peart, J.W. Jones, K.J. Boote, and L.H. Allen. 1990.
+Simulation as a tool for analyzing crop response to climate change. <i>Trans.
+ASAE</i> 33:981-990.
+<br>&nbsp;
+<p><font face="Times New Roman">DiFonzo, C. and L.G. Olsen, 1997: All About
+the Food Quality Protection Act</font>. <i>The IPM Report</i> Vol. 6, No.
+1. Michigan State University Extension, East Lansing, MI.
+<br>&nbsp;
+<p>Doering, O., M. Habeck, J. Lowenberg-DeBoer, J. C. Randoph, J. J. Johnston,
+B. Z. Littlefield II, M. A. Mazzocco, M. Kinwa, and R. Pfeiefer, 1997:
+Mitigation Strategies and Unforseen consequences: A systematic assessment
+of the adaptation of upper midwest agriculture to future climate change.
+<i>World
+Resource Review,</i> <b>9 (4),</b> 447-459.
+<br>&nbsp;
+<p>Easterling W.E., A. Weiss, C.J. Hays, and L.O. Mearns, 1998: Spatial
+scales of climate information for simulating wheat and maize productivity:
+the case of the US Great Plains. <i>Agric. For. Met. </i>90:51-63
+<br>&nbsp;
+<p>Easterling, W. E., 1996: Adapting North American agriculture to climate
+change in review. <i>Agric. For. Met</i><b>., 80,</b> 1-53.
+<br>&nbsp;
+<p>Flato, G.M.; Boer, G.J.; Lee, W.G.; McFarlane, N.A.; Ramsden, D.; Reader,
+M.C.; Weaver, A.J., 1998: "The Canadian Centre for Climate Modelling and
+Analysis Global Coupled Model and its Climate". Submitted to Climate Dynamics.
+<br>&nbsp;
+<p><font face="Times New Roman">Idso, K. E., and S. B. Idso, 1994: Plant
+responses to atmospheric CO2 enrichment in the face of environmental contraints:
+a review of the past 10 years' research. <i>Agric. For. Meteorol</i><b>.
+69:</b>153-203.</font>
+<br>&nbsp;
+<p><font face="Times New Roman">IPCC, 1994:<i> Climate Change 1994: Radiative
+Forcing of Climate Change and an Evaluation of the IPCC IS92 Emission Scenarios</i>,
+J.T. Houghton, L.G. Miera Filho, J. Bruce, Hoesung Lee, B.A. Callander,
+E.F. Haites, N. Harris, and K. Maskell (eds.). Cambridge Univ. Press, Cambridge,
+UK.</font>
+<br>&nbsp;
+<p><font face="Times New Roman">Johns T.C., Carnell, R.E., Crossley J.F.,
+Gregory J.M., Mitchell J.F.B., Senior C.A., Tett S.F.B. and Wood R.A.,
+1997: The Second Hadley Centre coupled ocean-atmosphere GCM: Model description,
+spinup and validation. <i>Climate Dynamics</i> 13 103-134.</font>
+<p>Jones, C.A. and J. Kiniry, 1986: <i>CERES-Maize: A Simulation Model
+of Maize Growth and Development</i>. Texas A&amp;M University Press, College
+Station, TX, 194pp.
+<br>&nbsp;
+<p>Jones, J., K. Boote, S. Jagtap, G. Hoogenboom, and G. Wilkerson, 1988:
+<i>SOYGRO
+v5.41 Soybean Crop Growth Simulation Model</i>. User's Guide. Florida Agricultural
+Experiment Station Journal No. 8304, IFAS, University of Florida, Gainesville,
+FL.
+<br>&nbsp;
+<p>Joos, F., M. Bruno, R. Fink, U. Siegenthaler, T. Stocker, T. Le Queue,
+and J.L. Sarmiento, 1996: An efficient and accurate representation of complex
+oceanic and biospheric models of anthropogenic carbon uptake. <i>Tellus</i>
+48B:397-417.
+<br>&nbsp;
+<p><font face="Times New Roman">Karl, T.R., D.R. Easterling, R.W. Knight,
+and P.Y. Hughes, 1994: U.S. national and regional temperature anomalies.
+pp. 686-736. In Boden, T.A., D.P. Kaiser, R.J. Sepanski and F.W. Stoss
+(eds.), <i>Trends '93: A Compendium of Data on Global Change</i>. ORNL/CDIAC-65.
+Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory,
+Oak Ridge, TN, USA.</font>
+<br>&nbsp;
+<p>Kaiser, H. M., Riha, S. J., Wilks, D. S., Rosister, D. G., and R. Sampath,
+1993:
+<p>A farm-level analysis of economic and agronomic impacts of gradual warming.
+<i>American
+Journal of Agricultural Economics,</i> <b>75(2),</b> 387-398.
+<br>&nbsp;
+<p>Kittel, T.G.F., J.A. Royle, C. Daly, N.A. Rosenbloom, W.P. Gibson, H.H.
+Fisher, D.S. Schimel, L.M. Berliner, and VEMAP2 Participants. 1997. A gridded
+historical (1895-1993) bioclimate dataset for the conterminous United States.
+Pages 219-222, in: <i>Proceedings of the 10th Conference on Applied Climatology</i>,
+20-24 October 1997, Reno, NV. American Meteorological
+<p>Society, Boston.
+<br>&nbsp;
+<p>Lakshminarayan, P. G., Bouzaher, A., and J. F. Shogren, 1996: Atrazine
+and Water Quality: An Evaluation of Alternative Policy Options. <i>J. Env.
+Management</i>, 48(2), 111-126.
+<br>&nbsp;
+<p>Lewandrowski, J. and D. Schimmelpfennig, 1999: Economic Implications
+of Climate Change for U. S. Agriculture: Assessing Recent Evidence. <i>Land
+Economics</i>, <b>75 (1)</b>, 39-57.
+<br>&nbsp;
+<p>Lotterman, E., 1999: Is Agriculture in Crisis? Working research paper
+in <i>fedgazette</i> vol. 11, no1. Woodrow Federal Reserve Bank of Minneapolis,
+Minneapolis, MN.
+<br>&nbsp;
+<p>McMullen, M., Jones, R., and D. Gallenberg, 1997: Scab of wheat and
+barley: a re-emerging disease of devastating impact. <i>Plant Disease,</i><b>81(12),</b>
+1340-1348.
+<br>&nbsp;
+<p>Mearns, L. O., C. Rosenzweig, and R. Goldberg, 1997: Mean and variance
+change in climate scenarios: Methods, agricultural applications, and measures
+of uncertainty. <i>Climate Change</i>, <b>35</b>, 367-396.
+<br>&nbsp;
+<p>Mendelsohn, R., Nordhaus, W. D., and D. Shaw, 1996: Climate impacts
+on aggregate farm value: accounting for adaptation. <i>Agric. For. Meteorol</i><b>.,
+80,</b>55-66.
+<br>&nbsp;
+<p>Mortsch, L. D., and F. H. Quinn, 1996: Climate change scenarios for
+Great Lakes Basin ecosystem studies. <i>Limnol. Oceanogr</i>., <b>41(5)</b>,
+903-911.
+<br>&nbsp;
+<p>Olson, K., 1999: Mixed News from 1998 Farm Records. <i>Agricultural
+Economist Newsletter</i>, No. 696, University of Minnesota Extension Service,
+St. Paul, MN.
+<br>&nbsp;
+<p><font face="Times New Roman">Parry, M.L. and T.R. Carter, 1985: The
+Effect of Climatic Variations on Agricultural Risk.
+<i>Climate Change</i>,
+7, 95-110.</font>
+<br>&nbsp;
+<p>Pickering, N.B., J.W. Jones, and K.J. Boote, 1995. Adapting SOYGRO v5.42
+for Predicting under Climate Change Conditions. In <i>Climate Change and
+Agriculture: Analysis of Potential International Impacts</i>. ASA Special
+pub. 59, Am. Soc. Agron., Madison, WI.
+<br>&nbsp;
+<p>Ritchie, J. T., Baer, B. D., and T. Y. Choo, 1989: Effect of global
+change on agriculture in the Great Lakes region. In <i>Potential Effects
+of Global Change on the United States</i>, J. B. Smith and D. A. Tirpak
+(eds.), USEPA, Washington, DC.
+<br>&nbsp;
+<p>Rogers, H.H., G.E. Bingham, J.D. Cure, J.M. smith and K.A. Surano. 1983.
+Responses of selected plant species to elevated carbon dioxide in the field.
+<i>J.
+Environ. Qual.</i> 12:569-574.
+<br>&nbsp;
+<p>Rosenzweig, C. and D. Hillel, 1998: <i>Climate Change and the Global
+Harvest: Potential Impacts of the Greenhouse Effect on Agriculture</i>.
+Oxford University Press, New York, 324 pp.
+<br>&nbsp;
+<p>Rosenzweig, C., B Curry, J. T. Ritchie, J. W. Jones, T.-Y. Chou, R.
+Goldberg, and A. Inglesias, 1994: The effects of potential climate change
+on simulated grain crops in the United States. In
+<p><i>Implications of Climatic Change for International Agriculture: Crop
+Modeling Study</i>. U.S. Environmental Protection Agency Report EPA 230-B-94-003.
+24pp.
+<br>&nbsp;
+<p>Rotz, C.A., J.R. Black, D.R. Mertens and D.R. Buckmaster. 1989. DAFOSYM:
+A
+<p>model of the dairy forage system. <i>J. Production Agric</i>. 2(1):83
+91.
+<br>&nbsp;
+<p>Schwartz, D, 1999: Management Strategies for delayed planting. <i>Minnesota
+Crop News</i>, <b>5(7)</b>, 45.
+<br>&nbsp;
+<p>Smit, B., M. Brklacich, R.B. Stewart, R. McBride, M. Brown, and D. Bond,
+1990: Sensitivity of Crop Yields and Land Resource Potential to Climatic
+Change in Ontario, Canada. <i>Ag. For. Met.</i> 2: 153-173.
+<br>&nbsp;
+<p>Thompson, L.M., 1986: Climatic change, weather variability, and corn
+production. <i>Agron. J</i>. 78:649-653.
+<br>&nbsp;
+<p><font face="Times New Roman">UCAR, 1999: VEMAP2 Product Description,
+available online at: http://www.cgd.ucar.edu/naco/summary.html.</font>
+University Center for Atmospheric Research, Boulder, CO.
+<br>&nbsp;
+<p>USDA/NRCS/NSSC, 1999: National Soil Survey Laboratory Online Database
+Access, http://vmhost.cdp.state.ne.us/~nslsoil/soil.html. United States
+Dept. of Agriculture, Natural Resources Conservation Center, National Soil
+Survey Center, Lincoln, NE.
+<br>&nbsp;
+<p>USDA/NASS, 1997a: USDA Economics and Statistics System data sets: Crops,
+available online at: http://usda.mannlib.cornell.edu/usda/usda.html. U.S.
+Dept. of Agriculture, National Agricultural Statistics Service, Washington,
+DC.
+<br>&nbsp;
+<p><font face="Times New Roman">USDA/NASS, 1997b. 1997 Census of Agriculture.
+Available online at: http://www.usda.gov/nass/. U.S. Dept. of Agriculture,
+National Agricultural Statistics Service, Washington, DC.</font>
+<br>&nbsp;
+<p><font face="Times New Roman">Wigley, T.M.L., 1999: <i>The Science of
+Climate Change: Global and U.S. Perspectives</i>. Pew Center on Global
+Climate Change Special Report. The Pew Trust, New York, NY. 48p.</font>
+
+
+</td></tr></table>
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

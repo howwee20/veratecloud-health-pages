@@ -1,0 +1,262 @@
+============================================================================== 
+Station Notes - Old Mission: 
+ 
+ 
+07/24/2019: Logger / Station Maintenance:                               [1435] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: old-bbcb 
+ 
+ 
+ 
+============================================================================== 
+10/16/2018: Station Maintenance:                                        [1745] 
+ 
+            - replaced faulty atmp/relh sensor 
+ 
+ 
+09/24/2018: Logger Maintenance:                                         [1700] 
+ 
+            - loaded new logger program (old-bbcb) 
+                - needed because of sensor change 
+ 
+ 
+09/23/2018: Station Maintenance:                                        [1345] 
+ 
+            - replaced faulty atmp/relh sensor (HC2S3 -> HMP155A) 
+ 
+ 
+06/20/2018: Station Maintenance:                                        [1305] 
+ 
+            - annual maintenance 
+            - reinstalled atmp/relh sensor (HC2S3) 
+              - sensor now connected to "continuous" power 
+ 
+ 
+ 
+============================================================================== 
+08/26/2015: Station Maintenance:                                        [0915] 
+ 
+            - replaced faulty TEMP/RH sensor 
+ 
+ 
+07/21/2015: Station Modernization:                                      [1400] 
+ 
+            - Station upgraded with new logger and serveral new sensors. 
+ 
+            - loaded logger program "old-bbbb" 
+ 
+            - Due to upgrade, station was offline for the following: 
+  
+                 07/21/2015 (d=202) 1405 - 07/21/2015 (d=202) 1430 
+ 
+            - the "live" data updates were able to resume at: 
+ 
+                 07/22/2015 (d=203) 1530 
+ 
+ 
+07/20/2015: Station Maintenance:                                        [1730] 
+ 
+            - repaired tipping-bucket rain gauge 
+ 
+ 
+ 
+============================================================================== 
+07/17/2014: Station Maintenance:                                        [1820] 
+ 
+            - Replaced damaged tipping-bucket rain gauge 
+ 
+ 
+01/24/2014: Station Maintenance:                                        [1106] 
+ 
+            - Moved data-colletion to new LoggerNet Server 
+            - Loaded Logger Program: AACF (hourly cycle) 
+ 
+ 
+01/11/2014: Station Maintenance:                                        [0930] 
+ 
+            - Replaced logger battery 
+ 
+ 
+ 
+============================================================================== 
+06/16/2013:  Station Maintenance:                                       [1040] 
+ 
+             - Anemomenter Testing 
+ 
+ 
+ 
+============================================================================== 
+05/23/2012:  Station Maintenance:                                       [1845] 
+ 
+             - Replaced Modem 
+ 
+ 
+ 
+============================================================================== 
+09/12/2009:  Station Maintenance:                                       [0935] 
+ 
+             - Replaced Air Temp/Relative Humidity 
+             - Replaced Anemometer (Wind Speed) 
+ 
+ 
+ 
+02/25/2009:  Station Maintenance: 
+ 
+             - Loaded MAWN Program - AACF (hourly power cycle)          [0008] 
+ 
+ 
+ 
+02/21/2009:  Station Maintenance                                        [....] 
+ 
+             - Telecommunication trouble with the Old Mission MAWN  
+               station was corrected - broadband (Cell-IP) modem  
+               was replaced. 
+ 
+             - Due to telecommunication failure, data during the  
+               following time period was unfortunately lost: 
+ 
+                  01/13/09 (d=013) 1505  -  02/05/09 (d=036) 1805 
+ 
+ 
+ 
+============================================================================== 
+11/21/2008:  Station Maintenance: 
+ 
+             - Loaded MAWN Program - AACW (3-hour power cycle)          [0008] 
+ 
+ 
+ 
+03/07/2008:  Station Maintenance (jb): 
+ 
+             - Loaded MAWN Program:  MAWN_AACF  (hourly power cycle)    [0005] 
+ 
+ 
+ 
+=============================================================================== 
+ 
+ 
+11/12/2007:  Station Maintenance (sm): 
+ 
+             - Battery Replaced. 
+ 
+                   - Battery was running low and eventually died.   Was 
+                     replaced today.   MAWN program was also reset to  
+                     power-on modem and collect data on a 3-hour cycle 
+                     in order to help conserve power. 
+ 
+ 
+ 
+ 
+05/22/2007:  Station Maintenance (sm): 
+ 
+             - Communication converted to broadband cell-modem: 
+                   - Broadband cell-ip modem installed 
+                   - Datalogger progam "mawn_aacs" loaded and compiled. 
+                   - Battery voltage now reported every hour. 
+                   - Data collection configured to upload every 30 minutes. 
+ 
+             - General station maintenance and system checks. 
+                   - Work was done approx: 15:00 - 15:30 (Day=142) 
+ 
+ 
+ 
+ 
+ 
+=========================================================================== 
+05/26/2005:  Station Maintenance: (sm): 
+ 
+             - Applied Round-Up above soil Temperature Sensors 
+      - Check Modem/Phone Line Connection 
+             - Cleaned Air Temp/Relative Humidty Sensor 
+             - Check Anemometer/Wind Vane 
+             - Cleaned Precipitation Bucket 
+ 
+ 
+================================================================================ 
+ 
+08/03/2004:  Data Correction: (jtb): 
+ 
+             - Corrected faulty data introducted during station maintenance 
+               that took place of 07/16/2004 (Day=198): 
+ 
+ 
+ 
+07/16/2004:  Station Maintenance: (jal) 
+ 
+             - Replaced Temperature/Relative Humidity Sensor - HMP45C (16:15) 
+ 
+ 
+ 
+============================================================================== 
+04/08/2002:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+             - Time of Obs were modified by one hour (forward)  
+               from Day=97, Time=200 through Day=97, Time=410. 
+ 
+ 
+ 
+ 
+10/30/2001:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=301, Time=200 through Day=301, Time=610. 
+ 
+ 
+ 
+10/30/2000:  Daylight Savings Time Adjustment. 
+                 
+             - Daylight Savings Time Ended on Day=303, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=303, Time=200 through Day=304, Time=1405. 
+               Only Observation Times were modified, not times of 
+               Maxs and Mins.  Users will need to take that into 
+               consideration when using this data. 
+ 
+ 
+ 
+04/15/2000:  Old Mission station added to MAWN database 
+ 
+ 
+ 
+04/14/2000:  Phone Line To Station Activated. 
+ 
+ 
+ 
+04/14/2000:  Data Logging Activated (mawn1b) 
+            
+             - Data Logger Start Time:  00:05, Day=105 
+ 
+ 
+ 
+04/13/2000:  Station Installed: 
+  
+             - Leaf Wetness A:   Bracket mounted 40" from center of tripod, 
+                                 39" high (~1-meter).  Mounted on NE leg, 
+                                 sensor facing north. 
+ 
+             - Soil Probe A:     2-inch under sod, west of south leg. 
+ 
+             - Soil Probe B:     4-inch under sod, west of south leg, south of 
+                                 Soil Probe A. 
+ 
+             - Soil Moisture A:  N/A 
+ 
+             - Soil Moisture B:  N/A 
+ 
+             - Air Temp/RH:      HMP45C (requires mawn1b) 
+ 
+             - Phone Line:       blue wire  => tip 
+                                 ???        => ring 
+                                 ???        => ground 
+ 
+ 
+ 
+============================================================================== 
+

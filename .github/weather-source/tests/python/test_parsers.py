@@ -787,8 +787,10 @@ def test_daily_rejects_a_row_with_a_column_dropped(daily_html):
 def test_station_page_rejects_missing_or_reformatted_fields():
     data = pack_bytes("input/mawn/station-bnz.html")
     url = "https://mawn.geo.msu.edu/station.asp?id=bnz"
-    with pytest.raises(P.SourceFormatError, match="Elevation"):
-        P.parse_station(mutate(data, b"Elevation:", b"Height:"), url)
+    with pytest.raises(P.SourceFormatError, match="Latitude"):
+        P.parse_station(mutate(data, b"Latitude:", b"Coordinate:"), url)
+    no_elevation = P.parse_station(mutate(data, b"Elevation:", b"Height:"), url)
+    assert no_elevation["elevation"] == {"raw": "Not provided", "value": None, "unit": "m"}
     with pytest.raises(P.SourceFormatError, match="unexpected value"):
         P.parse_station(mutate(data, b"  253 m", b"  830 ft"), url)
     with pytest.raises(P.SourceFormatError, match="unexpected value"):

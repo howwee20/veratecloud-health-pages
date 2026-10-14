@@ -319,4 +319,6 @@ if (broken.length > 0 || brokenFragments.length > 0) {
   console.error(`check-links: FAILED (${broken.length} broken internal link(s), ${brokenFragments.length} broken fragment(s))`);
   process.exit(1);
 }
-console.log('check-links: OK (no broken internal links or fragments; external links were not requested)');
+const legacyHosts = externalReport.filter(x=>['mawn.geo.msu.edu','agweather.geo.msu.edu','www.agweather.geo.msu.edu','climate.geo.msu.edu'].includes(x.host));
+if(legacyHosts.length){console.error('check-links: legacy-host navigation escaped local routing',legacyHosts.map(x=>x.host));process.exit(1);}
+console.log('check-links: OK (no broken internal links, fragments, or legacy-host navigation; other external links were not requested)');

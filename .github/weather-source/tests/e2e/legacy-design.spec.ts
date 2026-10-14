@@ -16,13 +16,13 @@ for(const route of [...ROUTES, '/404.html']) {
 }
 test('station map and complete directory retain real station destinations',async({page})=>{
  await page.goto('/weather-network/'); await expect(page.locator('.station-list a')).toHaveCount(119); await expect(page.locator('.picker-stations a')).toHaveCount(97);
- await expect(page.getByRole('link',{name:'Zoom to Southwest Region',exact:true})).toHaveAttribute('href','https://mawn.geo.msu.edu/mawn-sw.html');
- await expect(page.getByRole('link',{name:'Zoom to Northwest Region',exact:true})).toHaveAttribute('href','https://mawn.geo.msu.edu/mawn-nw.html');
+ await expect(page.getByRole('link',{name:'Zoom to Southwest Region',exact:true})).toHaveAttribute('href','/weather-network/regions/southwest/');
+ await expect(page.getByRole('link',{name:'Zoom to Northwest Region',exact:true})).toHaveAttribute('href','/weather-network/regions/northwest/');
  await page.locator('.station-list').getByRole('link',{name:'Benzonia',exact:true}).click();await expect(page.locator('h1')).toHaveText('benzonia');
- await page.getByRole('link',{name:'Hourly Data',exact:true}).click();await expect(page.locator('#hourly-table tbody tr:not([hidden])')).toHaveCount(JSON.parse(fs.readFileSync(path.join(ROOT,"data/normalized/bnz-hourly.json"),"utf8")).rows.length);
+ await page.getByRole('link',{name:'Hourly Data',exact:true}).click();await expect(page.locator('#hourly-table tbody tr:not([hidden])')).toHaveCount(JSON.parse(fs.readFileSync(path.join(ROOT,"data/expanded/network.json"),"utf8")).reports.bnz.hourly.rows.length);
 });
 for(const id of ['bnz','swm']) for(const kind of ['hourly','daily']) test(`values and date filter ${id} ${kind}`,async({page})=>{
- const d=JSON.parse(fs.readFileSync(path.join(ROOT,`data/normalized/${id}-${kind}.json`),'utf8'));
+ const d=JSON.parse(fs.readFileSync(path.join(ROOT,'data/expanded/network.json'),'utf8')).reports[id][kind];
  await page.goto(`/weather-network/stations/${id}/${kind}/`);
  await expect(page.locator('tbody tr:not([hidden])')).toHaveCount(d.rows.length);
  const cells=await page.locator('tbody tr').evaluateAll(rows=>rows.map(row=>Array.from(row.querySelectorAll('td')).map(td=>td.querySelector('[aria-hidden]')?.textContent??td.textContent)));
@@ -35,13 +35,13 @@ for(const id of ['bnz','swm']) for(const kind of ['hourly','daily']) test(`value
 test('keyboard skip link and custom report require explicit submit',async({page})=>{
  await page.goto('/weather-network/stations/swm/');await page.keyboard.press('Tab');await expect(page.getByRole('link',{name:'Skip to main content'})).toBeFocused();await page.keyboard.press('Enter');await expect(page.locator('main')).toBeFocused();
  await page.getByLabel('Select report type:').selectOption('60');await expect(page).toHaveURL(/stations\/swm\/(#main-content)?$/);
- await expect(page.locator('form')).toHaveAttribute('action','https://mawn.geo.msu.edu/station.asp');await expect(page.getByRole('button',{name:'Open report'})).toBeVisible();
+ await expect(page.locator('form')).toHaveAttribute('action','/weather-network/stations/swm/custom/');await expect(page.getByRole('button',{name:'Open report'})).toBeVisible();
 });
 test('all product links and climate images retained',async({page})=>{
  await page.goto('/agricultural-weather/current/');await expect(page.locator('.product-section a')).toHaveCount(75);
  await page.goto('/agricultural-weather/forecasts/');await expect(page.locator('.product-section a')).toHaveCount(34);
- await page.goto('/climate/maps/');await expect(page.locator('.climate-maps img')).toHaveCount(27); await expect(page.locator('.map-description')).toHaveCount(27); await page.locator('.map-description summary').first().click(); await expect(page.locator('.map-description').first()).toContainText('October 5–11, 2026');
+ await page.goto('/climate/maps/');await expect(page.locator('.climate-maps img')).toHaveCount(27); await expect(page.locator('.map-description')).toHaveCount(27); await page.locator('.map-description summary').first().click(); await expect(page.locator('.map-description').first()).toContainText(JSON.parse(fs.readFileSync(path.join(ROOT,'data/normalized/map-descriptions.json'),'utf8'))['prcp-7days.png'].period);
 });
 test('no JavaScript retains all report data',async({browser,baseURL})=>{
- const context=await browser.newContext({javaScriptEnabled:false});const page=await context.newPage();await page.goto(baseURL+'/weather-network/stations/swm/hourly/');await expect(page.locator('tbody tr')).toHaveCount(JSON.parse(fs.readFileSync(path.join(ROOT,"data/normalized/swm-hourly.json"),"utf8")).rows.length);await context.close();
+ const context=await browser.newContext({javaScriptEnabled:false});const page=await context.newPage();await page.goto(baseURL+'/weather-network/stations/swm/hourly/');await expect(page.locator('tbody tr')).toHaveCount(JSON.parse(fs.readFileSync(path.join(ROOT,"data/expanded/network.json"),"utf8")).reports.swm.hourly.rows.length);await context.close();
 });

@@ -1,0 +1,371 @@
+============================================================================== 
+Station Notes - East Leland 
+ 
+ 
+07/31/2019: Logger / Station Maintenance:                               [1340] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: eld-bbbb 
+ 
+ 
+03/30/2019: Logger Maintenance:                                          [1600] 
+ 
+            - replaced faulty solid-state relay 
+ 
+ 
+ 
+=============================================================================== 
+08/31/2017: Station Maintenance:                                         [0003] 
+ 
+            - loaded logger program "eld-bbbb" 
+ 
+ 
+08/18/2017: Station Maintenance:                                         [1150] 
+ 
+            - annual maintenance, including: 
+               - rewire of atmp/relh (HC2S3) to "continuous" power 
+ 
+ 
+ 
+============================================================================== 
+07/27/2015: Station Modernization:                                      [1400] 
+ 
+            - Station upgraded with new logger and serveral new sensors. 
+ 
+            - loaded logger program "eld-bbbb" 
+ 
+            - Due to upgrade, station was offline for the following: 
+  
+                 07/27/2015 (d=208) 1405 - 07/27/2015 (d=208) 1720 
+ 
+            - the "live" data updates were able to resume at: 
+ 
+                 07/29/2015 (d=210) 1155 
+ 
+ 
+06/16/2015: Station Maintenance:                                        [1150] 
+ 
+            - routine station maintenance, including: 
+              - tipping-bucket rain gauge check 
+ 
+ 
+03/01/2015: Station Maintenance:                                        [0006] 
+ 
+            - loaded logger program "mawn_aacf" (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/09/2014: Station Maintenance:                                        [0003] 
+ 
+            - Loaded Logger Program "mawn_aacw" (3-hour collection cycle) 
+ 
+ 
+12/06/2014: System Maintenance:                                         [1750] 
+ 
+            - replaced failing logger battery  
+ 
+ 
+10/16/2014: System Maintenance:                                         [1840] 
+ 
+            - tipping bucket rain gauge cleared of debris 
+ 
+ 
+02/26/2014: Station Maintenance:                                        [1504] 
+ 
+            - Moved data-collection to new LoggerNet server 
+            - Loaded logger program: AACF (hourly cycle) 
+ 
+ 
+02/19/2014: Station Maintenance:                                        [1745] 
+ 
+            - Replaced logger battery 
+ 
+ 
+ 
+============================================================================== 
+12/15/2013: Station Maintenance:                                        [1015] 
+ 
+            - Repalced logger battery 
+ 
+ 
+12/15/2013: Station Maintenance:                                        [0006] 
+ 
+            - Loaded Logger Program "AACW" (3-hour collection cycle) 
+ 
+ 
+02/16/2013: Station Maintenance:                                        [0005] 
+ 
+            - Loaded Logger Program - AACF (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/12/2012: Station Maintenance:                                        [1602] 
+ 
+            - Loaded Logger Program - AACW (3-hour collection cycle) 
+ 
+ 
+11/29/2012: Station Maintenance:     [0715] 
+ 
+            - Battery failed on 11/26/2012.  Installed "two" new  
+              batteries.  Winter schedule will be loaded within 
+              the next week. 
+ 
+ 
+11/05/2012: Station Maintenance:                                        [0722] 
+ 
+            - Replaced battery (recent battery failures has led to some 
+              missing data) 
+ 
+ 
+05/23/2012: Station Maintenance:                                        [1945] 
+ 
+            - Replaced Modem 
+ 
+ 
+04/10/2012: Station Maintenance:                                        [0002] 
+ 
+            - Loaded MAWN Program - AACS (30-minute collection cycle) 
+ 
+ 
+03/03/2012: Station Maintenance:                                        [0007] 
+ 
+            - Loaded MAWN Program - AACF (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/23/2011: Station Maintenance:                                        [1240] 
+ 
+            - Battery replacement 
+ 
+ 
+11/23/2011: Station Maintenance:                                        [0007] 
+ 
+            - Loaded MAWN Program - AACW (three-hour collection cycle) 
+ 
+ 
+10/14/2011: Station Maintenance:                                        [0001] 
+ 
+            - Loaded MAWN Program - AACF (60-minute collection cycle) 
+ 
+ 
+05/12/2011: Station Maintenance:                                        [0001] 
+ 
+            - Loaded MAWN Program - AACS (30-minute collection cycle) 
+ 
+ 
+03/02/2011: Station Maintenance:                                        [0008] 
+ 
+            - Loaded MAWN Program - AACF (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/01/2010: Station Maintenance:                                        [0007] 
+ 
+            - Loaded MAWN Program - AACW (3-hour collection cycle) 
+ 
+ 
+03/13/2010: Station Maintenance: 
+ 
+            - Loaded MAWN Program - AACF (hourly collection cycle)      [0004] 
+ 
+ 
+ 
+============================================================================== 
+12/13/2009: Station Maintenance:                                        [1415] 
+ 
+            - Battery was replaced. 
+ 
+ 
+11/04/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - AACW (3-hour collection cycle)      [0003]  
+ 
+ 
+09/14/2009: Data Quality:                                               [1230] 
+ 
+            - Faulty Precipitation data that was introduced due to  
+              obstruction in the rain gauge funnel was removed from 
+              the data archive.  Precipitation data that was recorded 
+              during the following time period has been marked as  
+              "missing": 
+ 
+                07/24/09 (d=205) 00:05  -  09/08/09 (d=251) 13:05 
+ 
+ 
+09/08/2009: Station Maintenance:                                        [1305] 
+ 
+            - Obstruction in tipping-bucket rain gauge was cleared. 
+ 
+ 
+03/01/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - AACF (hourly power cycle)           [0007] 
+ 
+ 
+ 
+=============================================================================== 
+11/21/2008: Station Maintenance: 
+ 
+            - Loaded MAWN Program - AACW (3-hour power cycle)           [0007] 
+ 
+ 
+03/02/2008: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_AACF  (hourly power cycle)     [0005] 
+ 
+ 
+ 
+=============================================================================== 
+11/12/2007: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_AACW   (3-hr power cycle) 
+ 
+ 
+03/16/2007: Station Maintenance (jb):  
+ 
+            - Loaded MAWN Program:  MAWN_AACF    (00:05) 
+ 
+            NOTE: The MAWN_AACF program powers-on the CELL-IP modem 
+                  for 10 minutes at the top of every hour. 
+ 
+    
+ 
+=============================================================================== 
+11/30/2006: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_AACW    (00:05) 
+ 
+              NOTE: The MAWN_AACW program only powers-on the CELL-IP modem 
+                    for 10 minutes every 3rd hour starting at 00:00. 
+ 
+ 
+11/19/2006: Station Maintenance (bs): 
+ 
+            - Maintaining stable voltage at East Leland continues 
+              to be a problem.  Therefore, today the following work 
+              was performed (15:15): 
+  
+              - Replaced Power Supply (battery) 
+              - Installed 2nd Solar Panel 
+              
+ 
+10/25/2006: Station Maintenance (bs): 
+ 
+            - Replaced Power Supply (battery)   (17:40) 
+ 
+ 
+09/21/2006: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_AACF    (00:05) 
+ 
+ 
+09/06/2006: Station Maintenance: (jb): 
+ 
+            - Loaded MAWN Program:   AACS (hourly voltage) 
+ 
+ 
+07/24/2006: Station Maintenance: (sm): 
+ 
+            - Communication converted to broadband cell-modem (Alltel): 
+              - Broadband Cell modem installed. 
+              - Datalogger Program "mawn_bacs" Loaded and Compiled 
+              - Data Collection Configured To Upload Every 30 minutes. 
+ 
+ 
+ 
+=========================================================================== 
+06/01/2006: Station Maintenance: (nr): 
+ 
+            - Replaced Leaf Wetness Sensor (Sensor A [standard mount]). 
+            - Time of installation: 14:45 
+ 
+ 
+ 
+================================================================================ 
+05/26/2005: Station Maintenance: (sm): 
+ 
+            - Applied Round-Up above soil Temperature Sensors 
+            - Replaced Modem  
+            - Cleaned Air Temp/Relative Humidty Sensor 
+            - Check Anemometer/Wind Vane 
+            - Cleaned Precipitation Bucket 
+ 
+ 
+ 
+================================================================================ 
+01/27/2004: Data Cleanup (jtb): 
+ 
+            - Removed Faulty Data from MAWN Database and marked as Missing: 
+ 
+                 Wind Direction:  Nov 13 (Day=317) 06:50 - Jan 11 (Day=011) 15:00 
+ 
+ 
+01/11/2004: Station Update (crn): 
+ 
+            - Wind Vane Replaced (15:00) 
+ 
+ 
+12/02/2003: Data Cleanup (jtb): 
+ 
+            - Removed Faulty Data from MAWN Database and marked as Missing: 
+ 
+                 Air Temp:        Nov 13 (Day=317) 06:50 - Nov 29 (Day=333) 11:00 
+                 Rel Humidity:    Nov 13 (Day=317) 06:50 - Nov 29 (Day=333) 11:00 
+                 Leaf Wetness B:  Nov 13 (Day=317) 06:50 - Nov 29 (Day=333) 11:00 
+                 Wind Direction:  Nov 13 (Day=317) 06:50 - TBD 
+                 Wind Speed:      Nov 13 (Day=317) 06:50 - Nov 29 (Day=333) 11:00 
+ 
+ 
+11/29/2003: Station Update (crn): 
+ 
+            - Site visit found damage to the station was cause of data outage 
+              previously reported.  Following work was performed at approx 
+              11:00 (Day=333) 
+ 
+            - Replaced HMP45C (Air Temperature, Relative Humidity) Sensor 
+      
+            - Disconnected Leaf Wetness B (canopy sensor) 
+ 
+            - Repaired Anemometer (Wind Speed) 
+ 
+            - Removed Wind Vane 
+ 
+ 
+11/13/2003: Equipment Failure: 
+ 
+            - Air Temperature/Relative Humidity Sensor Failed at approx. 
+              06:50 (Day=317).  Sensor may be replaced the week of Nov 24.  
+ 
+     - Faulty Temperature/RH data will be removed from database after 
+              new sensor is installed. 
+ 
+ 
+05/01/2003: New Station Installed: 
+ 
+               Notes: 
+ 
+               - leaf wetness B (canopy):   
+                   installed in orchard to the east of the station  
+                   installed in first row of trees, facing north. 
+                   distance from station: approx. 100-ft. 
+ 
+               Station Needs: 
+                  - lightning rod 
+                  - grounding rod 
+                  - putty for enclosure 
+                  - GPS cooridinates 
+ 
+ 
+05/02/2003: Data Collection and Data Archive for new station begins 
+ 
+               First report:  May 2, 2003 - 00:05   (Day=122) 
+ 
+ 
+ 
+============================================================================== 
+

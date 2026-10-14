@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import ObsTable from '../../../../components/ObsTable.astro';
+import {stationDetails} from '../../../../lib/data';
+import {reportsByStation} from '../../../../lib/station';
+export function getStaticPaths(){return Object.keys(reportsByStation).map(id=>({params:{id}}))}
+const {id}=Astro.params;const station=stationDetails[id!];const reports=reportsByStation[id!];
+const available=['daily','hourly'].filter(k=>reports[k].rows.length);
+---
+<BaseLayout title={`${station.stationName} — Custom Reports`} source={station.legacyUrl}>
+<div class="report-page"><h1>{station.stationName} — Custom Reports</h1><p><a href={`/weather-network/stations/${id}/`}>Station information</a></p>
+{available.length ? <><form id="local-report-form"><label for="kind">Report type:</label> <select id="kind" name="rt">{available.map(k=><option value={k}>{k==='hourly'?'Hourly Data':'Daily Data'}</option>)}</select><div class="report-tools"><label for="start-date">Start date:</label><input id="start-date" name="start" type="date" required/><label for="end-date">End date:</label><input id="end-date" name="end" type="date" required/><button type="submit">Generate report</button></div><p id="available-period"></p><p id="report-status" role="status" aria-live="polite"></p></form>
+{available.map(kind=>{const d=reports[kind];return <section data-custom-report={kind} data-dates={JSON.stringify([...new Set(d.rows.map(r=>r.isoDate))])}><h2>{kind==='hourly'?'Hourly Data':'Daily Data'} · {d.timezoneLabel}</h2><p><a data-report-download href={`/downloads/${id}-${kind}.csv`} download>Download CSV</a></p><ObsTable id={`custom-${kind}`} caption={`${station.city} — ${kind} observations`} rowHeader={kind==='hourly'?'Date / time':'Date'} columns={d.columns} labelKey="short" rows={d.rows.map(r=>({header:r.dateRaw+(r.timeRaw?' '+r.timeRaw:''),date:r.isoDate,cells:r.cells}))}/></section>})}
+<p class="source-details">The date range is limited to observations currently published in this station’s recent reports. Five-minute data, growing-degree-day calculations, and full historical database queries are not included in this preview.</p><noscript><p>All available observations are shown below. Date filtering requires JavaScript; CSV downloads work without it.</p></noscript>
+</> : <p>No recent observation tables are supplied for this station. <a href={`/weather-network/stations/${id}/maintenance/`}>Read its maintenance log</a>.</p>}
+</div></BaseLayout>
+<script>
+const form=document.querySelector<HTMLFormElement>('#local-report-form');
+if(form){
+ const kind=document.querySelector<HTMLSelectElement>('#kind')!;const start=document.querySelector<HTMLInputElement>('#start-date')!;const end=document.querySelector<HTMLInputElement>('#end-date')!;
+ const status=document.querySelector<HTMLElement>('#report-status')!;const sections=[...document.querySelectorAll<HTMLElement>('[data-custom-report]')];
+ const rt=new URLSearchParams(location.search).get('rt');const initial=rt==='60'?'hourly':'daily';if([...kind.options].some(o=>o.value===initial))kind.value=initial;
+ const resetDates=()=>{const section=sections.find(s=>s.dataset.customReport===kind.value)!;const dates=JSON.parse(section.dataset.dates!).sort();start.min=end.min=dates[0];start.max=end.max=dates.at(-1);start.value=dates[0];end.value=dates.at(-1);document.querySelector('#available-period')!.textContent=`Available observations: ${dates[0]} through ${dates.at(-1)}.`;status.textContent='Choose dates, then generate the report.';};
+ let objectUrl:string|undefined;
+ const generate=()=>{if(start.value>end.value){status.textContent='Start date must be on or before end date.';start.focus();return;}let count=0;for(const section of sections){section.hidden=section.dataset.customReport!==kind.value;for(const row of section.querySelectorAll<HTMLElement>('tbody tr')){row.hidden=!!row.dataset.date&&(row.dataset.date<start.value||row.dataset.date>end.value);if(!section.hidden&&!row.hidden)count++;}if(!section.hidden){const rows=[...section.querySelectorAll('tr')].filter(r=>!r.hidden);const csv=rows.map(r=>[...r.querySelectorAll('th,td')].map(c=>'"'+(c.querySelector('[aria-hidden]')?.textContent??c.textContent??'').replaceAll('"','""')+'"').join(',')).join('\r\n');if(objectUrl)URL.revokeObjectURL(objectUrl);objectUrl=URL.createObjectURL(new Blob([csv],{type:'text/csv;charset=utf-8'}));const link=section.querySelector<HTMLAnchorElement>('[data-report-download]')!;link.href=objectUrl;link.download=`${kind.value}-${start.value}-${end.value}.csv`;}}
+ status.textContent=`Showing ${count} ${kind.value} observations from ${start.value} through ${end.value}.`;};
+ kind.addEventListener('change',resetDates);form.addEventListener('submit',e=>{e.preventDefault();if(form.reportValidity())generate();});resetDates();generate();
+}
+</script>

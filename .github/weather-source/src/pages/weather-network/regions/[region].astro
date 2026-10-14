@@ -1,0 +1,10 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import {stationDetails} from '../../../lib/data';
+import regions from '../../../../data/expanded/regions.json';
+export function getStaticPaths(){return Object.keys(regions).map(region=>({params:{region}}))}
+const {region}=Astro.params;const title=region==='southwest'?'Southwest Michigan':'Northwest Michigan';const source=regions[region!];
+const list=source.stationIds.map(id=>stationDetails[id]).filter(Boolean);
+---
+<BaseLayout title={title} source={source.url}><div class="plain-content"><h1>{title}</h1><p><a href="/weather-network/">All Michigan weather stations</a></p><figure class="regional-station-map"><img src={source.image} alt={`${title} weather station map. The same stations are listed below.`}/></figure><h2>Weather stations</h2><ul class="station-list single">{list.map(s=><li><a href={`/weather-network/stations/${s.id}/`}>{s.city} ({s.stationName})</a></li>)}</ul></div></BaseLayout>
+<style>.regional-station-map{margin:12px 0}.regional-station-map img{max-width:100%;height:auto;display:block}</style>

@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Microsoft FrontPage 5.0">
+   <TITLE>MSU Climatology Program</TITLE>
+</HEAD>
+<body>
+
+<h1>Southwest Lower Division -- Click on a station symbol for tables</h1>
+
+<HR width="100%">
+
+<center>
+   <img src="sw-lower.gif" usemap="#SW-LOWER" hspace=5 vspace=5 border=0 height=382 width=355>
+      <map name="SW-LOWER">
+         <area shape="circle" coords="90,17,5"   href="stations/5567" alt="">
+         <area shape="circle" coords="114,78,5"  href="stations/5712" alt="">
+         <area shape="circle" coords="125,102,5" href="stations/3290" alt="">
+         <area shape="circle" coords="193,69,5"  href="stations/4320" alt="">
+         <area shape="circle" coords="269,68,5"  href="stations/3429" alt="">
+         <area shape="circle" coords="139,156,5" href="stations/3858" alt="Holland">
+         <area shape="circle" coords="257,121,5" href="stations/4944" alt="">
+         <area shape="circle" coords="298,116,5" href="stations/4078" alt="">
+         <area shape="circle" coords="346,161,5" href="stations/3306" alt="">
+         <area shape="circle" coords="263,192,5" href="stations/3661" alt="">
+         <area shape="circle" coords="283,255,5" href="stations/0552" alt="">
+         <area shape="circle" coords="251,237,5" href="stations/3504" alt="">
+         <area shape="circle" coords="168,240,5" href="stations/0864" alt="">
+         <area shape="circle" coords="186,219,5" href="stations/0128" alt="">
+         <area shape="circle" coords="95,293,5"  href="stations/0710" alt="">
+         <area shape="circle" coords="142,323,5" href="stations/2250" alt="">
+         <area shape="circle" coords="123,320,5" href="stations/2445" alt="">
+         <area shape="circle" coords="120,356,5" href="stations/5892" alt="">
+         <area shape="circle" coords="213,335,5" href="stations/8184" alt="Three Rivers">
+         <area shape="circle" coords="313,332,5" href="stations/1675" alt="">
+         <area shape="circle" coords="224,259,5" href="stations/4244" alt="">
+         <area shape="circle" coords="123,241,5" href="stations/7690" alt="">
+         <area shape="circle" coords="340,208,5" href="stations/1476" alt="">
+         <area shape="circle" coords="347,264,5" href="stations/0094" alt="">
+         <area shape="circle" coords="226,137,5" href="stations/3333" alt="">
+      </map>
+   </img>
+</center>
+
+<p>Additional Stations:</p>
+
+</BODY>
+</HTML>

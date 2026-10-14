@@ -1,0 +1,176 @@
+============================================================================== 
+Station Notes - Verona (MI) 
+ 
+ 
+08/13/2021: Logger Maintenance:                                         [0937] 
+ 
+            - loaded logger program: ver-bbcdS.cr1*  
+                 - no canopy leaf wetness sensor        
+                 * supports "maintenance mode" 
+ 
+ 
+08/10/2021: Station Maintenance:                                        [1155] 
+ 
+            - routine site maintenance  
+ 
+ 
+06/08/2021: Logger / Station Maintenance:                               [1255] 
+ 
+            - routine site maintenance  
+            - updated modem 
+ 
+ 
+ 
+============================================================================== 
+07/21/2020: Station Maintenance:                                        [1310] 
+ 
+            - replaced atmp/relh (3m) sensor 
+ 
+ 
+06/11/2020: Station Maintenance:                                        [1430] 
+ 
+            - routine site maintenance 
+ 
+ 
+05/11/2020: Station Maintenance:                                        [1305] 
+ 
+            - replaced damaged atmp/relh sensor (@ 45cm) 
+ 
+ 
+ 
+============================================================================== 
+09/19/2019: Station Maintenance:                                        [1305] 
+ 
+            - obstruction cleared from precipitation gauge 
+ 
+ 
+05/15/2019: Logger Maintenance:                                         [1200] 
+ 
+            - correct communication issues 
+ 
+ 
+05/14/2019: Station Maintenance:                                        [1250] 
+ 
+            - replaced damaged wind instruments 
+ 
+ 
+05/10/2019: Station Maintenance:                                        [1130] 
+ 
+            - Soybean Inversion Study Upgrade, including: 
+                - install new ATMP/RELH sensor @ 45cm 
+                - install new ATMP/RELH sensor @ 3m 
+                - replace leaf wetness sensors (237 -> LWS-L)* 
+                - load new logger program "ver-bbcbS" 
+ 
+                * canopy sensor is not available / installed in canopy 
+ 
+            - replaced damage pyranometer (solar radiation) 
+ 
+ 
+ 
+============================================================================== 
+06/20/2018: Station Maintenance:                                        [1230] 
+  
+            - annual station / site maintenance 
+ 
+ 
+ 
+============================================================================== 
+08/23/2017: Station Maintenance:                                        [1545] 
+ 
+            - replaced faulty 2" soil temperature sensor (SOIL0) 
+ 
+ 
+08/16/2017: Station Maintenance:                                        [1115] 
+ 
+            - routine maintenance  
+ 
+ 
+06/21/2017: Station Maintenance:                                        [1315] 
+ 
+            - annual maintenance 
+ 
+ 
+04/26/2017: Station Maintenance:                                        [0104] 
+ 
+            - loaded logger program "ver-bbaa" 
+ 
+ 
+04/13/2017: Station Maintenance:                                        [1930] 
+ 
+            - replaced air temp/relh sensor (HC2S3 -> HMP45C) 
+              - sensor now connected to "continuous" power 
+ 
+ 
+ 
+============================================================================== 
+06/21/2016: Station Maintenance:                                        [1200] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+ 
+============================================================================== 
+11/19/2015: Station Maintenance:                                        [1340] 
+ 
+            - replaced faulty 2" soil temperature sensor (SOIL0) 
+ 
+ 
+ 
+============================================================================== 
+09/16/2014: System Maintenance:                                         [1700] 
+ 
+            - replaced faulty 2" soil temperature sensor (SOIL0) 
+ 
+ 
+09/12/2014: System Maintenance:                                         [1606] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbba-ver" 
+ 
+ 
+07/09/2014: Station Maintenance:                                        [1530] 
+ 
+            - routine maintenance, including: 
+              - replaced air temp / rh sensor 
+              - cleaned leaf wetness sensor 
+              - cleaned solar radiation sensor 
+              - cleaned out tipping-bucket rain gauge 
+              - weed removal  
+ 
+ 
+ 
+=============================================================================== 
+05/23/2012: Station Online:                                             [xx:xx] 
+ 
+            - Station added to MAWN web site. 
+ 
+ 
+05/14/2012: Data Collection Enabled: 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                 First data report:   May 15, 2012 - 00:05 (Day=136) 
+ 
+ 
+05/14/2012: Station Maintenance: 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+05/14/2012: Station Installed: 
+ 
+            - Loaded MAWN Program:   BBBA-VER 
+                                        B => CR1000/MI (Logger/State) 
+                                        B => CS616 (Soil Moisture) 
+                                        B => HC2S3 (Temp/RH) 
+                                        A => 237 (Leaf Wetness) 
+                                      VER => Station ID (Verona)                                 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

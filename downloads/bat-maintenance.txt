@@ -1,0 +1,336 @@
+============================================================================== 
+Station Notes - Bath: 
+ 
+ 
+11/04/2014:  Station Retired:                                           [2400] 
+ 
+             - The final data record for this station was collected at: 
+ 
+                  11/04/2014 (d=308) 2400 
+ 
+ 
+08/04/2014:  Data Issue:                                               [11:00] 
+ 
+             - Faulty data introduced by irrigation was removed. 
+               Additional data may need to be removed in the future. 
+ 
+ 
+01/22/2014:  Station Maintenance:                                      [16:07] 
+ 
+             - Moved data-colletion to new LoggerNet Server 
+             - Loaded Logger Program: ABCF (hourly cycle) 
+ 
+ 
+01/20/2014:  Station Maintenance:                                      [16:30] 
+ 
+             - Replaced logger battery 
+ 
+ 
+ 
+============================================================================== 
+08/05/2013:  Station Maintenance:                                      [15:00] 
+ 
+             - Replace Precipitation Bucket (original cable was severed) 
+             - Reinstalled Soil Temperature Sensors (SOIL0, SOIL1) 
+             - Reinstalled Soil Moisture Sensor (MSTR0) 
+             - Replaced Anemometer (Wind Speed) 
+ 
+ 
+ 
+============================================================================== 
+08/27/2012:  Data Cleanup:                                             [17:30] 
+ 
+             - Marked faulty solar radiation data as "missing" during 
+               the following time period: 
+ 
+                  06/18/2012 (d=170) 00:00 - 07/26/2012 (d=208) 14:30 
+ 
+ 
+07/26/2012:  Station Maintenance:                                      [14:30] 
+ 
+             - Replaced faulty "solar radiation" sensor 
+ 
+ 
+ 
+============================================================================== 
+08/05/2011:  Station Mainenance:                                       [10:00] 
+ 
+             - Due to recent communication trouble, wireless broadband 
+               modem was replaced. 
+ 
+ 
+05/19/2011:  Data Quality:                                             [14:45] 
+ 
+             - Marked precipitation data that was collected during the 
+               following time frame as "missing" due to recent rain 
+               gauge obstruction: 
+ 
+                  05/14/2011 (d=134) 00:05  -  05/17/2011 (d=137) 15:15 
+ 
+ 
+05/17/2011:  Station Maintenance:                                      [15:15] 
+ 
+             - Recent precipitation data has been faulty.  Insepection  
+               of rain gauge confirmed an obstruction which was cleared 
+               this afternoon. 
+ 
+ 
+ 
+============================================================================== 
+04/19/2010:  Data Quality:                                             [13:00] 
+ 
+             - Remove Wind Speed data from MAWN database and archived  
+               raw data files.  All Wind Speed values reported during  
+               the following time period was marked as "missing": 
+  
+                  04/24/09 (d=114) 13:05 - 04/12/10 (d=102) 15:00 
+ 
+ 
+ 
+04/14/2010:  Data Quality:                                             [13:00] 
+ 
+             - Remove Faulty Air Temp/RH data from MAWN database 
+               and archived raw data files.  All Temp/RH reported  
+               during the following time period was marked as  
+               "missing": 
+  
+                  02/19/10 (d=050) 11:30 - 04/12/10 (d=102) 15:00 
+ 
+ 
+ 
+04/12/2010:  Station Maintenance:                                      [13:00] 
+ 
+             - Repaired Air Temp/RH Sensor (HMP45C) 
+             - Installed new Anemometer 
+             - Replaced Datalogger (CR10X) 
+ 
+ 
+ 
+02/24/2010:  Data Quality:                                             [13:00] 
+ 
+             - Logger report faulty RH data due to faulty sensor. 
+               All RH data reported during the following time 
+               period has been marked as "missing" in the raw 
+               data files as well as within the MAWN database: 
+  
+                  10/01/09 (d=274) 00:05 - 02/19/10 (d=050) 11:30 
+ 
+ 
+ 
+02/19/2010:  Station Maintenance                                       [11:30] 
+ 
+             - Replaced filter for Air Temp/RH sensor (HMP45C) 
+ 
+ 
+ 
+============================================================================== 
+04/24/2009:  Station Maintenance:                                      [12:09] 
+ 
+             - Replaced datalogger (CR10X) 
+             - Replaced Soil Moisture Sensors (CS616) 
+             - Replaced Anemometer 
+             - Loaded MAWN Program (ABCF) [hourly schedule] 
+ 
+             - NOTE: Wind Speed not reporting... May be a faulty port 
+                     on the datalogger. 
+ 
+ 
+ 
+============================================================================== 
+06/05/2008:  Station Maintenance: 
+ 
+             - General station maintenance and system checks, including: 
+                   - Soil Moisture sensors now installed vertically: 
+                         - MSTR 0:  profile of depth =  0 - 12" 
+                         - MSTR 1:  profile of depth = 12 - 24" 
+ 
+                   - Replaced Solar Radiation sensor. 
+ 
+                   - Replaced Anemometer 
+ 
+             - Work was done approx: 1400 - 1430 (Day=157) 
+ 
+ 
+ 
+04/09/2008:  Station Maintenace: 
+ 
+             - Program dumped from the logger (CR10) and needed to be  
+               reloaded.   At 14:42 (doy=100), the MAWN Program "AACF"  
+               (hourly power cycle) was reloaded. 
+ 
+             - Due to the program being dumped, data was lost for the  
+               following time period: 
+ 
+                  04/05/08 (d=096) 1305  -  04/09/08 (d=100) 1440 
+ 
+ 
+ 
+02/15/2008:  Station Maintenace (sm): 
+ 
+             - Modem replacement. 
+                - Recent troubles with Verizon wireless network led to  
+                  replacement of modem.  Now connection via Alltel. 
+ 
+                - Work completed at 14:45 (Day=46) 
+ 
+ 
+ 
+============================================================================== 
+05/08/2007:  Station Maintenance (sm, bn): 
+ 
+             - General station maintenance and system checks. 
+ 
+                   - Work was done approx: 15:30 - 16:00 (Day=128) 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+10/14/2006:  Station Maintenance (jb): 
+ 
+                - Loaded MAWN Program:   MAWN_AACF (00:05) 
+ 
+ 
+ 
+09/06/2006:  Station Maintenance: (jb): 
+ 
+             - Loaded MAWN Program:   AACS (hourly voltage) 
+ 
+ 
+ 
+============================================================================== 
+11/18/2005: Station Maintenance: (sm) 
+ 
+            - Faulty modem.   Replaced malfunctioning modem with a new 
+              one at 8:30am.   Station is back on-line. 
+ 
+ 
+ 
+07/06/2005: Station Repair: (sm) 
+ 
+            - Repaired broken wire on Temperature/Relative Humidity (HMP45) 
+              Sensor.   Temp/RH data is unavailable for the following time 
+              period: 
+ 
+                 Jun 30, 2005 (15:10)  -  Jul 06, 2005 (09:20) 
+ 
+ 
+ 
+06/30/2005: Station Repair: (sm) 
+ 
+            - Soil Moisture B Sensor Replaced 
+ 
+ 
+ 
+02/10/2005: Phone Line Repaired: 
+ 
+            - Phone Line was repaired by Verizon.  Data collecting and 
+              processing restarted. 
+ 
+            - Due to extended data collection outage, data entries from 
+              the following time period were lost: 
+ 
+                 Day 32 (02/01), 07:40  -  Day 33 (02/02), 05:50 
+ 
+ 
+                  
+02/01/2005: Phone Line Trouble: 
+ 
+            - Was determined that the phone line between the service 
+              pedestal and the weather station is bad and will need 
+              to be repaired.   Station and data collection will  
+              remain offline until the necessary repairs are made. 
+ 
+ 
+ 
+======================================================================= 
+05/19/2004: Station Maintenance (sm, jal): 
+ 
+            - Repaired Tipping Bucket Rain Gauge: 
+              - Cleared obstruction 
+              - Cleaned bearings 
+ 
+            - Cleaned Temperature/Relative Humidity Sensor 
+ 
+ 
+ 
+ 
+ 
+ 
+======================================================================= 
+11/17/2003: Phone Line Troubles Repaired: 
+ 
+            - Communication lines to station were disconnected  
+              at 10:10, Oct 31 (Day=304).and were reconnected at  
+              approximately 9:30am on Nov 17, 2003 (Day=321). 
+ 
+            - Data was lost between Day 304 (10/31), 10:10 and 
+              Day 313 (11/09), 02:55  
+ 
+ 
+ 
+ 
+======================================================================= 
+04/08/2002:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+             - Time of Obs were modified by one hour (forward)  
+               from Day=97, Time=200 through Day=97, Time=205. 
+ 
+ 
+ 
+ 
+10/29/2001:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=301, Time=200 through Day=302, Time=1045. 
+ 
+ 
+ 
+10/16/2001:  Phone Line Activated and Data Collection Started: 
+ 
+                Phone Number:  (see setup notes) 
+ 
+ 
+             Archived data set should be setup to ensure that 
+             the first day of record is complete.  To do so,  
+             use the following as the start of the the data  
+             archive: 
+             
+                24 hour data:  24:00, Day=172 (06/21/2001) 
+                60 min data:  01:00, Day=172 (06/21/2001) 
+                05 min data:  00:05, Day=172 (06/21/2001) 
+ 
+ 
+             Due to the time lag from when station was installed and 
+             the phone line was installed, initial data collection 
+             was done manually.  This introduced gaps in the data 
+             set prior to October 08, 2001 (10:00): 
+ 
+                Missing Data Gaps: 
+ 
+                   Day=177, Time=1705 - Day=185, Time=0300 
+                   Day=193, Time=0955 - Day=197, Time=0630 
+                   Day=205, Time=1315 - Day=212, Time=0355 
+                   Day=232, Time=1725 - Day=239, Time=0825 
+                   Day=247, Time=1510 - Day=281, Time=0955 
+ 
+ 
+ 
+06/20/2001:  Datalogger Program (MAWN1B) Activated: 
+ 
+                Data Logger Start Times: 
+ 
+                   24 hour data: 24:00, Day=172 (06/21/2001) 
+                   60 min data:  01:00, Day=172 (06/21/2001) 
+                   05 min data:  00:05, Day=172 (06/21/2001) 
+ 
+ 
+ 
+06/20/2001:  Station Installed: 
+ 
+

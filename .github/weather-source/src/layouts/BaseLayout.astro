@@ -1,5 +1,8 @@
 ---
 import '../styles/legacy.css';
+import expandedNetwork from '../../data/expanded/network.json';
+import expandedProducts from '../../data/expanded/products.json';
+import climateRefresh from '../../public/downloads/climate-map-refresh.json';
 import additionalSources from '../../data/normalized/additional-sources.json';
 import { agweather, climate, sources } from '../lib/data';
 import { localHref } from '../lib/route';
@@ -7,9 +10,10 @@ const {title, description = title, section='network', climateHome=false, source}
 const isClimate=section==='climate'; const isAg=section==='agweather';
 const path=Astro.url.pathname;
 const original=source || (isClimate?'https://climate.geo.msu.edu/':isAg?'https://www.agweather.geo.msu.edu/':'https://mawn.geo.msu.edu/');
-const receipt = sources.sources.find(s => s.url === original) || additionalSources.find(s => s.url === original);
-const saved = receipt?.retrievedAtUtc;
-const savedLabel = saved ? new Date(saved).toLocaleString('en-US', {timeZone:'America/Detroit',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}) + ' Eastern' : 'Oct 13, 2026';
+const receipt = Object.values(expandedNetwork.stations).find(s => s.legacyUrl===original)?.source || Object.values(expandedNetwork.reports).flatMap(s=>Object.values(s)).find(s=>s.source.url===original)?.source || expandedProducts.pages[original]?.source || sources.sources.find(s => s.url === original) || additionalSources.find(s => s.url === original);
+const isMapPage=isClimate && (path==='/climate/' || path.startsWith('/climate/maps/'));
+const saved = isMapPage ? climateRefresh.lastSuccessfulRefreshUtc : receipt?.retrievedAtUtc;
+const savedLabel = saved ? new Date(saved).toLocaleString('en-US', {timeZone:'America/Detroit',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}) + ' Eastern' : null;
 const mawnLinks=[['Weather Station Network home','/weather-network/'],['Enviro-weather','https://enviroweather.msu.edu/'],['MSU Agricultural Weather Office','/agricultural-weather/'],["Michigan State Climatologist’s Office",'/climate/'],['MSU Department of Geography','https://geo.msu.edu/']];
 ---
 <!doctype html>
@@ -17,7 +21,7 @@ const mawnLinks=[['Weather Station Network home','/weather-network/'],['Enviro-w
 <head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="description" content={description}/><meta name="robots" content="noindex,nofollow"/><title>{title} — Accessibility preview</title></head>
 <body class:list={[isClimate?'climate-site':isAg?'ag-site':'mawn-site']}>
 <a class="skip-link" href="#main-content">Skip to main content</a>
-<p class="preview-label">{isClimate ? "Maps saved Oct 12, 2026" : `Data saved ${savedLabel}`}<a href={original}>Latest on MSU</a><a href="https://veratecloud.com/enviroweather/">Demos</a></p>
+<p class="preview-label">{savedLabel ? `${isMapPage ? "Maps" : "Data"} saved ${savedLabel}` : "No source capture"}<a href="https://veratecloud.com/enviroweather/">Demos</a></p>
 {isClimate && <header class="climate-header"><a href="/climate/"><img src="/media/legacy/climate-wordmark.png" width="520" height="49" alt="Michigan State Climatologist’s Office"/></a></header>}
 <div class:list={['site-frame',isClimate?'climate-frame':'classic-frame',climateHome&&'climate-home']}>
 <aside class="site-sidebar">
@@ -39,5 +43,5 @@ const mawnLinks=[['Weather Station Network home','/weather-network/'],['Enviro-w
 {climateHome && <aside class="climate-thumbnails" aria-label="Recent climate maps"><p><strong>Climate Maps<br/>for 7, 30 and 90 days</strong></p>{climate.home.sidebarThumbnails.map((m,i)=><div><p>{i===0?'PRECIPITATION MAPS':'TEMPERATURE MAPS'}</p><a href="/climate/maps/"><img src={'/media/climate/'+m.imageUrl.split('/').pop()} alt={m.alt} width="94" height="122"/></a></div>)}</aside>}
 </div>
 {isClimate && <div class="climate-original-footer"><a href="https://msu.edu/"><img src="/media/legacy/msu-wordmark.png" width="103" height="23" alt="Michigan State University"/></a><p><strong>Department of Geography</strong><br/>116 Geography Building - East Lansing, Michigan, 48824<br/>Last updated: June 15, 2009 · © 2009 Michigan State University Board of Trustees.</p></div>}
-<footer class="preview-footer"><nav aria-label="Site information"><ul><li><a href={original}>Original site</a></li><li><a href="/accessibility/">Accessibility &amp; preview notes</a></li><li><a href="/site-map/">Site map</a></li></ul></nav></footer>
+<footer class="preview-footer"><nav aria-label="Site information"><ul><li><a href="/accessibility/">Accessibility &amp; preview notes</a></li><li><a href="/site-map/">Site map</a></li></ul></nav></footer>
 </body></html>

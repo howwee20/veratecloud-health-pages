@@ -1,0 +1,191 @@
+=============================================================================== 
+Station Notes - Flint (MI) 
+ 
+ 
+05/12/2022: Station / Logger Maintenence                                [1410] 
+ 
+            - routine site maintenance, including: 
+               - adjusted (leveled) pyranometer 
+               - cleaned solar panel (1 x 20W) 
+               - inspected HMP45C (atmp/relh) / cleaned radiation shield 
+               - checked tipping-bucket rain gauge 
+               - tested leaf wetness (standard mount)* 
+               - minor weed removal (site well-maintained) 
+ 
+               * site has not canopy leaf wetness, but some interest in adding 
+ 
+ 
+ 
+============================================================================== 
+08/02/2021: Logger Maintenance:                                         [1402] 
+ 
+            - loaded logger program: flt-bbad.cr1* 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+07/27/2021: Station Maintenance:                                        [1350] 
+ 
+            - routine site maintenance 
+ 
+ 
+05/27/2021: Logger / Station Maintenance:                               [0920] 
+ 
+            - routine site maintenance  
+            - updated modem 
+ 
+ 
+ 
+=============================================================================== 
+11/09/2020: Logger Maintenance:                                          [1702] 
+ 
+            - loaded logger program: flt-bbad* 
+ 
+            * supports LWS-L leaf wetness sensors (no canopy) 
+ 
+ 
+06/16/2020: Station / Logger Maintenance:                                [1425] 
+  
+            - routine annual maintenance  
+ 
+ 
+01/16/2020: Logger Maintenance:                                          [0003] 
+ 
+            - loaded logger program: flt-bbab* 
+ 
+            * supports LWS-L leaf wetness sensors 
+ 
+ 
+ 
+=============================================================================== 
+07/16/2019: Logger / Station Maintenance:                                [1400] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: flt-bbaa 
+ 
+ 
+06/14/2019: Station Maintenance:                                         [1700] 
+ 
+            - upgraded leaf wetness sensors (237 -> LWS-L)* 
+ 
+            * needs logger program / database upgrades 
+ 
+ 
+ 
+=============================================================================== 
+06/19/2018: Station Maintenance:                                         [0945] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+03/03/2018: Station Maintenance:                                         [1130] 
+ 
+            - replaced faulty soil temperature sensor (2") 
+ 
+ 
+ 
+=============================================================================== 
+05/16/2017: Station Maintenance:                                         [1600] 
+ 
+            - annual maintenance, including: 
+               - resinstallation of soil sensors 
+ 
+ 
+ 
+=============================================================================== 
+08/25/2016: System Maintenance:                                          [1130] 
+ 
+            - replaced faulty wind vane 
+ 
+ 
+06/14/2016: System Maintenance:                                          [1600] 
+ 
+            - replaced 2" soil temperature sensor (soil0) 
+            - replaced 4" soil temperature sensor (soil1) 
+ 
+ 
+ 
+=============================================================================== 
+09/08/2014:  System Maintenance:                                         [1505] 
+ 
+             - moved data-collection to new LoggerNet server 
+             - loaded logger program "bbaa-flt" 
+ 
+ 
+ 
+=============================================================================== 
+11/11/2013:  Data Cleanup:                                              [10:30] 
+ 
+             - Due to recent faulty sensor, all SOIL1 data was marked  
+               as "missing" for the following period: 
+   
+                  10/11/2013 (d=284) 0530 - 10/24/2013 (d=297) 1600 
+ 
+ 
+10/24/2013:  Station Maintenance:                                       [16:00] 
+ 
+             - Replaced 4" Soil Temperature Sensor (SOIL1).   
+ 
+ 
+05/17/2013:  Wind Direction:                                            [13:00] 
+ 
+             - Wind Vane repaired... apparently the data cable was damaged. 
+             - Due to the faulty sensor, all wind direction data was marked 
+               as "missing" for the following time period: 
+  
+                  08/17/2012 (d=230) 00:05 - 05/17/2013 (d=137) 13:00 
+ 
+ 
+04/09/2013:  Data Quality:                                              [14:45] 
+ 
+             - Soil Temperature sensors were not properly bured for most of 
+               the winter.  Due to faulty data, all soil temperature data was 
+               marked as "missing" for the following time period: 
+ 
+                  12/17/2012 (d=352) 00:05  -  04/05/2013 (d=095) 24:00 
+ 
+ 
+04/05/2013:  Station Maintenace:                                      
+ 
+             - Soil Temperatures and Soil Moisture Sensor were reinstalled 
+=============================================================================== 
+ 
+08/27/2012:  Station Online:                                            [14:45] 
+ 
+                - Station added to MAWN web site. 
+ 
+ 
+08/27/2012:  Data Collection Enabled                                    [12:00] 
+ 
+             - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   August 17, 2012 (Day=230) 
+ 
+ 
+08/16/2012:  Station Installed:                                         [13:30] 
+ 
+             - Station installed at station field site 
+ 
+ 
+07/30/2012:  Station Maintenance: 
+ 
+             - Established telecommunication between station cell-modem  
+               and data-collection PC/server on campus.    
+ 
+ 
+07/30/2012:  Station Setup                                              [14:30] 
+ 
+             - Loaded MAWN Program:   BBBA-MML 
+                                          B => CR1000/MI (Logger/State) 
+                                          B => CS616 (Soil Moisture) 
+                                          B => HC2S3 (Temp/RH) 
+                                          A => 237 (Leaf Wetness) 
+                                        MML => Station ID (McMillan)                                 
+ 
+             - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

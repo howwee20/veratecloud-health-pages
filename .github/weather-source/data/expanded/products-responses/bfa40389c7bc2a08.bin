@@ -1,0 +1,213 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:30
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+
+
+
+
+<table width="100%" height="120" border="0">
+   <tr height="100">
+      <td align="center">
+         <h1>MSU Agricultural Weather Office<h1>
+         <h2>Current Weather & Climatological Info</h2>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+
+<!--
+   <tr height="35">
+      <td align="center">
+         <font color="red" font size=3><b>State Budget Cuts Threaten This Website and Other MSUE/MAES Programs...
+         <br>Click  <a href="http://anrcom.msu.edu/Budget.aspx">Here</a> For More Information...</b></font>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+-->
+
+</table>
+
+<br>
+<table width="95%" border="0" valign="top" align="center">
+   <tr>
+      <td class="courier2">
+        
+         &nbsp;<br>604&nbsp;&nbsp;<br>ASUS63&nbsp;KAPX&nbsp;310047&nbsp;<br>RTPAPX&nbsp;<br>&nbsp;<br>&nbsp;<br>Eastern&nbsp;Upper/Northern&nbsp;Lower&nbsp;Michigan&nbsp;Temperature&nbsp;and&nbsp;Precip&nbsp;Summary&nbsp;<br>National&nbsp;Weather&nbsp;Service&nbsp;Gaylord&nbsp;MI&nbsp;<br>747&nbsp;PM&nbsp;EST&nbsp;Thu&nbsp;Jan&nbsp;30&nbsp;2025&nbsp;<br>&nbsp;<br>18&nbsp;hour&nbsp;High/Low&nbsp;Temperature&nbsp;ending&nbsp;7&nbsp;pm&nbsp;EST&nbsp;<br>24&nbsp;hour&nbsp;Precipitation/Snowfall&nbsp;ending&nbsp;7&nbsp;pm&nbsp;EST&nbsp;<br>Snow&nbsp;Depth&nbsp;Observed&nbsp;at&nbsp;7&nbsp;pm&nbsp;EST&nbsp;<br>&nbsp;&nbsp;<br>.BR&nbsp;APX&nbsp;&nbsp;0130&nbsp;&nbsp;ES&nbsp;DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ&nbsp;<br>:..................................................................&nbsp;<br>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAX&nbsp;&nbsp;&nbsp;MIN&nbsp;&nbsp;&nbsp;24&nbsp;HR&nbsp;&nbsp;&nbsp;&nbsp;SNOW&nbsp;&nbsp;SNOW&nbsp;<br>:ID&nbsp;&nbsp;&nbsp;&nbsp;LOCATION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEMP&nbsp;&nbsp;TEMP&nbsp;&nbsp;PRECIP&nbsp;&nbsp;&nbsp;FALL&nbsp;&nbsp;DEPTH&nbsp;<br>:..................................................................&nbsp;<br>ANJ&nbsp;:&nbsp;Sault&nbsp;Ste&nbsp;Marie&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;32&nbsp;/&nbsp;&nbsp;14&nbsp;&nbsp;/&nbsp;0.03&nbsp;/&nbsp;&nbsp;1.8&nbsp;/&nbsp;&nbsp;28&nbsp;<br>APN&nbsp;:&nbsp;Alpena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;36&nbsp;/&nbsp;&nbsp;12&nbsp;&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;0.0&nbsp;/&nbsp;&nbsp;&nbsp;5&nbsp;<br>HTL&nbsp;:&nbsp;Houghton&nbsp;Lake&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;43&nbsp;/&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;0.0&nbsp;/&nbsp;&nbsp;&nbsp;7&nbsp;<br>PLN&nbsp;:&nbsp;Pellston&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;42&nbsp;/&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;M&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;<br>TVC&nbsp;:&nbsp;Traverse&nbsp;City&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;50&nbsp;/&nbsp;&nbsp;14&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;M&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;<br>GLR&nbsp;:&nbsp;Gaylord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;44&nbsp;/&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;M&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;<br>.END&nbsp;<br>&nbsp;&nbsp;<br>Cooperative&nbsp;Observations&nbsp;<br>Temperature/Precipitation/Snowfall&nbsp;values&nbsp;are&nbsp;for&nbsp;24&nbsp;hour&nbsp;period&nbsp;<br>ending&nbsp;7&nbsp;pm&nbsp;EST.&nbsp;&nbsp;Snow&nbsp;Depth&nbsp;is&nbsp;observed&nbsp;at&nbsp;7&nbsp;pm&nbsp;EST.&nbsp;<br>...................................................................&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OBS&nbsp;&nbsp;&nbsp;&nbsp;MAX&nbsp;&nbsp;&nbsp;MIN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SNOW&nbsp;&nbsp;SNOW&nbsp;<br>ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOCATION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TIME&nbsp;&nbsp;&nbsp;TEMP&nbsp;&nbsp;TEMP&nbsp;&nbsp;PCPN&nbsp;&nbsp;&nbsp;FALL&nbsp;&nbsp;DEPTH&nbsp;<br>...................................................................&nbsp;<br>FRKM4:&nbsp;Frankfort&nbsp;2NE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:DH1800/&nbsp;&nbsp;43&nbsp;/&nbsp;&nbsp;11&nbsp;/&nbsp;0.00&nbsp;/&nbsp;0.0&nbsp;/&nbsp;8.0&nbsp;<br>MAPM4:&nbsp;Maple&nbsp;City&nbsp;1E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:DH1800/&nbsp;&nbsp;49&nbsp;/&nbsp;&nbsp;&nbsp;9&nbsp;/&nbsp;0.00&nbsp;/&nbsp;0.0&nbsp;/&nbsp;9.0&nbsp;<br>&nbsp;&nbsp;<br>These&nbsp;data&nbsp;are&nbsp;preliminary&nbsp;and&nbsp;have&nbsp;not&nbsp;undergone&nbsp;final&nbsp;quality&nbsp;<br>control&nbsp;by&nbsp;the&nbsp;National&nbsp;Centers&nbsp;for&nbsp;Environmental&nbsp;Information.&nbsp;<br>Therefore...these&nbsp;data&nbsp;are&nbsp;subject&nbsp;to&nbsp;revision.&nbsp;&nbsp;Final&nbsp;<br>and&nbsp;certified&nbsp;climate&nbsp;data&nbsp;can&nbsp;be&nbsp;accessed&nbsp;at&nbsp;www.ncdc.noaa.gov.&nbsp;<br>&nbsp;&nbsp;<br>&&&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>The&nbsp;following&nbsp;are&nbsp;supplemental&nbsp;temperature&nbsp;and&nbsp;precipitation&nbsp;data.&nbsp;<br>This&nbsp;includes&nbsp;data&nbsp;which&nbsp;are&nbsp;received&nbsp;from&nbsp;non-National&nbsp;Weather&nbsp;&nbsp;<br>Service&nbsp;maintained&nbsp;observing&nbsp;systems...as&nbsp;well&nbsp;as&nbsp;reports&nbsp;from&nbsp;&nbsp;<br>public&nbsp;weather&nbsp;spotters.&nbsp;&nbsp;Data&nbsp;is&nbsp;only&nbsp;partially&nbsp;quality&nbsp;controlled&nbsp;<br>and&nbsp;is&nbsp;not&nbsp;suitable&nbsp;for&nbsp;official&nbsp;climatological&nbsp;records.&nbsp;<br>&nbsp;&nbsp;<br>.BR&nbsp;APX&nbsp;&nbsp;0130&nbsp;&nbsp;ES&nbsp;DH19/TAIRZS/TAIRZI&nbsp;<br>:&nbsp;<br>:Automated&nbsp;Temperature&nbsp;Data--18&nbsp;hr&nbsp;High/Low&nbsp;ending&nbsp;7&nbsp;pm&nbsp;EST&nbsp;<br>:..................................................................&nbsp;<br>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAX&nbsp;&nbsp;&nbsp;&nbsp;MIN&nbsp;<br>:ID&nbsp;&nbsp;&nbsp;&nbsp;LOCATION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEMP&nbsp;&nbsp;&nbsp;TEMP&nbsp;<br>:..................................................................&nbsp;<br>:&nbsp;<br>ERY&nbsp;:&nbsp;Newberry&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;35&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;8&nbsp;<br>CIU&nbsp;:&nbsp;Kinross&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;35&nbsp;&nbsp;/&nbsp;&nbsp;13&nbsp;<br>MCD&nbsp;:&nbsp;Mackinac&nbsp;Island&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;&nbsp;18&nbsp;<br>DRM&nbsp;:&nbsp;Drummond&nbsp;Island&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;32&nbsp;&nbsp;/&nbsp;&nbsp;20&nbsp;<br>SJX&nbsp;:&nbsp;Beaver&nbsp;Island&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;39&nbsp;&nbsp;/&nbsp;&nbsp;19&nbsp;<br>SLH&nbsp;:&nbsp;Cheboygan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;&nbsp;14&nbsp;<br>PZQ&nbsp;:&nbsp;Rogers&nbsp;City&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;&nbsp;12&nbsp;<br>MGN&nbsp;:&nbsp;Harbor&nbsp;Springs&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;42&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;7&nbsp;<br>CVX&nbsp;:&nbsp;Charlevoix&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;43&nbsp;&nbsp;/&nbsp;&nbsp;10&nbsp;<br>BFA&nbsp;:&nbsp;Boyne&nbsp;Falls&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;46&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;7&nbsp;<br>ACB&nbsp;:&nbsp;Bellaire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;47&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;7&nbsp;<br>FKS&nbsp;:&nbsp;Frankfort&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;44&nbsp;&nbsp;/&nbsp;&nbsp;17&nbsp;<br>MBL&nbsp;:&nbsp;Manistee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;47&nbsp;&nbsp;/&nbsp;&nbsp;16&nbsp;<br>CAD&nbsp;:&nbsp;Cadillac&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;45&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;7&nbsp;<br>Y31&nbsp;:&nbsp;West&nbsp;Branch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;42&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;6&nbsp;<br>OSC&nbsp;:&nbsp;Oscoda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;36&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;5&nbsp;<br>LDM&nbsp;:&nbsp;Ludington&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;44&nbsp;&nbsp;/&nbsp;&nbsp;19&nbsp;<br>RQB&nbsp;:&nbsp;Big&nbsp;Rapids&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;46&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;9&nbsp;<br>MOP&nbsp;:&nbsp;Mount&nbsp;Pleasant&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;49&nbsp;&nbsp;/&nbsp;&nbsp;18&nbsp;<br>IKW&nbsp;:&nbsp;Midland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;45&nbsp;&nbsp;/&nbsp;&nbsp;16&nbsp;<br>.END&nbsp;<br>&nbsp;&nbsp;<br>U.S.&nbsp;Forest&nbsp;Service&nbsp;Remote&nbsp;Automated&nbsp;Weather&nbsp;Stations&nbsp;(RAWS)&nbsp;<br>Data&nbsp;is&nbsp;only&nbsp;partially&nbsp;quality&nbsp;controlled&nbsp;<br>18&nbsp;hour&nbsp;High/Low&nbsp;Temperature&nbsp;ending&nbsp;7&nbsp;pm&nbsp;EST&nbsp;<br>Minimum&nbsp;Relative&nbsp;Humidity&nbsp;over&nbsp;past&nbsp;18&nbsp;hours&nbsp;<br>12/24&nbsp;hour&nbsp;Precipitation&nbsp;ending&nbsp;7&nbsp;pm&nbsp;EST&nbsp;<br>...................................................................&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAX&nbsp;&nbsp;&nbsp;MIN&nbsp;&nbsp;&nbsp;MIN&nbsp;&nbsp;12&nbsp;HR&nbsp;&nbsp;&nbsp;24&nbsp;HR&nbsp;&nbsp;<br>ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOCATION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEMP&nbsp;&nbsp;TEMP&nbsp;&nbsp;RH&nbsp;&nbsp;&nbsp;PRECIP&nbsp;&nbsp;PRECIP&nbsp;<br>...................................................................&nbsp;<br>AGRM4:&nbsp;&nbsp;Alger&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;44&nbsp;/&nbsp;&nbsp;&nbsp;2&nbsp;/&nbsp;&nbsp;48&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;0.00&nbsp;<br>ATAM4:&nbsp;&nbsp;Atlanta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;44&nbsp;/&nbsp;&nbsp;-2&nbsp;/&nbsp;&nbsp;41&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;0.00&nbsp;<br>BCYM4:&nbsp;&nbsp;Barton&nbsp;City&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;37&nbsp;/&nbsp;&nbsp;&nbsp;1&nbsp;/&nbsp;&nbsp;54&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;0.00&nbsp;<br>GYGM4:&nbsp;&nbsp;Grayling&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;44&nbsp;/&nbsp;&nbsp;&nbsp;7&nbsp;/&nbsp;&nbsp;45&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;0.00&nbsp;<br>INDM4:&nbsp;&nbsp;Indian&nbsp;River&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;48&nbsp;/&nbsp;&nbsp;&nbsp;0&nbsp;/&nbsp;&nbsp;35&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;0.00&nbsp;<br>MMOM4:&nbsp;&nbsp;Mio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;42&nbsp;/&nbsp;&nbsp;&nbsp;1&nbsp;/&nbsp;&nbsp;45&nbsp;/&nbsp;0.01&nbsp;/&nbsp;&nbsp;0.01&nbsp;<br>NMIM4:&nbsp;&nbsp;N&nbsp;Manitou&nbsp;Island&nbsp;&nbsp;:&nbsp;&nbsp;43&nbsp;/&nbsp;&nbsp;16&nbsp;/&nbsp;&nbsp;47&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;0.00&nbsp;<br>RACM4:&nbsp;&nbsp;Raco&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;36&nbsp;/&nbsp;&nbsp;12&nbsp;/&nbsp;&nbsp;67&nbsp;/&nbsp;0.03&nbsp;/&nbsp;&nbsp;0.03&nbsp;<br>REXM4:&nbsp;&nbsp;Rexton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;37&nbsp;/&nbsp;&nbsp;&nbsp;9&nbsp;/&nbsp;&nbsp;65&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;0.00&nbsp;<br>RSCM4:&nbsp;&nbsp;Roscommon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;44&nbsp;/&nbsp;&nbsp;-2&nbsp;/&nbsp;&nbsp;44&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;0.00&nbsp;<br>RYDM4:&nbsp;&nbsp;Rudyard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;35&nbsp;/&nbsp;&nbsp;11&nbsp;/&nbsp;&nbsp;62&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;0.00&nbsp;<br>SBDM4:&nbsp;&nbsp;The&nbsp;Bear&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;49&nbsp;/&nbsp;&nbsp;12&nbsp;/&nbsp;&nbsp;38&nbsp;/&nbsp;0.17&nbsp;/&nbsp;&nbsp;0.17&nbsp;<br>SCKM4:&nbsp;&nbsp;Silver&nbsp;Creek&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;38&nbsp;/&nbsp;&nbsp;&nbsp;2&nbsp;/&nbsp;&nbsp;51&nbsp;/&nbsp;0.07&nbsp;/&nbsp;&nbsp;0.07&nbsp;<br>WLLM4:&nbsp;&nbsp;Wellston&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;50&nbsp;/&nbsp;&nbsp;15&nbsp;/&nbsp;&nbsp;37&nbsp;/&nbsp;0.37&nbsp;/&nbsp;&nbsp;0.37&nbsp;<br>&nbsp;<br>$$&nbsp;<br>&nbsp;<br>BERGER&nbsp;<br>&nbsp;<br>
+       
+      </td>
+   </tr>
+</table>
+
+
+
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

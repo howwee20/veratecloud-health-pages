@@ -5,25 +5,29 @@
     "id": "mawn-report-bnzh",
     "url": "https://mawn.geo.msu.edu/report.asp?fileid=bnzh",
     "file": "input/mawn/report-bnzh.html",
-    "sha256": "d365ca491f10709329b33c6e7b891ffa9bc38c8ec2290dcd7c9633592d321379",
-    "retrievedAtUtc": "2026-10-13T15:34:03.821402+00:00"
+    "sha256": "2e29feda0032c9c33c76eed83928bf22d42619a5150ada5c612214d845fc6816",
+    "retrievedAtUtc": "2026-10-14T00:43:02.753987+00:00"
   },
   "status": "observation only; no schema adopted",
   "assumptionTested": "In 20-field records, field 2 is the year, field 3 the day of year and field 4 HHMM on the clock used by the hourly report's time labels.",
   "method": "Each of fields 5 to 20 was compared with each hourly-report column under five fixed unit conversions. A pairing is listed only if every overlapping record rounds to the printed report value.",
-  "overlappingRecords": 3,
+  "overlappingRecords": 4,
   "overlap": [
     {
-      "line": 14,
-      "reportRow": "10/13/26 09:00"
+      "line": 10,
+      "reportRow": "10/13/26 13:00"
     },
     {
-      "line": 25,
-      "reportRow": "10/13/26 10:00"
+      "line": 18,
+      "reportRow": "10/13/26 14:00"
     },
     {
-      "line": 38,
-      "reportRow": "10/13/26 11:00"
+      "line": 28,
+      "reportRow": "10/13/26 15:00"
+    },
+    {
+      "line": 39,
+      "reportRow": "10/13/26 16:00"
     }
   ],
   "matches": [
@@ -31,14 +35,38 @@
       "fieldPosition": 5,
       "reportColumn": "Air Temp (F)",
       "conversion": "°C to °F (x × 9/5 + 32)",
-      "recordsCompared": 1,
+      "recordsCompared": 4,
       "detail": [
         {
-          "line": 14,
-          "rawField": "18.68",
-          "converted": "65.624",
-          "reported": "65.6",
-          "reportRow": "10/13/26 09:00",
+          "line": 10,
+          "rawField": "15.28",
+          "converted": "59.504",
+          "reported": "59.5",
+          "reportRow": "10/13/26 13:00",
+          "agrees": true
+        },
+        {
+          "line": 18,
+          "rawField": "14.97",
+          "converted": "58.946",
+          "reported": "58.9",
+          "reportRow": "10/13/26 14:00",
+          "agrees": true
+        },
+        {
+          "line": 28,
+          "rawField": "14.99",
+          "converted": "58.982",
+          "reported": "59.0",
+          "reportRow": "10/13/26 15:00",
+          "agrees": true
+        },
+        {
+          "line": 39,
+          "rawField": "14.88",
+          "converted": "58.784",
+          "reported": "58.8",
+          "reportRow": "10/13/26 16:00",
           "agrees": true
         }
       ]
@@ -47,30 +75,38 @@
       "fieldPosition": 6,
       "reportColumn": "Rel Hum (%)",
       "conversion": "no conversion",
-      "recordsCompared": 3,
+      "recordsCompared": 4,
       "detail": [
         {
-          "line": 14,
-          "rawField": "99.9",
-          "converted": "99.900",
-          "reported": "99.9",
-          "reportRow": "10/13/26 09:00",
+          "line": 10,
+          "rawField": "99.6",
+          "converted": "99.600",
+          "reported": "99.6",
+          "reportRow": "10/13/26 13:00",
           "agrees": true
         },
         {
-          "line": 25,
-          "rawField": "0.377",
-          "converted": "0.377",
-          "reported": "0.4",
-          "reportRow": "10/13/26 10:00",
+          "line": 18,
+          "rawField": "96.6",
+          "converted": "96.600",
+          "reported": "96.6",
+          "reportRow": "10/13/26 14:00",
           "agrees": true
         },
         {
-          "line": 38,
-          "rawField": "0.379",
-          "converted": "0.379",
-          "reported": "0.4",
-          "reportRow": "10/13/26 11:00",
+          "line": 28,
+          "rawField": "93",
+          "converted": "93.000",
+          "reported": "93.0",
+          "reportRow": "10/13/26 15:00",
+          "agrees": true
+        },
+        {
+          "line": 39,
+          "rawField": "96.6",
+          "converted": "96.600",
+          "reported": "96.6",
+          "reportRow": "10/13/26 16:00",
           "agrees": true
         }
       ]
@@ -79,30 +115,38 @@
       "fieldPosition": 7,
       "reportColumn": "Solar Rad (ly)",
       "conversion": "kJ/m² to langleys (x ÷ 41.84)",
-      "recordsCompared": 3,
+      "recordsCompared": 4,
       "detail": [
         {
-          "line": 14,
-          "rawField": "44.79154",
-          "converted": "1.071",
-          "reported": "1.1",
-          "reportRow": "10/13/26 09:00",
-          "agrees": true
-        },
-        {
-          "line": 25,
-          "rawField": "83.56143",
-          "converted": "1.997",
+          "line": 10,
+          "rawField": "81.8129",
+          "converted": "1.955",
           "reported": "2.0",
-          "reportRow": "10/13/26 10:00",
+          "reportRow": "10/13/26 13:00",
           "agrees": true
         },
         {
-          "line": 38,
-          "rawField": "106.0873",
-          "converted": "2.536",
-          "reported": "2.5",
-          "reportRow": "10/13/26 11:00",
+          "line": 18,
+          "rawField": "268.835",
+          "converted": "6.425",
+          "reported": "6.4",
+          "reportRow": "10/13/26 14:00",
+          "agrees": true
+        },
+        {
+          "line": 28,
+          "rawField": "326.9026",
+          "converted": "7.813",
+          "reported": "7.8",
+          "reportRow": "10/13/26 15:00",
+          "agrees": true
+        },
+        {
+          "line": 39,
+          "rawField": "289.4216",
+          "converted": "6.917",
+          "reported": "6.9",
+          "reportRow": "10/13/26 16:00",
           "agrees": true
         }
       ]
@@ -111,30 +155,38 @@
       "fieldPosition": 8,
       "reportColumn": "Soil Temp (F)",
       "conversion": "°C to °F (x × 9/5 + 32)",
-      "recordsCompared": 3,
+      "recordsCompared": 4,
       "detail": [
         {
-          "line": 14,
-          "rawField": "17.38",
-          "converted": "63.284",
-          "reported": "63.3",
-          "reportRow": "10/13/26 09:00",
+          "line": 10,
+          "rawField": "17.23",
+          "converted": "63.014",
+          "reported": "63.0",
+          "reportRow": "10/13/26 13:00",
           "agrees": true
         },
         {
-          "line": 25,
-          "rawField": "17.38",
-          "converted": "63.284",
-          "reported": "63.3",
-          "reportRow": "10/13/26 10:00",
+          "line": 18,
+          "rawField": "17.21",
+          "converted": "62.978",
+          "reported": "63.0",
+          "reportRow": "10/13/26 14:00",
           "agrees": true
         },
         {
-          "line": 38,
-          "rawField": "17.31",
-          "converted": "63.158",
-          "reported": "63.2",
-          "reportRow": "10/13/26 11:00",
+          "line": 28,
+          "rawField": "17.21",
+          "converted": "62.978",
+          "reported": "63.0",
+          "reportRow": "10/13/26 15:00",
+          "agrees": true
+        },
+        {
+          "line": 39,
+          "rawField": "17.24",
+          "converted": "63.032",
+          "reported": "63.0",
+          "reportRow": "10/13/26 16:00",
           "agrees": true
         }
       ]
@@ -143,30 +195,38 @@
       "fieldPosition": 12,
       "reportColumn": "Wind Speed (mph)",
       "conversion": "m/s to mph (x × 2.2369363)",
-      "recordsCompared": 3,
+      "recordsCompared": 4,
       "detail": [
         {
-          "line": 14,
-          "rawField": "1.573",
-          "converted": "3.519",
-          "reported": "3.5",
-          "reportRow": "10/13/26 09:00",
+          "line": 10,
+          "rawField": "2.186",
+          "converted": "4.890",
+          "reported": "4.9",
+          "reportRow": "10/13/26 13:00",
           "agrees": true
         },
         {
-          "line": 25,
-          "rawField": "1.516",
-          "converted": "3.391",
-          "reported": "3.4",
-          "reportRow": "10/13/26 10:00",
+          "line": 18,
+          "rawField": "2.096",
+          "converted": "4.689",
+          "reported": "4.7",
+          "reportRow": "10/13/26 14:00",
           "agrees": true
         },
         {
-          "line": 38,
-          "rawField": "1.711",
-          "converted": "3.827",
-          "reported": "3.8",
-          "reportRow": "10/13/26 11:00",
+          "line": 28,
+          "rawField": "1.998",
+          "converted": "4.469",
+          "reported": "4.5",
+          "reportRow": "10/13/26 15:00",
+          "agrees": true
+        },
+        {
+          "line": 39,
+          "rawField": "1.832",
+          "converted": "4.098",
+          "reported": "4.1",
+          "reportRow": "10/13/26 16:00",
           "agrees": true
         }
       ]
@@ -175,30 +235,38 @@
       "fieldPosition": 13,
       "reportColumn": "Wind Dir",
       "conversion": "degrees to 16-point compass",
-      "recordsCompared": 3,
+      "recordsCompared": 4,
       "detail": [
         {
-          "line": 14,
-          "rawField": "254.9",
-          "converted": "WSW",
-          "reported": "WSW",
-          "reportRow": "10/13/26 09:00",
+          "line": 10,
+          "rawField": "317.7",
+          "converted": "NW",
+          "reported": "NW",
+          "reportRow": "10/13/26 13:00",
           "agrees": true
         },
         {
-          "line": 25,
-          "rawField": "251.4",
-          "converted": "WSW",
-          "reported": "WSW",
-          "reportRow": "10/13/26 10:00",
+          "line": 18,
+          "rawField": "319.1",
+          "converted": "NW",
+          "reported": "NW",
+          "reportRow": "10/13/26 14:00",
           "agrees": true
         },
         {
-          "line": 38,
-          "rawField": "283.1",
-          "converted": "WNW",
-          "reported": "WNW",
-          "reportRow": "10/13/26 11:00",
+          "line": 28,
+          "rawField": "318.5",
+          "converted": "NW",
+          "reported": "NW",
+          "reportRow": "10/13/26 15:00",
+          "agrees": true
+        },
+        {
+          "line": 39,
+          "rawField": "329.8",
+          "converted": "NNW",
+          "reported": "NNW",
+          "reportRow": "10/13/26 16:00",
           "agrees": true
         }
       ]
@@ -226,7 +294,7 @@
   ],
   "tenFieldRecordsCompared": 0,
   "caveats": [
-    "Based on 3 overlapping hourly records from one station on one afternoon.",
+    "Based on 4 overlapping hourly records from one station on one afternoon.",
     "Agreement to printed precision does not establish units, sensor identity, quality flags or time zone.",
     "The 10-field records have no labelled counterpart in the source pack and were not compared.",
     "A data dictionary from the maintainers is required before any raw field is labelled."

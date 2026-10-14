@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Microsoft FrontPage 5.0">
+   <TITLE>MSU Climatology Program</TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#C0C0C0" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000" BACKGROUND="bkgrnd.jpg">
+
+<h1>South Central Lower Division -- Click on a station symbol for tables</h1>
+
+<HR width="100%">
+
+<center>
+   <img src="sc-lower.gif" usemap="#SC-LOWER" hspace=5 vspace=5 border=0 height=352 width=373>
+      <map name="SC-LOWER">
+         <area shape="circle" coords="32,37,5"   href="stations/4320" alt="">
+         <area shape="circle" coords="107,36,5"  href="stations/3429" alt="">
+         <area shape="circle" coords="94,90,5"   href="stations/4944" alt="">
+         <area shape="circle" coords="134,84,5"  href="stations/4078" alt="">
+         <area shape="circle" coords="212,7,5"   href="stations/7280" alt="">
+         <area shape="circle" coords="274,9,5"   href="stations/7253" alt="">
+         <area shape="circle" coords="269,69,5"  href="stations/6300" alt="">
+         <area shape="circle" coords="216,118,5" href="stations/4641" alt="">
+         <area shape="circle" coords="226,138,5" href="stations/2395" alt="East Lansing">
+         <area shape="circle" coords="182,129,5" href="stations/3306" alt="Grand Ledge">
+         <area shape="circle" coords="99,159,5"  href="stations/3661" alt="">
+         <area shape="circle" coords="23,188,5"  href="stations/0128" alt="">
+         <area shape="circle" coords="88,205,5"  href="stations/3504" alt="">
+         <area shape="circle" coords="61,227,5"  href="stations/4244" alt="">
+         <area shape="circle" coords="9,211,5"   href="stations/0864" alt="">
+         <area shape="circle" coords="150,302,5" href="stations/1675" alt="">
+         <area shape="circle" coords="50,303,5"  href="stations/8184" alt="">
+         <area shape="circle" coords="211,300,5" href="stations/3823" alt="">
+         <area shape="circle" coords="186,230,5" href="stations/0094" alt="">
+         <area shape="circle" coords="231,228,5" href="stations/4150" alt="">
+         <area shape="circle" coords="346,213,5" href="stations/0230" alt="">
+         <area shape="circle" coords="363,256,5" href="stations/9014" alt="">
+         <area shape="circle" coords="305,297,5" href="stations/0032" alt="">
+         <area shape="circle" coords="176,174,5" href="stations/1476" alt="">
+         <area shape="circle" coords="205,181,5" href="stations/2437" alt="">
+         <area shape="circle" coords="119,224,5" href="stations/0552" alt="">
+         <area shape="circle" coords="341,81,5"  href="stations/2846" alt="">
+         <area shape="circle" coords="307,151,5" href="stations/3947" alt="">
+         <area shape="circle" coords="257,142,5" href="stations/9006" alt="">
+         <area shape="circle" coords="361,22,5"  href="stations/5488" alt="">
+         <area shape="circle" coords="346,160,5" href="stations/5452" alt="">
+         <area shape="circle" coords="64,106,5"  href="stations/3333" alt="">
+      </map>
+   </img>
+</center>
+
+<p>Additional Stations:</p>
+<p><font size="4"><a href="stations/2140/">2140 Dimondale 1 WSW</a></font></p>
+<p><font size="4"><a href="stations/3969/">3969 Hudson</a></font></p>
+
+</BODY>
+</HTML>

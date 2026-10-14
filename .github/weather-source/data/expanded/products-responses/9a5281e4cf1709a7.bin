@@ -1,0 +1,26 @@
+<HEAD
+     <meta name="Author" content="Peter Kurtz, Haryono Prawiranata">
+     <TITLE>Michigan Map</TITLE>
+</HEAD>
+<BODY>
+<P ALIGN="center"> Click on any Michigan county of interest to view the
+<BR>available data. Available tables represent data from the 1981-2010, 1971-2000 and/or 1951-1980 time periods.
+<BR>
+
+<img src="michigan.jpg" usemap="#MI" hspace=220 vspace=5 border=0 height=515 width=490>
+   <map name="MI">
+      <area shape="poly" coords="192,175 191,175 187,175 187,154 188,154 188,146 186,146 186,140 193,139 193,126 200,125 201,98 170,4 95,24 2,86 167,217 184,190 192,175 192,175" href="w-upper.html" alt="West Upper">
+      <area shape="poly" coords="171,217 187,192 202,166 227,177 283,144 337,153 358,145 413,144 405,128 362,93 324,71 257,81 201,93 204,96 203,124 203,128 195,128 196,139 194,142 191,143 190,170 195,171 195,176 187,192 171,217 171,217" href="e-upper.html" alt="West Upper">      
+      <area shape="poly" coords="235,289 333,290 332,219 331,219 331,211 339,211 337,154 316,153 258,207 233,250 236,289 237,289 238,290 236,289 239,289 240,290 246,289 254,290 261,290 235,289 235,289" href="nw-lower.html" alt="West Upper">
+      <area shape="poly" coords="334,276 334,290 411,288 418,282 425,274 426,227 428,216 414,183 369,164 355,163 342,154 339,153 340,212 332,212 333,268 333,277 334,276 334,276" href="ne-lower.html" alt="West Upper">
+      <area shape="poly" coords="246,378 269,378 269,371 277,371 277,363 290,363 290,290 239,290 230,298 228,335 234,361 247,378 246,378 246,378" href="wc-lower.html" alt="West Upper">
+      <area shape="poly" coords="292,363 305,363 306,378 362,377 362,347 374,346 374,289 291,290 292,363 292,363" href="c-lower.html" alt="West Upper">
+      <area shape="poly" coords="413,288 375,288 375,348 363,347 363,377 390,376 390,368 418,367 418,366 424,366 424,358 438,358 438,361 446,361 447,372 477,370 472,325 460,294 410,288 413,288 413,288" href="ec-lower.html" alt="West Upper">
+      <area shape="poly" coords="244,378 269,378 269,371 277,371 277,364 305,363 305,407 291,407 291,435 307,436 308,465 279,465 280,491 214,497 206,491 247,378 244,378 244,378" href="sw-lower.html" alt="West Upper">
+      <area shape="poly" coords="282,490 281,466 309,466 308,436 308,435 292,434 292,408 306,407 307,378 334,377 389,376 390,376 390,403 377,404 378,434 379,434 381,463 365,463 367,494 339,495 339,491 280,491 282,490 282,490" href="sc-lower.html" alt="West Upper">
+      <area shape="poly" coords="369,494 366,465 381,465 380,434 378,405 393,405 390,368 418,368 418,366 424,366 424,358 438,358 438,361 445,361 447,371 476,370 484,381 483,420 424,492 369,494 369,494" href="se-lower.html" alt="West Upper">
+   </map>
+</img>
+
+</BODY>
+</HTML>

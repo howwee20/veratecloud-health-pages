@@ -1,0 +1,93 @@
+============================================================================== 
+Station Notes - West Jacksonport (WI) 
+ 
+ 
+08/18/2023: Station Retired                                             [0000] 
+  
+            - station retired 
+               - station now being managed by Wisconet (Wisconsin Mesonet)... 
+                  ...for more information and current data, refer to: 
+ 
+                        https://wisconet.wisc.edu 
+                        https://wisconet.wisc.edu/stations/west_jacksonport 
+ 
+ 
+ 
+============================================================================== 
+07/20/2020: Logger Maintenance:                                     [1208 CDT] 
+ 
+            - reloaded logger program: cbab-wjp* 
+ 
+ 
+ 
+============================================================================== 
+09/26/2019: Logger / Station Maintenance:                               [0934] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: cbab-wjp 
+ 
+ 
+ 
+============================================================================== 
+06/24/2016: Station Maintenance:                                        [----] 
+ 
+            - replaced faulty standard leaf wetness sensor (lws1) 
+ 
+ 
+ 
+============================================================================== 
+04/16/2014: Station Maintenance                                     [1405 CDT] 
+ 
+            - Loaded Logger Program "cbab-wjp" which should now properly 
+              report Leaf Wetness values from LWS-L sensors 
+ 
+ 
+ 
+============================================================================== 
+04/10/2012:  Station Maintenance:                                       [2303] 
+ 
+             - Loaded updated Logger Program CBAA-WJP.  Logger now 
+               set to collect on a 30-minute cycle from Apr - Sep. 
+ 
+ 
+ 
+============================================================================== 
+08/03/2011  Station Online:                                            [17:00] 
+ 
+                - Station added to MAWN web site. 
+ 
+ 
+ 
+08/03/2011:  Data Collection Enabled:                                  [15:30] 
+ 
+             - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   Jul 14, 2011 - 00:05 (Day=195)* 
+ 
+                     * earlier data may be added later. 
+ 
+ 
+ 
+08/03/2011:  Station Maintenance:                                      [15:30] 
+ 
+             - Established telecommunication between station cell 
+               modem and data collection PC/server on campus. 
+ 
+ 
+ 
+xx/xx/2011:  Station Installed:                                        [xx:xx] 
+ 
+             - Loaded MAWN Program:   BBC-WISC 
+                                         B => CR1000 
+                                         B => CS616  
+                                         C => Broadband Cell Modem (IP) 
+                                      WISC => Generic MAWN Progrm For Wisconsin 
+                                        
+ 
+             - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

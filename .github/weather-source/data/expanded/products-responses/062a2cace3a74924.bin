@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Microsoft FrontPage 5.0">
+   <TITLE>MSU Climatology Program</TITLE>
+</HEAD>
+<body>
+
+<h1>West Upper Division -- Click on a station symbol for tables</h1>
+
+<HR width="100%">
+
+<center>
+   <img src="w-upper.gif" usemap="#W-UPPER" hspace=5 vspace=5 border=0 height=461 width=559>
+      <map name="W-UPPER">
+         <area shape="circle" coords="293,71,5"  href="stations/3908" alt="">
+         <area shape="circle" coords="192,135,5" href="stations/6210" alt="">
+         <area shape="circle" coords="132,190,5" href="stations/0718" alt="">
+         <area shape="circle" coords="36,212,5"  href="stations/4104" alt="">
+         <area shape="circle" coords="182,258,5" href="stations/8680" alt="">
+         <area shape="circle" coords="229,278,5" href="stations/0647" alt="">
+         <area shape="circle" coords="321,280,5" href="stations/1922" alt="">
+         <area shape="circle" coords="263,299,5" href="stations/7812" alt="">
+         <area shape="circle" coords="339,353,5" href="stations/4090" alt="">
+         <area shape="circle" coords="360,210,5" href="stations/1439" alt="Champion">
+         <area shape="circle" coords="288,181,5" href="stations/0089" alt="">
+         <area shape="circle" coords="272,137,5" href="no-summary.html alt="">
+         <area shape="circle" coords="508,248,5" href="stations/1484" alt="Chatham">
+         <area shape="circle" coords="436,205,5" href="stations/5184" alt="">
+         <area shape="circle" coords="405,224,5" href="stations/4127" alt="">
+         <area shape="circle" coords="392,442,5" href="stations/7867" alt="">
+         <area shape="circle" coords="424,386,5" href="stations/7742" alt="">
+         <area shape="circle" coords="480,375,5" href="stations/2626" alt="">
+         <area shape="circle" coords="457,342,5" href="stations/1800" alt="">
+         <area shape="circle" coords="475,308,5" href="stations/7068" alt="">
+         <area shape="circle" coords="227,215,5" href="stations/4328" alt="">
+      </map>
+   </img>
+</center>
+
+<p>Additional Stations:</p>
+<p><font size="4"><a href="stations/0770">0770 Big Bay 2 SE</a></font></p>
+<p><font size="4"><a href="stations/3744">3744 Herman</a></font></p>
+<p><font size="4"><a href="stations/5178">5178 Marquette City</a></font></p>
+<p><font size="4"><a href="stations/6220">6220 Ontonagon 6 SE</a></font></p>
+
+</BODY>
+</HTML>

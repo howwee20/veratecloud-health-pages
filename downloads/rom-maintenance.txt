@@ -1,0 +1,302 @@
+============================================================================== 
+Station Notes - Romeo () 
+ 
+ 
+05/27/2021: Station / Logger Maintenance:                               [1315] 
+ 
+            - routine site maintenance  
+            - updated modem 
+ 
+ 
+ 
+============================================================================== 
+07/22/2020: Station / Logger Maintenance:                               [0915] 
+ 
+            - troubleshoot communication issues... 
+              ...reset modem 
+ 
+ 
+06/16/2020: Station Maintenance:                                        [1140] 
+ 
+            - routine site maintenance  
+            - replaced leaf wetness sensor 
+ 
+ 
+03/25/2020: Station Maintenance:                                        [1530] 
+ 
+            - replaced atmp/relh/dwpt sensor (HygroVue10) 
+ 
+ 
+ 
+============================================================================== 
+08/27/2019: Station Maintenance:                                        [1150] 
+ 
+            - installed new CR6 station to replace CR1000  
+            - added PakBus modem 
+            - loaded logger program: rom-bssd [no canopy] 
+ 
+ 
+05/25/2019: Station Maintenance:                                        [1415] 
+ 
+            - replaced faulty soil temp [10-cm] sensor 
+ 
+ 
+05/24/2019: Station Maintenance:                                        [1530] 
+ 
+            - replaced faulty anemometer (wind speed) 
+ 
+ 
+ 
+============================================================================== 
+08/16/2018: Station Maintenance:                                        [1355] 
+ 
+            - annual station / site maintenance  
+ 
+ 
+06/26/2018: Station Maitenance:                                         [1110] 
+ 
+            - replaced faulty cellular modem 
+ 
+ 
+06/19/2018: Station Maintenance:                                        [1315] 
+ 
+            - general maintenance / cleanup 
+ 
+ 
+ 
+============================================================================== 
+11/20/2017: Station Maintenance:                                        [1500] 
+ 
+            - replaced charging regulator (CH200) 
+ 
+ 
+11/06/2017: Station Maintenance:                                        [1530] 
+ 
+            - repaired battery / charging system  
+ 
+ 
+09/21/2017: Station Maintenance:                                        [1700] 
+ 
+            - installed 50W solar panel 
+            - installed larger battery 
+            - replaced SC932A interface cable 
+ 
+ 
+07/31/2017: Station Maintenance:                                        [1220] 
+ 
+            - annual maintenance  
+ 
+ 
+06/22/2017: Station Maintenace:                                         [1400] 
+ 
+            - replaced canopy leaf wetness sensor (237 -> LWS-L) 
+ 
+ 
+06/21/2017: Logger Maintenance:                                         [0007] 
+ 
+            - loaded logger program: rom-bbab 
+ 
+               - NOTE: canopy leaf wetness appears to be faulty 
+ 
+ 
+06/05/2017: Station Maintnenace:                                        [1355] 
+ 
+            - annual maintenance, including: 
+               - replacement of leaf wetness (237 -> LWS-L) 
+               - connected ATMP/RELH (HMP45C) to continous power 
+ 
+ 
+ 
+============================================================================== 
+10/18/2016: Station Maintenance:                                        [1215] 
+ 
+            - replaced both soil temperature sensors 
+ 
+ 
+02/02/2016: Station Maintenance:                                        [1200] 
+ 
+            - replaced air temp/rh sensor 
+ 
+ 
+ 
+============================================================================== 
+09/12/2014:  System Maintenance:                                        [1432] 
+ 
+             - moved data-collection to new LoggerNet server 
+             - loaded logger program "bbaa-rom" 
+ 
+ 
+04/03/2014:  Station Maintenance:                                       [1450] 
+ 
+ 
+ 
+============================================================================== 
+12/10/2013:  Station Maintenance:                                       [1320] 
+ 
+             - Replaced faulty Air Temperature sensor. 
+ 
+ 
+09/13/2013:  Station Maintenance:                                       [1300] 
+ 
+             - Replaced Pyranometer (solar radiation) 
+             - Due to faulty sensor, solar radiation data marked as  
+               "missing" for following time period: 
+ 
+                 08/22/2013 (d=234) 0005 - 09/13/2013 (d=256) 1300 
+ 
+            - It appears that "solar radiation" troubles continue 
+ 
+ 
+07/10/2013:  Station Trouble:                                           [1200] 
+ 
+             - Some apparent battery/power issues led to a loss of data 
+               for the following period: 
+ 
+                  07/07/2013 (d=188) 0405 - 07/10/2013 (d=191) 1200 
+ 
+ 
+07/02/2013:  Station Maintenance:                                       [1130] 
+ 
+             - Wireless modem replaced... new IP assigned 
+ 
+ 
+03/26/2013:  Station Maintenance:                                       [1215] 
+ 
+             - Replaced fauly air temp/rh sensor. 
+             - Faulty data reported during following time period will be  
+               marked as "missing": 
+  
+                  03/20/2013 (d=079) 1455 - 03/26/2013 (d=085) 1240 
+ 
+ 
+ 
+============================================================================== 
+04/12/2012:  Station Maintenance:                                       [0003] 
+ 
+             - Loaded updated Logger Program BBAA-ROM.  Logger now 
+               set to collect on a 30-minute cycle from Apr - Sep. 
+ 
+ 
+ 
+============================================================================== 
+06/03/2011:  Station Maintenance:                                       [1330] 
+ 
+             - Routine Spring Maintenance, including: 
+                - Weed-Control (removal and herbicide application) 
+ 
+ 
+ 
+============================================================================== 
+12/22/2010:  Data Quality:                                              [1200] 
+ 
+             - Faulty logger and/or logger program introduced two 
+               periods of missing data: 
+ 
+                 12/13/10 (d=347) 24:00 - 12/14/10 (d=348) 08:05 
+                 12/15/10 (d=349) 21:00 - 12/16/10 (d=350) 08:10 
+  
+               However, there was no hourly data at all during the  
+               following (due to missing hourly data table: 
+ 
+                 12/13/10 (d=347) 24:00 - 12/20/10 (d=354) 12:00 
+ 
+               Since the logger program was reloaded at noon on 
+               12/20/10, everything appears to be opertating  
+               normally again. 
+ 
+               NOTE: Daily records during days with missing data 
+                     were removed from the data archive as they  
+                     contained faulty and incomplete data. 
+ 
+ 
+============================================================================== 
+06/17/2009:  Data Quality:                                             [11:00] 
+ 
+             - Some questions of quality of wind direction prior to  
+               program change in Aug, 2008.  Therefore, wind direction 
+               was marked as "missing" during the following time period: 
+ 
+                 03/29/08 (d=089) 00:05  -  08/17/08 (d=230) 03:35 
+ 
+ 
+ 
+ 
+05/18/2009:  Station Maintenace: 
+ 
+             - General station maintenance and system checks.          [15:00] 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+08/18/2008:  Data Correction: 
+ 
+                - Wind direction data reported during the following 
+                  time period was corrected: 
+ 
+                     03/29/08 (d=089) 00:05  -  08/17/08 (d=230) 03:31 
+ 
+ 
+ 
+08/17/2008:  Station Maintenance: 
+ 
+                - MAWN Program (BBC-ROM) was loaded at 03:31.  New  
+                  program corrects multiplier used to calculate wind 
+                  direction. 
+ 
+ 
+ 
+08/15/2008:  Station Maintenance: 
+ 
+             - General station maintenance and system checks, including: 
+                   - Soil Moisture sensors now installed vertically: 
+                         - MSTR 0:  profile of depth =  0 - 12" 
+                         - MSTR 1:  profile of depth = 12 - 24" 
+ 
+             - Work was done approx: 11:30 - 1230 (Day=228) 
+ 
+ 
+ 
+04/04/2008:  Station Maintenance: 
+ 
+                - Soil Moisture (Sensor 0) was repaired.  As 
+                  of 13:00 (d=95), sensor reporting properly. 
+  
+ 
+ 
+03/31/2008:  Station Online: 
+ 
+                - Station added to MAWN web site. 
+ 
+ 
+ 
+03/29/2008:  Data Collection Enabled: 
+ 
+                - Data Collection and Data Archive for new station begins: 
+ 
+                     First data report:   Mar 29, 2008 - 00:05 (Day=089) 
+ 
+ 
+ 
+03/28/2008:  Station Maintenance: 
+ 
+                - Established telecommunication between station cell-modem and 
+                  data collection PC/server on campus.    
+ 
+                - Loaded MAWN Program:  MAWN_BBC 
+                                                   B => CR1000 
+                                                   B => CS616  
+                                                   C => Broadband Cell Modem (IP) 
+                                        
+ 
+                - Now able to collect raw weather data. 
+ 
+ 
+ 
+03/28/2008:  Station Installed. 
+ 
+ 
+ 
+============================================================================== 
+

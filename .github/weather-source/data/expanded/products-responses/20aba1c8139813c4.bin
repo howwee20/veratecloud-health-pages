@@ -1,0 +1,111 @@
+<html>
+<head>
+   <title>file:///Untitled</title>
+   <meta name="Author" content="">
+   <meta name="GENERATOR" content="Mozilla/2.0GoldB1 (Win32)">
+</head>
+<body>
+
+<p><font SIZE=+3>Fife Lake (2784)</font></p>
+
+<p><font size=+1><a href="smry.pdf">All
+tables for this station in Adobe Acrobat format</a></font>
+
+<p>&nbsp;The following tables are the 1951-1980 Normals and Narrative Summary</p>
+
+<p>1. <a HREF="tmp1_nm.txt">Temperature normals and extremes</a></p>
+
+<p>2. <a HREF="tmp2_nm.txt">Heating &amp; cooling degree days, and number of
+days for selected thresholds </a></p>
+
+<p>3. <a HREF="prec_nm.txt">Precipitation normals </a></p>
+
+<p>4. <a HREF="narrat.txt">Narrative summary</a> </p>
+
+<p>The following tables are statistical probabilities based on the 1951-1980
+data</p>
+
+<p>using the indicated Probability Distribution Function (PDF). </p>
+
+<p>5. <a HREF="tmax_st.txt">Average daily maximum temperature (Normal PDF)</a></p>
+
+<p>6. <a HREF="tmin_st.txt">Average daily minimum temperature (Normal PDF)
+</a></p>
+
+<p>7. <a HREF="tmen_st.txt">Average daily mean temperature (Normal PDF)</a></p>
+
+<p>8. <a HREF="hdd65_st.txt">Monthly &amp; seasonal (July-June) heating degree-days
+base 65 F (Gamma PDF)</a> </p>
+
+<p>9. <a HREF="cdd65_st.txt">Monthly &amp; annual cooling degree days-base
+65 F (Gamma PDF) </a></p>
+
+<p>10. <a HREF="txg90_st.txt">Number of days with maximum Temperature of 90
+F or above (Weibull PDF)</a></p>
+
+<p>11. <a HREF="txl32_st.txt">Number of days with maximum Temperature of 32
+F or below (Weibull PDF)</a></p>
+
+<p>12. <a HREF="tnl32_st.txt">Number of days with minimum Temperature of 32
+F or below (Weibull PDF) </a></p>
+
+<p>13. <a HREF="tnl0_st.txt">Number of days with minimum Temperature of 0 F
+or below (Weibull PDF) </a></p>
+
+<p>14. <a HREF="l_spr_st.txt">Last spring temperature threshold date (Normal
+PDF)</a> </p>
+
+<p>15. <a HREF="f_fal_st.txt">First fall temperature threshold date (Normal
+PDF)</a> </p>
+
+<p>16. <a HREF="g_sea_st.txt">Growing season length between threshold dates
+(Normal PDF)</a> </p>
+
+<p>17. <a HREF="gdd40_st.txt">Monthly &amp; seasonal (Mar-Oct) growing degree-days
+base 40 F (Gamma PDF)</a></p>
+
+<p>18. <a HREF="gdd45_st.txt">Monthly &amp; seasonal (Mar-Oct) growing degree-days
+base 45 F (Gamma PDF)</a></p>
+
+<p>19. <a HREF="gdd50_st.txt">Monthly &amp; seasonal (Mar-Oct) growing degree-days
+base 50 F (Gamma PDF)</a></p>
+
+<p>20. <a HREF="gdd55_st.txt">Monthly &amp; seasonal (Mar-Oct) growing degree-days
+base 55 F (Gamma PDF)</a></p>
+
+<p>21. <a HREF="g8650_st.txt">Monthly &amp; seasonal (Mar-Oct) growing degree-days,
+corn method (86max &amp; 50min) (Gamma PDF) </a></p>
+
+<p>22. <a HREF="prec_st.txt">Monthly &amp; annual total precipitation (Gamma
+PDF) </a></p>
+
+<p>23. <a HREF="snow_st.txt">Monthly &amp; seasonal (Sep-May) total snowfall
+(Gamma PDF) </a></p>
+
+<p>24. <a HREF="dpg10_st.txt"># of days with precipitation of .10 inch or above
+(Weibull PDF)</a> </p>
+
+<p>25. <a HREF="dpg25_st.txt"># of days with precipitation of .25 inch or above
+(Weibull PDF) </a></p>
+
+<p>26. <a HREF="dpg50_st.txt"># of days with precipitation of .50 inch or above
+(Weibull PDF) </a></p>
+
+<p>27. <a HREF="prssn_st.txt">Monthly &amp; seasonal (Apr-Sep) precipitation
+(Gamma PDF) </a></p>
+
+<p>28. Grouping of all Normals tables (Archived) </p>
+
+<p>29. Grouping of all temperature related files (Archived) </p>
+
+<p>30. Grouping of all growing &amp; frost related files (Archived) </p>
+
+<p>31. Grouping of all precipitation related files (Archived) </p>
+
+<p>32. Grouping of all tables (Archived) </p>
+
+<p>33. <a HREF="T_EX_AVG.txt">Daily temperature extremes and averages for period
+of record</a></p>
+
+</body>
+</html>

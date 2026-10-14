@@ -1,0 +1,296 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:33
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+<table><tr><td align="left">
+
+
+<P><EM>From: Michigan State University Crop Advisory Team Alert Vol. 16, No. 15, August, 2001.</EM><STRONG></STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>Topsoil Moisture Content During Wet and Dry Periods </STRONG></P>
+
+<P><FONT SIZE="-1"><EM>Jeff Andresen, Geography</EM></FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1"></FONT><FONT SIZE="-1">The 2001 growing season will go down in the records as one of extremes in terms of soil moisture variability. 
+Following unusually wet and cool conditions early in the growing season (including all-time records for May
+precipitation totals at some locations), dry conditions developed during the latter half of June and continued through
+much of July.  Climatologically, soil moisture content is a result of  the balance of water inputs, largely
+precipitation, and losses, including evapotranspiration (the combined loss of water through plant transpiration and
+soil evaporation), runoff, and drainage into groundwater.  For most (unirrigated) soils in Michigan, this balance is
+dominated by precipitation and evapotranspiration. On an annual basis, soil water content tends to reach a maximum
+level during the early spring (prior to warm temperatures and vegetative growth), gradually decreasing during the
+summer to a minimum level in the fall, followed by the over winter recharge period in which losses to
+evapotranspiration are low due to low temperatures and minimal vegetative growth. </FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">Among the variables monitored at stations in the Michigan Automated Weather Network (MAWN) is volumetric
+soil moisture, which is expressed as the ratio of water to soil in the same volume.  This is a soil-specific
+characteristic dependent of the textural make-up of the soil and the size and shapes of its pore spaces. It thus can
+vary widely from site to site, but typically ranges from about 0.10 to 0.35 in.<SUB>water</SUB><SUP>3</SUP>/in.<SUB>soil</SUB><SUP>3</SUP> (or just in<SUP>3</SUP>/in<SUP>3</SUP> for short). 
+Volumetric soil moisture is estimated at MAWN stations by a 12-inch forked probe which measures the dielectric
+constant of the volume of soil surrounding the probe which in turn is strongly dependent on the amount of water
+content.  The probes were installed vertically into grass-covered soil next to the station, thus estimating average soil
+moisture content in the top 12 inches of the profile (Note that beginning in late 2001, probes will be redeployed at
+each MAWN station to monitor soil moisture at two different depths, 4 inches and 10 inches).</FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">Mean daily soil moisture contents in the top 12 inches of the soil profile and daily precipitation totals at the Albion
+MAWN station from the 1<SUP>st</SUP> of April through the 16<SUP>th</SUP> of July are displayed in Figure 1.  The moisture content during
+this period briefly exceeded 0.30 in<SUP>3</SUP>/in<SUP>3</SUP> following 4.0+ inches of rainfall over a 3-day period from the 14th-16th of
+May and fell to only 0.15 in<SUP>3</SUP>/in<SUP>3</SUP> by the 16<SUP>th</SUP> of July.  The rapid rises and slower, logarithmic decreases of soil
+moisture are strongly associated with the frequency and magnitude of daily precipitation. A rule of thumb that can
+be used when considering moisture in a soil profile down to rooting depth is that the total amount of plant available
+water in the profile decreases by 10% of the amount left on the previous day (given no added rainfall or irrigation). 
+Thus, there is a gradual reduction of the daily total water loss over time.  This decreasing reduction produces a
+pattern similar to that observed in Figure 1.  There are two major decreases in the study period: between late April
+and early May (a drop from 0.30 in<SUP>3</SUP>/in<SUP>3</SUP> to 0.17 in<SUP>3</SUP>/in<SUP>3</SUP>), and between mid June and the end of the series (July 16<SUP>th</SUP>),
+when the soil moisture drops from almost 0.28 in<SUP>3</SUP>/in<SUP>3</SUP> to about 0.15 in<SUP>3</SUP>/in<SUP>3</SUP>. </FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">Like many atmospheric variables and processes, there are more than one temporal cycle present over long periods of
+time.  Volumetric soil moisture content is no exception.  Besides an annual cycle associated with the changing
+seasons, a distinct diurnal cycle is also frequently present, as can be seen in the three-day series of hourly average
+volumetric moisture content values at the same site (Albion) for the 26th-28th of June, 2001 (Figure 2).  During
+each of these three days, the water content steadily drops during the daylight hours followed by a partial recovery
+during evening hours.  The daytime losses are due to evapotranspiration while the recovery is associated with
+capillary movement of water upwards from lower layers and with the presence of dew on the ground surface (the
+sensor monitors all water within an elliptical-shaped radius pattern around the probe forks). Weather conditions on
+these three days were very similar in terms of air and soil temperature, relative humidity, and wind speed.  In humid
+climates such as those usually experienced in Michigan, the rate of evapotranspiration is strongly dependent on the
+levels of incident solar radiation (wind speed and relative humidity play relatively larger roles in more arid
+climates).  From data at the Albion MAWN station daily solar radiation totals of 518, 567, and 640 langleys/day
+were recorded for the 26th-28th, which are positively correlated with the approximate daytime water losses from
+this layer of 0.15, 0.20, and 0.25 in<SUP>3</SUP>/in<SUP>3</SUP> respectively. </FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1"><EM>So what does all this mean in terms of water management?</EM>  </FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">In order to make some sense of these values of volumetric soil moisture, we must also consider the physical
+characteristics of the soil as well as plant canopy characteristics (which determine the rate of evapotranspiration
+losses). The canopy above the soil profile was kept mowed to an approximately 4-inch height.  For the sake of
+simplicity, we shall conveniently assume that the roots of this grass are all located within the top 12 inches layer
+being monitored (likely not too far from reality).  A soil survey of Calhoun County identifies the soil series in the
+vicinity of the station as Kalamazoo Loam, which has relatively similar fractions of sand, clay, and silt
+(USDA/NRCS, 1997).  Plant-available water in the top 12 inches of the profile was measured in a number of
+representative Kalamazoo soil profiles by NRCS, resulting in a mean field capacity (roughly the maximum amount
+of water the soil can hold at equilibrium with gravity) of approximately 0.28 in<SUP>3</SUP>/in<SUP>3</SUP> and a wilting point (the moisture
+level at which permanent plant wilt occurs) of 0.08 in<SUP>3</SUP>/in<SUP>3</SUP>, which is a typical representative range of soil moisture
+contents for this soil series and not too dissimilar from the range of values taken from the sensor at Albion (Figure
+1).</FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">For the first of the two figures, the total water in the top 12 inches at the maximum moisture content of 0.30 in<SUP>3</SUP>/in<SUP>3</SUP>
+on April 19<SUP>th</SUP> totals 3.6 inches (12 in.<SUB>soil</SUB> * 0.30 in.<SUB>water</SUB><SUP>3</SUP>/in.<SUB>soil</SUB>).  Note that this value is above the level of field capacity
+from the NRCS lab data and, given the magnitude, probably is close to the soil's saturation point in which all of the
+pores in the soil are filled with water. By the 11<SUP>th</SUP> of May, the average daily value fell to 0.18 in<SUP>3</SUP>/in<SUP>3</SUP> for a total
+decrease of 2.16 inches.  Thus, the loss of water in the 12 inch layer over this relatively dry 21-day period is 3.6
+inches - 2.16 inches = 1.44 inches, or an average of 0.07 inches per day.  For the reasons mentioned above, this
+value is only an average and not representative of many of the days earlier in the drying period, when daily rates
+were greater.  This is evident in Figure 2, where soil moisture levels were closer to the upper end of the range and
+daily decreases of 0.015, 0.020, and 0.025 in<SUP>3</SUP>/in<SUP>3</SUP> were partially offset by additions of 0.005 in<SUP>3</SUP>/in<SUP>3</SUP> for net 12-inch
+layer decreases of 0.12, 0.18, and 0.24 inches, respectively.  Given no addition of any other water during this 3-day
+period (no runoff) and assuming minimal drainage losses , these values can then be thought of as good estimates of
+actual evapotranspiration from the canopy when it was relatively well-watered. At the end of the daily series in
+Figure 1, moisture levels off near 0.15  in<SUP>3</SUP>/in<SUP>3</SUP> (just above the wilting point given by the NRCS lab data), likely
+because available water for the grass canopy has become very limited and the plants have partially shut down or
+become semi-dormant, in turn reducing the amount of water lost to the atmosphere in evapotranspiration.</FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">In summary, the volumetric soil moisture probes offer some ability to monitor soil moisture content with more
+precision and at a lower cost than previous types of sensors. As with any technology, however, there are some
+potential drawbacks. First, the probes only take the top 12 inches of the soil profile into account.  Many field crops
+grown in Michigan have deep rooting systems (e.g alfalfa, corn) potentially reaching down to a 6 foot depth or
+greater. In addition, soil moisture can vary widely over space, even within the same field.  This is especially true in
+Michigan, where soil types vary from beach sand to heavy clay to organic muck.  Thus, the numbers from the
+MAWN stations should serve as a general guide for topsoil layers only, with careful consideration of soil type. 
+Additional probes may be installed at greater depths at MAWN stations in the future given sufficient resources.</FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">Figure 1.  Daily mean volumetric soil moisture (in<SUP>3</SUP>/in<SUP>3</SUP>) in the top 12 inches of the soil profile (under a 4-inch
+canopy) and precipitation (inches) from the MAWN automated weather station in Albion, MI, 1 April 2001 through
+16 July, 2001.</FONT></P>
+<P><FONT SIZE="-1"><center><img src="./fig06-01.jpg" width="600" height="463" ></center></FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">Figure 2.  Hourly mean volumetric soil moisture (in<SUP>3</SUP>/in<SUP>3</SUP>) in the top 12 inches of the soil profile (under a 4-inch grass
+canopy) from the MAWN automated weather station in Albion, MI, from 06:00, 26 June through 18:00, 28 June,
+2001.</FONT></P>
+<P><FONT SIZE="-1"><center><img src="./fig06-02.jpg" width="600" height="463" ></center></FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+
+
+</td></tr></table>
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

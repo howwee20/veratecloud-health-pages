@@ -1,0 +1,223 @@
+============================================================================== 
+Station Notes - Kewadin 
+ 
+ 
+03/19/2021: Logger / Station Maintenance: 
+ 
+            - repaired power issues: 
+                - solar panel cable (mice damage) 
+                - cleaned battery box / replaced battery 
+ 
+ 
+ 
+============================================================================== 
+06/30/2020: Logger / Station Maintenance:                               [1140] 
+              
+            - annual routine mainteance  
+            - power system upgrade  
+            - new leaf wetness mount (standard mount) 
+ 
+ 
+ 
+============================================================================== 
+07/19/2019: Logger / Station Maintenance:                               [1050] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: kwd-bbbb 
+ 
+ 
+ 
+============================================================================== 
+12/27/2018: Station Maintenance:                                        [0003] 
+ 
+            - loaded logger program "kwd-bbbb" 
+ 
+ 
+06/06/2018: Station Maintenance:                                        [1700] 
+ 
+            - annual maintenance, including: 
+               - rewire atmp/relh (HC2S3) to "continuous" power 
+ 
+ 
+ 
+============================================================================== 
+08/09/2017: Station Maintenance:                                        [1240] 
+ 
+            - removed obstruction from tipping-bucket rain gauge  
+ 
+ 
+ 
+============================================================================== 
+07/20/2015: Station Modernization:                                      [1700] 
+ 
+            - Station upgraded with new logger and serveral new sensors. 
+ 
+            - loaded logger program "kwd-bbbb" 
+ 
+            - Due to upgrade, station was offline for the following: 
+  
+                 07/20/2015 (d=201) 1705 - 07/20/2015 (d=201) 1900 
+ 
+            - the "live" data updates were able to resume at: 
+ 
+                 07/21/2015 (d=202) 1330 
+ 
+ 
+03/06/2015: Station Maintenance:                                        [0007] 
+ 
+            - loaded logger program "mawn_aacf" (hourly collection cycle) 
+ 
+ 
+01/13/2015: Station Maintenance:                                        [1250] 
+            
+            - replaced logger battery 
+ 
+ 
+01/05/2015: System Maintenance:                                         [1104] 
+ 
+            - loaded logger program "mawn_aacw" 
+ 
+ 
+ 
+============================================================================== 
+10/27/2014: System Maintenance:                                         [1607] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "mawn_aacf" 
+ 
+ 
+08/26/2014: Station Maintenance:                                        [0930] 
+ 
+            - routine maintenance  
+ 
+ 
+ 
+============================================================================== 
+12/03/2013: Station Maintenance:                                        [1800] 
+ 
+            - Cleared precipitation bucket obstruction 
+ 
+ 
+ 
+============================================================================== 
+05/23/2012: Station Maintenance:                                        [1730] 
+ 
+            - Replaced Modem 
+ 
+ 
+ 
+============================================================================== 
+03/01/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - AACF (hourly power cycle)           [0009] 
+ 
+ 
+ 
+============================================================================== 
+11/23/2008: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCW (3-hour power cycle)           [0002] 
+ 
+ 
+03/05/2008: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_AACF  (hourly power cycle)     [0005] 
+ 
+ 
+ 
+=============================================================================== 
+11/12/2007: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_AACW   (3-hr power cycle) 
+ 
+ 
+10/04/2007: Station Maintenance (sm): 
+ 
+            - Recent telecommunication problems (faulty cell-modem) 
+              have been corrected.  Cell modem was replaced last 
+              night (d=276) and data-collection resumed this 
+              afternoon (d=277). 
+ 
+ 
+05/22/2007: Station Maintenance (sm): 
+ 
+            - Communication converted to broadband cell-modem: 
+              - Broadband cell-ip modem installed 
+              - Datalogger progam "mawn_aacs" loaded and compiled. 
+              - Battery voltage now reported every hour. 
+              - Data collection configured to upload every 30 minutes. 
+ 
+            - General station maintenance and system checks. 
+              - Work was done approx: 13:00 - 13:30 (Day=142) 
+ 
+ 
+ 
+=========================================================================== 
+06/01/2005: Station Maintenance (sm): 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+              - cleaned Air Temp/Relative Humidty sensor 
+              - check Anemometer/Wind Vane 
+              - cleaned Precipitation bucket 
+ 
+ 
+ 
+=========================================================================== 
+05/22/2004: Station Maintenance (jal): 
+ 
+            - The Temperature/Relative Humidity Sensor (HMP45C) 
+              failed on May 14, 2004 and was replaced at 14:35 
+              today (Day 143). 
+ 
+ 
+04/27/2004: Station Maintenance (crn): 
+ 
+            - The anemometer and tipping bucket rain gauge 
+              were damaged due to strong winds on 02/20/2004. 
+              Today, the anemometer and the funnel to the  
+              rain gauge were replaced.   
+ 
+            - Wind Speed and Precipitation data were not  
+              accurate prior to today and the were marked  
+              as missing for the following time period: 
+ 
+                02/20/04 [11:25] - 04/27/04 [13:50] 
+ 
+  
+04/06/2004: Data Logger Maintenance (jtb): 
+ 
+            - Datalogger error (E08) codes were reading 99.   
+              Counters were reset back to 00.  This action  
+              will hopefully resolve and/or prevent brief  
+              data outages observed on some data loggers  
+              when the error count reaches 99.  
+ 
+ 
+ 
+====================================================== 
+05/02/2003: New Station Installed: 
+ 
+               Notes: 
+ 
+                  - leaf wetness B (canopy):   
+                       installed in orchard to the south of the station  
+                       installed in first row of trees, facing north. 
+                       distance from station: approx. 150-ft. 
+ 
+               Station Needs: 
+                  - phone line splice needs to be cleaned-up and buried. 
+                  - putty for enclosure 
+                  - GPS cooridinates 
+ 
+ 
+05/03/2003: Data Collection and Data Archive for new station begins 
+ 
+               First report:  May 3, 2003 - 00:05   (Day=123) 
+ 
+ 
+ 
+ 
+============================================================================== 
+

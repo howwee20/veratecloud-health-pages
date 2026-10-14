@@ -1,0 +1,333 @@
+============================================================================== 
+Station Notes - Ithaca (Pioneer Research Station) 
+ 
+ 
+10/26/2021: Logger / Station Maintnenace:                               [1010] 
+ 
+            - loaded logger program: ith-bbad.cr1* (237 -> LWS-L)** 
+                  * supports "maintenance mode" 
+                 ** sensor replaced: 09/01/2020 (no canopy) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+07/28/2021: Station Maintenance:                                        [1035] 
+ 
+            - routine site maintenance 
+            - replaced atmp/relh (HMP45C) sensor 
+            - cleared debris from tipping-bucket rain gauge  
+ 
+ 
+06/02/2021: Logger / Station Maintenance;                               [1250] 
+ 
+            - routine site maintenance 
+            - upgraded modem 
+ 
+ 
+06/11/2020: Logger / Station Maintenance:                               [1335] 
+ 
+            - routine site maintenance 
+ 
+ 
+ 
+============================================================================== 
+06/11/2019: Logger Maintenance:                                         [1450] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: ith-bbaa 
+ 
+ 
+ 
+============================================================================== 
+10/05/2018: Station Maintenance:                                        [1400] 
+ 
+            - replaced logger battery 
+ 
+ 
+08/16/2018: Station Maintenance:                                        [1455] 
+ 
+            - routine maintenance  
+ 
+ 
+07/02/2018: Station Maintenance:                                        [1745] 
+ 
+            - annual maintenance 
+ 
+ 
+ 
+============================================================================== 
+10/03/2017: Station Maintenance:                                        [0003] 
+ 
+            - loaded logger program "ith-bbaa" 
+ 
+ 
+08/11/2017: Station Maintenance:                                        [1100] 
+ 
+            - annual maintenance  
+ 
+ 
+05/17/2017: Station Maintenance:                                        [1010] 
+ 
+            - annual maintenance, including: 
+               - rewire of atmp/relh (HMP45C) to "continuous" power 
+ 
+ 
+ 
+============================================================================== 
+09/15/2015: Station Maintnenace:                                        [1205] 
+ 
+            - replaced solid-state relay (correct communication issues) 
+ 
+ 
+06/24/2015: Station Maintenance:                                        [1445] 
+ 
+            - routine station maintenance, including:  
+              - clean lead wetness sensors 
+ 
+ 
+ 
+============================================================================== 
+08/22/2014:  Station Maintenance:                                       [1500] 
+ 
+             - replaced logger (CR10 -> CR1000) 
+             - moved collection configuration to new LoggerNet server 
+             - loaded logger program "bbaa-ith" 
+ 
+ 
+05/23/2014:  Station Maintenance:                                       [1455] 
+ 
+             - routine annual maintenance 
+ 
+ 
+ 
+============================================================================== 
+07/18/2013:  Station Maintenance:                                       [1200] 
+ 
+             - Repaired tipping-bucket rain gauge 
+ 
+ 
+05/30/2013:  Station Maintenance:                                       [1040] 
+              
+             - General station maintenance and system checks, including: 
+                - Replacement of Leaf Wetness Sensor (Standard Mount) 
+ 
+ 
+ 
+============================================================================== 
+06/14/2012:  Station Maintenance:                                       [1030] 
+ 
+             - Replaced Modem 
+ 
+ 
+ 
+============================================================================== 
+05/24/2011:  Station Maintenance:                                       [1100] 
+ 
+             - Routine Spring Maintenance, including: 
+                - Weed-Control (removal and herbicide application) 
+                - Ground Wire was cleaned. 
+ 
+ 
+ 
+============================================================================== 
+11/06/2009:  Station Maintenance:                                       [1000] 
+ 
+             - Datalogger battery was replaced.   Exisiting battery  
+               was weak and unable to hold a strong change during  
+               the overnight hours which lead to some loss of data. 
+ 
+ 
+06/04/2009:  Station Maintenance:                                       [1055] 
+ 
+             - General station maintenance and system checks, including: 
+                   - Tipping-bucket rain gauge test (faulty pcpn data 
+                     that was introduced was removed on 06/08/09) 
+ 
+ 
+02/18/2009:  Station Maintenance: 
+ 
+             - Loaded MAWN Program - ABCF (hourly power cycle)          [0003] 
+ 
+ 
+ 
+============================================================================== 
+11/14/2008:  Station Maintenance:                                      [11:15] 
+ 
+             - Replaced Data Logger 
+ 
+             - Loaded MAWN Program ABCW (3-hour power cycle) 
+ 
+ 
+10/29/2008:  Data Removal: 
+  
+             - Some clock issues on the datalogger lead to several 
+               entries that were marked with faulty timestamps. 
+               The data entries during the following time period 
+               needed to be removed (including incomplete hourly 
+               and daily records associated with the last time in 
+               the period: 
+ 
+                 10/25/08 (d=298) 03:10  -  10/28/08 (d=302) 09:05 
+ 
+ 
+05/29/2008:  Station Maintenance: 
+ 
+             - General station maintenance and system checks, including: 
+                   - Soil Moisture sensors now installed vertically: 
+                         - MSTR 0:  profile of depth =  0 - 12" 
+                         - MSTR 1:  profile of depth = 12 - 24" 
+ 
+             - Work was done approx: 0900 - 0940 (Day=150) 
+ 
+ 
+04/25/2008:  Data Clean-up (jb): 
+ 
+             - Marked Temp/RH as "missing" during the following 
+               time period: 
+ 
+                   02/05/08 (d=036) 00:05 - 04/25/08 (d=116) 10:40 
+ 
+ 
+04/25/2008:  Station Maintnenace (sm): 
+ 
+             - Replaced HMP45C (Temp/RH).                              [10:45] 
+ 
+ 
+03/11/2008:  Station Maintenance (jb): 
+ 
+             - Loaded MAWN Program:  MAWN_ABCF  (hourly power cycle)   [00:05] 
+ 
+ 
+ 
+============================================================================== 
+11/15/2007:  Station Maintenance (sm): 
+ 
+             - Loaded New MAWN Program. 
+ 
+                   - Battery was running low and program eventually dumped 
+                     from memory.  Was able to connect at 17:20 today and 
+                     reset the logger clock and loaded MAWN Program "ABCW" 
+                     which sets the logger on a 3-hr power cycle. 
+ 
+ 
+06/07/2007:  Station Maintenance (sm, bn): 
+ 
+             - Sensor Replacement: 
+                   - Replaced old CS615 Soil Moisture sensors with new CS616  
+                     sensors (both Mstr0 and Mstr1). 
+ 
+             - Datalogger Program Modification: 
+                   - Replaced Modem (Verizon with Alltel) 
+                   - Datalogger progam "mawn_abcs" loaded and compiled. 
+                   - Data collection configured to upload every 30 minutes. 
+ 
+             - General station maintenance and system checks. 
+                   - Work was done approx: 14:10 - 14:35 (Day=158) 
+ 
+ 
+ 
+============================================================================== 
+10/14/2006:  Station Maintenance (jb): 
+ 
+                - Loaded MAWN Program:   MAWN_AACF (00:05) 
+ 
+ 
+09/14/2006:  Station Maintenance: (sm): 
+ 
+             - Installed direction antenna for the cell-modem.  Hopefully, 
+               this will correct some of the communication troubles that 
+               we have experienced with this station since it was converted 
+               to Cell-IP.  Will have to continue to monitor. 
+ 
+ 
+09/06/2006:  Station Maintenance: (jb): 
+ 
+             - Loaded MAWN Program:   AACS (hourly voltage) 
+ 
+ 
+07/06/2006:  Station Maintenance: (sm): 
+ 
+             - Communication converted to broadband cell-modem: 
+                  - Broadband Cell modem installed. 
+                  - Datalogger Program "mawn_bacs" Loaded and Compiled 
+                  - Data Collection Configured To Upload Every 30 minutes. 
+ 
+ 
+03/09/2006:  Station Maintenance (sm): 
+ 
+             - System Down - no power.  Abnormal battery drain due to a 
+               faulty Temp/RH (HMP45C) sensor. 
+ 
+             - New Temp/RH Sensor Installed 
+ 
+             - Repaired Telecommunications From Data-Collection PC to 
+               Datalogger (broken wire on short haul modem repaired) 
+ 
+             - Data-Collection Resumed.   Data Lost For the Following 
+               Time Period: 
+ 
+                  Feb 21 2006, 10:20AM  -  Mar 09 2006, 11:00AM 
+                     
+ 
+03/06/2006:  Station Maintenance: 
+ 
+             - Datalogger Battery Replaced. 
+ 
+ 
+ 
+============================================================================== 
+08/02/2004:  Station Maintenance (crm, jal): 
+ 
+             - Regular station maintenance and instrucment check.   No  
+               new instruments installed. 
+ 
+             - Round-Up applied over soil temps (SW Quadrant) 
+ 
+ 
+ 
+============================================================================== 
+08/01/2003:  Station Repair (jtb): 
+ 
+             - Incomplete data collection over the past few days led to 
+               replacement of both the data logger and the power supply. 
+               Both were replaced at 9:30am. 
+ 
+             - Replaced the following: 
+                  Data Logger (CR10X):     Serial #: X 35552 
+                  Power Supply:            Serial #: 25325 
+ 
+             - Data between the following dates is incomplete and Daily 
+               values may be inaccurate due to gaps in data: 
+ 
+                  Tues, Jul 29 (Day=210)  thru  Fri, Aug 01 (Day=213) 
+ 
+ 
+05/29/2003:  Data Correction (jtb): 
+ 
+             - Faulty Temp/RH data was reported.  Data values for Temp/RH  
+               that were reported during the following times were marked  
+               as "missing": 
+ 
+                  March 16, 2003 (Day=75):   10:55 - 24:00 
+                  March 17, 2003 (Day=76):   00:05 - 24:00 
+                  March 18, 2003 (Day=77):   00:05 - 22:10 
+ 
+                  April 08, 2003 (Day=98):   16:15 - 16:45 
+ 
+ 
+ 
+============================================================================== 
+10/23/2002:  Telecommunications Connected (short-haul modem). 
+ 
+             Turned on access to data via MAWN website. 
+ 
+             Station Needs: 
+                - Modem needs grounding at the tripod 
+                - Leaf Wetness mounting block. 
+                - 2nd Leaf Wetness sensor. 
+ 
+ 
+ 
+============================================================================== 
+

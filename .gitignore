@@ -1,0 +1,8 @@
+_site/
+.github/weather-source/node_modules/
+.github/weather-source/.venv/
+.github/weather-source/.astro/
+.github/weather-source/dist/
+.github/weather-source/reports/
+**/__pycache__/
+**/.pytest_cache/

@@ -1,0 +1,144 @@
+=============================================================================== 
+Station Notes - Benona / Shelby (MI) 
+ 
+ 
+06/15/2022: Station Maintenance:                                        [1425] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked enclosure 
+               - checked pyranometer (good)  
+               - checked soil sensor cables (good) 
+               - checked wind vane (properly aligned) 
+               - checked / cleaned hmp155 sensor and radiation shield (good) 
+               - checked / cleaned solar panel 
+               - checked / cleaned tipping-bucket rain gauge 
+               - checked / tested battery (good) 
+               - checked / tested leaf wetneee [canopy] (good) 
+               - checked / tested leaf wetness [standard] (good) 
+               - cleaned battery box 
+               - weed removal 
+ 
+ 
+ 
+=============================================================================== 
+07/22/2021: Station Maintenance:                                         [1300] 
+ 
+            - routine site maintenance 
+ 
+ 
+ 
+=============================================================================== 
+05/18/2021: Station Maintenance:                                         [1400] 
+ 
+            - routine site maintenance, including: 
+               - updated modem 
+ 
+ 
+ 
+=============================================================================== 
+08/03/2020: Station Maintenance:                                         [1530] 
+ 
+            - replaced battery/charge controller cable  
+ 
+ 
+07/31/2020: Station Maintenance:                                         [1620] 
+ 
+            - routine site maintenance, including: 
+               - installed new battery 
+               - installed charge controller 
+               - moved solar panel (to south tripod leg) 
+               - replaced wind sentry  
+ 
+  
+06/03/2020: Station Maintenance:                                         [1130] 
+ 
+            - routine site maintenance, including: 
+               - replaced hmp155 sensor (atmp/relh) 
+ 
+ 
+01/20/2020: Station Maintenance:                                         [1500] 
+ 
+            - replaced faulty modem 
+            - added directional antenna to help improve cell reception 
+ 
+ 
+ 
+=============================================================================== 
+06/04/2019: Logger Maintenance:                                          [1445] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: bna-bbcb 
+ 
+ 
+ 
+=============================================================================== 
+08/14/2018: Station Maintenance:                                         [1350] 
+ 
+            - routine station / site maintenance 
+ 
+ 
+06/25/2018: Station Maintenance:                                         [1730] 
+ 
+            - annual station / site maintenance  
+ 
+ 
+ 
+=============================================================================== 
+08/31/2017: Station Maintenance:                                         [0001] 
+ 
+            - loaded logger program "bna-bbcb" 
+ 
+ 
+08/16/2017: Station Maintenance:                                         [1330] 
+ 
+            - replaced faulty cell modem 
+ 
+ 
+07/17/2017: Station Maintenance:                                         [1800] 
+ 
+            - annual maintenance, including: 
+               - rewire of atmp/relh (HMP155A) to "continuous" power 
+ 
+ 
+ 
+=============================================================================== 
+06/20/2016: Station Online:                                              [xxxx] 
+ 
+            - Station added to Enviroweather/MAWN Web Site 
+ 
+ 
+06/17/2016: Data Collection Enabled                                      [0955] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   June 17, 2016 (Day=169) 00:05 
+ 
+ 
+06/16/2016: Station Installed:                                           [----] 
+ 
+            - Station installed at station field site 
+ 
+ 
+06/06/2016: Station Maintenance:                                         [1215] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+06/06/2016: Station Setup                                                [1215] 
+ 
+            - Loaded MAWN Program:   BNA-BBCB 
+                                      BNA => Station ID (Benona/Shelby) 
+                                        B => CR1000/MI (Logger/State) 
+                                        B => CS616 (Soil Moisture) 
+                                        C => HMP155A (Temp/RH) 
+                                        B => LWS-L (Leaf Wetness) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+=============================================================================== 
+

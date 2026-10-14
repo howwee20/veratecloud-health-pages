@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Microsoft FrontPage 5.0">
+   <TITLE>MSU Climatology Program</TITLE>
+</HEAD>
+<body>
+
+<h1>Northwest Lower Division -- Click on a station symbol for tables</h1>
+
+<HR width="100%">
+
+<CENTER>
+   <img src="nw-lower.gif" usemap="#NW-LOWER" hspace=5 vspace=5 border=0 height=470 width=396>
+      <map name="NW-LOWER">
+         <area shape="circle" coords="133,258,5" href="stations/5097" alt="">
+         <area shape="circle" coords="176,278,5" href="stations/8251" alt="">
+         <area shape="circle" coords="271,189,5" href="stations/0925" alt="">
+         <area shape="circle" coords="204,381,5" href="stations/1176" alt="">
+         <area shape="circle" coords="214,165,5" href="stations/1468" alt="">
+         <area shape="circle" coords="250,92,5"  href="stations/1896" alt="">
+         <area shape="circle" coords="235,192,5" href="stations/2381" alt="">
+         <area shape="circle" coords="312,355,5" href="stations/3932" alt="">
+         <area shape="circle" coords="237,279,5" href="stations/4257" alt="">
+         <area shape="circle" coords="233,366,5" href="stations/4502" alt="">
+         <area shape="circle" coords="71,386,5"  href="stations/5065" alt="">
+         <area shape="circle" coords="290,103,5" href="stations/6438" alt="">
+         <area shape="circle" coords="260,149,5" href="stations/6507" alt="Petosky">
+         <area shape="circle" coords="123,327,5" href="stations/8167" alt="">
+         <area shape="circle" coords="125,380,5" href="stations/8772" alt="">
+         <area shape="circle" coords="196,313,5" href="stations/2784" alt="">
+         <area shape="circle" coords="303,217,5" href="stations/3096" alt="">
+         <area shape="circle" coords="293,298,5" href="stations/3391" alt="">
+         <area shape="circle" coords="297,323,5" href="stations/3785" alt="">
+         <area shape="circle" coords="342,430,5" href="stations/3170" alt="">
+         <area shape="circle" coords="301,422,5" href="stations/3616" alt="">
+         <area shape="circle" coords="231,450,5" href="stations/2671" alt="">
+         <area shape="circle" coords="141,451,5" href="stations/0446" alt="">
+         <area shape="circle" coords="78,439,5"  href="stations/7405" alt="">
+         <area shape="circle" coords="56,456,5"  href="stations/4954" alt="">
+         <area shape="circle" coords="334,187,5" href="stations/8417" alt="">
+         <area shape="circle" coords="330,83,5"  href="stations/1492" alt="">
+         <area shape="circle" coords="74,24,5"   href="stations/5073" alt="">
+         <area shape="circle" coords="20,84,5"   href="stations/2737" alt="">
+         <area shape="circle" coords="374,125,5" href="stations/6184" alt="">
+         <area shape="circle" coords="383,196,5" href="stations/0343" alt="">
+         <area shape="circle" coords="379,371,5" href="stations/8800" alt="West Branch">
+         <area shape="circle" coords="296,59,5"  href="stations/5000" alt="">
+         <area shape="circle" coords="383,286,5" href="stations/5531" alt="">
+         <area shape="circle" coords="128,24,5"  href="stations/6686" alt="">
+         <area shape="circle" coords="182,75,5"  href="stations/7277" alt="">
+      </map>
+   </img>
+</center>
+
+<p>Additional Stations:</p>
+<p><font size="4"><a href="stations/2984/">2984 Frankfort 2 NE</a></font></p>
+<p><font size="4"><a href="stations/6158/">6158 Old Mission 3 SSW</a></font></p>
+
+</BODY>
+</HTML>

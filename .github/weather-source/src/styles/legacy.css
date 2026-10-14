@@ -59,3 +59,15 @@
 /* Inline prose links qualify for the inline-target exception; preserve original wrapping. */
 .ag-support a{display:inline;min-height:0;line-height:inherit}
 .preview-label a{color:inherit;display:inline-block;min-height:24px;margin-left:12px}
+
+/* Reports retain the original fixed-width typography and wrap at narrow widths. */
+.report-text{font:13px/1.35 monospace;white-space:pre-wrap;overflow-wrap:anywhere;max-width:100%}
+.local-product{padding:12px;min-width:0}.local-product img{max-width:100%;height:auto}.local-product table{max-width:100%;width:100%;overflow-wrap:anywhere}.local-product a{min-height:24px;display:inline-block;line-height:24px;overflow-wrap:anywhere}.local-product h1{font-size:22px}.station-info dl{min-width:0}.station-info dd{overflow-wrap:anywhere}
+
+/* Wrap long legacy log entries and size date controls for keyboard and touch access. */
+.maintenance-entry{overflow-wrap:anywhere}.maintenance-entry p{white-space:pre-wrap;overflow-wrap:anywhere}
+#local-report-form input,#local-report-form select,#local-report-form button{min-height:32px;max-width:100%}
+.local-product .table-wrap table:not([role="presentation"]){width:max-content;min-width:100%;max-width:none}
+.local-product .table-wrap table:not([role="presentation"]) th,.local-product .table-wrap table:not([role="presentation"]) td{padding:3px 5px}
+.local-product .table-wrap a{min-width:24px;white-space:nowrap}
+.local-product{overflow-wrap:anywhere}

@@ -6,7 +6,7 @@
     "url": "https://mawn.geo.msu.edu/report.asp?fileid=bnzm",
     "file": "input/mawn/report-bnzm.html",
     "sha256": "67cf8e5a61a90b1868114a748f6858972a1ce0664bcd1a9c030d608826857919",
-    "retrievedAtUtc": "2026-10-13T15:34:08.036603+00:00"
+    "retrievedAtUtc": "2026-10-14T00:43:06.824526+00:00"
   },
   "parsing": {
     "method": "Fixed-width text block extracted from the captured HTML (td.courier2); rows split on whitespace after the header lines were matched exactly against the expected layout.",
@@ -622,6 +622,7 @@
       "body": []
     }
   ],
+  "preface": [],
   "entryCount": 52,
   "entriesWithPartialDate": 2,
   "firstIsoDate": "2001-09-06",

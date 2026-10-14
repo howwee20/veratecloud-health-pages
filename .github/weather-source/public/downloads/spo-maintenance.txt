@@ -1,0 +1,793 @@
+=============================================================================== 
+Station Notes - Sparta: 
+ 
+ 
+10/23/2022: Logger Maintenance:                                          [1255] 
+ 
+            - replaced modem  
+ 
+ 
+09/23/2022: Station Maintenance:                                         [0930] 
+ 
+            - station maintenance, including: 
+                - checked anemometer (bearings sound good) 
+                - checked battery box 
+                - checked pyranometer (good / level) 
+                - checked soil sensor cables (good) 
+                - checked wind vane (properly aligned) 
+                - checked / cleaned solar panel 
+                - checked / tested leaf wetness (standard)* 
+                - replaced tipping-bucket rain gauge 
+ 
+                * site does not include a canopy leaf wetness sensor 
+ 
+                
+09/15/2022: Logger / Station Maintnenace:                                [1137] 
+ 
+            - loaded logger program: spo-bbcd.cr1* (237 -> LWS-L)** 
+                  * supports "maintenance mode" 
+                 ** sensor removed: 08/03/2017 (no canopy leaf wetness) 
+ 
+            - cleaned-up previously collected data 
+ 
+            - for future reference, here is some information concerning 
+              the canopy leaf wetness sensor: 
+ 
+                 05/16/2003 1920 - 05/12/2015 1800:  
+                    - sensor: 237 (leaf1) 
+                    - canopy: euonymus alatus  
+                    - height: 1.5-ft 
+ 
+                 05/12/2015 1805 - 06/03/2015 1400: 
+                    - sensor: 237 (leaf1) 
+                    - canopy: apple tree (150-ft from station) 
+                    - height: unknown 
+ 
+                 06/03/2015 1405 - 08/03/2017 0920:* 
+                    - sensor: LWS-L (lws1) 
+                    - canopy: apple tree (150-ft from station) 
+                    - height: unknown 
+ 
+                 * no canopy sensor since: 08/03/2017 0925 
+ 
+ 
+07/27/2022: Station Maintenance:                                         [1130] 
+ 
+           - routine site maintenance, including: 
+               - checked anemomter (bearings good) 
+               - checked pyranometer (good / level) 
+               - checked soil sensor cables (good) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane (properly aligned) 
+               - checked / cleaned solar panel  
+               - checked / tested battery 
+               - checked / tested leaf wetness (standard)* 
+               - cleaned grounding rod 
+               - cleaned hmp155a (atmp/relh) sensor and radiation shield 
+               - weed removal not needed (host maintained site) 
+ 
+               * site does not include a canopy leaf wetness sensor 
+ 
+ 
+05/11/2022: Station / Logger Maintenence                                [0930] 
+ 
+            - routine site maintenance, including: 
+               - adjusted (leveled) pyranometer 
+               - cleaned solar panels (2 x 10W) 
+               - check tipping-bucket rain gauge  
+               - cleaned HMP155 (atmp/relh) 
+               - cleaned / tested leaf wetness (standard mount)* 
+               - weed removal / trimmed grass 
+ 
+               * site no longer makes use of canopy leaf wetness 
+ 
+ 
+ 
+=============================================================================== 
+07/26/2021: Station Maintenance:                                         [1115] 
+ 
+            - routine site maintenance  
+ 
+ 
+06/03/2021: Station / Logger Maintenance:                                [1105] 
+ 
+            - routine site maintenance  
+            - modem upgrade 
+ 
+ 
+03/04/2021: Station Maintenance:                                         [1620] 
+ 
+            - repaired tipping bucket rain gauge (obstruction) 
+ 
+ 
+ 
+=============================================================================== 
+05/29/2020: Station Maintenance:                                         [1230] 
+ 
+            - routine station maintenance 
+            - installed new leaf wetness mount 
+ 
+ 
+04/03/2020: Station Maintenance:                                         [1605] 
+ 
+            - cleaned precipitation bucket 
+ 
+ 
+ 
+=============================================================================== 
+06/06/2019: Logger Maintenance:                                          [1110] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: spo-bbcb 
+ 
+ 
+ 
+============================================================================== 
+08/02/2018: Station Maintenance:                                        [1215] 
+ 
+            - general maintenance / weed removal 
+ 
+ 
+07/02/2018: Station Maintenance:                                         [1200] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+============================================================================== 
+08/03/2017: Station Maintenance:                                        [1000] 
+ 
+            - annual maintenance  
+            - disconnected leaf wetness [canopy] sensor* 
+ 
+ 
+05/31/2017: Station Maintenance:                                        [1700] 
+ 
+            - annual maintenance 
+ 
+ 
+02/10/2017: Station Maintenance:                                        [0004] 
+ 
+            - reload logger program: spo-bbcb 
+              - supports switch of HMP155A from SW12V to 12V 
+ 
+ 
+ 
+============================================================================== 
+12/07/2016: Station Maintenance:                                        [????] 
+ 
+            - Switched Air Temp/RH sensor (HMP155A) to "continous" power 
+ 
+ 
+10/29/2016: Station Maintenance:                                        [1310] 
+ 
+            - replace faulty air temp/rh sensor:  
+                HC2S3 => HMP155A 
+ 
+ 
+04/27/2016: Station Maintenance:                                        [1140] 
+ 
+            - Replace faulty air temp/rh sensor (HC2S3) 
+ 
+ 
+ 
+============================================================================== 
+06/03/2015: Station Modernization:                                      [1200] 
+ 
+            - Station upgraded with serveral new sensors. 
+ 
+            - loaded logger program "spo-bbbb" 
+ 
+            - Due to upgrade, station was offline for the following: 
+  
+                 06/03/2015 (d=154) 1205 - 06/03/2015 (d=154) 1400 
+ 
+            - the "live" data updates were able to resume at: 
+ 
+                 06/05/2015 (d=156) 1155 
+ 
+ 
+05/18/2015: Data Quality:                                               [1500] 
+ 
+            - Due to faulty data, all LEAF1 was marked as MISSING for the 
+              following time period: 
+  
+                 01/01/2015 (d=001) 0005 - 05/12/2015 (d=132) 1800 
+ 
+ 
+05/12/2015: Station Maintenance:                                        [????] 
+  
+            - canopy sensor (leaf1) was replaced and relocated in trees  
+              approx. 120 ft from station. 
+            - also replaced standard leaf wetness sensor (leaf0) 
+            - weed removal 
+ 
+ 
+ 
+============================================================================== 
+11/24/2014: System Maintenance:                                         [1503] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbaa-spo" 
+ 
+ 
+08/19/2014: Station Maintenance:                                        [1530] 
+ 
+            - routine maintenance 
+ 
+ 
+05/14/2014: Station Maintenance:                                        [1540] 
+ 
+            - Routine maintenance  
+            - cleaned temp/rh sensor 
+ 
+ 
+ 
+============================================================================== 
+10/09/2013: Station Maintenance:                                        [1600] 
+ 
+            - Replaced data logger. 
+            - Data record from new logger to begin at: 
+ 
+                 10/09/2013 (d=282) 16:05  
+ 
+ 
+06/06/2013: Station Maintenance:                                        [1300] 
+ 
+            - Temporary power issue with logger led to a loss of data 
+              collection program.  Program (ABCF) was reloaded, but  
+              unfortunately, not before data was lost for the following 
+              time period: 
+ 
+                 06/05/2013 (d=156) 1105 - 06/06/2013 (d=157) 1225 
+ 
+ 
+ 
+============================================================================== 
+08/10/2012: Station Maintenance:                                        [1000] 
+ 
+            - Rain gauge unplugged. 
+ 
+ 
+06/07/2012: Station Maintenance:                                        [1400] 
+ 
+            - Replaced Modem 
+ 
+ 
+ 
+============================================================================== 
+05/24/2010: Station Maintenance:                                        [1510] 
+ 
+            - General station maintenance (weed control, sensor checks) 
+ 
+ 
+ 
+============================================================================== 
+06/10/2009: Data Quality:                                               [1100] 
+ 
+            - Soil Temperature Sensor (4") was replaced on 06/03/09. 
+              As a result, all of the previous faulty SOIL1 data  
+              that was recorded at the Sparta MAWN station during 
+              the following period was removed: 
+ 
+                 05/26/05 (d=146) 00:05  -  06/03/09 (d=154) 15:00 
+ 
+ 
+06/03/2009: Station Maintenance:                                        [1500] 
+ 
+            - General station maintenance and system checks, including: 
+              - Tipping-bucket rain gauge test (faulty pcpn data 
+                that was introduced was removed on 06/08/09) 
+ 
+ 
+05/29/2009: Station Maintenance:                                        [1145] 
+ 
+            - Rain Collection bucket was found to be full of water 
+              due to the funnel being clogged.  The obstruction was 
+              removed at 11:45am and the 0.57" was in turn logged 
+              by the datalogger.   Nearby manual observation was  
+              recorded to be 1.00", therefore the precipitation  
+              data prior to 05/27/09 may be inaccurate to to the  
+              obstruction, but the rain gauge should be operating 
+              properly now. 
+ 
+ 
+03/25/2009: Data Quality:  
+ 
+            - Due to faulty leaf wetness (canopy) sensor, all canopy 
+              sensor data was blanked out for the following time 
+              period: 
+ 
+                  10/23/08 (d=297) 0915  -  03/09/09 (d=068) 1500 
+ 
+ 
+03/09/2009: Station Maintenace: 
+ 
+            - Leaf Wetness 1 (Canopy Wetness) Sensor was repaired 
+              between 14:30 - 15:00. 
+ 
+ 
+02/18/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCF (hourly power cycle)           [0007] 
+ 
+ 
+01/25/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCW (3-hour power cycle)           [0004] 
+ 
+ 
+ 
+============================================================================== 
+05/21/2008: Station Maintenance: 
+ 
+            - General station maintenance and system checks, including: 
+              - Soil Moisture sensors now installed vertically: 
+                - MSTR 0:  profile of depth =  0 - 12" 
+                - MSTR 1:  profile of depth = 12 - 24" 
+              - Replaced bearings in anemometer 
+ 
+            - Work was done approx: 1140 - 1230 (Day=142) 
+ 
+ 
+ 
+============================================================================== 
+11/19/2007: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_ABCF   (1-hr power cycle)  [15:35] 
+ 
+ 
+05/17/2007: Station Maintenance (jb): 
+ 
+            - Datalogger Program Modification: 
+              - Datalogger progam "mawn_abcs" loaded and compiled. 
+              - Data collection configured to upload every 30 minutes. 
+ 
+              - Work was done approx: 13:05 (Day=137) 
+ 
+ 
+05/15/2007: Station Maintenance (bn): 
+ 
+            - Sensor Replacement: 
+              - Replaced old CS615 Soil Moisture with new CS616 sensors 
+ 
+            - General station maintenance and system checks. 
+              - Work was done approx: 18:30 (Day=135) 
+ 
+ 
+ 
+============================================================================== 
+10/14/2006: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:   MAWN_AACF (00:05) 
+ 
+ 
+08/23/2006: Station Maintenance: (sm, bn): 
+ 
+            - Communication Cell-IP Modem replaced (Verizon to Alltel) 
+ 
+ 
+08/21/2006: Station Maintenance: (sm, bn): 
+ 
+            - General Station Maintenance and System Checks: 
+              - replaced reference Leaf Wetness Sensor (Sensor A): 
+              - installed new datalogger battery 
+ 
+ 
+08/15/2006: Station Maintenance: (sm, bn): 
+ 
+            - Communication converted to broadband cell-modem: 
+ 
+              - Broadband Cell modem installed. 
+              - Datalogger Program "mawn_aacs" Loaded and Compiled 
+              - Data Collection Configured To Upload Every 30 minutes. 
+ 
+            - General Station Maintenance and System Checks: 
+              - replaced Temperature/Relative Humidity Sensor (HMP45C) 
+ 
+            - Work was done approx: 14:20 - 15:00 (Day=227) 
+ 
+ 
+ 
+============================================================================== 
+07/18/2005: Station Maintenance (sm): 
+ 
+            - Replaced CS615 Soil Moisture Sensor (Sensor B - 10" depth). 
+ 
+            - approximate time of service:   14:30 
+ 
+ 
+07/13/2005: Station Maintenance (sm): 
+ 
+            - installed new CS615 Soil Moisture Sensor (Sensor B - 10" depth). 
+ 
+            - approximate time of service:   10:00 
+ 
+ 
+06/22/2005: Station Maintenance (sm): 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+              - serviced solar panel 
+              - serviced Temp/RH Sensor (HMP45C) 
+              - cleaned/serviced precipitation bucket (bucket was plugged) 
+              - attempted to install Soil Moisture B (10") - need an older 
+                CS615 sensor and not a CS616.   10" soil moisture will 
+                remain "missing" until proper sensor is obtained. 
+              - approximate time of service:   11:05am 
+ 
+ 
+ 
+=========================================================================== 
+08/04/2004: Station Maintenance: (crn, jal): 
+ 
+            - Replaced Anemometer 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+              - tipping bucket rain gauge checked for accuracy 
+ 
+            - Work was done approx: 19:00 - 20:00 (Day=217) 
+ 
+ 
+ 
+============================================================================== 
+05/16/2003: Station Maintenance: 
+ 
+            - Reinstalled second leaf wetness: 
+              - installed on pipe next to NW tripod leg 
+              - approx. 1.5-foot high, facing north 
+              - installed witin coverage of: Eunymous alatus  
+              
+            - Installed Pressure Sensor (PTB101) 
+ 
+            - Troubleshoot datalogger: 
+      
+            - uploaded MAWN1A program 
+            - reset datalogger clock 
+ 
+            - NOTE: Data for most of this day was lost during work 
+                    to the system. 
+ 
+ 
+            - Time of Installation:  16:45, 19:00  (jtb) 
+ 
+ 
+ 
+============================================================================== 
+04/22/2002: Data Cleanup (jtb): 
+ 
+            - Additional data cleanup due to replacement of soil temperature 
+              sensor (04/18/02).  Examining data showed a steady decrease in 
+              reliability of Soil Temp A (2-inch) after 07/01/2001 (approx.). 
+ 
+              All Soil Temp A (2-inch) data between (and including) the  
+              following dates were removed from the Sparta database tables: 
+ 
+                 start of removed records: 06/15/2001 (day=166) - 00:05 
+                 end of removed records:   04/18/2002 (day=108) - 18:00 
+ 
+     
+04/18/2002: Maintenance (jaa, jtb): 
+  
+            - Replaced Soil Temp A (2-inch depth).  Time of sensor 
+              replacedment was 17:48. 
+ 
+              Replacing the soil temperature sensors introduced errors to  
+              the following variables at the listed report times - marked  
+              the following as missing in the MAWN database tables for  
+              Sparta: 
+ 
+              - Five Minute Data: 
+ 
+                   Air Temperature:              04/18/02 (day=108) - 17:50 
+ 
+ 
+              - Hourly Data: 
+ 
+                   Air Temperature:              04/18/02 (day=108) - 18:00 
+                   Soil Temp A:                  04/18/02 (day=108) - 18:00 
+                   Soil Temp B:                  04/18/02 (day=108) - 18:00 
+ 
+ 
+              - Daily Data: 
+ 
+                   Min Air Temperature:          04/18/02 (day=108) - 24:00 
+                   Time of Min Air Temperature:  04/18/02 (day=108) - 24:00 
+ 
+                   Max Soil Temp A:              04/18/02 (day=108) - 24:00 
+                   Time of Max Soil Temp A:      04/18/02 (day=108) - 24:00 
+                   Min Soil Temp A:              04/18/02 (day=108) - 24:00 
+                   Time of Min Soil Temp A:      04/18/02 (day=108) - 24:00 
+ 
+                   Max Soil Temp B:              04/18/02 (day=108) - 24:00 
+                   Time of Max Soil Temp B:      04/18/02 (day=108) - 24:00 
+                   Min Soil Temp B:              04/18/02 (day=108) - 24:00 
+                   Time of Min Soil Temp B:      04/18/02 (day=108) - 24:00 
+ 
+ 
+            - Herbicide applied over soil temperatures (SW quadrant) 
+ 
+ 
+04/08/2002: Daylight Savings Time Adjustment. 
+ 
+            - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+            - Time of Obs were modified by one hour (forward)  
+              from Day=97, Time=200 through Day=97, Time=415. 
+ 
+ 
+ 
+============================================================================== 
+10/31/2001: Daylight Savings Time Adjustment. 
+ 
+            - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+            - Time of Obs were modified by one hour (subtracted) 
+              from Day=301, Time=200 through Day=301, Time=610. 
+ 
+ 
+04/20/2001: Cleanup Precipitation Data. 
+ 
+            - Missing Daily Precipitation Values For First Part of 
+              April 2001 Modified Using Data Collected Manually By 
+              Merlin Kraft.   
+ 
+            - NOTE: Shifted Merlin's data by a day to better  
+                    reflect the MAWN collection period of  
+                    midnight to midnight (Merlin collects  
+                    from 8:00am - 8:00am). 
+ 
+            - The Following Daily Precipitation Values Were Added: 
+ 
+                 Day 91 (04/01/2001): 0 
+                 Day 92 (04/02/2001): 0 
+                 Day 93 (04/03/2001): 0 
+                 Day 94 (04/04/2001): 0 
+                 Day 95 (04/05/2001): 2.286 (0.09") 
+                 Day 96 (04/06/2001): 7.874 (0.31") 
+                 Day 97 (04/07/2001): 0 
+                 Day 98 (04/08/2001): 5.080 (0.20") 
+                 Day 99 (04/09/2001): 2.286 (0.09") 
+ 
+ 
+04/11/2001: Cleanup Precipitation and Adjust Soil Data. 
+ 
+            - Remove Precipitation Data Introduced Into Raw Data 
+              File During Field Testing.  The Following Entries 
+              Were Reset Back To 0: 
+ 
+                 Data Code=5,  Day=100, Time=1845  (field #: 4) 
+                 Data Code=5,  Day=100, Time=1900  (field #: 4) 
+                 Data Code=5,  Day=100, Time=1905  (field #: 4) 
+                 Data Code=60, Day=100, Time=1900  (field #: 15) 
+                 Data Code=60, Day=100, Time=2000  (field #: 15) 
+                 Data Code=24, Day=100, Time=2400  (field #: 33) 
+             
+            - Clean-Up Faulty Data.  Tipping Bucket Rain Guage Was 
+              Not Operating Properly Between 2:05am on March 31 (Day=90) 
+              and 7:05pm on April 10 (Day=100).  Marked the following 
+              precipitation data as missing: 
+ 
+                 Five Minute Data:  
+ 
+                    Day=90, Time=205   thru Day=100, Time=1905 
+               
+ 
+                 Hourly Data:  
+ 
+                    Day=90, Time=300   thru Day=100, Time=1900 
+ 
+ 
+                 Daily Data:  
+ 
+                    Day=91, Time=2400  thru Day=99, Time=2400 
+ 
+ 
+ 
+            - Clean-Up Faulty Data.  Reburing the Soil Temperature  
+              Sensors between 7:00pm - 8:00pm on 04/10/2001 Introduced  
+              Faulty Maximum Soil Tempearture Values.  The following  
+              entries were reset to estimated values: 
+ 
+                 Data Code=24, Day=100, Time=2400: 
+ 
+                    SOIL0_MAX:   12.78   (field #: 15) 
+                    SOIL0_MAXT:   2359   (field #: 16) 
+                    SOIL1_MAX:   11.72   (field #: 19) 
+                    SOIL1_MAXT:   2359   (field #: 20) 
+ 
+ 
+            - Clean-Up Faulty Data.  Reburing the Soil Moisture Probes  
+              between 7:00pm - 8:00pm on 04/10/2001 Introduced Faulty  
+              Minimum Soil Moisture Values.  The following entries were  
+              reset to estimated values: 
+ 
+                 Data Code=24, Day=100, Time=2400: 
+ 
+                    MSTR0_MIN:   0.605   (field #: 25) 
+                    MSTR0_MINT:   1600   (field #: 26) 
+                    MSTR1_MIN:   0.580   (field #: 29) 
+                    MSTR1_MINT:   1600   (field #: 30) 
+ 
+ 
+04/10/2001: Field Maintanence: 
+ 
+            - Replaced Precipitation Guage (current instrument 
+              seems to have been out since April 1, 2001 
+ 
+            - Moved and Reburied Soil Temperatures - installed in SW 
+              quadrant of station: 
+ 
+                 Soil A:  2-inches under sod, W of S leg, N of Soil B 
+                 Soil B:  4-inches under sod, W of S leg, S of Soil A 
+ 
+            - Buried Soil Temperature Probes (Horizontal Placement) 
+              in SE quadrant of station: 
+ 
+                 Soil Moisture A: 04" depth, E of S leg, facing south 
+                 Soil Moisture B: 10" depth, E of S leg, facing south 
+ 
+             - Needs: 
+ 
+                 Data Cleanup:  Installation between approximately 6:30pm 
+                                and 7:30pm on 04/10/2001 required testing  
+                                precip gauge.  Also, reinstalling soil temp 
+                                and soil moisture problems most likely 
+                                introduced faulty data - rawdata will 
+                                need to be corrected.  
+ 
+ 
+ 
+============================================================================== 
+11/06/2000: Cleanup Precipitation Data. 
+ 
+            - Remove Precipitation Data Introduced Into Raw Data 
+              File During Field Testing.  The Following Entries 
+              Were Reset Back To 0: 
+ 
+                 Data Code=5,  Day=308, Time=1710 
+                 Data Code=5,  Day=308, Time=1715 
+                 Data Code=60, Day=308, Time=1800 
+                 Data Code=24, Day=308, Time=2400 
+ 
+            - Clean-Up Faulty Data.  Tipping Bucket Rain Guage Was 
+              Not Operating Properly Between 3:00am on September 12 
+              (Day=256) and 5:15pm on November 3.  Marked the following 
+              precipitation data as missing: 
+ 
+                 Five Minute Data:  
+ 
+                    Day=256, Time=300   thru Day=308, Time=1715 
+               
+ 
+                 Hourly Data:  
+ 
+                    Day=256, Time=400   thru Day=308, Time=1700 
+ 
+ 
+                 Daily Data:  
+ 
+                    Day=257, Time=2400  thru Day=307, Time=2400 
+ 
+ 
+ 
+11/03/2000: Tipping Bucket Rain Guage Replacement. 
+   
+            - No Precipitation Recorded Since Sept 12.  Appears 
+              Electrical Surge on or near Sept 12, 2000 was the 
+              cause. 
+ 
+            - Replaced tipping bucket rain gauge.  Installed on 
+              pipe located on SW corner of station plot, 37-1/8" 
+              from ground to top of tipping bucket (determined 
+              high from previous installation).  Tested with 
+              5 clicks around 5:11pm (day=308, time. 
+ 
+ 
+10/30/2000: Daylight Savings Time Adjustment. 
+                 
+            - Daylight Savings Time Ended on Day=303, Time=200. 
+ 
+            - Time of Obs were modified by one hour (subtracted) 
+              from Day=303, Time=200 through Day=304, Time=1740. 
+              Only Observation Times were modified, not times of 
+              Maxs and Mins.  Users will need to take that into 
+              consideration when using this data. 
+ 
+ 
+10/02/2000: Telecommuncations repaired sometime over the past weekend. 
+              
+            - Updated Web Pages and rebuilt Sparta data in MAWN database. 
+ 
+ 
+09/27/2000: Telecommunications still down.  
+ 
+            - Downloaded data from datalogger.  Loss of data between 
+              (but not including) the following times: 
+ 
+                 Day=260, Time=1535  (Sep 16) 
+                 Day=263, Time=0930  (Sep 18) 
+ 
+ 
+09/16/2000: Loss of Telephone Communications on Sept 12, 2000 
+            due to electrical storm. 
+ 
+            - Replace Modem (#3945) with new modem (#3947) 
+ 
+            - "Ring" wire was disconnected (actually burnt 
+              apart due to apparant electrical surge).   
+              Replaced blue (ring) wing with extra orange/wire. 
+              Left orange (tip) wire alone 
+ 
+            - Service box by the road - switch blue (ring) wire 
+              with orange/white wire.  Connected to red (ring) 
+              terminal.  Left orange wire connected to green (tip) 
+              terminal.  Still no active line.  Apparently heavy 
+              electrical damage to service box. 
+ 
+            - Current wiring: 
+ 
+                 Service Box -> green terminal (tip) -> orange wire 
+                             -> Datalogger Enclosure -> bottom surge terminal 
+                             -> TIP on modem 
+ 
+                 Service Box -> red terminal (ring) -> orange/white  wire 
+                             -> Datalogger Enclosure -> upper surge terminal 
+                             -> RING on modem 
+                  
+            - Downloaded data from datalogger.  Loss of data between 
+              (but not including) the following times: 
+ 
+                 Day=255, Time=0630  (Sep 11) 
+                 Day=255, Time=1955  (Sep 11) 
+ 
+ 
+08/01/2000: Faulty modem replaced.  Station back on-line. 
+ 
+            Suspicious 2-inch soil temps, but inspection of 
+            the site determined that soil temp probe was in 
+            fact buried - soil cover = thick grass. 
+ 
+            Field Technician: Tom Cate 
+ 
+ 
+02/05/2000: During "mawn1a" update, lost hourly reading and 
+            5-minute reading for 11:00am, day=36.  Copied 
+            the following: 
+ 
+               5,2000,36,1055,... ->  5,2000,36,1100,... 
+               60,2000,36,1000,... -> 60,2000,36,1100,... 
+ 
+ 
+02/05/2000: Updated "mawn1a" to include Wind Speed, Air Temp, 
+            and Relative Humidity in 5-minute data. 
+ 
+ 
+ 
+============================================================================== 
+09/07/1999: Removed suspect Soil Temperature (Sensor A) From Data 
+            File.  Marked as Missing Values from 08/06/99 thru 
+            08/28/99. 
+ 
+ 
+09/06/1999: Soil Temp Probes and Soil Moisture Sensors pulled and 
+            re-installed.  Work performed between 11:30am and 1:00pm. 
+ 
+ 
+08/26/1999: Soil Temp Probes Covered (courtesy of Amy Irish-Brown) 
+            around 9:00am.  Both sensors approx. 2 inches under 
+            bare soil. 
+ 
+ 
+08/23/1999: Detected error in soil temp, sensor A (2 inch depth). 
+            Temps reporting values too high - since approx 9/13/99 
+ 
+ 
+08/06/1999: Sparta station updated - (mawn1a). 
+ 
+ 
+ 
+============================================================================== 
+

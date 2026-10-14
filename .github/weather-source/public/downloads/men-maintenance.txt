@@ -1,0 +1,410 @@
+=============================================================================== 
+Station Notes - Mendon 
+ 
+ 
+03/12/2023: Station Relocation:                                          [1015] 
+ 
+            - station relocated about 465-ft south of previous location: 
+                - reinstalled soil sensors* 
+                - tipping-bucket rain gauge now mounted on leaf  
+                  wetness post (unable to use original post) 
+                - checked leaf wetness sensor [standard mount]** 
+                - checked pyranometer (unable to level, but data ok) 
+                - checked battery (13.5V) 
+                - checked solar panel (16V) 
+ 
+                * soil moisture sensors were deployed horizontally at 2"  
+                  and 4"... corrected to vertical at 0-12" and 12-24" 
+ 
+               ** site does not include a canopy sensor  
+ 
+ 
+03/08/2023: Station Maintenance:                                         [1255] 
+ 
+            - routine site maintenance, including: 
+                - checked anemometer (bearings need replacement) 
+                - checked leaf wetness sensors (good)** 
+                - checked soil sensor cables (good) 
+                - checked solar panel (good) 
+                - checked tipping-bucket rain gauge (reinstalled)* 
+                - checked wind vane (properly aligned) 
+                - checked /. cleaned enclosure 
+ 
+                * rain gauge was on the ground... may need to check / remove earlier data 
+               ** site does not include a canopy sensor 
+ 
+ 
+ 
+=============================================================================== 
+07/20/2022: Logger / Station Maintnenace:                                [1435] 
+ 
+            - loaded logger program: men-bbcd.cr1* (237 -> LWS-L)** 
+                  * supports "maintenance mode" 
+                 ** sensor replaced: 08/11/2020 (no canopy) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+07/13/2022: Station Maintenance:                                         [1130] 
+ 
+           - routine site maintenance, including: 
+               - checked anemomter (bearings ok, but should be replaced) 
+               - checked pyranomter (level) 
+               - checked soil sensor cables (good) 
+               - checked wind vane (properly aligned) 
+               - checked / cleaned solar panel 
+               - checked / tested battery 
+               - checked / tested leaf wetness (standard)* 
+               - checked / tested tipping-bucket rain gauge 
+               - cleaned battery box 
+               - cleaned hmp155a (atmp/relh) sensor and radiation shield 
+               - weed removal 
+ 
+               * current logger program doesn't support LWS-L leaf wetness 
+               * site does not include a canopy leaf wetness sensor 
+ 
+ 
+06/06/2022: Station Maintenance:                                         [1245] 
+ 
+           - routine site maintenance, including: 
+               - checked anemometer (bearings need replacement) 
+               - checked pyranometer (level) 
+               - checked wind vane (properly aligned) 
+               - checked / cleaned solar panel 
+               - checked / tested battery (good) 
+               - checked / tested leaf wetness (standard)* 
+               - checked / tested tipping-bucket rain gauge (adjusted level) 
+               - cleaned battery box 
+               - replaced faulty soil temperature (5cm) sensor 
+               - weed removal 
+ 
+               * current logger program doesn't support LWS-L leaf wetness 
+               * site does not include a canopy leaf wetness sensor 
+ 
+ 
+  
+============================================================================== 
+07/12/2021: Station Maintenance:                                        [1035] 
+ 
+            - routine site maintenance  
+ 
+ 
+05/25/2021: Station Maintenance:                                        [1150] 
+ 
+            - routine site maintenance 
+ 
+ 
+ 
+============================================================================== 
+08/11/2020: Station Maintenance:                                        [1520] 
+ 
+            - upgrade leaf wetness (standard mount) [237 -> lws]* 
+ 
+            * site does not include a canopy leaf wetness sensor  
+            * leaf wetness upgrade requires a logger program upgrade 
+ 
+ 
+05/26/2020: Station Maintenance:                                        [1500] 
+ 
+            - routine station maintenance  
+ 
+ 
+ 
+============================================================================== 
+07/16/2019: Logger / Station Maintenance:                               [1210] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: men-bbca 
+ 
+ 
+07/03/2019: Station Maintenance:                                        [1430] 
+ 
+            - cleared obstruction from tipping-bucket rain gauge 
+ 
+ 
+ 
+============================================================================== 
+07/31/2018: Station Maintenance;                                        [1205] 
+ 
+            - replaced faulty wind speed instrument (i.e. anemometer) 
+ 
+ 
+05/07/2018: Station Maintenance:                                        [1300] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+============================================================================== 
+08/22/2017: Logger Maintenance:                                         [1800] 
+ 
+            - loaded logger program: men-bbca 
+ 
+ 
+08/22/2017: Station Maintenance:                                        [1400] 
+ 
+            - faulty logger replaced (CR10X -> CR1000), including: 
+               - ATMP/RELH sensor replaced (HMP45C -> HMP155A) 
+                  - NOTE: HMP155A connected to continuous power 
+ 
+ 
+07/19/2017: Station Maintenance:                                        [1355] 
+ 
+            - annual maintenance  
+ 
+           
+05/19/2017: Station Maintenance:                                        [1505] 
+ 
+            - annual maintenance, including: 
+               - replacement of leaf wetness sensor (standard mount) 
+ 
+ 
+  
+============================================================================== 
+12/07/2016: Station Maintenance:                                        [1245] 
+ 
+            - installed "big" battery 
+ 
+ 
+08/11/2016: Station Maintenance:                                        [1235] 
+ 
+            - annual maintenance and weed removal 
+            - leveled tipping-bucket rain gauge 
+ 
+ 
+05/26/2016: Station Maintenance:                                        [1020] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+ 
+============================================================================== 
+02/26/2015: Station Maintenance:                                        [0006] 
+ 
+            - loaded logger program "mawn_abcf" (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/23/2014: System Maintenance:                                         [0005] 
+ 
+            - loaded logger program "mawn_abcw" 
+ 
+ 
+11/17/2014: System Maintenance:                                         [1305] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "mawn_abcf" 
+ 
+ 
+ 
+============================================================================== 
+03/02/2012: Station Maintenance:                                        [1130] 
+ 
+            - Modem replaced (due to cell network change and recent  
+              telecommunication troubles). 
+ 
+ 
+ 
+============================================================================== 
+09/01/2010: Station Maintenance:                                        [1000] 
+ 
+            - Faulty broadband modem was repaired and remote  
+              communication was restored.  However, due to the 
+              recent outage, data for the following time period 
+              was lost: 
+ 
+                 08/10/2010 (d=222) 14:10  -  08/14/2010 (d=226) 16:05 
+ 
+ 
+ 
+05/21/2010: Station Maintenance:                                        [1500] 
+ 
+            - General station maintenance (weed control, sensor checks) 
+ 
+ 
+ 
+============================================================================== 
+09/11/2009: Data Quality:                                               [1700] 
+ 
+            - It was discovered that the tipping-bucket rain gauge  
+              was not working properly prior to work performed on  
+              07/13/09.  After analysis of the data, precipitation 
+              data recorded during the following time period was 
+              marked as "missing": 
+ 
+                 05/04/09 (d=124) 00:05  -  07/13/09 (d=194) 12:00 
+ 
+ 
+09/04/2009: Station Maintenance:                                        [1000] 
+  
+            - Replaced tipping-bucket rain gauge. 
+ 
+ 
+07/13/2009: Station Maintenance:                                        [1200] 
+ 
+            - General station maintenance and system checks, including: 
+              - Tipping-bucket rain gauge test (faulty pcpn data 
+                that was introduced was removed on 07/29/09) 
+ 
+ 
+ 
+============================================================================== 
+06/12/2008: Station Maintenance: 
+ 
+            - General station maintenance and system checks, including: 
+              - Soil Moisture sensors now installed vertically: 
+                - MSTR 0:  profile of depth =  0 - 12" 
+                - MSTR 1:  profile of depth = 12 - 24" 
+  
+       - Wireless broadband modem was replaced 
+ 
+              - Work was done approx: 1245 - 1330 (Day=164) 
+ 
+ 
+03/05/2008: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_ABCF  (hourly power cycle)  [00:05] 
+ 
+ 
+ 
+=============================================================================== 
+11/19/2007: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_ABCW   (3-hr power cycle)  [12:35] 
+ 
+ 
+09/17/2007: Data Quality (jb): 
+ 
+            - Recent troubles with the datalogger at Mendon introduced gaps 
+              of missing data as well as faulty data records.   To correct 
+              the faulty data, entries associated with the following times 
+              have been removed from the MAWN database: 
+ 
+                 09/05 (d=248):  1005, 1135 
+                 09/08 (d=251):  1305, 1310 
+                 09/10 (d=253):  2205, 2210 
+                 09/12 (d=255):  1635 
+                 09/13 (d=256):  2400   (daily data only) 
+                 09/16 (d=259):  1845 
+ 
+ 
+09/16/2007: Station Maintenance: (bn): 
+ 
+            - Datalogger replaced (18;45) 
+ 
+ 
+08/17/2007: Station Maintenance: (sm): 
+ 
+            - Site visit seemed to indicate that for some unknown reason, 
+              the MAWN program was erased from the datalogger.  Power to 
+              the modem/logger was reestablished and the logger program 
+              (ABCS) was reloaded. 
+ 
+            - Due to the outage, it appears data was lost for the following 
+              time period: 
+ 
+                 08/16/07 (day=228) 07:05  -  08/17/07 (day=229) 13:45 
+ 
+ 
+08/16/2007: Communication Outage: 
+ 
+            - Currently experiencing trouble with communications  
+              to the Mendon station.  Unable to connect since  
+              7:00am on Thu. 08/16.   Hope to troubleshoot and 
+              correct on Mon. 08/20. 
+ 
+              
+08/15/2007: Station Maintenance: (bn): 
+ 
+            - Communication converted to broadband cell-modem: 
+ 
+              - Broadband Cell modem installed. 
+              - Datalogger Program "mawn_abcs" Loaded and Compiled 
+              - Data Collection Configured To Upload Every 30 minutes. 
+ 
+            - General Station Maintenance and System Checks: 
+ 
+            - Work was done approx: 15:55 - 16:10 (Day=227) 
+ 
+ 
+05/31/2007: Station Maintenance (sm, bn): 
+ 
+            - General station maintenance and system checks. 
+ 
+              - Work was done approx: 12:15 - 12:55 (Day=151) 
+ 
+ 
+03/05/2007: Station Maintenance: (bn): 
+ 
+     - Telecommunications Troubleshooting/Repair: 
+              - replaced battery 
+              - replaced modem 
+              - replaced CR10X datalogger 
+              - reloaded MAWN Program: MAWN1C 
+ 
+     - station back online at 12:15pm 
+ 
+ 
+ 
+============================================================================== 
+05/31/2006: Station Maintenance: (bn): 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+              - sensor placement checked 
+              - anemometer bearings checked - bearing replaced 
+              - rain gauge checked for debris - screen replaced 
+ 
+              - NOTE: Leaf Wetness A (standard mount) is installed on leg of tripod 
+                      instead of a standard mount. 
+  
+ 
+            - Work was done approx: 16:20 - 16:55 (Day=151) 
+ 
+ 
+ 
+============================================================================== 
+08/16/2004: Station Maintenance: (jal): 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+              - tipping bucket rain guage checked for accuracy 
+ 
+            - Work was done approx: 12:30 - 12:40 (Day=229) 
+ 
+ 
+05/18/2004: Station Maintenace (sm, jal): 
+ 
+            - Site Vist (no major work done) 
+ 
+ 
+03/06/2004: Station Online: 
+ 
+            - Data Collection and Data Archive for new station begins and 
+              now made available via the MAWN website: 
+ 
+                 First data report:   Mar 06, 2004 - 00:05   (Day=066) 
+ 
+ 
+03/05/2004: Communications Troubleshooting (crn): 
+ 
+            - Datalogger and Battery Replaced.  Original Battery  
+              was unable to maintain power.   
+ 
+ 
+02/27/2004: New Station Installed: 
+ 
+            - Notes: 
+                  
+              - leaf wetness B (canopy) - still needs to be installed. 
+ 
+              - Data Logger Program Loaded:    MAWN1C 
+ 
+              - Additional Station Needs: 
+ 
+ 
+ 
+============================================================================== 
+

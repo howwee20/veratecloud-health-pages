@@ -1,0 +1,45 @@
+=============================================================================== 
+Station Notes: Wunsch Farms - Wilson Rd: Traverse City, MI 
+=============================================================================== 
+ 
+05/08/2026: Station Online:                                              [1200] 
+     
+            - Station added to Enviroweather/MAWN database system 
+          
+ 
+05/04/2026: Data Collection Enabled                                      [1600] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   May 05, 2026 (d=124) 00:05 
+ 
+ 
+05/04/2026: Logger Setup                                                 [1510] 
+ 
+            - Loaded Logger Program:  
+                 omp-bssd.2601.cr6 
+                    omp => Station ID (oldmissionsouth) 
+                      b => MI (state network) 
+                      s => SDI-12 [CS655] (Soil Moisture) 
+                      s => SDI-12 [HygroVue10] (Temp/RH) 
+                      d => LWS-L (Leaf Wetness) [no canopy] 
+                   2601 => Jan 2026 (program template version) 
+                    cr6 => CR6 (logger / logger program type) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+05/04/2026: Station Maintenance:                                         [1510] 
+ 
+            - Established telecommunication between station cell-modem 
+              and data-collection PC/server on campus. 
+ 
+ 
+04/30/2026: Station Setup                                                [----] 
+ 
+            - station setup / activated at field site 
+ 
+ 
+ 
+=============================================================================== 
+

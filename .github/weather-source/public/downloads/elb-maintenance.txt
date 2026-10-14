@@ -1,0 +1,125 @@
+=============================================================================== 
+Station Notes - Elbridge / Hart (MI) 
+ 
+ 
+06/15/2022: Station Maintenance:                                         [1000] 
+ 
+           - routine site maintenance, including: 
+               - checked anemometer (replace bearings next site visit) 
+               - checked wind vane (properly aligned) 
+               - checked pyranometer (readjusted mount / level) 
+               - checked / tested battery 
+               - checked / tested leaf wetness [canopy] (good)* 
+               - checked / tested leaf wetness [standard] (good) 
+               - checked / tested solar panels 
+               - cleaned battery box 
+               - cleaned HMP155 (atmp/relh) sensor and radiation shield 
+               - cleaned tipping-bucket rain gauge 
+               - weed removal (not needed... site well maintained) 
+ 
+               * canopy sensor is located 40ft east of station under cherry tree 
+ 
+ 
+ 
+=============================================================================== 
+07/22/2021: Station Maintenance:                                         [1210] 
+ 
+            - routine site maintenance  
+ 
+ 
+ 
+05/18/2021: Station Maintenance:                                         [1250] 
+ 
+            - routine site maintenance, including: 
+               - modem update 
+ 
+ 
+ 
+=============================================================================== 
+08/05/2020: Station Maintenance:                                         [1500] 
+ 
+            - routine site maintenance 
+ 
+ 
+06/03/2020: Station Maintenance:                                         [1545] 
+ 
+            - routine site maintenance, including: 
+               - replaced leaf-wetness sensor mount [standard] 
+ 
+ 
+ 
+=============================================================================== 
+10/18/2019: Logger Maintenance:                                          [1500] 
+ 
+            - due to instrumentation/data issues (pcpn): 
+               - replaced wiring panel 
+               - replaced logger (CR1000 -> CR1000) 
+ 
+ 
+06/18/2019: Logger Maintenance:                                          [1230] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: elb-bbcb 
+ 
+ 
+ 
+=============================================================================== 
+08/14/2018: Station Maintenance:                                         [1440] 
+ 
+            - annual station / site maintenance  
+ 
+ 
+ 
+=============================================================================== 
+09/19/2017: Station Maintenance:                                         [0003] 
+ 
+            - loaded logger program "elb-bbcb" 
+ 
+ 
+07/17/2017: Station Maintenance:                                         [1710] 
+ 
+            - annual maintenance, including: 
+               - rewire of atmp/relh (HMP155A) to "continuous" power 
+ 
+ 
+ 
+=============================================================================== 
+05/16/2016: Station Online:                                              [1400] 
+ 
+            - Station added to Enviroweather/MAWN Web Site 
+ 
+ 
+05/05/2016: Data Collection Enabled                                      [1700] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   May 06, 2016 (Day=127) 00:05 
+ 
+ 
+05/05/2016: Station Installed:                                           [----] 
+ 
+            - Station installed at station field site 
+ 
+ 
+04/28/2016: Station Maintenance:                                         [1630] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+04/28/2016: Station Setup                                                [1610] 
+ 
+            - Loaded MAWN Program:   ELB-BBBB 
+                                      ELB => Station ID (Elbridge/Hart) 
+                                        B => CR1000/MI (Logger/State) 
+                                        B => CS616 (Soil Moisture) 
+                                        B => HC2S3 (Temp/RH) 
+                                        B => LWS-L (Leaf Wetness) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+=============================================================================== 
+

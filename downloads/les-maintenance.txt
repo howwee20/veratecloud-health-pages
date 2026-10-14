@@ -1,0 +1,278 @@
+============================================================================== 
+Station Notes - Leslie 
+ 
+ 
+10/10/2023: Station Maintenance:                                        [0915] 
+ 
+            - logger repair / communications troubleshooting: 
+               - replaced logger (CR1000 -> CR1000) 
+  
+ 
+10/09/2023: Station Maintenance:                                        [0855] 
+ 
+            - logger repair / communications troubleshooting: 
+               - replaced charge controller 
+               - replaced 12V switch  
+               - replaced modem 
+ 
+               * return visit needed to replace logger 
+ 
+ 
+05/15/2023: Station Maintenance:                                        [1450] 
+ 
+            - replaced faulty leaf wetness sensor [standard] 
+ 
+ 
+05/09/2023: Station Maintenance:                                        [1035] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery box 
+               - checked leaf wetness [standard] (needs replacement)* 
+               - checked soil sensor cables (good) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - cleaned atmp/relh radiation shield 
+               - cleaned solar panel 
+               - replaced battery 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+ 
+============================================================================== 
+08/18/2022: Station Maintenance:                                        [0900] 
+ 
+            - routine site maintenance, including: 
+               - checked battery (13.16 V) 
+               - checked pyranometer (good) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (20.12 V) 
+               - checked / tested leaf wetness [standard] (good)* 
+               - checked / tested tipping-bucket rain gauge (good) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned battery box 
+               - cleaned solar panel 
+               - replaced anemometer  
+               - replaced wind vane 
+               - weed removal 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+06/23/2022: Station Maintenance:                                        [1310] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (fair... replace soon) 
+               - checked battery (13.52 V) 
+               - checked leaf wetness [standard] (good)* 
+               - checked pyranometer (good) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (19.28 V) 
+               - checked tipping-bucket rain gauge 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned battery box 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+03/30/2022: Logger / Station Maintnenace:                               [1304] 
+ 
+            - loaded logger program: les-bbad.cr1* (237 -> LWS-L)** 
+                  * supports "maintenance mode" 
+                 ** sensor replaced: 07/08/2020 (no canopy) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+ 
+============================================================================== 
+ 
+07/14/2021: Station Maintenance:                                         [0845] 
+ 
+            - routine site maintenance  
+ 
+ 
+05/27/2021: Station Maintenance:                                         [0845] 
+ 
+            - routine site maintenance, including... 
+              ...modem replacement  
+ 
+ 
+05/04/2021: Station Maintenance:                                         [1100] 
+ 
+            - routine site maintenance, including... 
+              ...reinstall "mstr0" (00-30cm soil moisture) sensor 
+              ...replace "soil0" (05cm soil temperature) sensor 
+              ...replace "soil1" (10cm soil temperature) sensor 
+ 
+ 
+ 
+=============================================================================== 
+06/09/2020: Station / Logger Maintenance:                                [1450] 
+ 
+            - routine site maintenace, including... 
+              ...installation of new 35amp battery / charge controller 
+ 
+ 
+ 
+=============================================================================== 
+06/11/2019: Logger Maintenance:                                          [0910] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: les-bbaa 
+ 
+ 
+ 
+============================================================================== 
+07/25/2018: Station Maintenance:                                        [1305] 
+ 
+            - logger replaced (due to lithium battery issues) 
+            - reloaded original logger program (les-bbaa) 
+ 
+ 
+05/15/2018: Station Maintenance:                                        [0950] 
+ 
+            - annual maintenance  
+ 
+ 
+ 
+============================================================================== 
+10/03/2017: Station Maintenance:                                        [0005] 
+ 
+            - loaded logger program "les-bbaa" 
+ 
+ 
+07/19/2017: Station Maintenance:                                        [0925] 
+ 
+            - annual maintenace  
+ 
+ 
+05/22/2017: Station Maintenance:                                        [0910] 
+ 
+            - annual maintenance, including: 
+               - rewire of atmp/relh (HMP45C) to "continuous" power 
+ 
+ 
+ 
+============================================================================== 
+09/08/2016: Station Maintenance:                                        [1300] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - replaced rain gauge 
+ 
+ 
+08/01/2016: Station Maintenance:                                        [1040] 
+ 
+            - annual maintenance and weed removal 
+            - leveled precipitation bucket 
+ 
+ 
+05/18/2016: Station Maintenance:                                        [1050] 
+ 
+            - annual maintenance and weed removal 
+            - cleaned leaf wetness sensors 
+ 
+ 
+ 
+============================================================================== 
+06/08/2015: Station Maintenance:                                        [1200] 
+ 
+            - routine station maintenance 
+ 
+ 
+ 
+============================================================================== 
+09/11/2014:  System Maintenance:                                        [1500] 
+ 
+             - replaced soil moisture (mstr0) sensor 
+ 
+ 
+09/11/2014:  System Maintenance:                                        [1432] 
+ 
+             - moved data-collection to new LoggerNet server 
+             - loaded logger program "bbaa-les" 
+ 
+ 
+07/08/2014:  Station Maintenance:                                       [1430] 
+ 
+             - Replaced Soil Temperature and Soil Moisture sensors 
+               (cables leading to sensors were cut) 
+ 
+ 
+06/05/2014:  Station Maintenance:                                       [1125] 
+ 
+             - routine annual maintenance 
+ 
+ 
+ 
+============================================================================== 
+08/23/2013:  Station Maintenance:                                       [1330] 
+ 
+             - Replaced Soil Temp 0 (2") Sensor 
+ 
+ 
+05/14/2013:  Station Maintenance:                                       [1330] 
+ 
+             - Reinstalled both Soil Temperature Sensors 
+             - Leaf Wetness 0 (Standard Mount) was replaced 
+             - Leaf Wetness 1 (Canopy) was cleaned. 
+ 
+ 
+ 
+============================================================================== 
+06/14/2012:  Station Maintenance:                                       [1030] 
+ 
+             - Replaced Modem 
+ 
+ 
+ 
+============================================================================== 
+05/19/2010:  Station Maintenance:                                       [0945] 
+ 
+             - General station maintenance (weed control, sensor checks) 
+ 
+ 
+ 
+============================================================================== 
+04/24/2009:  Station Maintenance: 
+ 
+             - Replaced Wireless Broadband (Cell-IP) Modem             [11:20] 
+ 
+ 
+ 
+ 
+============================================================================== 
+08/20/2008:  Station Online: 
+ 
+                - Station added to MAWN web site. 
+ 
+ 
+ 
+08/13/2008:  Data Collection Enabled: 
+ 
+                - Data Collection and Data Archive for new station begins: 
+ 
+                     First data report:   Aug 14, 2008 - 00:05 (Day=227) 
+ 
+ 
+ 
+08/13/2008:  Station Maintenance: 
+ 
+                - Established telecommunication between station cell-modem and 
+                  data collection PC/server on campus.    
+ 
+                - Loaded MAWN Program:   BBC-LES 
+                                             B => CR1000 
+                                             B => CS616  
+                                             C => Broadband Cell Modem (IP) 
+                                           LES => Station ID (Leslie) 
+                                        
+ 
+                - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

@@ -1,6 +1,17 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import ClimateMapDescription from '../../components/ClimateMapDescription.astro';
 import {climate} from '../../lib/data';
 import descriptions from '../../../data/normalized/map-descriptions.json';
+const filename=(url:string)=>url.split('/').pop() as keyof typeof descriptions;
 ---
-<BaseLayout title="Michigan Climate Maps" section="climate" source={climate.maps.source.url}><h1>Michigan Climate Maps</h1><p>Click on a map for larger version.</p><p>Precipitation totals and departures are in inches; percent-of-normal maps are in percent. Temperatures are in degrees F.</p>{climate.maps.groups.map(g=><section class="map-group"><h2>{g.title}</h2><div class="climate-maps">{g.maps.map(m=><figure><figcaption>{m.period}</figcaption><a href={'/media/climate/'+m.imageUrl.split('/').pop()}><img src={'/media/climate/'+m.imageUrl.split('/').pop()} width="150" height="200" loading="lazy" alt={`${g.title}, Michigan, ${m.period.toLowerCase()}. Open larger map.`}/></a><details class="map-description"><summary>Text description<span class="visually-hidden">: {g.title}, {m.period}</span></summary><p><strong>{descriptions[m.imageUrl.split('/').pop()].period}</strong></p><p>{descriptions[m.imageUrl.split('/').pop()].summary}</p><p>Legend boundaries ({descriptions[m.imageUrl.split('/').pop()].unit}): {descriptions[m.imageUrl.split('/').pop()].legend.join(', ')}.</p><p>{descriptions[m.imageUrl.split('/').pop()].basis}</p><p>Midwestern Regional Climate Center · {descriptions[m.imageUrl.split('/').pop()].dataSource}.</p></details></figure>)}</div></section>)}</BaseLayout>
+<BaseLayout title="Michigan Climate Maps" section="climate" source={climate.maps.source.url}>
+<h1>Michigan Climate Maps</h1>
+<p>Click on a map for larger version and regional text values.</p>
+<p>Precipitation totals and departures are in inches; percent-of-normal maps are in percent. Temperatures are in degrees F.</p>
+{climate.maps.groups.map(g=><section class="map-group"><h2>{g.title}</h2><div class="climate-maps">{g.maps.map(m=><figure>
+<figcaption>{m.period}</figcaption>
+<a href={'/climate/maps/'+filename(m.imageUrl).replace('.png','')+'/'}><img src={'/media/climate/'+filename(m.imageUrl)} width="150" height="200" loading="lazy" alt={`${g.title}, Michigan, ${m.period.toLowerCase()}. Open larger map and regional text values.`}/></a>
+<details class="map-description"><summary>Text description<span class="visually-hidden">: {g.title}, {m.period}</span></summary><ClimateMapDescription name={filename(m.imageUrl)}/></details>
+</figure>)}</div></section>)}
+</BaseLayout>

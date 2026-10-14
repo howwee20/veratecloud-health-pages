@@ -1,0 +1,259 @@
+============================================================================== 
+Station Notes - Keeler (KLR) 
+ 
+ 
+05/03/2022: Station / Logger Maintenance:                               [1300] 
+ 
+            - battery cable reconnected 
+ 
+ 
+05/02/2022: Station / Logger Maintenance:                               [1205] 
+ 
+            - routine site maintenance, including: 
+               - replace wind sentry (RM 3001 -> RM 3002) 
+ 
+ 
+ 
+============================================================================== 
+06/24/2021: Station Maintenance:                                        [1225] 
+ 
+            - routine site maintenance, including: 
+               - replacement of faulty leaf wetness (standard sensor) 
+ 
+ 
+05/05/2021: Station Maintenance:                                        [1400] 
+ 
+            - routine site maintenance 
+ 
+ 
+ 
+============================================================================== 
+05/22/2020: Station Maintenance:                                        [1150] 
+ 
+            - routine site maintenance  
+            - reinstalled leaf wetness mounts (both: standard, canopy) 
+ 
+ 
+ 
+============================================================================== 
+09/19/2019: Logger Maintenance:                                         [0031] 
+   
+            - loaded logger program: klr-bbab 
+ 
+ 
+07/02/2019: Logger Maintenance:                                         [1206] 
+ 
+            - temporary logger program loaded 
+ 
+ 
+07/01/2019: Logger / Station Maintenance:                               [1330] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: klr-bbaa 
+ 
+ 
+06/17/2019: Station Maintenance:                                        [1215] 
+ 
+            - replaced faulty leaf wetness sensors (237 -> LWS-L) 
+            - NOTE: requires new logger program 
+ 
+ 
+02/09/2019: Station Maintenance:                                        [1120] 
+ 
+            - corrected communication issue: 
+                - replaced SC932A interface and associated cables 
+ 
+ 
+ 
+============================================================================== 
+07/26/2018: Station Maintenance:                                        [0900] 
+ 
+            - annual station / site maintenance  
+ 
+ 
+ 
+============================================================================== 
+07/13/2017: Station Maintenance:                                        [1435] 
+  
+            - general maintenance 
+ 
+ 
+05/17/2017: Station Maintenance:                                        [0006] 
+ 
+            - loaded logger program "klrt-bbaa" 
+ 
+ 
+05/12/2017: Station Maintenance:                                        [1245] 
+ 
+            - annual maintenance  
+            - rewired air temp/relh (HMP45C) to "continuous" power 
+            - replaced leaf wetness (canopy sensor) 
+ 
+ 
+01/30/2017: Station Maintenance:                                        [1405] 
+  
+            - loaded logger program: bbaa-klr 
+ 
+ 
+01/30/2017: Station Maintenance:                                        [1315] 
+ 
+            - replaced logger (CR1000) 
+            - loaded temporary logger program 
+ 
+ 
+01/24/2017: Station Maintenance:                                        [1801] 
+ 
+            - reload logger program: bbaa-klr 
+ 
+ 
+ 
+============================================================================== 
+08/19/2016: Station Maintenance:                                        [1300] 
+ 
+            - replaced bent leg on station tripod 
+ 
+ 
+08/08/2016: Station Maintenance:                                        [1635] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+05/11/2016: Station Maintenance:                                        [1410] 
+ 
+            - annual maintenance and weed removal 
+            - installed 10w solar panel 
+ 
+03/22/2016: Station Maintenance:                                        [1225] 
+ 
+            - TEMP/RH: cleaned radiation shield and replaced the  
+              sensor filter. 
+ 
+ 
+ 
+============================================================================== 
+06/02/2015: Station Maintenance:                                        [1500] 
+ 
+            - routine station maintenance, including:  
+              - leaf wetness sensor cleaning 
+              - installation of lightning rod 
+ 
+ 
+ 
+============================================================================== 
+09/12/2014: System Maintenance:                                         [1303] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbaa-klr" 
+ 
+ 
+ 
+============================================================================== 
+09/24/2013: Station Maintenance:                                        [1400] 
+ 
+            - Additional power issues have been resolved.   
+ 
+            - Due to recent power issues, data was lost for the following: 
+ 
+                 09/20/2013 (d=263) 0405 - 09/21/2013 (d=264) 1000 
+                 09/21/2013 (d=264) 1805 - 09/22/2013 (d=265) 1000 
+                 09/24/2013 (d=266) 0205 - 09/24/2012 (d=266) 1000 
+ 
+ 
+09/18/2013: Station Maintenance:                                        [1130] 
+ 
+            - Power issues... replaced battery 
+ 
+ 
+08/28/2013: Station Maintenance:                                        [1310] 
+ 
+            - Temporary outage since 06:00pm on 08/27/2013 
+              - Replaced precipitation bucket 
+              - Replaced logger battery 
+ 
+ 
+ 
+============================================================================== 
+04/24/2010: Station Maintenance:                                        [1136] 
+ 
+            - Faulty wireless modem replaced. 
+            - Live database updates to be resumed on 04/26/2010 
+ 
+ 
+ 
+============================================================================== 
+08/13/2009: Station Maintenance:                                        [1200] 
+ 
+            - General station maintenance and system checks, including: 
+              - Tipping-bucket rain gauge test (faulty pcpn data 
+                that was introduced was removed on 09/04/09) 
+ 
+ 
+ 
+============================================================================== 
+08/18/2008: Data Correction: 
+ 
+            - Wind direction data reported during the following 
+              time period was corrected: 
+ 
+                  04/12/08 (d=103) 00:05  -  08/17/08 (d=230) 03:34 
+ 
+ 
+08/17/2008: Station Maintenance: 
+ 
+            - MAWN Program (BBC-KLR) was loaded at 03:34.  New  
+              program corrects multiplier used to calculate wind 
+              direction. 
+ 
+ 
+07/11/2008: Station Maintenance: 
+ 
+            - General station maintenance and system checks, including: 
+ 
+              - Logger was temporary disable during system maintenace 
+                which lead to a brief period of missing data. 
+ 
+              - Replacement of wind vane (i.e. wind direction) with 
+                a new and calibrated sensor. 
+ 
+              - Soil Moisture sensors now installed vertically: 
+                    - MSTR 0:  profile of depth =  0 - 12" 
+                    - MSTR 1:  profile of depth = 12 - 24" 
+         
+            - Work was done approx: 1030 - 1115 (Day=193) 
+ 
+ 
+04/16/2008: Station Online: 
+ 
+            - Station added to MAWN web site. 
+ 
+ 
+ 
+04/11/2008: Data Collection Enabled: 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                 First data report:   Apr 12, 2008 - 00:05 (Day=103) 
+ 
+ 
+ 
+04/11/2008: Station Maintenance: 
+ 
+            - Established telecommunication between station cell-modem and 
+              data collection PC/server on campus.    
+ 
+            - Loaded MAWN Program:  MAWN_BBC 
+                                                   B => CR1000 
+                                                   B => CS616  
+                                                   C => Broadband Cell Modem (IP) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+04/11/2008: Station Installed. 
+ 
+ 
+ 
+============================================================================== 
+

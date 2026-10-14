@@ -1,0 +1,280 @@
+=============================================================================== 
+Station Notes - Oshtemo (MI) 
+ 
+10/24/2023: Station Maintenance:                                        [1420] 
+ 
+            - site maintenance, including: 
+               - replaced leaf wetness [standard] sensor* 
+               - reinstall soil temp [10cm] sensor 
+ 
+               * leaf wetness [standard] faulty since 07/25/2023 
+              ** soil temp [10cm] faulty since 12/05/2022 
+ 
+  
+07/20/2023: Station Maintenance:                                        [1045] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery (13.6 V) 
+               - checked leaf wetness [standard] sensor (good)* 
+               - checked pyranometer (adjusted level) 
+               - checked soil sensors (replaced 10cm sensor)** 
+               - checked solar panel (20.89 V) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned battery terminals 
+               - cleaned solar panel  
+               - weed removal 
+ 
+               * site does not include a canopy sensor 
+              ** 10cm soil temp (SOIL1) appears faulty since 12/05/2022 
+ 
+ 
+05/23/2023: Station Maintenance:                                        [1140] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked atmp/relh sensor (good) 
+               - checked battery (13.42V) 
+               - checked pryanometer (adjusted level) 
+               - checked soil sensor cables (good) 
+               - checked solar panels (19.25V) 
+               - cleaned battery box (removed mouse nest) 
+               - cleaned solar panels  
+               - tested leaf wetness sensor [standard] (good)* 
+ 
+               * site does not include a canopy sensor 
+  
+ 
+ 
+============================================================================== 
+07/29/2022: Station Maintenance:                                        [1130] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery (13.22V) 
+               - checked pyranometer (adjusted level) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (20.56V) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned battery box (remove mouse) 
+               - cleaned solar panel 
+               - tested leaf wetness sensor [standard] (good)* 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+06/08/2022: Station / Logger Maintenence                                [1000] 
+ 
+            - resolved battery / power issues 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good, no issues with the bearings) 
+               - checked pyranometer (level) 
+               - checked tipping-bucket rain gauge (slight adjustment to level) 
+               - checked / cleaned HMP155A (atmp/relh) 
+               - checked / tested leaf wetness sensor (standard mount... good)* 
+               - checked / tested wind vane (properly aligned) 
+               - cleaned solar panel 
+               - weed removal 
+ 
+               * no canopy leaf wetness at this location  
+ 
+ 
+05/23/2022: Logger / Station Maintnenace:                               [1435] 
+ 
+            - loaded logger program: ost-bbcd.cr1* (237 -> LWS-L)** 
+                  * supports "maintenance mode" 
+                 ** sensor replaced: 07/23/2020 (no canopy) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+ 
+=============================================================================== 
+07/09/2021: Station Maintenance:                                         [0950] 
+ 
+            - routine site maintenance 
+            - replaced soil temperature (10cm) sensor 
+ 
+ 
+06/03/2021: Station / Logger Maintenance:                                [1200] 
+  
+            - replaced cell modem 
+            - reset logger (power issues) 
+ 
+ 
+05/20/2021: Station Maintenance:                                         [1405] 
+ 
+            - routine station maintenance  
+            - replaced atmp/relh sensor (hmp155a) 
+ 
+ 
+ 
+=============================================================================== 
+05/26/2020: Station Maintenance:                                         [1420] 
+ 
+            - routine station maintenance 
+ 
+ 
+ 
+=============================================================================== 
+06/26/2019: Logger Maintenance:                                          [1145] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: ost-bbca 
+ 
+ 
+06/17/2019: Station Maintenance:                                         [1510] 
+ 
+            - replaced faulty soil temperature sensor (10cm) 
+ 
+ 
+03/03/2019: Logger Maintenance:                                          [1310] 
+ 
+            - replaced battery wiring 
+ 
+ 
+ 
+=============================================================================== 
+07/26/2018: Station Maintenance:                                         [1130] 
+ 
+            - annual station / site maintenance  
+ 
+ 
+06/29/2018: Logger Maintenance:                                          [1100] 
+ 
+            - repaired bad communication cable  
+ 
+ 
+06/28/2018: Station Maintenance:                                         [1430] 
+ 
+            - general maintenance / cleanup 
+ 
+ 
+ 
+=============================================================================== 
+08/22/2017: Station Maintenance:                                         [1600] 
+ 
+            - routine maintenance  
+ 
+ 
+06/14/2017: Station Maintenance:                                         [0004] 
+ 
+            - loaded logger program "ost-bbca" 
+ 
+ 
+05/30/2017: Station Maintenance:                                         [1300] 
+ 
+            - annual maintenance, including: 
+               - rewire of atmp/relh (HMP155A) to "continuous" power 
+ 
+ 
+01/30/2017: Station Maintenance:                                        [1100] 
+ 
+            - repaired damaged battery cable 
+ 
+ 
+ 
+============================================================================== 
+12/19/2016: Station Maintenance:                                        [1100] 
+ 
+            - replaced logger battery 
+ 
+ 
+10/04/2016: Station Maintenance:                                        [1710] 
+ 
+            - replaced Air Temp/Relative Humidity Sensor: 
+                 HC2S3 -> HMP155A 
+            - loaded new logger program: ost-bbca 
+ 
+ 
+05/19/2016: Station Maintenance:                                        [1345] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+ 
+=============================================================================== 
+05/21/2015: Station Maintenance:                                         [1425] 
+ 
+            - routine maintenance, including: 
+               - remounted leaf wetness sensors 
+               - wire management 
+               - weed removal 
+ 
+ 
+01/16/2015: Station Maintenance:                                         [1300] 
+ 
+            - faulty battery replaced 
+            - solar panel cleared (covered with thick layer of snow) 
+ 
+ 
+ 
+=============================================================================== 
+12/10/2014: Station Maintenance:                                         [1030] 
+ 
+            - faulty battery replaced 
+ 
+ 
+07/02/2014: Station Maintenance:                                         [1230] 
+ 
+            - cleaned station 
+            - tall weeds removed 
+ 
+ 
+01/31/2014: Station Maintenance:                                         [1600] 
+ 
+            - moved configuration to new LoggerNet server 
+            - loaded logger program "bbba-ost" 
+ 
+ 
+01/30/2014: Station Maintenance:                                         [1430] 
+ 
+            - replaced logger battery 
+ 
+ 
+ 
+=============================================================================== 
+12/17/2012:  Station Online:                                            [xx:xx] 
+ 
+             - Station added to MAWN web site. 
+ 
+ 
+12/07/2012:  Data Collection Enabled                                    [12:00] 
+ 
+             - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   December 08, 2012 (Day=343) 
+ 
+ 
+12/07/2012:  Station Installed:                                         [12:00] 
+ 
+             - Station installed at station field site 
+ 
+ 
+12/05/2012:  Station Maintenance:                                       [13:15] 
+ 
+             - Established telecommunication between station cell-modem  
+               and data-collection PC/server on campus.    
+ 
+ 
+12/05/2012:  Station Setup                                              [13:11] 
+ 
+             - Loaded MAWN Program:   BBBA-OST 
+                                          B => CR1000/MI (Logger/State) 
+                                          B => CS616 (Soil Moisture) 
+                                          B => HC2S3 (Temp/RH) 
+                                          A => 237 (Leaf Wetness) 
+                                        OST => Station ID (Oshtemo)                                 
+ 
+             - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

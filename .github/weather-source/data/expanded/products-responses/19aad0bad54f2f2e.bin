@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Microsoft FrontPage 5.0">
+   <TITLE>MSU Climatology Program</TITLE>
+</HEAD>
+<body>
+
+<h1>East Central Lower Division -- Click on a station symbol for tables</h1>
+
+<HR width="100%">
+<CENTER>
+   <img src="ec-lower.gif" usemap="#EC-LOWER" hspace=5 vspace=5 border=0 height=324 width=376>
+      <map name="EC-LOWER">
+         <area shape="circle" coords="62,39,5"   href="stations/8800" alt="">
+         <area shape="circle" coords="94,10,5"   href="stations/4967" alt="">
+         <area shape="circle" coords="173,26,5"  href="stations/2423" alt="">
+         <area shape="circle" coords="104,100,5" href="stations/7820" alt="">
+         <area shape="circle" coords="24,100,5"  href="stations/3170" alt="">
+         <area shape="circle" coords="64,71,5"   href="stations/5434" alt="">
+         <area shape="circle" coords="10,223,5"  href="stations/0146" alt="">
+         <area shape="circle" coords="22,305,5"  href="stations/7280" alt="">
+         <area shape="circle" coords="81,299,5"  href="stations/6300" alt="">
+         <area shape="circle" coords="152,309,5" href="stations/2846" alt="">
+         <area shape="circle" coords="211,289,5" href="stations/4655" alt="">
+         <area shape="circle" coords="293,266,5" href="stations/9188" alt="">
+         <area shape="circle" coords="350,296,5" href="stations/6680" alt="">
+         <area shape="circle" coords="281,209,5" href="stations/7350" alt="">
+         <area shape="circle" coords="248,122,5" href="stations/0417" alt="">
+         <area shape="circle" coords="300,110,5" href="stations/3585" alt="">
+         <area shape="circle" coords="190,145,5" href="stations/7419" alt="">
+         <area shape="circle" coords="126,171,5" href="stations/2631" alt="">
+         <area shape="circle" coords="90,192,5"  href="stations/7227" alt="">
+         <area shape="circle" coords="110,210,5" href="stations/7217" alt="">
+         <area shape="circle" coords="194,201,5" href="stations/1299" alt="">
+         <area shape="circle" coords="172,248,5" href="stations/5488" alt="">
+         <area shape="circle" coords="85,235,5"  href="stations/7253" alt="">
+         <area shape="circle" coords="65,172,5"  href="stations/5434" alt="Midland">
+      </map>
+   </img>
+</center>
+
+<p>Additional Stations:</p>
+<p><a href="stations/7255/">7255 Saint Charles 3SSW</a></p>
+
+</BODY>
+</HTML>

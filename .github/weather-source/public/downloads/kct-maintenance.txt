@@ -1,0 +1,262 @@
+=============================================================================== 
+Station Notes - Kent City 
+ 
+11/15/2033: Logger Maintenance:                                          [0005] 
+ 
+            - replaced logger (CR1000 -> CR6)* 
+            - logger program: kct-bssd.cr6** 
+ 
+               * installed: 11/10/2023 
+               * enabled:   11/15/2023 
+ 
+              ** includes leaf wetness upgrade (237 -> LWS) [no canaopy] 
+              ** includes soil sensor upgrade 
+ 
+ 
+08/08/2023: Station Maintenance:                                         [1335] 
+ 
+            - routine site maintenance, including: 
+                - checked anemometer (good) 
+                - checked battery (13.32 V) 
+                - checked leaf wetness [canopy] sensor (not in canopy) 
+                - checked leaf wetness [standard] sensor (ok) 
+                - checked pyranometer (adjusted level) 
+                - checked soil sensors (good) 
+                - checked solar panel (20.0 V) 
+                - checked tipping-bucket rain gauge (adjusted level) 
+                - checked wind vane (properly aligned) 
+                - cleaned atmp/relh sensor and radiation shield 
+                - cleaned battery box 
+                - cleaned battery terminals 
+                - cleaned solar panel 
+                - weed removal 
+ 
+ 
+06/15/2023: Station Maintenance:                                         [1040] 
+ 
+            - routine site mainteance, inluding: 
+                - checked anemometer (good) 
+                - checked battery (13.79 V) 
+                - checked leaf wetenss [canopy] sensor* 
+                - checked leaf wetness [standard] sensor (good) 
+                - checked pyranometer (adjusted level) 
+                - checked soil sensors (good) 
+                - checked solar panel (20.34 V) 
+                - checked tipping-bucket rain gauge (adjusted level) 
+                - checked wind vane (properly aligned) 
+                - cleaned atmp/relh sensor and radiation shield 
+                - cleaned battery terminals 
+                - cleaned solar panel 
+                - weed removal 
+ 
+                * canopy sensor mounted on station tripod... not in a canopy 
+ 
+ 
+ 
+=============================================================================== 
+07/27/2022: Station Maintenance:                                         [1025] 
+ 
+            - routine site maintenance, including: 
+                - checked anemometer (good) 
+                - checked battery (13.67 V) 
+                - checked leaf wetness [standard] sensor: (good)* 
+                - checked pyranometer (adjusted level) 
+                - checked soil sensors (good) 
+                - checked solar panel (19.82 V) 
+                - checked tipping-bucket rain guage (adjusted level)  
+                - checked wind vane (properly aligned)  
+                - cleaned atmp/relh sensor and radiation sheild 
+                - cleaned solar panel 
+ 
+                * canopy sensor mounted on station tripod... not in a canopy  
+ 
+ 
+06/10/2022: Station Maintenance:                                         [0955] 
+ 
+           - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked battery 
+               - checked pyranometer (adjusted level) 
+               - checked wind vane (properly aligned) 
+               - checked / cleaned solar panel 
+               - checked / tested leaf wetness (canopy.. good)* 
+               - checked / tested leaf wetness (standard... good) 
+               - cleaned battery box 
+               - cleaned tipping-bucket rain gauge 
+               - weed / grass removal 
+ 
+               * canopy sensor mounted on station tripod... not in a canopy 
+ 
+ 
+ 
+=============================================================================== 
+07/26/2021: Station Maintenance:                                         [1000] 
+ 
+            - routine site maintenance 
+ 
+ 
+06/03/2021: Station Maintenance:                                         [1000] 
+ 
+            - routine site maintenance, including: 
+               - modem update 
+ 
+ 
+ 
+=============================================================================== 
+06/03/2020: Logger / Station Maintenance                                 [1105] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - loaded logger program: kct-bbaa 
+ 
+ 
+05/29/2020: Station Maintenance:                                         [1100] 
+ 
+            - routine site maintenance, including: 
+               - replaced soil moisture sensor (sensor 0) 
+ 
+ 
+ 
+=============================================================================== 
+06/04/2019: Logger Maintenance:                                          [1010] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: kct-bbaa  
+ 
+ 
+ 
+=============================================================================== 
+10/26/2018: Logger Maintenance:                                          [1230] 
+ 
+            - replaced communication modem 
+ 
+ 
+08/02/2018: Station Maintenance:                                         [1150] 
+ 
+            - general maintenance / weed removal 
+ 
+ 
+06/07/2018: Station Maintenance:                                         [1520]  
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+=============================================================================== 
+10/20/2017: Logger Maintenance:                                          [0003] 
+ 
+            - loaded logger program "kct-bbaa" 
+ 
+ 
+08/07/2017: Station Maintenance:                                         [1215] 
+ 
+            - annual maintenance 
+ 
+ 
+05/31/2017: Station Maintenance:                                         [1530] 
+ 
+            - annual maintenance, including: 
+               - rewire of atmp/relh (HMP45C) to "continuous" power 
+ 
+ 
+01/23/2017: Station Maintenance:                                         [1210] 
+ 
+            - replaced soil temperature sensors 
+            - loaded temporary logger program (1210) 
+            - reload logger program: bbaa-kct (1501) 
+ 
+ 
+ 
+=============================================================================== 
+12/22/2016: Station Maintenance:                                         [1130] 
+ 
+            - replaced logger battery 
+            - cleared ice/snow off of solar panel 
+ 
+ 
+ 
+=============================================================================== 
+08/19/2014:  Station Maintenance:                                        [1500] 
+ 
+             - routine maintenance, including: 
+                - replacement of anemometer (wind speed) 
+                 
+ 
+05/14/2014:  Station Maintenance:                                        [1500] 
+ 
+             - Routine maintenance  
+             - cleaned temp/rh sensor 
+ 
+ 
+01/31/2014:  Station Maintenance:                                        [1200] 
+ 
+             - moved configuration to new LoggerNet server 
+             - loaded logger program "bbaa-kct" 
+ 
+ 
+01/24/2014:  Station Maintenance:                                        [1400] 
+ 
+             - replaced logger battery 
+ 
+ 
+ 
+=============================================================================== 
+12/27/2013:  Station Maintenance:                                        [1200] 
+ 
+             - replaced logger battery 
+ 
+ 
+03/31/2010:  Station Maintenance:                                        [1100] 
+ 
+             - replaced faulty wireless modem 
+ 
+ 
+ 
+ 
+ 
+=============================================================================== 
+11/16/2009:  Station Online: 
+ 
+                - Station added to MAWN web site. 
+ 
+ 
+ 
+ 
+11/09/2009:  Data Collection Enabled: 
+ 
+                - Data Collection and Data Archive for new station begins: 
+ 
+                     First data report:   Nov 10, 2009 - 00:05 (Day=314) 
+ 
+ 
+ 
+11/09/2009:   Station Setup: 
+ 
+                - Station Installed at Field Location. 
+ 
+ 
+ 
+07/23/2009:  Station Maintenance: 
+ 
+                - Established telecommunication between station cell-modem and 
+                  data collection PC/server on campus.    
+ 
+                - Loaded MAWN Program:   BBC-KCT 
+                                             B => CR1000 
+                                             B => CS616  
+                                             C => Broadband Cell Modem (IP) 
+                                           KCT => Station ID (Kent City) 
+                                        
+ 
+                - Now able to collect raw weather data. 
+ 
+ 
+ 
+ 
+07/23/2009:   Station Setup: 
+ 
+                - Station Communication (Broadband Modem) Installed 
+                  and Configured. 
+ 
+=============================================================================== 
+

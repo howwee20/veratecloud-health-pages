@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Microsoft FrontPage 5.0">
+   <TITLE>MSU Climatology Program</TITLE>
+</HEAD>
+<body>
+
+<h1>Southeast Lower Division -- Click on a station symbol for tables</h1>
+
+<HR width="100%">
+
+<center>
+   <img src="se-lower.gif" usemap="#SE-LOWER" hspace=5 vspace=5 border=0 height=374 width=340>
+      <map name="SE-LOWER">
+         <area shape="circle" coords="71,6,5"    href="stations/7217" alt="Saginaw City">
+         <area shape="circle" coords="49,33,5"   href="stations/7253" alt="">
+         <area shape="circle" coords="245,9,5"   href="stations/7350" alt="">
+         <area shape="circle" coords="137,46,5"  href="stations/5488" alt="">
+         <area shape="circle" coords="45,95,5"   href="stations/6300" alt="">
+         <area shape="circle" coords="116,106,5" href="stations/2846" alt="">
+         <area shape="circle" coords="174,85,5"  href="stations/4655" alt="">
+         <area shape="circle" coords="256,61,5"  href="stations/9188" alt="Yale">
+         <area shape="circle" coords="312,92,5"  href="stations/6680" alt="">
+         <area shape="circle" coords="221,138,5" href="stations/8650" alt="">
+         <area shape="circle" coords="176,164,5" href="stations/6658" alt="">
+         <area shape="circle" coords="121,183,5" href="stations/5452" alt="">
+         <area shape="circle" coords="83,178,5"  href="stations/3947" alt="">
+         <area shape="circle" coords="32,167,5"  href="stations/9006" alt="">
+         <area shape="circle" coords="9,255,5"   href="stations/4150" alt="Jackson">
+         <area shape="circle" coords="79,323,5"  href="stations/0032" alt="">
+         <area shape="circle" coords="176,320,5" href="stations/5558" alt="">
+         <area shape="circle" coords="225,214,5" href="stations/2102" alt="">
+         <area shape="circle" coords="247,220,5" href="stations/3477" alt="">
+         <area shape="circle" coords="192,236,5" href="stations/2015" alt="">
+         <area shape="circle" coords="181,255,5" href="stations/2103" alt="">
+         <area shape="circle" coords="133,247,5" href="stations/9218" alt="">
+         <area shape="circle" coords="142,280,5" href="stations/9014" alt="">
+         <area shape="circle" coords="120,238,5" href="stations/0230" alt="">
+         <area shape="circle" coords="259,174,5" href="stations/5650" alt="">
+         <area shape="circle" coords="1,163,5"   href="stations/2395" alt="">
+      </map>
+   </img>
+</center>
+
+<p>Additional Stations:</p>
+<p><font size="4"><a href="stations/1502/">1502 Chelsea</a></font></p>
+<p><font size="4"><a href="stations/5450/">5450 Milan</a></font></p>
+
+</BODY>
+</HTML>

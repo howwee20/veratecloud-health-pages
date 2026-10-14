@@ -1,0 +1,74 @@
+============================================================================== 
+Station Notes - Egg Harbor (WI) 
+ 
+ 
+08/18/2023: Station Retired                                             [0000] 
+  
+            - station retired 
+               - station now being managed by Wisconet (Wisconsin Mesonet)... 
+                  ...for more information and current data, refer to: 
+ 
+                        https://wisconet.wisc.edu 
+                        https://wisconet.wisc.edu/stations/egg_harbor 
+ 
+ 
+ 
+============================================================================== 
+07/31/2019: Logger / Station Maintenance:                               [0900] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: cbab-ehb 
+ 
+ 
+ 
+============================================================================== 
+12/18/2015: Station Maintenance:                                        [1500] 
+ 
+            - replaced faulty battery 
+ 
+ 
+ 
+============================================================================== 
+04/09/2014: Station Maintenance:                                        [1003] 
+ 
+            - Loaded Logger Program "cbab-ehb" which should now properly 
+              report Leaf Wetness values from LWS-L sensors 
+ 
+ 
+ 
+============================================================================== 
+08/03/2011 Station Online:                                              [1700] 
+ 
+           - Station added to MAWN web site. 
+ 
+ 
+08/03/2011: Data Collection Enabled:                                    [1530] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                 First data report:   Jul 14, 2011 - 00:05 (Day=195)* 
+ 
+                 * earlier data may be added later. 
+ 
+ 
+08/03/2011: Station Maintenance:                                        [1530] 
+ 
+            - Established telecommunication between station cell 
+              modem and data collection PC/server on campus. 
+ 
+ 
+xx/xx/2011: Station Installed:                                          [xxxx] 
+ 
+            - Loaded MAWN Program:   BBC-WISC 
+                                       B => CR1000 
+                                       B => CS616  
+                                       C => Broadband Cell Modem (IP) 
+                                    WISC => Generic MAWN Progrm For Wisconsin 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

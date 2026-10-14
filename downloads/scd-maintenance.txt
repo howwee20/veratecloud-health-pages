@@ -1,0 +1,426 @@
+=============================================================================== 
+Station Notes - Scottdale 
+ 
+ 
+11/17/2023: Logger Maintenance:                                          [0005] 
+ 
+            - replaced logger (CR1000 -> CR6)* 
+            - logger program: scd-bssb.cr6** 
+ 
+               * installed: 11/02/2023 
+               * enabled:   11/17/2023 
+ 
+              ** includes addition of canopy leaf wetness sensor (grapes) 
+              ** inclueds atmp/relh sensor upgrade (dwpt now observed) 
+              ** includes soil sensor upgrade 
+ 
+ 
+07/17/2023: Station Maintenance:                                        [1115] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery (13.61 V) 
+               - checked leaf wetness [standard] sensor (good)* 
+               - checked pyranometer (adjusted level)   
+               - checked soil sensors (good) 
+               - checked solar panel (19.85 V) 
+               - checked tipping-bucket rain gauge (adjusted level)  
+               - checked wind vane (aligned properly) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned battery terminals 
+               - cleaned solar panel 
+               - weed removal 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+05/16/2023: Station Maintenance:                                        [1230] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked battery (13.89V) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (19.84V) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - cleaned solar panels 
+               - replaced leaf wetness sensor [standard]* 
+ 
+               * no canopy sensor in use at this site 
+ 
+ 
+ 
+============================================================================== 
+07/22/2022: Station Maintenance:                                        [1000] 
+ 
+            - replaced faulty atmp/relh sensor (hmp155)  
+ 
+ 
+07/18/2022: Station Maintenance:                                        [1020] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery (13.63V) 
+               - checked pyranometer (good)  
+               - checked soil sensor cables (good) 
+               - checked solar panel (21.27V) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - tested leaf wetness sensor [standard] (good)* 
+               - weed removal 
+ 
+               * canopy leaf wetness sensor not in use 
+ 
+ 
+05/25/2022: Station / Logger Maintenence                                [1030] 
+ 
+            - routine site maintenance, including: 
+               - adjusted (leveled) pyranometer 
+               - checked enclosure (clean) 
+               - checked anemometer (bearings smooth and quiet) 
+               - checked atmp/relh sensor and radiation shield (clean) 
+               - checked leaf wetness sensor (standard)* 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - cleaned solar panel 
+               - weed removal  
+ 
+               * no canopy sensor at this site 
+ 
+ 
+05/25/2022: Logger Maintenance:                                         [1002] 
+ 
+            - loaded logger program: scd-bbad.cr1*  
+                 - standard leaf wetness only [no canopy sensor] 
+                 * supports "maintenance mode" 
+ 
+ 
+ 
+============================================================================== 
+07/07/2021: Station Maintenance:                                        [1030] 
+ 
+            - routine site maintenance  
+ 
+ 
+05/14/2021: Station Maintenance:                                        [1300] 
+ 
+            - routine site maintenance  
+            - installed updated modem 
+ 
+ 
+ 
+============================================================================== 
+05/21/2020: Station Maintenance:                                        [1235] 
+ 
+            - routine site maintenance  
+            - replaced leat wetness mount (standard mount only) 
+ 
+ 
+03/08/2020: Station Maintenance:                                        [1215] 
+ 
+            - relaced faulty wind sentry (wind direction / wind speed) 
+ 
+ 
+ 
+============================================================================== 
+07/20/2019: Logger / Station Maintnenace:                               [1502] 
+ 
+            - loaded logger program: scd-bbad 
+            - cleaned-up previously collected data 
+ 
+ 
+07/09/2019: Logger / Station Maintenance:                               [1155] 
+  
+            - replaced leaf wetness (237 -> LWS-L)   [no canopy] 
+            - loaded logger program: scd-bbab* 
+ 
+            * field copy... not reporting five-minute wind 
+ 
+ 
+07/03/2019: Logger / Station Maintenance:                               [1205] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: scd-bbaa 
+ 
+ 
+03/14/2019: Station Maintenance:                                        [----] 
+ 
+            - debris removed from tipping-bucket rain gauge 
+ 
+ 
+ 
+=============================================================================== 
+07/17/2018: Logger/Station Maintenance:                                  [1130] 
+ 
+            - repaired cabling issue between logger and charge controller 
+ 
+ 
+05/23/2018: Logger/Station Maintenance:                                  [1200] 
+ 
+            - relaced logger (CR1000)  
+            - replaced tipping-bucket rain gauge 
+ 
+ 
+05/10/2018: Station Maintenance:                                         [1330] 
+ 
+            - annual maintenance, including:  
+               - replacement of tipping-bucket rain gauge* 
+ 
+               * note: problems continue with precipitation data 
+             
+ 
+  
+===============================================================================  
+08/22/2017: Station Maintenance:                                         [1600] 
+ 
+            - routine maintenance  
+ 
+ 
+10/17/2017: Station Maintenance:                                         [0005] 
+ 
+            - loaded logger program "scd-bbaa" 
+ 
+ 
+07/13/2017: Station Maintenance:                                         [1245] 
+ 
+            - annual maintenance, including: 
+               - rewire of atmp/relh (HMP45C) to "continuous" power 
+ 
+ 
+ 
+=============================================================================== 
+12/13/2016: Station Maintenance:                                         [1325] 
+ 
+            - replaced logger battery 
+ 
+ 
+08/08/2016: Station Maintenance:                                         [1400] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+ 
+=============================================================================== 
+05/29/2015: System Maintenance:                                          [1300] 
+ 
+            - lithium battery replaced 
+            - reloaded logger program "bbaa-scd" 
+ 
+ 
+05/27/2015: Station Maintenance:                                         [1155] 
+ 
+            - routine maintenance, including: 
+               - remounted leaf wetness sensors 
+               - weed removal 
+ 
+ 
+ 
+=============================================================================== 
+10/10/2014: System Maintenance:                                          [1504] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbaa-scd" 
+ 
+ 
+ 
+=============================================================================== 
+04/17/2013: Station Maintenance:                                         [1135] 
+ 
+            - Repaired Air Temperature/Relative Humidity Sensor 
+            - NOTE: Due to failure, Air Temp/RH data was lost for: 
+ 
+                 04/09/2013 (d=099) 1900 - 04/17/2013 (d=107) 1135 
+ 
+ 
+04/09/2013: Station Maintenance:                                         [1700] 
+ 
+            - CR10X logger replaced with CR1000 logger. 
+            - Loaded Logger Program BBAA-SCD Program 
+            - NOTE: New Program Slightly Modifies RAW CSV Files 
+ 
+ 
+02/01/2013: Station Maintenance:                                         [1200] 
+  
+            - Battery replaced.  Battery issues led to loss of data. 
+ 
+ 
+01/04/2013: Station Maintenance:                                         [1200] 
+ 
+            - Solid-State replay replaced.  Recent issues led to loss of 
+              data for the following period: 
+ 
+                 12/22/2012 (d=357) 00:10  -  01/04/2013 (d=004) 1200 
+ 
+ 
+ 
+=============================================================================== 
+12/23/2012: Station Maintenance:                                         [1230] 
+ 
+            - Battery replaced. 
+ 
+ 
+07/31/2012: Station Maintenance:                                         [1410] 
+ 
+            - Replaced Modem 
+ 
+ 
+ 
+=============================================================================== 
+05/31/2011: Station Maintenance:                                         [1505] 
+ 
+            - Routine Spring Maintenance, including: 
+              - Weed-Control (removal and herbicide application) 
+ 
+ 
+ 
+=============================================================================== 
+03/11/2010: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCF (hourly collection cycle)       [0006] 
+ 
+ 
+01/03/2010: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCW (3-hour collection cycle)       [0002] 
+ 
+ 
+ 
+=============================================================================== 
+12/28/2009: Station Maintenance:                                         [1100] 
+ 
+            - Battery was replaced. 
+ 
+ 
+08/05/2009: Station Maintenance:                                         [1200] 
+ 
+            - General station maintenance and system checks, including: 
+              - Tipping-bucket rain gauge test (faulty pcpn data 
+                that was introduced was removed on 09/04/09) 
+ 
+ 
+05/22/2009: Station Maintenance:                                         [1300] 
+ 
+            - General station maintenance and system checks, including: 
+              - Anemometer (wind speed) replacement 
+ 
+ 
+02/15/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCF (hourly power cycle)            [0006] 
+ 
+ 
+01/23/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCW (3-hour power cycle)            [1148] 
+ 
+ 
+01/23/2009: Station Maintenance:                                         [1130] 
+ 
+            - Recent telecommunication troubles were corrected by  
+              replacing broadband cell-ip modem. 
+ 
+            - Recent datalogger troubles were corrected by replacing 
+              battery - battery failure led to missing data. 
+ 
+ 
+ 
+=============================================================================== 
+10/29/2008: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCF (60-minute power cycle)  [0005] 
+ 
+ 
+07/14/2008: Station Maintenance: 
+ 
+            - Replaced datalogger (CR10X). 
+ 
+            - Loaded MAWN Program: ABCS (30-minute power cycle) 
+ 
+            - Data for the following time period was lost due to  
+              recent logger failure: 
+ 
+                07/11/08 (d=193) 1335  -  07/14/08 (d=196) 1205 
+ 
+ 
+07/11/2008: Station Maintenance: 
+ 
+            - General station maintenance and system checks, including: 
+              - Replaced solar radiation sensor. 
+              - Soil Moisture sensors now installed vertically: 
+                - MSTR 0:  profile of depth =  0 - 12" 
+                - MSTR 1:  profile of depth = 12 - 24" 
+         
+            - Work was done approx: 1330 - 1305 (Day=193) 
+ 
+ 
+05/09/2008: Station Maintenance: 
+ 
+            - Per landowner's request, station was moved approx. 
+              50-ft.  Temporary loss of data occurred while station 
+              was offline during the move. 
+ 
+            - Replaced Soil Moisture B (10") with a new sensor. 
+ 
+            - Loaded MAWN Program (abcs) - 30 minute power cycle. 
+ 
+ 
+ 
+=============================================================================== 
+07/11/2007: Station Maintenance (bn): 
+ 
+            - General station maintenance and system checks. 
+              - Work was done approx: ??:?? - ??:?? (Day=192) 
+ 
+ 
+ 
+=============================================================================== 
+10/18/2006: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:   MAWN_ABCF (10:35) 
+ 
+ 
+09/07/2006: Station Maintenance: (jb): 
+ 
+            - Loaded MAWN Program:   ABCS (hourly voltage) 
+ 
+ 
+03/15/2006: Station Maintenance: (sm) 
+ 
+            - Anemometer installed (11:05am) [Day=74] 
+ 
+ 
+03/08/2006: Station Online: 
+ 
+            - Data Collection and Data Archive for new station begins and 
+              now made available via the MAWN website: 
+ 
+                 First data report:   Mar 08, 2006 - 00:05   (Day=67) 
+ 
+ 
+03/08/2006: Station Maintenance: 
+ 
+            - Established telecommunication between station cell-modem and 
+              data collection PC/server on campus.   Now able to collect 
+              raw weather data. 
+ 
+ 
+03/07/2006: New Station Installed: 
+ 
+            Notes: 
+                  
+               - leaf wetness B (canopy) - still needs to be installed. 
+ 
+               - Data Logger Program Loaded:    MAWN_BBCS 
+ 
+ 
+            Additional Station Needs: 
+ 
+               - Needs Anemometer 
+ 
+               - Needs Modification To MAWN Program To Properly Record 
+                 Soil Moisture Data 
+ 
+ 
+ 
+============================================================================== 
+

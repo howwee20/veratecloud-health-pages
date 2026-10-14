@@ -1,0 +1,416 @@
+============================================================================== 
+Station Notes - Pigeon: 
+ 
+ 
+08/11/2023: Station Maintenance:                                        [1500] 
+ 
+            - sensor repair / replacement, including: 
+               - replaced ATMP/RELH sensor (HMP45C -> HMP155) 
+ 
+               - loaded new logger program (pig-bbcd.cr1) 
+ 
+ 
+ 
+============================================================================== 
+05/02/2022: Logger / Station Maintenance:                               [1105] 
+ 
+            - loaded logger program: pig-bbad.cr1* (237 -> LWS-L)** 
+                  * supports "maintenance mode" 
+                 ** sensor replaced: 07/21/2020 (no canopy) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+ 
+============================================================================== 
+08/10/2021: Station Maintenance:                                        [1045] 
+ 
+            - routine site maintenance, including: 
+               - replacement of 10cm soil temperature sensor [soil1] 
+ 
+ 
+06/08/2021: Station / Logger Maintenance:                               [1115] 
+ 
+            - routine site maintenance  
+            - logger maintenance, including: 
+               - modem update 
+ 
+ 
+ 
+============================================================================== 
+07/21/2020: Station Maintenance:                                        [1445] 
+ 
+            - station maintenance, including: 
+               - replace wind sentry (broken wind vane) 
+               - replace leaf wetness (237 -> LWS)* 
+ 
+               * needs updated logger program / db change 
+ 
+ 
+06/11/2020: Logger / Station Maintenance:                               [1130] 
+ 
+            - routine site maintenance, including: 
+               - wind vane repair (temporary) 
+ 
+ 
+ 
+============================================================================== 
+08/07/2019: Logger / Station Maintenance:                               [1350] 
+ 
+            - replaced logger (CR10X -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: pig-bbac 
+ 
+ 
+01/04/2019: Station/Logger Maintenance:                                 [1140] 
+ 
+            - replaced logger battery 
+ 
+ 
+ 
+============================================================================== 
+06/20/2018: Station Maintenance:                                        [1500] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+============================================================================== 
+08/16/2017: Station Maintenance:                                        [1320] 
+ 
+            - routine maintenance  
+ 
+ 
+06/21/2017: Station Maintenance:                                        [1315] 
+ 
+            - annual maintenance, including: 
+               - clear obstruction from tipping-bucket rain gauge 
+ 
+ 
+ 
+============================================================================== 
+06/21/2016: Station Maintenance:                                        [1340] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+ 
+============================================================================== 
+06/16/2015: Station Maintenance:                                        [1300] 
+ 
+            - routine station maintenance  
+ 
+ 
+ 
+============================================================================== 
+07/09/2014:  Station Maintenance:                                       [1240] 
+ 
+             - routine maintenance, including: 
+                - cleaned air temp / rh sensor 
+                - cleaned leaf wetness sensor 
+                - cleaned solar radiation sensor 
+                - cleaned out tipping-bucket rain gauge 
+                - weed removal  
+ 
+ 
+02/27/2014:  Station Maintenance:                                       [1506] 
+  
+             - Moved data-collection to new LoggerNet server 
+             - Loaded logger program: AACF (hourly cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/06/2013:  Station Maintenance:                                       [1030] 
+  
+             - Logger Battery Replaced 
+ 
+ 
+12/05/2013:  Station Maintenance:                                       [1602] 
+ 
+             - Loaded Logger Program "AACW" (3-hour collection cycle) 
+ 
+ 
+07/24/2013: Station Maintenance:                                        [????] 
+  
+            - Replaced anemometer (wind speed sensor) 
+ 
+ 
+ 
+============================================================================== 
+08/13/2012:  Station Maintenance:                                      [15:45] 
+ 
+             - Cleaned obstructions from rain gauge funnel 
+ 
+ 
+ 
+============================================================================== 
+07/27/2010:  Station Maintenance:                                      [????] 
+ 
+             - Routine maintence, including: 
+                - weed/grass removal 
+                - removed minor obstruction from rain gauge bucket 
+                - cleaned solar panel 
+                - cleaned solar radiation sensor 
+ 
+ 
+ 
+============================================================================== 
+08/08/2008:  Station Maintenance: 
+ 
+             - General station maintenance and system checks, including: 
+                   - Soil Moisture sensors now installed vertically: 
+                         - MSTR 0:  profile of depth =  0 - 12" 
+                         - MSTR 1:  profile of depth = 12 - 24" 
+ 
+             - Work was done approx: 1500 - 1600 (Day=221) 
+ 
+ 
+08/13/2008:  Database Modification: 
+ 
+             - Added hourly battery voltage (logging of the hourly 
+               voltage data actually started at 3:00pm on April 04, 
+               2008 (d=095). 
+ 
+ 
+04/04/2008:  Station Maintenace (sm): 
+ 
+             - Installed wireless broadband modem.   This was done 
+               to correct recent troubles with local land line 
+               modem.                                               [12:30] 
+ 
+             - Established communication to wireless broadband  
+               modem using LoggerNet.                               [14:00] 
+  
+             - Loaded MAWN Program:   AACF   (hourly schedule)      [14:15] 
+ 
+ 
+ 
+============================================================================== 
+10/03/2005:  Station Maintenance (sm): 
+ 
+             - Funnel to the tipping bucket on the rain gauge was 
+               plugged.  Debris was removed and obstruction was 
+               cleared this afternoon (10/03/05 - Day=276) 
+ 
+ 
+04/20/2005:  Station Maintenance (sm): 
+ 
+             - CR10 Datalogger for the Pigeon MAWN station failed at 17:35 on 
+               April 15, 2005 (Day=105) and was replaced with a CR10X at 12:15 
+               on April 20, 2005 (Day=110).   All data was lost while the 
+               datalogger was down.   
+ 
+ 
+ 
+============================================================================== 
+08/13/2004:  Data Correction (jtb): 
+ 
+             - Faulty Air Temp/RH Data Marked As Missing For the Following 
+               Records: 
+ 
+                  08/06/04 (day=219) 10:40 - 08/12/2004 (day=225) 14:20 
+ 
+ 
+             - Faulty Soilt Temp A (2") and Soil Temp B (4") Marked As Missing  
+               For the Following Records: 
+ 
+                  08/07/04 (day=220) 15:00 - 08/12/2004 (day=225) 14:20 
+ 
+ 
+08/12/2004:  Station Maintenance (crn): 
+ 
+             - Replaced Temperature/Relative Humidity Sensor (HMP45C). 
+               The previous sensor  had been reported errors since 
+               08/06/2004 (day=219) 10:40 
+ 
+             - Replaced Soil Temperature A (2").  The previous sensor 
+               had been reporting errors since 08/07/2004 (day=220) 15:00 
+ 
+             - Soil Temperature B (4") may still be bad - unable to replace 
+               at this time. 
+ 
+ 
+08/02/2004:  Station Maintenance (crn, jal): 
+ 
+             - Installed new Anemometer 
+  
+             - Upgraded Temperature/Relative Humidity Sensor (HMP45C) 
+ 
+             - Loaded new program to datalogger (MAWN1B).  Previous 
+               buffer was flushed.  Lost data between 17:25 - 21:10. 
+ 
+               Note: Daily Values (max/min) for this day (Day=216) only 
+                     included observations made after the new program  
+                     was loaded (i.e. time > 21:10). 
+ 
+             - Cleared weeds around station and applied Round-Up above 
+               soil temperature plot (SW quadrant) 
+ 
+ 
+ 
+============================================================================== 
+04/08/2002:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+             - Time of Obs were modified by one hour (forward)  
+               from Day=97, Time=200 through Day=97, Time=415. 
+ 
+ 
+10/31/2001:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=301, Time=200 through Day=301, Time=610. 
+ 
+ 
+10/30/2000:  Daylight Savings Time Adjustment. 
+                 
+             - Daylight Savings Time Ended on Day=303, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=303, Time=200 through Day=304, Time=1615. 
+               Only Observation Times were modified, not times of 
+               Maxs and Mins.  Users will need to take that into 
+               consideration when using this data. 
+ 
+ 
+08/15/2000:  Phone service to Pigeon re-established.   
+ 
+             - Lost data from the datalogger while phone was out.   
+               The following data is missing: 
+ 
+                  08/04/2000 (Day=217) Time=625 
+  
+                     thru 
+ 
+                  08/08/2000 (Day=220) Time=2400 
+ 
+ 
+07/25/2000:  Pigeon Station added to MAWN database 
+ 
+ 
+07/19/2000:  Data Logging Activated (mawn1b) 
+            
+             - Data Logger Start Time:  00:05, Day=202 (07/20/2000) 
+ 
+ 
+07/19/2000:  Station Update  
+ 
+             - Comments:        Difficult to get to.  Access lane along  
+                                drainage ditch plowed over and planted with 
+                                corn.  Station located in a corner of a corn 
+                                field next to drainage ditch, southwest of  
+                                dairy farm. 
+ 
+                                Station tripod not installed in the normal 
+                                position with leg facing south.  This station 
+                                instead appears to be installed with leg  
+                                facing east.  Tripod Legs are mounted to 
+                                wooden blocks, so position was left the same. 
+                                However, did unbolt during update so wind 
+                                sentry and solar panel could be installed 
+                                without the need of a ladder.  Lag-bolt 
+                                on northwest facing leg snapped as it was 
+                                very rusted.  Lag-bolts on other two posts 
+                                were replaced. 
+ 
+                                General condition:  Complete overhaul as  
+                                the existing station showed much wear. 
+                                Concern about possible microclimate 
+                                variabilities due to corn planted near 
+                                the station and very tall weeds that  
+                                covered the entire station plot.  Appears 
+                                that no care is taken to clean weeds and 
+                                grass at the station site. 
+ 
+                                Updated station using datalogger and hardware 
+                                that was used and displayed at AgExpo 2000. 
+ 
+                                Modem was installed and RJ11 phone wire was 
+                                connected as was the interface cable.  There  
+                                was a green tab for Power and Ground, but  
+                                nothing was connected as the installation  
+                                was done as other modems (e.g. Belding).  Dial 
+                                tone verified active phone line, but after 
+                                returning from field, learned that modem  
+                                wasn't picking up. 
+ 
+                                - jtb 
+                          
+ 
+             - Leaf Wetness A:  New Hardware 
+                                - Bracket mounted 3-feet from center of  
+                                  tripod, 39-inches (~1m) high.  Mounted 
+                                  on East leg, sensor facing north. 
+ 
+             - Leaf Wetness B:  Not Installed 
+ 
+             - Soil Temp A:     New Hardware 
+                                - Installed at 2-inch depth, north of  
+                                  southwest leg, north of Soil Temp B.   
+                                  Soil cover=sod (no herbicide applied). 
+ 
+             - Soil Temp B:     New Hardware 
+                                - Installed at 4-inch depth, north of 
+                                  southwest leg, south of Soil Temp A.   
+                                  Soil cover=sod (no herbicide applied). 
+ 
+             - Soil Moisture A: New Hardware 
+                                - Probe installed east of southwest leg,  
+                                  approx. one foot northeast of Soil  
+                                  Moisture B.   
+                                  Soil cover=sod (no herbicide applied). 
+ 
+             - Soil Moisture B: New Hardware 
+                                - Probe installed east of southwest leg,  
+                                  approx. one foot southwest of Soil  
+                                  Moisture A.   
+                                  Soil cover=sod (no herbicide applied). 
+ 
+             - Air Temp/RH:     New Hardware 
+                                - Installed HMP45C, facing south, height 
+                                  of 59" to 8th plate. 
+                                  (requires mawn1b) 
+ 
+             - Wind Vane:       New Hardware 
+                                - Points to North 
+ 
+             - Anemometer:      New Hardware 
+                                - Points to South 
+ 
+             - Pyranometer:     New Hardware 
+                                - Mounted bracket facing to the southwest. 
+                                   
+             - Solar Panel:     New Hardware 
+                                - Installed near the top of the mast, below 
+                                  wind vane and anemometer.  Panel facing  
+                                  south, tilted at 45-degrees. 
+ 
+             - Precipitation:   New Hardware 
+                                - Installed and leveled to existing pipe 
+                                  located in the West section of station  
+                                  plot. 
+ 
+             - Modem:           New Hardware 
+                                - Installed exisiting phone line.  Phone 
+                                  company access box located in the western 
+                                  section of station plot. 
+                                - Connected using RJ11 connector 
+  
+ 
+             - Needs:          - Leaf Wetness B 
+                               - North Leg Needs To Be Bolted (or maybe entire 
+                                 station repositioned and secured to fence 
+                                 posts).  Tripod not currently aligned in  
+                                 the same position as other MAWN stations. 
+                               - Pyranometer may need to be checked for level. 
+                               - Herbicide needed above soil temps. 
+                               - Troubleshoot modem - phoneline 
+ 
+ 
+ 
+============================================================================== 
+

@@ -1,0 +1,199 @@
+=============================================================================== 
+Station Notes - Allegan (MI) 
+=============================================================================== 
+ 
+ 
+05/24/2023: Station Maintenance:                                        [1440] 
+  
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked atmp/relh sensor (good) 
+               - checked battery (13.42V) 
+               - checked pyranometer (good) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (19.81V) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - cleaned battery box) 
+               - cleaned solar panel 
+               - tested leaf wetness sensor [canopy] (faulty)* 
+               - tested leaf wetness sensor [standard] (good) 
+      
+               * replaced faulty leaf wetness sensor [canopy]   
+                  - located under nearby tree at height = 40" 
+ 
+ 
+           
+============================================================================== 
+07/29/2022: Station Maintenance:                                        [1025] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (replaced bearings) 
+               - checked battery (13.49V) 
+               - checked pyranometer (adjusted level) 
+               - checked soil sensor cales (good) 
+               - checked solar panel (20.09V) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned solar panel 
+               - cleaned tipping-bucket rain gauge 
+               - replaced leaf wetness sensor [standard] 
+               - tested leaf wetness sensor [canopy] (good) 
+ 
+ 
+06/01/2022: Station / Logger Maintenence                                [1415] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (replace bearings/cups next visit) 
+               - checked battery 
+               - checked pyranomter (level) 
+               - checked soil sensor cables (good) 
+               - checked / adjusted wind vane (alignment was not correct) 
+               - checked / cleaded HMP45C (atmp/relh) 
+               - checked / tested leaf wetness sensor (canopy... good) 
+               - checked / tested leaf wetness sensor (standard... good) 
+               - checked / tested tipping-bucket rain gauge 
+               - cleaned solar panel 
+               - updated GPS coordinates 
+               - weed removal 
+ 
+ 
+ 
+=============================================================================== 
+07/20/2021: Station Maintenance:                                         [1240] 
+ 
+            - routine site maintenance, including: 
+               - replaced faulty soil temp [5cm] (soil0) sensor 
+ 
+ 
+07/06/2021: Station Maintenance:                                         [1525] 
+ 
+            - routine site maintenance  
+ 
+ 
+05/20/2021: Station / Logger Maintenance:                                [1315] 
+ 
+            - routine site maintenance, including: 
+               - replacement of HMP45C (atmp / relh) 
+ 
+ 
+04/02/2021: Station Maintenance:                                         [1830] 
+ 
+            - replaced soil temperature sensor (10cm) [soil1] 
+            - repaired faulty leaf wetness sensor [standard mount] 
+ 
+ 
+03/28/2021: Station Maintenance:                                         [1505] 
+ 
+            - replaced logger / wiring panel 
+            - updated modem  
+ 
+ 
+ 
+=============================================================================== 
+05/26/2020: Station Maintenance:                                         [1050] 
+ 
+            - routine maintenance  
+            - replaced leaf wetness mount (standard mount) 
+            - relocated lightning rod placement 
+ 
+ 
+  
+=============================================================================== 
+06/26/2019: Logger Maintenance:                                          [1025] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: alg-bbab 
+ 
+ 
+ 
+=============================================================================== 
+07/30/2018: Station Maintenance:                                         [1510] 
+ 
+            - annual station / site maintenance, including: 
+               - replacement of faulty leaf wetness (standard) sensor  
+ 
+ 
+06/21/2018: Station Maintenance:                                         [1420] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+=============================================================================== 
+07/17/2017: Station Maintenance:                                         [1610] 
+ 
+            - annual maintenance  
+ 
+ 
+06/14/2017: Station Maintenance:                                         [0002] 
+ 
+            - loaded logger program "alg-bbab" 
+ 
+ 
+05/30/2017: Station Maintenance:                                         [1150] 
+ 
+            - annual maintenance  
+            - replaced atmp/relh (HC2S3 -> HMP45C) 
+               - atmp/relh now wired to "continuous" power 
+ 
+ 
+ 
+=============================================================================== 
+08/15/2016: Station Maintenance:                                         [1555] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+05/25/2016:  Station Maintenance:                                        [1030] 
+ 
+             - replaced faulty "canopy" leaf wetness sensor (lws1) 
+ 
+ 
+ 
+=============================================================================== 
+04/02/2015:  Station Online:                                             [1200] 
+ 
+             - Station added to Enviroweather/MAWN Web Site 
+ 
+ 
+04/01/2015:  Data Collection Enabled                                     [1700] 
+ 
+             - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   April 02, 2015 (Day=092) 00:05 
+ 
+             - NOTE: Estimated MAX/MIN Air Temperature data that was 
+                     provided by the State Climatologist Office was  
+                     added for the following period for GDD calculation 
+                     purposes: 
+ 
+                        03/01/2015 (d=060) - 04/01/2015 (d=091) 
+ 
+ 
+04/01/2015:  Station Installed:                                          [1600] 
+ 
+             - Station installed at station field site 
+ 
+ 
+03/31/2015:  Station Maintenance:                                        [1705] 
+ 
+             - Established telecommunication between station cell-modem  
+               and data-collection PC/server on campus.    
+ 
+ 
+03/31/2015:  Station Setup                                               [1703] 
+ 
+             - Loaded MAWN Program:   BBBB-ALG 
+                                          B => CR1000/MI (Logger/State) 
+                                          B => CS616 (Soil Moisture) 
+                                          B => HC2S3 (Temp/RH) 
+                                          B => LWS-L (Leaf Wetness) 
+                                        ALG => Station ID (Allegan) 
+             - Now able to collect raw weather data. 
+ 
+ 
+ 
+=============================================================================== 
+

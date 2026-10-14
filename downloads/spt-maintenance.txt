@@ -1,0 +1,264 @@
+=============================================================================== 
+Station Notes - Sparta (20m Tower) 
+ 
+ 
+06/01/2026: Station / Logger Maintenance (FS#3798):                     [1115] 
+ 
+            - sensor repair: 
+               - repair air temp sensor (45cm)* 
+ 
+               * logger current reports incorrectly as "atmp_10cm". 
+               * relative humidity is not configured for 45cm (10cm). 
+ 
+ 
+05/27/2026: Station / Logger Maintenance (FS#3764):   [1155] 
+ 
+            - routine maintenance, including: 
+               - checked anemometers 
+               - checked battery 
+               - checked soil sensors 
+               - checked wind vanes 
+               - checked / cleaned atmp/relh sensors (10cm failure)* 
+               - checked / cleaned leaf wetness [standard]** 
+               - checked / cleaned pyranometer 
+               - checked / cleaned solar panel 
+               - checked / cleaned tipping-bucket rain gauge (adjusted level) 
+               - weed removal / trimmed grass 
+  
+               * sensor is actually at 45cm 
+              ** site does not include a canopy sensor 
+ 
+ 
+ 
+============================================================================== 
+08/06/2025: Station / Logger Maintenance (FS#3618):   [1400] 
+ 
+            - routine maintenanace, including: 
+               - checked anemometers 
+               - checked pyranometer 
+               - checked soil sensors 
+               - checked wind vanes 
+               - checked / cleaned atmp/relh sensors 
+               - checked / cleaned leaf wetness [standard]* 
+               - checked / cleaned tipping-bucket rain gauge (adjusted level) 
+ 
+               * site does not include a canopy sensor  
+ 
+ 
+05/15/2025: Station / Logger Maintenance (FS#3485):                     [1030] 
+ 
+            - routine maintenance, including: 
+               - checked anemometers 
+               - checked leaf wetness [standard]* 
+               - checked net radiometer 
+               - checked pyranometer 
+               - checked soil sensors (reconnected 60cm soil moisture) 
+               - checked wind vanes 
+               - checked / cleaned atmp/relh sensors 
+               - checked / cleaned battery 
+               - checked / cleaned solar panel 
+               - checked / cleaned tipping-bucket rain gauge 
+               - replaced wind sentry (3m) 
+               - weed removal / trimmed grass 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+ 
+============================================================================== 
+04/30/2024: Station / Logger Maintenance (FS#3244):                     [1325] 
+ 
+            - routine maintenance, including:  
+               - checked anemometers 
+               - checked battery 
+               - checked leaf wetness [standard]* 
+               - checked pyranometer 
+               - checked soil sensors 
+               - checked tipping-bucket rain gauge 
+               - checked wind vanes (3m may need replacement) 
+               - checked / cleaned atmp/relh sensors 
+               - cleaned solar panel 
+               - weed removal / trimmed grass 
+ 
+               * site does not include a canopy sensor. 
+ 
+ 
+ 
+============================================================================== 
+07/26/2023: Station / Logger Maintenance (FS#3115):   [1115] 
+ 
+     - routine site maintenance, including: 
+               - checked anemometers 
+               - checked battery 
+        - checked leaf wetness [standard]* 
+               - checked pyranometer (adjusted level)  
+               - checked soil sensors 
+               - checked tipping-bucket rain gauge 
+               - checked wind vanes 
+               - checked / cleaned atmp/relh sensor 
+               - checked / cleaned solar panel 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+06/13/2023: Station / Logger Maintenance (FS#3043):                     [1130] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometers (10m needs replacement) 
+               - checked battery 
+               - checked leaf wetness [standard]* 
+               - checked pyranomemter (adjusted level) 
+               - checked soil sensors 
+               - checked tipping-bucket rain gauge 
+               - checked wind vanes (10m needs replacement) 
+               - checked / cleaned atmp/relh sensor 
+               - checked / cleaned solar panel 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+ 
+============================================================================== 
+07/27/2022: Station / Logger Maintenance:    [1130] 
+ 
+            - routine site maintenance 
+ 
+ 
+05/11/2022: Station / Logger Maintenence:                               [0940] 
+ 
+            - routine site maintenance, including: 
+               - cleaned / adjusted solar panel (50W) 
+               - adjusted (leveled) pyranometer 
+               - adjusted (leveled) net radiometer 
+               - checked tipping-bucket rain gauge 
+               - replaced HMP155 (atmp/relh @ 1.5m) 
+               - cleaned / tested leaf wetness (standard mount)* 
+               - weed removal / trimmed grass 
+ 
+               ! known issue with 10m anemometer  
+ 
+               * site no longer makes use of canopy leaf wetness 
+ 
+ 
+ 
+=============================================================================== 
+07/26/2021: Station Maintenance:                                         [1125] 
+ 
+            - routine site maintenance  
+ 
+ 
+06/03/2021: Station Maintenance:                                         [1125] 
+ 
+            - routine site maintenance, including: 
+               - modem update 
+ 
+ 
+01/15/2021: Station Maintenance:                                         [1300] 
+ 
+            - replaced all soil temperature and soil moisture sensors 
+ 
+ 
+ 
+=============================================================================== 
+06/08/2020: Station Mainteannce:                                         [1220] 
+ 
+            - repaired faulty air temperature sensor [10m] 
+ 
+ 
+05/29/2020: Station Maintenance:                                         [1300] 
+ 
+            - routine station maintenance 
+            - installed new leaf wetness mount 
+            - replaced leaf wetness sensor (standard mount) 
+ 
+ 
+04/03/2020: Logger Maintenance:                                          [1600] 
+ 
+            - power cycle (modem & logger) 
+ 
+ 
+ 
+=============================================================================== 
+10/03/2019: Logger / Station Maintenance:                                [1245] 
+ 
+            - replaced logger (CR3000 -> CR3000) 
+            - added PakBus modem 
+            - loaded logger program: spt-bbcbT 
+ 
+ 
+ 
+=============================================================================== 
+07/02/2018: Station Maintenance:                                         [1200] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+=============================================================================== 
+08/03/2017: Station Maintenance:                                         [1000]  
+  
+            - annual maintenance  
+ 
+ 
+05/31/2017: Station Maintenance:                                         [1700] 
+ 
+            - annual maintenance 
+ 
+ 
+04/08/2017: Data Archive Reset:                                          [----] 
+ 
+            - Reset Start of Data Archive: 
+ 
+                  First data report:   April 08, 2017 (Day=098) 00:00 
+ 
+ 
+04/07/2017: Station Maintenance:                                         [----] 
+ 
+            - complete sensor installation 
+ 
+ 
+04/21/2017: LoggerNet Adjustment                                         [1130] 
+ 
+            - changed data-collection to 5-minutes (from 15-minutes) 
+ 
+ 
+xx/xx/xxx: Station Online:                                               [xxxx] 
+ 
+            - Station added to Enviroweather/MAWN Web Site 
+ 
+ 
+01/13/2017: Data Collection Enabled                                      [1630] 
+ 
+            - Data Collection begins: 
+                - NOTE: Not all sensors installed properly yet 
+ 
+ 
+01/13/2017: Station Installed:                                           [----] 
+ 
+            - Installation finalized 
+               - NOTE: Still requires Soil Heat Flux and proper 
+                       install of both Leaf Wetness Sensors 
+ 
+ 
+10/27/2016: Station Maintenance:                                         [1600] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+10/27/2016: Station Setup                                                [1600] 
+ 
+            - Loaded MAWN Program:   SPT-BBCBT 
+                                      SPT => Station ID (Sparta 20m tower) 
+                                        B => CR1000/MI (Logger/State) 
+                                        B => CS616 (Soil Moisture) 
+                                        C => HMP155A (Temp/RH) 
+                                        B => LWS-L (Leaf Wetness) 
+                                        T => 20m Tower Station 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+=============================================================================== 
+

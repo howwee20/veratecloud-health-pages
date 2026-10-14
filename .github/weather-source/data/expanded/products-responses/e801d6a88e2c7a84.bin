@@ -1,0 +1,436 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:33
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+<table><tr><td align="left">
+
+
+
+<CENTER><STRONG>Timing Spring Alfalfa Harvest - The Final Word?</STRONG></CENTER>
+<P>
+<CENTER><FONT SIZE="-1"><EM>Mike Allen, Rich Leep, and Jeff Andresen</EM></FONT></CENTER><BR>
+<CENTER><FONT SIZE="-1"><EM>Departments of Animal Science, Crop and Soil Science, and Geography</EM></FONT></CENTER><BR><BR>
+
+
+<P><FONT SIZE="-1">
+There is no doubt in most dairy farmers' minds that forage quality is an
+important determinant of farm profitability.  Poor quality forages increase
+feed costs and limit milk production.  The most important factor affecting
+quality of alfalfa is maturity at harvest; as alfalfa matures protein
+content and digestibility of dry matter and fiber decrease and fiber
+content increases.  However, harvesting too early reduces yield and results
+in alfalfa that is difficult to feed because its quality is too high.
+Although it is impossible to always harvest alfalfa at the optimum maturity
+because Mother Nature doesn't always cooperate, there are new methods to
+help you come closer to your goal.
+
+<P><FONT SIZE="-1">
+What is your goal?  It is important to have a specific quality goal in mind
+for alfalfa harvest.  Alfalfa to be fed to lactating dairy cows normally
+should be harvested at 40% neutral detergent fiber (NDF).  Why use NDF as a
+criterion?  Because NDF is an important factor for formulating diets; diets
+with excess NDF content are more filling and limit intake and diets with
+inadequate NDF content result in increased health problems such as
+acidosis, displaced abomasums, and laminitis.  Alfalfa should be harvested
+at the lowest fiber content that will provide adequate levels of fiber in
+the diet and allow a reasonable amount of grain to be added to maximize
+energy intake and milk production.  When diets are formulated with an
+overly mature alfalfa (high NDF content), the NDF content of the forage
+must be diluted with high concentration of grain to increase energy density
+and reduce the filling effect of the diet.  Because protein content is
+usually lower for mature alfalfa, more protein supplement is required as
+well.  Besides being costly to supplement, lower NDF digestibility of diets
+formulated using overly mature alfalfa might limit feed intake and milk
+production, particularly for the highest producing cows.  When diets are
+formulated with an immature alfalfa, little grain can be included because
+the NDF content of the alfalfa is close to the NDF required in the diet.
+This will result in lower energy density and might result in lower energy
+intake.  Diets containing immature alfalfa also tend to have excess protein
+content because the protein content of immature alfalfa tends to be very
+high.  Not only is feeding excess protein wasteful, but it costs energy for
+the animal to excrete, might be an environmental contaminant, and might
+reduce reproductive performance.  This is a greater problem when immature
+alfalfa is the only forage fed; it is easier to formulate diets with
+immature alfalfa when a high NDF, low protein forage is included.  A goal
+of 40% NDF is often chosen for alfalfa because it is felt that this
+optimizes profitability from a combination of factors influencing alfalfa
+yield, supplement cost, and milk production.  Some circumstances might
+justify harvesting alfalfa earlier such as when the immature alfalfa will
+be blended in a diet with a higher NDF, low protein forage.  However,
+harvesting immature alfalfa risks health of the plants and therefore the
+productive life span of the alfalfa stand, particularly for spring harvest.
+
+
+<P><FONT SIZE="-1">
+How do I attain my goal?  There are several methods that can be used for
+timing first alfalfa harvest to come closer to your quality goal than when
+harvesting by calendar date.  Cumulative temperature during growth may vary
+greatly from year to year, resulting in large differences in quality on the
+same date.  In an experiment conducted in 1990 and 1991, we found that the
+NDF content of spring harvest alfalfa varied up to 10 percentage units when
+harvested on the same date from one year to the next.  However, when the
+difference in cumulative temperature between the years was accounted for
+using growing degree-days (GDD), little difference in NDF content of
+alfalfa was observed.  Harvesting alfalfa by GDD is one of the methods that
+can be used to get closer to your goal.  Other methods include the scissors
+cut, harvesting by maturity, or by a combination of maturity and height
+using the PEAQ (Predictive Equations for Alfalfa Quality) method (see
+below).
+
+
+<P><FONT SIZE="-1">
+What are GDD and how are they calculated?  Growing degree-days are a 
+temperature-derived index representative of the amount of heat that the plants 
+are exposed to, which in turn is directly related to the growth rate of growth 
+and development of the plant.  GDD are calculated several ways, so it is 
+important to make sure GDD are calculated using the same formula that was used 
+to establish the relationship you will use to harvest alfalfa.  For instance, 
+different base temperatures are used for different crops, and corn uses a 
+different method of calculation entirely.  Alfalfa GDD used for recommendations
+in this article are calculated by averaging the maximum and minimum temperature
+for a given day (24-h period) then subtracting the base temperature of 41F to 
+get the number of GDDs for that day.  Daily GDD for days with an average 
+temperature less than 41°F are set equal to 0.  Finally, a seasonal total is 
+then obtained by summing the daily growing degrees from March 1st through the 
+current day.  Example: if the maximum and minimum temperatures for one day 
+are 75F and 39F, respectively, the average is 57 and the growing degrees for 
+this day are 16 (57 - 41).  Agricultural Meteorology Staff at MSU generate a 
+table of GDD using this calculation for alfalfa on Mondays and Thursdays 
+through mid-June of the growing season using data from weather stations 
+throughout Michigan.  The alfalfa GDD results are broadcast on DTN and the MSU
+Ag. Weather Web Site (at www.agweather.geo.msu.edu) as well as emailed to all 
+county extension offices in Michigan twice weekly.  Note that because they 
+are calculated with a different method, the GDD published in the weekly MSU 
+Extension Crop Advisory Team Alert cannot be used for alfalfa harvest at 
+this time.
+
+
+<P><FONT SIZE="-1">
+How close to can I get to my goal?  It is important to realize that no
+method will predict the NDF content of the alfalfa harvested perfectly.
+There are many factors that affect the accuracy of prediction including the
+amount of grass and(or) weeds in the field, proximity to the weather
+station used, proximity to a large body of water, difference in elevation
+from the weather station, adequacy of soil moisture, length of time
+wilting, exposure to rain between cutting and chopping or baling, and
+quality of fermentation for silage.  Using GDD (base 41F), we can predict
+NDF content within ± 3 percentage units 68% of the time and within 6
+percentage units 90% of the time.  Thus, if you are using GDD (base 41F)
+to begin cutting alfalfa at 40% NDF, in 7 out of 10 years the alfalfa will
+be between 37 and 43% NDF and in 9 out of 10 years it will be between 34
+and 46% NDF.  Although GDD cannot be expected to predict alfalfa NDF
+perfectly, it is certainly better than harvesting by calendar date and it
+seems to work as well or better than other methods in Michigan.
+
+
+<P><FONT SIZE="-1">
+When should I begin harvesting?  According to data collected in the upper
+Midwest over several years, alfalfa averages 40% NDF at 750 GDD (base 41F).
+It takes about 220 additional GDD to reach 45% NDF at GDD (base 41F).
+Beginning harvest at 40% NDF will give about a 7 day window to complete
+harvesting before the alfalfa reaches 45% NDF. If you are storing the
+alfalfa in a horizontal silo or are feeding it in a diet with a high NDF,
+low protein forage, start cutting at 680 GDD (base 41° F), which
+corresponds to 38% NDF.  Filling horizontal silos with layers of increasing
+maturity will allow harvest to begin a little earlier because the layers of
+alfalfa are blended as the alfalfa is removed from the silo.  If a higher
+fiber, lower protein forage is included in the diet it will provide the
+necessary fiber and dilute the high protein content of the less mature
+alfalfa.
+
+
+<P><FONT SIZE="-1">
+What about alfalfa stands containing grass?  Grasses have higher NDF
+content than alfalfa when harvested at the same age and therefore older
+alfalfa stands containing grass should be harvested first.  Begin
+harvesting the fields with the most grass first so that purer alfalfa
+stands can be harvested at the appropriate NDF content.  If wet weather
+delays harvest and the fields with grass can be segregated for storage,
+consider harvesting the purest stands of alfalfa first and harvest the
+stands containing grass for the far-off dry cows and(or) heifers.
+
+
+<P><FONT SIZE="-1">
+What about harvesting second and later cuttings of alfalfa?  Predicting
+alfalfa NDF using GDD cannot be done when there is inadequate soil moisture
+during the growing season because GDD accumulate with little or no response
+in plant growth.  Because of this, GDD is highly related to quality only
+for spring harvest alfalfa with adequate rainfall and not for subsequent
+cuttings which nearly always have periods of inadequate soil moisture
+during growth.
+
+
+<P><FONT SIZE="-1">
+How much does it cost me to delay harvest?  A lot!  It costs as much as
+$0.10 per cow per day for each unit of NDF increase past 40% NDF for
+increased energy and protein supplement and for lost production from the
+effect of lower NDF digestibility on dry matter intake.  This amount is
+even higher as production per cow increases because rumen fill becomes a
+greater constraint on feed intake.  Although there will be some increase in
+yield by delaying first harvest, the cost of lower milk production and
+supplemental energy and protein easily justify harvesting on time.
+
+
+<P><FONT SIZE="-1">
+Should I continue planting corn or harvest alfalfa?  When wet weather
+results in delayed planting of corn it will usually pay to stop corn
+planting to harvest alfalfa, particularly for high producing herds.  Corn
+yield is reduced approximately 1 bushel / acre per day when planting is
+delayed in late May and alfalfa NDF increases about 0.6 units per day.  For
+a 100-cow dairy farm feeding alfalfa as the only forage, with 130 acres of
+corn grain and corn valued at $2.50 per bushel, delaying planting 1 day
+will cost $325. per year.  However, assuming first cutting alfalfa is 40%
+of the total annual yield, the cost of delaying alfalfa harvest for
+supplemental feed and decreased milk production is over twice this amount.
+
+
+<P><FONT SIZE="-1">
+What about measuring GDD on my farm?  Although we can use data from nearest
+weather stations for determining GDD, for increased accuracy it is best to
+measure the minimum and maximum temperatures as close to the alfalfa field
+as possible.  You can use an inexpensive minimum / maximum thermometer and
+read it every day from March 1 on, or you can purchase an electronic data
+logger that records temperature automatically.  Whichever you use it is
+very important to place the temperature sensor correctly.  The database that 
+was used to develop the NDF prediction equations from GDD used temperature 
+data from weather stations in which the temperature sensors are located in a
+ventilated enclosure 5' above the ground.  If an enclosure is not provided 
+with your sensor, a good, cheap alternative for a field enclosure is a small 
+wooden box (interior-grade plywood works well) mounted on a fence post, open 
+on one side and on the bottom, painted white with the open side facing north 
+and the open bottom towards the ground.  Try to mount the thermometer off of 
+the surface of the enclosure (at least an inch) to facilitate free air flow 
+around the sensor.  Also, never allow a thermometer to be exposed to direct 
+sunlight.  Temperatures and resulting GDD sums taken from instruments that 
+are biased because of siting or exposure problems may be erroneous or 
+misleading.
+
+
+<P><FONT SIZE="-1">
+What about other methods?  Several alternative methods are sometimes used
+to predict alfalfa quality: scissors cut programs, maturity, and the PEAQ
+method. Scissors cut programs involve taking samples of alfalfa directly
+from the field and sending the samples to a feed testing laboratory for
+analysis.  This method is thought by some to be the "gold standard" to
+which all other methods should be compared because quality is actually
+measured and not predicted from a formula.  However, this method is subject
+to other errors and might be no more accurate than the predictive methods.
+The most significant potential error is that the NDF of the sample begins
+to increase once the plant is clipped because sugars are converted to
+carbon dioxide and water through respiration.  Fresh alfalfa is very
+unstable and there is no way to prevent respiration.  Although cooling can
+slow respiration down, the sample should not be frozen, as this will also
+increase the NDF content.  In addition, wet chemistry should be used
+because NIRS (near infrared reflectance spectroscopy) equations for fresh
+alfalfa are not generally available and NIRS predictions might be
+inaccurate.  This method is time consuming and costly, takes longer to get
+results, and is not necessarily more accurate than using GDD.
+
+
+<P><FONT SIZE="-1">
+Harvesting alfalfa by maturity is often used but it is difficult to
+determine the average maturity of a field of alfalfa, particularly if there
+is insect damage.  This method takes some time and is no more accurate than
+using GDD.
+
+
+<P><FONT SIZE="-1">
+The PEAQ method requires sampling alfalfa stems from several locations in
+an alfalfa field and determining length of the longest stem and maturity of
+the maturest stem.  These values are then inserted into a formula to
+predict alfalfa NDF.  Although this is not a difficult method, it takes
+time to perform, is potentially subject to measurement errors, and has not
+been shown to be better at predicting spring harvest alfalfa NDF than GDD
+in two years of on-farm comparisons in several locations in Michigan.
+
+
+<P><FONT SIZE="-1">
+Is this really the final word?  Although we currently recommend using GDD
+over other methods for spring harvest alfalfa, definitive studies comparing
+the methods still need to be conducted over several years evaluating the
+effect of sample preparation (hay vs. silage), analysis method (wet
+chemistry vs. NIRS, and measurement of GDD on site.  Because of this we
+might change our recommendations, as more information becomes available.
+For the time being, remember these points about using GDD to harvest
+alfalfa:
+
+
+<P><FONT SIZE="-1">
+<UL>
+<LI>  The GDD method isn't perfect but will help get you closer to your goal.
+<LI>  Make sure you use the GDD formula for alfalfa only.
+<LI>  Begin cutting alfalfa at 750 GDD (base 41° F) for upright silos and 680
+GDD (base 41F) for horizontal silos.  Start even earlier for horizontal
+silos if it takes more than a week to finish harvesting.
+<LI>  The GDD method (or any method so far) cannot be used for fields
+containing grass.
+<LI>  Fields containing grass should usually be harvested first.  Start with
+the fields with the most grass first and finish with the purest alfalfa
+fields.
+<LI>  Harvest second and later cuttings at late bud stage.
+</UL>
+
+
+
+</td></tr></table>
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

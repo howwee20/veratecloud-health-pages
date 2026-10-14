@@ -1,0 +1,103 @@
+VERATE CLOUD — WEATHER SITE REVIEW
+Prepared October 13, 2026 for the October 14 meeting at 11:00 AM Eastern
+
+OPEN THE DEMOS
+https://veratecloud.com/enviroweather/
+https://veratecloud.com/weather-network/
+https://veratecloud.com/agricultural-weather/
+https://veratecloud.com/climate/
+Full scope and coverage: https://veratecloud.com/enviroweather/review/
+
+STATUS
+Public accessibility remediation preview. The implemented local workflows are tested.
+This is not a certification of ADA compliance, an MSU approval, or a complete
+replacement of every original database query and historical archive.
+
+LOCAL COVERAGE
+- 119 listed weather-station pages.
+- 115 hourly reports, 115 daily reports, 119 maintenance logs.
+- 16,189 source observation rows retained without changing the raw values.
+- 100 recent raw station files and station-specific CSV/log downloads.
+- Daily/hourly custom reports with local date filtering and filtered CSV download.
+- 1,032 captured agricultural/climate pages and files, plus explicit local notices
+  for unavailable or uncopied items. See product-coverage.csv for each record.
+- 27 current climate maps, local enlarged views, paired dates and legends,
+  seven-region color-band samples and a CSV of those approximate samples.
+- All normal weather navigation stays on Verate Cloud. Separate NOAA, Wisconsin,
+  university and supporting-organization services remain external.
+
+VISUAL AND ACCESSIBILITY CHANGES
+Original branding, images, colors and desktop structure retained. Changes include
+keyboard station selection, visible focus, skip links, labelled controls, usable
+control targets, table headers, missing-value text, mobile reflow, contained
+scrolling for wide data tables, and long-text wrapping. These changes intentionally
+prevent an exact pixel match at every viewport or accessibility setting.
+
+LOCAL VERIFICATION
+- 147 Python source/parser/refresh tests passed, including raw observation-value
+  comparisons and numeric preservation in three remediated historical tables.
+- 99 TypeScript/JavaScript unit tests passed.
+- 2,392 station browser checks passed after repairs: 2,261 initial passes and
+  131 successful retests of the failed checks.
+- 4,382 other browser checks passed after repairs: 4,363 initial passes and
+  19 successful retests of the failed checks.
+- 319 release rechecks passed across 155 changed/new routes at 320 and 1280 pixels,
+  including nine station selection, filtering, download and link workflows.
+- An earlier representative cross-browser run passed 342 checks across Chromium,
+  Firefox and WebKit; public release verification is recorded with this release.
+- Static analysis of 1,720 HTML files and 44,341 references found zero broken
+  internal links, broken fragments, duplicate-ID warnings or external embeds.
+- No navigation links point to mawn.geo.msu.edu, agweather.geo.msu.edu or
+  climate.geo.msu.edu. Uncopied historical items have local availability notices.
+- The complete refresh/parse/test/build/stage publisher passed locally in offline
+  mode with cached source data. The public release record is downloads/release.json.
+
+WHAT THESE CHECKS DO NOT ESTABLISH
+Automated checks cannot verify every meaningful image description, complex chart
+or document equivalent, screen-reader interpretation, or legal obligation. The
+expanded release has not received a new institutional MSU Silktide score. The
+user confirmed VoiceOver was working earlier; that is not a spoken screen-reader
+review of every newly added page. Imported historical charts, PDFs, Office files
+and fixed-width source reports still need content-specific manual review.
+
+UPDATES AND RELIABILITY
+A GitHub Actions workflow is scheduled hourly at minute 17. Scheduling, source
+availability and validation can delay publication. It uses maintainer-authorized,
+read-only requests with at least 1.1 seconds between request starts per source
+host. Current report caches expire after 30 minutes; historical reference content
+is cached for up to 30 days. Failed parsing retains a prior verified report when
+available. Maps are published only after image/date/legend validation. Failed
+builds leave the previous public deployment in place. This is not streaming data.
+Saved time means capture time. Dates inside reports remain the observation or
+publication dates. Some original NWS products are discontinued and dated 2025;
+those are labelled as archived. Missing observations are not fabricated.
+
+REMAINING WORK FOR A FULL PRODUCTION REPLACEMENT
+1. Supported MSU data access/export for arbitrary historical dates, five-minute
+   observations, growing-degree-day calculations and additional raw archives.
+   The original ASP database query engine was not supplied or reproduced.
+2. Complete the remaining historical archive migration. Current local notices
+   deliberately prevent a surprise redirect to an old host.
+3. Restore publisher access to two agricultural temperature JPEGs returning 403.
+   Local daily station maxima/minima are related data, not identical map copies.
+4. Supply/review complete alternatives for historical graphics and documents and
+   underlying climate grids. Regional raster samples are approximate, not every
+   original grid value.
+5. Complete manual assistive-technology review, institutional MSU evaluation and
+   owner acceptance of operation, refresh failure handling and hosting.
+Four retired stations (BAT, GDE, PTR, SGA) lack eight hourly/daily reports at the
+source. Their local pages disclose this rather than inventing observations.
+
+LANGUAGES AND HOSTING
+Astro with TypeScript/JavaScript generates HTML and CSS. JavaScript handles local
+station selection and report filtering. Python captures, parses and validates
+source data and map images. YAML defines GitHub Actions. GitHub Pages serves the
+public site. EMR and the title-only showcase tiles are preserved separately.
+
+REVIEW REFERENCES
+MSU WCAG 2.2 AA technical target:
+https://webaccess.msu.edu/policy/technical-guidelines
+MSU explains automated scan limitations and manual evaluation:
+https://webaccess.msu.edu/tools/silktide
+https://webaccess.msu.edu/tutorials/evaluation
+The October 14 meeting is a project review, not a legal certification deadline.

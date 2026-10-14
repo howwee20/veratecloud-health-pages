@@ -4,8 +4,8 @@
     "id": "mawn-home",
     "url": "https://mawn.geo.msu.edu/",
     "file": "input/mawn/home.html",
-    "sha256": "5f2a0b9c30009e0cef3dd111d8e801a7d5e0750641e3eefdc6243b247e344c87",
-    "retrievedAtUtc": "2026-10-13T15:33:46.350884+00:00"
+    "sha256": "57d730f37b09e4e44c706bd7de3d41dd2e1fbd9a91fb45a5306f9cc985400ccb",
+    "retrievedAtUtc": "2026-10-14T00:42:50.200130+00:00"
   },
   "intro": [
     [
@@ -82,47 +82,47 @@
     "items": [
       {
         "label": "Date/Time",
-        "raw": "Tue, 10/13/26 - 11:15 AM"
+        "raw": "Tue, 10/13/26 - 08:30 PM"
       },
       {
         "label": "Air Temp",
-        "raw": "77.3 (F)"
+        "raw": "68.4 (F)"
       },
       {
         "label": "Dew Point",
-        "raw": "61.8 (F)"
+        "raw": "59.7 (F)"
       },
       {
         "label": "Rel. Humidity",
-        "raw": "58.7 (%)"
+        "raw": "73.8 (%)"
       },
       {
         "label": "Wind Speed",
-        "raw": "11.8 (mph)"
+        "raw": "3.8 (mph)"
       },
       {
         "label": "Wind Dir",
-        "raw": "W-SW"
+        "raw": "W-NW"
       },
       {
         "label": "Solar Radiation",
-        "raw": "31.1 (ly)"
+        "raw": "0.0 (ly)"
       },
       {
         "label": "2\" Bare Soil Temp",
-        "raw": "61.4 (F)"
+        "raw": "63.6 (F)"
       },
       {
         "label": "4\" Bare Soil Temp",
-        "raw": "61.2 (F)"
+        "raw": "63.1 (F)"
       },
       {
         "label": "4\" Soil Moisture",
-        "raw": "0.209 (in^3/in^3)"
+        "raw": "0.208 (in^3/in^3)"
       },
       {
         "label": "10\" Soil Moisture",
-        "raw": "0.171 (in^3/in^3)"
+        "raw": "0.170 (in^3/in^3)"
       },
       {
         "label": "Leaf Wetness",

@@ -1,0 +1,213 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:31
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+
+
+
+
+<table width="100%" height="120" border="0">
+   <tr height="100">
+      <td align="center">
+         <h1>MSU Agricultural Weather Office<h1>
+         <h2>Forecast Products</h2>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+
+<!--
+   <tr height="35">
+      <td align="center">
+         <font color="red" font size=3><b>State Budget Cuts Threaten This Website and Other MSUE/MAES Programs...
+         <br>Click  <a href="http://anrcom.msu.edu/Budget.aspx">Here</a> For More Information...</b></font>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+-->
+
+</table>
+
+<br>
+<table width="95%" border="0" valign="top" align="center">
+   <tr>
+      <td class="courier2">
+        
+         &nbsp;<br>410&nbsp;&nbsp;<br>FXUS63&nbsp;KIWX&nbsp;132310&nbsp;<br>AFDIWX&nbsp;<br>&nbsp;<br>Area&nbsp;Forecast&nbsp;Discussion&nbsp;<br>National&nbsp;Weather&nbsp;Service&nbsp;Northern&nbsp;Indiana&nbsp;<br>710&nbsp;PM&nbsp;EDT&nbsp;Tue&nbsp;Oct&nbsp;13&nbsp;2026&nbsp;<br>&nbsp;<br>.KEY&nbsp;MESSAGES...&nbsp;<br>&nbsp;<br>-&nbsp;A&nbsp;cold&nbsp;front&nbsp;will&nbsp;gradually&nbsp;sag&nbsp;southward&nbsp;across&nbsp;the&nbsp;area&nbsp;<br>&nbsp;&nbsp;tonight&nbsp;into&nbsp;Wednesday&nbsp;leading&nbsp;to&nbsp;scattered&nbsp;showers&nbsp;and&nbsp;some&nbsp;<br>&nbsp;&nbsp;embedded&nbsp;thunderstorms.&nbsp;Severe&nbsp;weather&nbsp;is&nbsp;not&nbsp;expected&nbsp;&nbsp;<br>&nbsp;&nbsp;tonight&nbsp;or&nbsp;Wednesday.&nbsp;<br>&nbsp;<br>-&nbsp;A&nbsp;lull&nbsp;in&nbsp;greater&nbsp;rain&nbsp;chances&nbsp;is&nbsp;expected&nbsp;later&nbsp;Wednesday&nbsp;afternoon&nbsp;<br>&nbsp;&nbsp;into&nbsp;Wednesday&nbsp;night,&nbsp;but&nbsp;another&nbsp;round&nbsp;of&nbsp;showers&nbsp;and&nbsp;storms&nbsp;<br>&nbsp;&nbsp;is&nbsp;expected&nbsp;Thursday&nbsp;and&nbsp;Thursday&nbsp;night.&nbsp;<br>&nbsp;<br>-&nbsp;There&nbsp;is&nbsp;a&nbsp;Marginal&nbsp;Risk&nbsp;of&nbsp;severe&nbsp;storms&nbsp;(mainly&nbsp;wind)&nbsp;along&nbsp;<br>&nbsp;&nbsp;and&nbsp;south&nbsp;of&nbsp;US&nbsp;Route&nbsp;24&nbsp;for&nbsp;Thursday&nbsp;evening.&nbsp;Confidence&nbsp;in&nbsp;&nbsp;<br>&nbsp;&nbsp;severe&nbsp;weather&nbsp;is&nbsp;low.&nbsp;<br>&nbsp;<br>-&nbsp;Turning&nbsp;much&nbsp;cooler&nbsp;and&nbsp;windy&nbsp;for&nbsp;Friday&nbsp;with&nbsp;some&nbsp;lake&nbsp;effect&nbsp;<br>&nbsp;&nbsp;rain&nbsp;showers.&nbsp;<br>&nbsp;<br>&&&nbsp;<br>&nbsp;<br>.DISCUSSION...&nbsp;<br>Issued&nbsp;at&nbsp;305&nbsp;PM&nbsp;EDT&nbsp;Tue&nbsp;Oct&nbsp;13&nbsp;2026&nbsp;<br>&nbsp;<br>The&nbsp;short&nbsp;wave&nbsp;trough&nbsp;and&nbsp;pre-frontal&nbsp;forcing&nbsp;which&nbsp;aided&nbsp;in&nbsp;showers&nbsp;&nbsp;<br>along&nbsp;and&nbsp;south&nbsp;of&nbsp;the&nbsp;US&nbsp;Route&nbsp;24&nbsp;corridor&nbsp;earlier&nbsp;today&nbsp;will&nbsp;&nbsp;<br>continue&nbsp;to&nbsp;shift&nbsp;across&nbsp;the&nbsp;eastern&nbsp;Great&nbsp;Lakes&nbsp;region&nbsp;this&nbsp;&nbsp;<br>evening.&nbsp;Isolated&nbsp;showers&nbsp;and&nbsp;thunderstorms&nbsp;have&nbsp;also&nbsp;developed&nbsp;&nbsp;<br>during&nbsp;the&nbsp;mid&nbsp;afternoon&nbsp;across&nbsp;southwest&nbsp;Lower&nbsp;Michigan/far&nbsp;&nbsp;<br>northern&nbsp;Indiana&nbsp;where&nbsp;some&nbsp;increase&nbsp;in&nbsp;low&nbsp;level&nbsp;frontogenesis&nbsp;&nbsp;<br>forcing&nbsp;allowed&nbsp;development&nbsp;along&nbsp;weak&nbsp;confluence&nbsp;zone&nbsp;and&nbsp;also&nbsp;&nbsp;<br>just&nbsp;downstream&nbsp;of&nbsp;what&nbsp;appears&nbsp;to&nbsp;be&nbsp;southwest&nbsp;extent&nbsp;of&nbsp;weak&nbsp;&nbsp;<br>DPVA.&nbsp;<br>&nbsp;<br>The&nbsp;focus&nbsp;for&nbsp;tonight&nbsp;into&nbsp;early&nbsp;Wednesday&nbsp;will&nbsp;be&nbsp;another&nbsp;low&nbsp;&nbsp;<br>amplitude&nbsp;short&nbsp;wave&nbsp;trough&nbsp;ejecting&nbsp;out&nbsp;of&nbsp;the&nbsp;Dakotas&nbsp;and&nbsp;a&nbsp;&nbsp;<br>resultant&nbsp;slow&nbsp;southward&nbsp;sinking&nbsp;baroclinic&nbsp;zone&nbsp;into&nbsp;&nbsp;<br>Wednesday.&nbsp;Preceding&nbsp;this&nbsp;wave&nbsp;and&nbsp;frontal&nbsp;zone&nbsp;will&nbsp;be&nbsp;another&nbsp;&nbsp;<br>surge&nbsp;of&nbsp;higher&nbsp;low&nbsp;level&nbsp;theta-e&nbsp;air.&nbsp;Isentropic&nbsp;forcing&nbsp;does&nbsp;&nbsp;<br>not&nbsp;appear&nbsp;to&nbsp;be&nbsp;as&nbsp;pronounced&nbsp;as&nbsp;last&nbsp;night,&nbsp;but&nbsp;axis&nbsp;of&nbsp;fairly&nbsp;<br>strong&nbsp;low&nbsp;level&nbsp;fgen&nbsp;forcing&nbsp;and&nbsp;increasing&nbsp;elevated&nbsp;&nbsp;<br>instability&nbsp;should&nbsp;compensate&nbsp;for&nbsp;this&nbsp;with&nbsp;scattered&nbsp;showers&nbsp;&nbsp;<br>and&nbsp;isolated/scattered&nbsp;thunderstorms&nbsp;expected&nbsp;to&nbsp;redevelop&nbsp;late&nbsp;&nbsp;<br>evening&nbsp;into&nbsp;the&nbsp;overnight&nbsp;hours.&nbsp;Given&nbsp;elevated&nbsp;nature&nbsp;of&nbsp;the&nbsp;&nbsp;<br>instability,&nbsp;severe&nbsp;weather&nbsp;is&nbsp;not&nbsp;expected.&nbsp;Some&nbsp;brief&nbsp;heavy&nbsp;&nbsp;<br>rainfall&nbsp;is&nbsp;possible&nbsp;given&nbsp;increasing&nbsp;depth&nbsp;of&nbsp;moisture&nbsp;&nbsp;<br>profiles,&nbsp;long/skinny&nbsp;CAPE&nbsp;profiles,&nbsp;and&nbsp;increasing&nbsp;warm&nbsp;cloud&nbsp;&nbsp;<br>depths.&nbsp;Given&nbsp;quite&nbsp;dry&nbsp;antecedent&nbsp;conditions,&nbsp;significant&nbsp;&nbsp;<br>hydro&nbsp;impacts&nbsp;are&nbsp;not&nbsp;expected.&nbsp;<br>&nbsp;<br>By&nbsp;mid&nbsp;afternoon&nbsp;Wednesday,&nbsp;scattered&nbsp;shower/storm&nbsp;activity&nbsp;should&nbsp;&nbsp;<br>progressively&nbsp;sink&nbsp;southward&nbsp;as&nbsp;low&nbsp;level&nbsp;fgen&nbsp;axis&nbsp;becomes&nbsp;more&nbsp;&nbsp;<br>muted&nbsp;and&nbsp;shifted&nbsp;south.&nbsp;This&nbsp;will&nbsp;occur&nbsp;as&nbsp;some&nbsp;recovery&nbsp;in&nbsp;mid&nbsp;&nbsp;<br>level&nbsp;heights&nbsp;occurs&nbsp;upstream&nbsp;in&nbsp;response&nbsp;to&nbsp;stronger&nbsp;upper&nbsp;&nbsp;<br>trough/cut-off&nbsp;low&nbsp;feature&nbsp;lifting&nbsp;northeast&nbsp;out&nbsp;of&nbsp;the&nbsp;Four&nbsp;Corners&nbsp;&nbsp;<br>region.&nbsp;&nbsp;<br>&nbsp;<br>Another&nbsp;round&nbsp;of&nbsp;active&nbsp;weather&nbsp;is&nbsp;expected&nbsp;Thursday&nbsp;and&nbsp;Friday&nbsp;as&nbsp;&nbsp;<br>the&nbsp;cut-off&nbsp;upper&nbsp;low&nbsp;begins&nbsp;to&nbsp;phase&nbsp;with&nbsp;a&nbsp;more&nbsp;dynamic&nbsp;northern&nbsp;&nbsp;<br>stream&nbsp;upper&nbsp;level&nbsp;trough&nbsp;digging&nbsp;southeast&nbsp;out&nbsp;of&nbsp;south&nbsp;central&nbsp;&nbsp;<br>Canada.&nbsp;This&nbsp;phasing&nbsp;system&nbsp;will&nbsp;likely&nbsp;result&nbsp;in&nbsp;cyclogenesis&nbsp;&nbsp;<br>overhead&nbsp;late&nbsp;Thursday&nbsp;with&nbsp;some&nbsp;favorable&nbsp;upper&nbsp;jet&nbsp;dynamics&nbsp;&nbsp;<br>also&nbsp;coming&nbsp;into&nbsp;play.&nbsp;This&nbsp;strongly&nbsp;forced&nbsp;setup&nbsp;should&nbsp;support&nbsp;<br>another&nbsp;round&nbsp;of&nbsp;showers&nbsp;and&nbsp;thunderstorms&nbsp;Thursday&nbsp;afternoon&nbsp;&nbsp;<br>and&nbsp;Thursday&nbsp;night&nbsp;before&nbsp;a&nbsp;strong&nbsp;accompanying&nbsp;cold&nbsp;front&nbsp;&nbsp;<br>sweeps&nbsp;across&nbsp;the&nbsp;area.&nbsp;With&nbsp;the&nbsp;tendency&nbsp;to&nbsp;signals&nbsp;of&nbsp;better&nbsp;&nbsp;<br>phasing,&nbsp;sfc&nbsp;reflection&nbsp;is&nbsp;likely&nbsp;to&nbsp;take&nbsp;a&nbsp;track&nbsp;closer&nbsp;to&nbsp;&nbsp;<br>guidance&nbsp;that&nbsp;has&nbsp;been&nbsp;advertising&nbsp;a&nbsp;northerly&nbsp;track&nbsp;across&nbsp;&nbsp;<br>IN/NW&nbsp;OH/SE&nbsp;Lower&nbsp;MI.&nbsp;This&nbsp;could&nbsp;provide&nbsp;a&nbsp;brief&nbsp;temporal&nbsp;window&nbsp;<br>of&nbsp;weak&nbsp;near&nbsp;surface&nbsp;based&nbsp;CAPE&nbsp;across&nbsp;at&nbsp;least&nbsp;southeast&nbsp;&nbsp;<br>portions&nbsp;of&nbsp;the&nbsp;forecast&nbsp;area&nbsp;late&nbsp;Thursday&nbsp;afternoon&nbsp;and&nbsp;more&nbsp;&nbsp;<br>likely&nbsp;Thursday&nbsp;evening.&nbsp;Uncertainty&nbsp;remains&nbsp;with&nbsp;just&nbsp;how&nbsp;far&nbsp;&nbsp;<br>north&nbsp;warm&nbsp;frontal&nbsp;feature&nbsp;can&nbsp;progress&nbsp;Thursday&nbsp;night&nbsp;but&nbsp;given&nbsp;<br>robust&nbsp;kinematic&nbsp;profiles&nbsp;may&nbsp;need&nbsp;to&nbsp;monitor&nbsp;for&nbsp;isolated&nbsp;&nbsp;<br>strong/severe&nbsp;threat&nbsp;Thursday&nbsp;evening,&nbsp;especially&nbsp;south&nbsp;of&nbsp;US&nbsp;&nbsp;<br>24.&nbsp;Given&nbsp;progression&nbsp;of&nbsp;features&nbsp;and&nbsp;dry&nbsp;antecedent&nbsp;conditions,&nbsp;<br>widespread&nbsp;hydro&nbsp;concerns&nbsp;are&nbsp;not&nbsp;expected.&nbsp;PWATs&nbsp;will&nbsp;be&nbsp;&nbsp;<br>highly&nbsp;anomalous&nbsp;on&nbsp;Thursday&nbsp;however,&nbsp;so&nbsp;some&nbsp;localized&nbsp;heavier&nbsp;&nbsp;<br>rainfall&nbsp;amounts&nbsp;are&nbsp;possible.&nbsp;<br>&nbsp;<br>Friday&nbsp;still&nbsp;appears&nbsp;dismal&nbsp;with&nbsp;blustery&nbsp;conditions&nbsp;developing&nbsp;on&nbsp;&nbsp;<br>cold&nbsp;side&nbsp;of&nbsp;this&nbsp;deepening&nbsp;system.&nbsp;Peak&nbsp;afternoon&nbsp;gusts&nbsp;into&nbsp;the&nbsp;35&nbsp;&nbsp;<br>to&nbsp;40&nbsp;mph&nbsp;range&nbsp;still&nbsp;appear&nbsp;possible&nbsp;given&nbsp;deep&nbsp;post-frontal&nbsp;&nbsp;<br>mixing.&nbsp;Some&nbsp;consideration&nbsp;may&nbsp;be&nbsp;given&nbsp;to&nbsp;a&nbsp;wind&nbsp;advisory&nbsp;&nbsp;<br>downwind&nbsp;of&nbsp;Lake&nbsp;Michigan,&nbsp;but&nbsp;uncertainty&nbsp;remains&nbsp;in&nbsp;this&nbsp;&nbsp;<br>regard.&nbsp;Some&nbsp;lake&nbsp;effect&nbsp;rain&nbsp;showers&nbsp;will&nbsp;also&nbsp;be&nbsp;likely&nbsp;&nbsp;<br>although&nbsp;duration&nbsp;of&nbsp;deeper&nbsp;lake&nbsp;induced&nbsp;instability&nbsp;profiles&nbsp;&nbsp;<br>appears&nbsp;somewhat&nbsp;limited&nbsp;to&nbsp;Friday&nbsp;morning/early&nbsp;PM.&nbsp;Friday&nbsp;and&nbsp;&nbsp;<br>Saturday&nbsp;will&nbsp;feature&nbsp;temps&nbsp;well&nbsp;below&nbsp;normal&nbsp;with&nbsp;nighttime&nbsp;&nbsp;<br>lows&nbsp;in&nbsp;the&nbsp;30s.&nbsp;Along&nbsp;with&nbsp;the&nbsp;better&nbsp;phased&nbsp;system&nbsp;comes&nbsp;the&nbsp;&nbsp;<br>potential&nbsp;of&nbsp;a&nbsp;slightly&nbsp;quicker&nbsp;eastward&nbsp;progression&nbsp;of&nbsp;sfc&nbsp;&nbsp;<br>anticyclone&nbsp;late&nbsp;Friday&nbsp;night&nbsp;with&nbsp;an&nbsp;attendant&nbsp;frost&nbsp;potential&nbsp;<br>Friday&nbsp;night&nbsp;and&nbsp;Saturday&nbsp;night.&nbsp;Flow&nbsp;deamplification&nbsp;quickly&nbsp;&nbsp;<br>ensues&nbsp;to&nbsp;start&nbsp;next&nbsp;work&nbsp;week&nbsp;which&nbsp;should&nbsp;result&nbsp;in&nbsp;&nbsp;<br>temperatures&nbsp;moderating&nbsp;back&nbsp;to&nbsp;slightly&nbsp;above&nbsp;normal&nbsp;by&nbsp;Monday-&nbsp;<br>Tuesday.&nbsp;<br>&nbsp;<br>&&&nbsp;<br>&nbsp;<br>.AVIATION&nbsp;/00Z&nbsp;TAFS&nbsp;THROUGH&nbsp;00Z&nbsp;THURSDAY/...&nbsp;<br>Issued&nbsp;at&nbsp;709&nbsp;PM&nbsp;EDT&nbsp;Tue&nbsp;Oct&nbsp;13&nbsp;2026&nbsp;<br>&nbsp;<br>Existing&nbsp;TAFs&nbsp;remain&nbsp;on&nbsp;track&nbsp;this&nbsp;evening.&nbsp;A&nbsp;cold&nbsp;front&nbsp;is&nbsp;<br>slowly&nbsp;working&nbsp;its&nbsp;way&nbsp;through&nbsp;northern&nbsp;Indiana.&nbsp;Encountering&nbsp;a&nbsp;<br>subtropical&nbsp;high&nbsp;over&nbsp;the&nbsp;Southeast,&nbsp;a&nbsp;very&nbsp;weak&nbsp;pressure&nbsp;<br>gradient&nbsp;will&nbsp;result&nbsp;in&nbsp;light&nbsp;wind&nbsp;into&nbsp;the&nbsp;overnight&nbsp;hours.&nbsp;&nbsp;<br>&nbsp;<br>Isolated&nbsp;showers&nbsp;and&nbsp;thunderstorms&nbsp;have&nbsp;festered&nbsp;upstream&nbsp;in&nbsp;the&nbsp;<br>vicinity&nbsp;of&nbsp;the&nbsp;front&nbsp;and&nbsp;this&nbsp;activity&nbsp;is&nbsp;expected&nbsp;to&nbsp;&nbsp;<br>rejuvenate&nbsp;through&nbsp;early&nbsp;Wednesday&nbsp;morning.&nbsp;Showers&nbsp;become&nbsp;&nbsp;<br>divorced&nbsp;from&nbsp;the&nbsp;best&nbsp;upper-level&nbsp;support&nbsp;by&nbsp;sunrise&nbsp;Wednesday&nbsp;<br>resulting&nbsp;in&nbsp;a&nbsp;weakening&nbsp;trend&nbsp;toward&nbsp;KFWA.&nbsp;High&nbsp;PWATs&nbsp;can&nbsp;&nbsp;<br>likely&nbsp;result&nbsp;in&nbsp;periods&nbsp;of&nbsp;MVFR&nbsp;visibility&nbsp;from&nbsp;any&nbsp;showers&nbsp;&nbsp;<br>that&nbsp;move&nbsp;through.&nbsp;<br>&nbsp;<br>&&&nbsp;<br>&nbsp;<br>.IWX&nbsp;WATCHES/WARNINGS/ADVISORIES...&nbsp;<br>IN...None.&nbsp;<br>OH...None.&nbsp;<br>MI...None.&nbsp;<br>MARINE...None.&nbsp;<br>&nbsp;<br>&&&nbsp;<br>&nbsp;<br>$$&nbsp;<br>&nbsp;<br>DISCUSSION...Marsili&nbsp;<br>AVIATION...Brown&nbsp;<br>&nbsp;<br>
+       
+      </td>
+   </tr>
+</table>
+
+
+
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

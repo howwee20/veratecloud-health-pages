@@ -1,0 +1,214 @@
+=============================================================================== 
+Station Notes - Dowagiac (MI) 
+ 
+ 
+05/18/2023: Station Maintenance:                                        [1220] 
+  
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked atmp/relh sensor (good) 
+               - checked soil sensor cables (good) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - cleaned battery box 
+               - cleaned solar panel 
+               - replaced leaf wetness sensor [standard] 
+ 
+               * canopy sensor located near an apple tree 
+              
+ 
+  
+============================================================================== 
+07/22/2022: Station Maintenance:                                        [1055] 
+ 
+            - site maintenance, including: 
+               - replaced atmp/relh sensor (hmp155) 
+ 
+ 
+07/18/2022: Station Maintenance:                                        [1320] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (ok, but bearings are old) 
+               - checked battery (13.04V) 
+               - checked enclosure (replaced desipacks) 
+               - checked pyranometer (good) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (20.84V) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield* 
+               - cleaned battery box 
+               - tested leaf wetness sensor [canopy] (good) 
+               - tested leaf wetness sensor [standard] (good) 
+               - weed removal 
+  
+               * replacement needed at next site visit 
+ 
+ 
+05/25/2022: Station / Logger Maintenence                                [1325] 
+ 
+            - routine site maintenance, including: 
+               - adjusted (leveled) pyranometer 
+               - adjusted soil moisture sensors (installed vetically) 
+               - checked anemometer (fair) 
+               - checked battery (good) 
+               - checked tipping-bucket rain gauge  
+               - checked wind vane (good)               
+               - cleaned solar panel 
+ 
+ 
+ 
+=============================================================================== 
+07/07/2021: Station Maintenance:                                         [1135] 
+ 
+            - routine site maintenance 
+ 
+ 
+05/14/2021: Station Maintenance:                                         [1445] 
+ 
+            - replaced atmp/relh sensor 
+ 
+ 
+04/02/2021: Logger Maintenance                                           [1700] 
+ 
+            - replaced cell modem (modem OS upgrade) 
+ 
+ 
+03/26/2021: Station Maintenance                                          [1330] 
+ 
+            - replaced leaf wetness sensor (canopy) 
+            - data cleanup performed on leaf wetness (standard / canopy) 
+ 
+ 
+ 
+=============================================================================== 
+11/17/2020: Logger / Station Maintenance:                                [1500] 
+ 
+            - repaired communication issue (down since 11/12/2020) 
+            - replaced faulty soil moisture sensor (mstr1) 
+ 
+ 
+06/17/2020: Logger Maintenance:                                          [1130] 
+ 
+            - power system upgrade  
+ 
+ 
+05/26/2020: Station Maintenance:                                         [1140] 
+ 
+            - routine site maintenance  
+            - replaced atmp/relh sensor 
+ 
+ 
+  
+=============================================================================== 
+07/01/2019: Logger Maintenance:                                          [1005] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: dow-bbab 
+ 
+ 
+ 
+=============================================================================== 
+10/11/2018: Station Maintenance:                                         [1200] 
+ 
+            - removed obstruction from tipping-bukce tain gauge 
+ 
+ 
+07/11/2018: Station Maintenance:                                         [1320] 
+ 
+            - site maintenance 
+ 
+ 
+05/23/2018: Station Maintenance:                                         [1515] 
+ 
+            - annual maintenance, including: 
+                - leaf wetness cleaning 
+                - precipitation test  
+                - site cleanup / weed removal 
+ 
+ 
+ 
+=============================================================================== 
+07/13/2017: Station Maintenance:                                         [1445] 
+ 
+            - general maintenance  
+ 
+ 
+05/23/2017: Station Maintenance:                                         [0002] 
+ 
+            - loaded logger program: dow-bbab 
+ 
+ 
+05/19/2017: Station Maintenance:                                         [1040] 
+ 
+            - annual maintenance, including: 
+               - replacement of canopy leaf wetness 
+               - replacement of atmp/relh sensor (HC2S3 -> HMP45C) 
+                  - atmp/relh now wired to "continuous" power 
+        
+ 
+  
+=============================================================================== 
+08/09/2016: Station Maintenance:                                         [1300] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+05/11/2016: Station Maintenance:                                         [1230] 
+ 
+            - annual maintenance and weed removal  
+ 
+ 
+ 
+=============================================================================== 
+09/18/2015: Station Maintenance                                          [1230] 
+ 
+            - corrected mounting of tipping-bucket rain gauge 
+ 
+ 
+06/02/2015: Station Maintenance                                          [1300] 
+ 
+            - replaced LEAF WETNESS 1 (canopy sensor) 
+            - leveled precipitation bucket 
+ 
+ 
+ 
+=============================================================================== 
+04/21/2014: Station Online:                                              [1420] 
+ 
+            - Station added to Enviroweather/MAWN Web Site 
+ 
+ 
+04/16/2014: Data Collection Enabled                                      [1600] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   April 17, 2014 (Day=107) 00:05 
+ 
+ 
+04/16/2014: Station Installed:                                           [1400] 
+ 
+            - Station installed at station field site 
+ 
+ 
+04/14/2014: Station Maintenance:                                         [1545] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+04/14/2014: Station Setup                                                [1525] 
+ 
+            - Loaded MAWN Program:   BBBB-DOW 
+                                        B => CR1000/MI (Logger/State) 
+                                        B => CS616 (Soil Moisture) 
+                                        B => HC2S3 (Temp/RH) 
+                                        B => LWS-L (Leaf Wetness) 
+                                      DOW => Station ID (Dowagiac)                                 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+=============================================================================== 
+

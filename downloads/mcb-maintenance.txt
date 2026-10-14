@@ -1,0 +1,211 @@
+============================================================================== 
+Station Notes - McBain (Autumn Vista Dairy) 
+ 
+ 
+05/28/2026: Station / Logger Maintenance:                               [1110] 
+ 
+            - data-collection troubleshooting, including: 
+               - replaced logger 
+               - loaded logger program "mcb-bbad.cr1" (1140) 
+ 
+            - routine maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery (good) 
+               - checked soil sensors (good) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane 
+               - checked / cleaned atmp/relh sensor [HMP45] (good) 
+               - checked / cleaned leaf wetness [standard] 
+               - checked / cleaned pyranometer (good) 
+               - checked / cleaned atmp/relh radiation shield 
+               - cleaned solar panel 
+               - weed removal / trimmed grass 
+ 
+ 
+05/26/2026: Station / Logger Maintenance:                               [1225] 
+ 
+            - communcation troubleshooting: 
+               - cleaned enclosure (remove excess moisture) 
+               - re-wired 12V relay 
+               - reloaded logger program "mcb-bbad.cr1" (1331)* 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane (good) 
+               - checked / cleaned leaf-wetness [standard] 
+               - checked / cleaned pyranometer 
+ 
+            * data-collection issues resurfaced at: 05/26/2026 2200... 
+              ...data-collection fails before hourly data is collected. 
+           
+ 
+                
+============================================================================== 
+05/09/2022: Logger / Station Maintnenace:                               [1404] 
+ 
+            - loaded logger program: mcb-bbad.cr1* (237 -> LWS-L)** 
+                  * supports "maintenance mode" 
+                 ** sensor replaced: 08/20/2020 (no canopy) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+ 
+============================================================================== 
+10/14/2021: Station / Logger Maintenance:                               [1200] 
+ 
+            - resolved logger communication / clock issues 
+ 
+ 
+08/13/2021: Station Maintenance:                                        [1400] 
+ 
+            - routine site maintenance  
+ 
+ 
+06/30/2021: Station / Logger Maintenance:                               [1750] 
+ 
+            - routine site maintenance  
+            - repaired loose battery cable 
+            - reset / power cycle logger 
+ 
+ 
+06/10/2021: Station Maintenance:                                        [1210] 
+ 
+            - routine site maintenance  
+            - installed updated modem 
+ 
+ 
+ 
+============================================================================== 
+08/20/2022: Station Maintenance:                                        [1345] 
+ 
+            - routine site maintenance, including: 
+               - leaf wetness sensor upgrade (237 -> LWS)* 
+                  * there is no canopy sensor 
+ 
+ 
+06/17/2020: Station Maintenance:                                        [1310] 
+ 
+            - routine site maintenance  
+ 
+ 
+ 
+============================================================================== 
+07/11/2019: Logger / Station Maintenance;                               [1635] 
+ 
+            - installed directional antenna  
+            - corrected clock on logger 
+ 
+ 
+07/10/2019: Logger / Station Maintenance:                               [1135] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: bbc-bbab 
+ 
+ 
+ 
+============================================================================== 
+08/16/2018: Station Maintenance:                                        [1240] 
+ 
+            - routine station / site maintenance  
+ 
+ 
+07/06/2018: Station/Logger Maintenance:                                 [1900] 
+ 
+            - annual station / site maintenance 
+            - reinstalled tipping-bucket rain gauge 
+ 
+ 
+ 
+============================================================================== 
+08/11/2017: Station Maintenance:                                        [1530] 
+ 
+            - routine maintenance  
+ 
+ 
+06/22/2017: Station Maintenance:                                        [0002] 
+ 
+            - loaded logger program "mcb-bbaa" 
+ 
+ 
+06/02/2017: Station Maintenance:                                        [1225] 
+ 
+            - annual maintenance, including: 
+               - replaced atmp/relh (HC2S3 -> HMP45C)  
+ 
+ 
+04/25/2017: Station Maintenance:                                        [0006] 
+ 
+            - loaded logger program "mcb-bbba" 
+ 
+ 
+04/21/2017: Station Maintenance:                                        [1730] 
+ 
+            - replaced AIR TEMP/RELH sensors (HMP45C -> HC2S3) 
+              - sensor connected to "continous" power 
+ 
+ 
+ 
+============================================================================== 
+05/10/2016: Station Maintenance:                                        [????] 
+ 
+            - annual maintenance and weed removal  
+ 
+ 
+ 
+============================================================================== 
+10/10/2014: System Maintenance:                                         [1103] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbaa-mcb" 
+ 
+ 
+ 
+============================================================================== 
+06/03/2012: Station Maintenance:                                        [1350] 
+ 
+            - Replaced Modem 
+ 
+ 
+04/26/2012: Station Maintenance:                                        [0006] 
+ 
+            - Loaded updated Logger Program BBAA-MCB.  Logger now 
+              set to collect on a 30-minute cycle from Apr - Sep. 
+ 
+ 
+ 
+============================================================================== 
+05/29/2009: Station Online: 
+ 
+            - Station added to MAWN web site. 
+ 
+ 
+ 
+05/21/2009: Data Collection Enabled: 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                 First data report:   May 21, 2009 - 00:05 (Day=141) 
+ 
+ 
+ 
+05/20/2009: Station Maintenance: 
+ 
+            - Established telecommunication between station cell-modem and 
+              data collection PC/server on campus.    
+ 
+            - Loaded MAWN Program:   BBC-MCB 
+                                         B => CR1000 
+                                         B => CS616  
+                                         C => Broadband Cell Modem (IP) 
+                                       MCB => Station ID (McBain) 
+                                    
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

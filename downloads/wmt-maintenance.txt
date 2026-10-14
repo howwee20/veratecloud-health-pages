@@ -1,0 +1,160 @@
+=============================================================================== 
+Station Notes - Sparta (20m Tower) 
+ 
+ 
+05/11/2023: Station Maintenance:                                         [1330] 
+ 
+            - routine station maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked battery (13.64 V) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (14.10 V) 
+               - cleaned battery box 
+               - replaced leaf wetness sensor [standard]* 
+               - replaced tipping-bucket rain gauge 
+ 
+               * there is no canopy sensor at this site 
+ 
+ 
+ 
+=============================================================================== 
+08/18/2022: Station Maintenance:                                         [1655] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked battery (13.24 V) 
+               - checked pyranometer (cleaaned, adjusted level) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (21.95 V) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield [1.5m] 
+               - cleaned solar panel 
+               - tested leaf wetness [standard] (good)* 
+ 
+               * there is no canopy sensor at this site 
+ 
+ 
+06/22/2022: Station Maintenance:                                         [1635] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked battery (13.6 V) 
+               - checked pyranometer (adjusted level) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (14.3 V) 
+               - checked tipping-bucket rain gauge (cleaned, leveled) 
+               - checked wind vane (properly aligned)  
+               - cleaned atmp/relh sensors and radiation shields [10cm, 1.5m] 
+               - cleaned solar panel 
+               - removed leaf wetness [canopy] (not installed in canopy) 
+               - tested leaf wetness [standard] (good)* 
+               - weed removal 
+   
+ 
+05/05/2022: Station Maintenance:                                         [1500] 
+ 
+            - routine site maintenance, including: 
+               - repair tipping-bucket rain gauge  
+ 
+            NOTE: canopy sensor is not install within a canopy 
+ 
+ 
+  
+=============================================================================== 
+08/19/2021: Station Maintenance:                                         [1230] 
+  
+            - routine site maintenance  
+ 
+ 
+06/15/2021: Station Maintenance:                                         [1225] 
+ 
+            - replaced modem 
+ 
+ 
+05/05/2021: Station Maintenance:                                         [1630] 
+ 
+            - Corrected tipping-bucket rain gauge installation / mount 
+ 
+ 
+ 
+=============================================================================== 
+06/30/2020: Logger / Station Maintenance:                                [1410] 
+ 
+            - routine maintenance  
+            - replaced battery cable 
+ 
+ 
+ 
+=============================================================================== 
+11/13/2019: Logger Maintenance:                                          [1811] 
+ 
+            - logger was manually reset (communication issue) 
+ 
+ 
+10/17/2019: Logger / Station Maintenance:                                [1310] 
+ 
+            - replaced logger (CR3000 -> CR3000) 
+            - added PakBus modem 
+            - loaded logger program: wmt-bbcbT 
+ 
+ 
+ 
+=============================================================================== 
+05/08/2017: Station Maintenance:                                         [1400] 
+ 
+            - Repaired "20m Air Temperature" sensor 
+ 
+ 
+04/23/2017: Data Archive Reset:                                          [----] 
+ 
+            - Reset Start of Data Archive: 
+ 
+                  First data report:   April 23, 2017 (Day=113) 00:00 
+ 
+ 
+04/22/2017: Station Maintenance:                                         [----] 
+ 
+            - complete sensor installation 
+ 
+ 
+04/17/2017: LoggerNet Adjustment                                         [1045] 
+ 
+            - changed data-collection to 5-minutes (from 15-minutes) 
+ 
+ 
+xx/xx/xxx: Station Online:                                               [xxxx] 
+ 
+            - Station added to Enviroweather/MAWN Web Site 
+ 
+ 
+03/07/2017: Data Archive Reset:                                          [----] 
+ 
+            - Reset Start of Data Archive: 
+ 
+                  First data report:   XXX XX. XXXX (Day=XXX) XX;XX ???? 
+ 
+ 
+03/06/2017: Data Collection Enabled                                      [1800] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   March 07, 2017 (Day=066) 00:00 ???? 
+ 
+ 
+03/06/2017: Station Setup                                                [1730] 
+ 
+            - Loaded MAWN Program:   WMT-BBCBT 
+                                      WMT => Station ID (Williamsburg 20m tower) 
+                                        B => CR1000/MI (Logger/State) 
+                                        B => CS616 (Soil Moisture) 
+                                        C => HMP155A (Temp/RH) 
+                                        B => LWS-L (Leaf Wetness) 
+                                        T => 20m Tower Station 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+=============================================================================== 
+

@@ -1,3 +1,4 @@
+import expandedNetwork from '../../data/expanded/network.json';
 // Typed access to the versioned, normalized data produced by scripts/build_data.py.
 import stationsJson from '../../data/normalized/stations.json';
 import detailsJson from '../../data/normalized/station-details.json';
@@ -29,7 +30,7 @@ export interface Station {
 }
 
 export const stations = stationsJson as unknown as { source: SourceRef; counts: Record<string, number>; captureCounts: Record<string, number>; stations: Station[] };
-export const stationDetails = detailsJson.stations as unknown as Record<string, any>;
+export const stationDetails = {...detailsJson.stations, ...expandedNetwork.stations} as unknown as Record<string, any>;
 export const hourly = hourlyJson as unknown as {
   source: SourceRef; timezoneLabel: string; location: string[]; columns: Column[]; days: string[]; rows: HourlyRow[];
   footnotes: string[]; stats: any; parsing: { method: string; transformations: string[]; missingValues: string };

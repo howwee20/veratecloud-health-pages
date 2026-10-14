@@ -1,0 +1,494 @@
+============================================================================== 
+Station Notes - Fennville 
+ 
+ 
+05/24/2023: Station Maintenance:                                         [1125] 
+ 
+            - routine station maintenance, including: 
+               - checked anemometer (good) 
+               - checked atmp/relh sensor (good) 
+               - checked battery (13.51V) 
+               - checked pyranometer (good)  
+               - checked soil sensor cables (good) 
+               - checked solar panel (21.25V) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - cleaned battery box 
+               - cleaned solar panel 
+               - tested leaf wetness sensor [canopy] (good) 
+               - tested leaf wetness sensor [standard] (good) 
+              
+ 
+  
+=============================================================================== 
+07/13/2022: Station Maintenance:                                         [0945] 
+ 
+            - routine station maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked battery (13.63V) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (20.56V) 
+               - checked tipping-bucket rain gauge (cleaned, adjusted level) 
+               - checked wind vane (properly aligned) 
+               - cleaned solar panel 
+               - replaced pyranometer  
+               - tested leaf wetness sensor [canopy] (good) 
+               - tested leaf wetness sensor [standard] (good) 
+      
+  
+03/17/2022: Station Maintenance:                                         [1040] 
+ 
+            - replaced atmp/relh/dwpt sensor 
+            - replaced pyranometer (solar radiation) sensor 
+            - replaced leaf wetness sensors (standard, canopy) 
+ 
+ 
+ 
+=============================================================================== 
+07/20/2021: Station Maintenance:                                         [1030] 
+  
+            - routine site maintenance  
+ 
+ 
+07/06/2021: Station Maintenance:                                         [1300] 
+ 
+            - routine site maintenance, including... 
+              ...replacement of soil temp/moisture (5cm) sensor 
+ 
+ 
+05/18/2021: Station Maintenance:                                         [1130] 
+ 
+            - routine site maintenance  
+ 
+ 
+02/10/2021: Logger Maintenance:                                          [1400] 
+ 
+            - replaced modem (modem OS update) 
+ 
+ 
+02/08/2021: Logger Maintenance:                                          [1345] 
+ 
+            - reset logger / modem (communication issues) 
+ 
+ 
+01/29/2021: Logger Maintenance:                                          [1500] 
+ 
+            - reset modem (communication issues) 
+ 
+ 
+ 
+=============================================================================== 
+05/22/2020: Station Maintenence:                                         [1430] 
+ 
+            - routine site maintenance, including... 
+              ...remount of leaf wetness sensors (standad, canopy) 
+ 
+ 
+ 
+============================================================================== 
+08/19/2019: Logger Maintenance:                                         [1630] 
+ 
+            - replaced logger (CR1000 -> CR6) 
+            - added PakBus modem 
+            - loaded logger program: fev-bssb 
+ 
+ 
+ 
+============================================================================== 
+07/30/2018: Station Maintenance:                                        [1155] 
+ 
+            - general maintenance / weed removal 
+ 
+ 
+06/04/2018: Station Maintenance:                                        [1200] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+============================================================================== 
+07/17/2017: Station Maintenance:                                        [1445] 
+ 
+            - annual maintenance  
+ 
+ 
+05/12/2017: Station Maintenance:                                        [1050] 
+ 
+            - annual maintenance  
+ 
+ 
+04/26/2017: Station Maintenance:                                        [0007] 
+ 
+            - loaded logger program "fev-bbab" 
+ 
+ 
+04/24/2017: Station Maintenance:                                        [1245] 
+ 
+            - replaced air temp/relh sensor (HC2S3 -> HMP45C) 
+              - sensor now connected to "continuous" power 
+ 
+ 
+ 
+============================================================================== 
+08/15/2016: Station Maintenance:                                        [1430] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+05/31/2016: Station Maintenance:                                        [1445] 
+ 
+            - annual maintenance and weed removal 
+            - installed 10w solar panel 
+ 
+ 
+ 
+============================================================================== 
+05/28/2015: Station Modernization:                                      [1300] 
+ 
+            - Station upgraded with new logger and serveral new sensors. 
+ 
+            - loaded logger program "fev-bbbb" 
+ 
+            - Due to upgrade, station was offline for the following: 
+  
+                 05/28/2015 (d=148) 1305 - 05/28/2015 (d=148) 1500 
+ 
+            - the "live" data updates were able to resume at: 
+ 
+                 05/29/2015 (d=149) 1055 
+ 
+ 
+02/27/2015: Station Maintenance:                                        [0003] 
+ 
+            - loaded logger program "mawn_abcf" (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/13/2014: System Maintenance:                                         [0007] 
+ 
+            - loaded logger program "mawn_abcw" 
+ 
+ 
+11/25/2014: Station Maintenance:                                        [1030] 
+ 
+             - faulty battery replaced 
+ 
+ 
+08/20/2014: Station Maintenance:                                        [1400] 
+ 
+            - routine maintenance 
+ 
+ 
+05/08/2014: Station Maintenance:                                        [1645] 
+ 
+            - Routine maintenance  
+            - cleaned temp/rh sensor 
+ 
+ 
+02/28/2014: Station Maintenance:                                        [1504] 
+  
+            - Moved data-collection to new LoggerNet server 
+            - Loaded logger program: ABCF (hourly cycle) 
+ 
+ 
+ 
+============================================================================== 
+11/27/2013:  Station Maintenance:                                       [1500] 
+ 
+             - Replaced Logger battery 
+ 
+ 
+11/27/2013:  Station Maintenance:                                       [1203] 
+ 
+             - Loaded Logger Program "ABCW" (3-hour collection cycle) 
+ 
+ 
+05/08/2013:  Station Maintenance:                                       [1500] 
+ 
+             - Replaced both leaf wetness sensors 
+ 
+ 
+02/25/2013:  Station Maintenance:                                       [0002] 
+ 
+             - Loaded Logger Program - ABCF (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/03/2012:  Station Maintenance:                                       [1555] 
+ 
+             - Added "hourly battery voltage" to hourly database table 
+ 
+ 
+11/16/2012:  Station Maintenance:                                       [1210] 
+ 
+             - Loaded MAWN Program - ABCW (03-hour collection cycle) 
+ 
+ 
+11/16/2012:  Station Maintenance:                                       [1155] 
+ 
+             - Station converted to Wireless Broadband communications 
+ 
+ 
+ 
+============================================================================== 
+09/16/2011:  Station Maintenance:                                       [1500] 
+ 
+             - Communications cable was accidentally cut during local 
+               trenching work.  Field staff was able to splice cable  
+               back together before any data was lost. 
+ 
+ 
+ 
+============================================================================== 
+06/09/2009:  Station Maintenance:                                       [1400] 
+ 
+             - General station maintenance and system checks, including: 
+                - Tipping-bucket rain gauge test (faulty pcpn data 
+                  that was introduced was removed on 06/11/09) 
+             - Anemometer was replaced (noisy bearings) 
+ 
+ 
+ 
+============================================================================== 
+08/11/2007:  Station Maintenance (sm): 
+ 
+             - It appears that Leaf Wetness 0 (Standard Mount) has been  
+               a bit unreliable as several instances of "missing" have  
+               recently appreared in the 5-minute leaf wetness data.  
+               To correct this problem, the stanard leaf-wetness  
+               sensor was replaced this morning (10:15am) 
+ 
+ 
+ 
+08/03/2007:  Data Quality Control (jb): 
+  
+             - Faulty precipitation data that was introduced on  
+               July 31 (day=212) was removed from archived raw 
+               data file.   Entries in MAWN database were also 
+               corrected. 
+ 
+ 
+ 
+07/31/2007:  Station Maintenance (sm): 
+ 
+             - Sensor Calibration/Testing: 
+                - Manual test of precipitation bucket. 
+                - Testing led to introduction of fauly PCPN data 
+                  at 825 (five-minute), 900 (hourly) and 2400 (daily). 
+ 
+ 
+ 
+07/11/2007:  Station Maintenance (bn): 
+ 
+             - Sensor replacement: 
+                - Soil Moisture A and Soil Moisture B both replaced (CS616) 
+                - Datalogger progam "mawn1c" loaded and compiled. 
+ 
+             - General station maintenance and system checks. 
+                - Work was done approx: 14:00 - 15:00 (Day=192) 
+ 
+ 
+ 
+05/09/2007:  Station Maintenance (sm, bn): 
+ 
+             - General station maintenance and system checks. 
+ 
+                - Work was done approx: 13:40 - 14:20 (Day=129) 
+ 
+ 
+ 
+ 
+============================================================================== 
+11/21/2005:  Station Maintenance (mh): 
+ 
+             - Recent data loss due to existing battery being sensitive  
+               to cold weather which would cause the battery to periodically 
+               fail.   
+ 
+             - New battery was installed this morning. 
+ 
+ 
+ 
+09/30/2005:  Station Maintenance (mh): 
+ 
+             - Funnel to the tipping bucket on the rain gauge was 
+               plugged.  Debris was removed and obstruction was  
+               cleared this afternoon (09/30/05 - Day=273) 
+ 
+ 
+ 
+06/22/2005:  Station Maintenance (sm): 
+ 
+             - General Station Maintenance and System Checks: 
+                - weed removal and application of Round-Up above soil temps 
+                - cleaned/checked all sensors 
+                - cleaned/serviced precipitation bucket 
+                - approximate time of service:   1:15pm 
+ 
+ 
+ 
+=========================================================================== 
+03/14/2005:  Station Maintenance (sm): 
+ 
+             - Datalogger Failure on Day=67 (03/08/2005).   Datalogger 
+               Program MAWN1B reloaded at 14:30 on Day=73 (03/14/2005). 
+               Data collection once again operational. 
+ 
+             - Due to Datalogger outage, data for the following time  
+               period is not available: 
+ 
+                  Day=67 (03/08/2005): 04:15  - Day=73 (03/14/2005): 14:25 
+ 
+ 
+ 
+ 
+============================================================================== 
+08/25/2004:  Station Maintenance (jal): 
+  
+             - Replaced Temperature/Relative Humidity Sensor (HMP45C). 
+ 
+             - General Station Maintenance and System Checks: 
+                - weed removal and application of Round-Up above soil temps 
+ 
+             - Work was done approx: 14:05 - 14:20 (Day=238) 
+ 
+ 
+ 
+05/24/2004:  Station Maintenance (sm, jal): 
+ 
+             - Replaced Tipping Bucket Rain Gauge. 
+ 
+ 
+ 
+05/04/2004:  Station Update (crn,sm): 
+ 
+             - Leaf Wetness B (canopy) sensor installed.  The sensor 
+               was placed in a shrub planted near the foot of the NE 
+               leg of the station. 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+04/08/2002:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+             - Time of Obs were modified by one hour (forward)  
+               from Day=97, Time=200 through Day=98, Time=1225. 
+ 
+ 
+ 
+ 
+11/01/2001:  Field Work: (Jeff Andresen, Jim Brown) 
+ 
+             - Installed Pressure sensor.  However, no changed made 
+               to datalogger program so pressure is currently not 
+               being recorded. 
+ 
+             - Relocated Leaf Wetness A: 
+                  Bracket mounted 40-inches from center of tripod,  
+                  39-inches (~1m) high.  Mounted on NE leg, sensor  
+                  facing north. 
+ 
+ 
+ 
+10/30/2001:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=301, Time=200 through Day=303, Time=900. 
+ 
+ 
+ 
+04/10/2001:  Field Maintanence: 
+ 
+             - Reburied Soil Temperatures - installed in SW 
+               quadrant of station: 
+ 
+                  Soil A:  2-inches under sod, W of S leg, N of Soil B 
+                  Soil B:  4-inches under sod, W of S leg, S of Soil A 
+ 
+    
+             - Buried Soil Temperature Probe (Horizontal Placement) 
+               is SE quadrant of station: 
+ 
+                  Soil Moisture A: 10" depth, E of S leg, facing south 
+ 
+         
+             - Moved Pyranometer Stand to face SW (originally was 
+               oriented to the SE). 
+ 
+                
+             - Needs:  
+ 
+                  Leaf Wetness A needs to be moved to standard mount  
+                  on NE leg. 
+ 
+                  Additional LeaF Wetness (Sensor B) 
+ 
+                  Additional Soil Moisture (Sensor B) 
+ 
+                  NOTE: Current Soil Moisture needs to be switched  
+                        in the datalogger.  Sensor A should be buried 
+                        at 4" and Sensor B should be placed at 10". 
+ 
+ 
+ 
+04/05/2001:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Started on Day=91, Time=200. 
+ 
+             - Time of Obs were modified by one hour (added) from 
+               Day=91, Time=200 through Day=91, Time=1500. 
+               Observation Times, including times of max/mins  
+               were modified. 
+ 
+ 
+ 
+10/29/2000:  Daylight Savings Time Adjustment. 
+                 
+             - Daylight Savings Time Ended on Day=303, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=303, Time=200 through Day=303, Time=1500. 
+               Only Observation Times were modified, not times of 
+               Maxs and Mins.  Users will need to take that into 
+               consideration when using this data. 
+ 
+ 
+ 
+04/21/2000:  Fennville station added to MAWN database 
+ 
+ 
+ 
+04/19/2000:  Station Update: 
+ 
+             - Uploaded Program: mawn1b (10:26am) 
+ 
+             - Test Tipping Bucket (10:50am) 
+ 
+             - Moved Soil Temps from SE corner to SW: 
+                  Soil A:  2-inches under sod, W of S leg, N of Soil B 
+                  Soil B:  4-inches under sod, W of S leg, S of Soil A 
+  
+             - Notes: 
+ 
+                  Soil Moisture A = E of S leg is bent. 
+ 
+                  Need two new soil moisture probes, additional leaf 
+                  wetness sensor, and need to move Pyranometer to face 
+                  to the SW.    
+ 
+                  Leaf Wetness A is mounted at the end of NW leg at 
+                  a height of 20.5".  May need to moved to standard 
+                  install off of NE leg (40" from center of tripod, 
+                  39" high). 
+ 
+ 
+ 
+============================================================================== 
+

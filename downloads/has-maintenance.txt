@@ -1,0 +1,259 @@
+============================================================================== 
+Station Notes - Haslett (MI) 
+============================================================================== 
+ 
+ 
+09/28/2023: Station Maintenance:                                        [1035] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked atmp/relh sensor 
+               - checked battery (12.94 V) 
+               - checked leaf wetness [standard] sensor (good)* 
+               - checked pyranometer (good) 
+               - checked soil sensors (good) 
+               - checked solar panel (20.75 V) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield  
+               - cleaned battery box (remove mice and nest) 
+               - cleaned battery terminals 
+               - cleaned solar panel 
+               - weed removal 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+05/09/2023: Station Maintenance:                                        [1340] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked battery (13.32 V) 
+               - checked soil sensors (good) 
+               - checked solar panel (21.25 V) 
+               - checked tipping-bucket rain gauge 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+ 
+============================================================================== 
+11/20/2022: Station Maintenence:                                        [1450] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked battery (13.17 V) 
+               - checked soil sensor cables (tightened connections) 
+               - checked wind vane (properly aligned) 
+ 
+ 
+08/18/2022: Station Maintenance:                                        [1050] 
+ 
+            - routine site maintenance, including: 
+               - checked battery (13.22 V) 
+               - checked pyranometer (good) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (20.75 V) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane (properly aligned) 
+               - cleaned battery box 
+               - cleaned atmp/relh sensor and radiation shield 
+               - tested leaf wetness sensor [standard} (good)* 
+               - weed removal 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+06/22/2022: Station Maintenance:                                        [1010] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery (13.1 V) 
+               - checked pyranometer (good) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (21.06 V) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned battery box 
+               - tested leaf wetness sensor [standard] (good)* 
+               - weed removal 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+04/11/2022: Station Maintenance:                                        [1100] 
+ 
+            - routine site maintenance  
+ 
+ 
+ 
+============================================================================== 
+09/22/2021: Station Maintenance:                                        [1620] 
+ 
+            - repaired tipping bucket rain gauge (cleared obstruction) 
+ 
+ 
+07/28/2021: Logger / Station Maintenance:                               [0930] 
+ 
+            - routine site maintenance 
+ 
+ 
+05/04/2021: Station Maintenance:                                        [1015] 
+ 
+            - routine site maintenance  
+ 
+ 
+ 
+============================================================================== 
+05/22/2020: Station Maintenance:                                        [0945] 
+ 
+            - replaced faulty pyranometer (solar radiation) 
+ 
+ 
+02/21/2020: Station Maintenance:                                        [1100] 
+ 
+            - repaired HMP155A sensor (atmp/relh/dwpt) 
+ 
+ 
+ 
+============================================================================== 
+10/03/2019: Station Maintenance:                                        [1000] 
+ 
+            - clean / test rain gauge 
+ 
+ 
+10/01/2019: Logger Maintenance:                                         [0005] 
+ 
+            - activated new CR6 logger  
+            - loaded logger program: has-bssd [no canopy] 
+ 
+ 
+--/--2019: Station Maintenance:                                        [----] 
+ 
+            - installed new CR6 station to replace CR1000  
+            - added PakBus modem 
+ 
+ 
+05/31/2019: Station Maintenance:                                         [0915] 
+ 
+            - replaced faulty lws1 (canopy leaf wetness) sensor 
+ 
+ 
+ 
+=============================================================================== 
+07/15/2018: Station Maintenance:                                         [1630] 
+ 
+            - routine station / site maintenance 
+ 
+ 
+06/19/2018: Station Maintenance:                                         [1130] 
+  
+            - annual station / site maintenance 
+ 
+ 
+ 
+=============================================================================== 
+08/23/2017: Station Maintenance:                                         [1115] 
+ 
+            - annual maintenance  
+ 
+ 
+07/26/2017: Station Maintenance:                                         [1015] 
+ 
+            - annual maintenance  
+ 
+ 
+05/26/2017: Station Maintenance:                                         [0001] 
+ 
+            - loaded logger program "has-bbab" 
+ 
+ 
+05/23/2017: Station Maintenance:                                         [1350] 
+ 
+            - annual maintenance  
+            - replaced atmp/relh (HC2S3 -> HMP45C) 
+               - atmp/relh now wired to "continuous" power 
+ 
+ 
+01/25/2017: Station Maintenance:                                         [1000] 
+ 
+            - replaced 2" Soil Temp (soil0) 
+            - cleared obstruction from precipitation bucket 
+ 
+ 
+ 
+=============================================================================== 
+12/19/2016: Station Maintenance:                                         [1230] 
+ 
+            - cleared snow/ice from solar panel 
+ 
+ 
+07/08/2016: Station Maintenance:                                         [1130] 
+ 
+            - annual maintenance and weed removal 
+            - clean tipping bucket rain gauge 
+ 
+ 
+ 
+=============================================================================== 
+10/23/2015: Station Maintenance:                                         [1530] 
+ 
+            - replaced faulty 2" soil temperature sensor (SOIL0) 
+ 
+ 
+04/15/2015: Station Online:                                              [1330] 
+ 
+            - Station added to Enviroweather/MAWN Web Site 
+ 
+ 
+04/14/2015: Station Maintenance:                                         [1530] 
+ 
+            - Replaced LI200S pyranometer (solar radiation) with LI200X 
+            - Replaced faulty HC2S3 (air temp/rh). 
+ 
+            - Replaced faulty RH and Solar Radiation data with esitmates 
+              for the following time period: 
+  
+                 04/02/2015 (d=092) 0005 - 04/14/2015 (d=104) 1600 
+ 
+  
+04/14/2015: Station Maintenance:                                         [0003] 
+  
+            - Decagon sensors are installed in field, not 237 sensors 
+              Loaded logger program "bbbb-has" to allow for proper  
+              collection of leaf wetness data. 
+               
+ 
+04/08/2015: Data Collection Enabled                                      [1250] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                 First data report:   April 02, 2015 (Day=092) 00:05 
+ 
+ 
+04/01/2015: Station Installed:                                           [1400] 
+ 
+            - Station installed at station field site 
+ 
+ 
+03/17/2015: Station Maintenance:                                         [1705] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+03/17/2015: Station Logger Setup                                         [1638] 
+ 
+            - Loaded MAWN Program:   BBBA-HAS 
+                                        B => CR1000/MI (Logger/State) 
+                                        B => CS616 (Soil Moisture) 
+                                        B => HC2S3 (Temp/RH) 
+                                        A => 237   (Leaf Wetness) 
+                                      HAS => Station ID (Haslett) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+=============================================================================== 
+

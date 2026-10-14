@@ -1,0 +1,90 @@
+============================================================================== 
+Station Notes - MSUKBS (MSU Kellogg Biological Station) 
+ 
+ 
+07/26/2023: Station Maintenance:                                        [1415] 
+ 
+            - repaired faulty tipping-bucket rain gauge 
+ 
+ 
+ 
+============================================================================== 
+06/20/2018: Station Maintenance:                                        [1230] 
+ 
+             - faulty air temperature sensor was replaced 
+ 
+ 
+ 
+============================================================================== 
+08/30/2016: Station Maintenance:                                        [1100] 
+ 
+             - checked to ensure that both soil temperature sensors 
+               are available. 
+ 
+ 
+ 
+============================================================================== 
+11/15/2010: Data Notes [Raw-Data Only]:                                 [1100] 
+ 
+             - The 10-m wind speed appears to be unavailable since 
+               11/03/2010 11:00.   Wind sensors were replaced on  
+               11/10/10, but some new cabling is still needed. 
+ 
+ 
+04/09/2010: Data Update:                                                [1500] 
+ 
+             - Have encountered a problem with the "daily reports" 
+               during Daylight-Savings Time.   Until this problem  
+               is resolved, only "hourly" and "five-minute" data 
+               will be available. 
+ 
+ 
+ 
+============================================================================== 
+02/20/2008: Data Correction (jb): 
+ 
+             - With the help of KBS, modification to calculation of 
+               the hourly data was applied.   Needed to download the 
+               updated files and reload into the MAWN database. 
+ 
+ 
+01/23/2008: Station Online: 
+ 
+             - Station added to MAWN web site. 
+ 
+ 
+01/18/2008: Data Collection Enabled: 
+ 
+             - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   Dec 01, 2007 - 00:05 (Day=335) 
+ 
+ 
+01/17/2008: Data Collection: 
+ 
+             - Final Testing of automated data-collection and data-format 
+               changes (with the help of Sven Bohn from KBS). 
+ 
+             - Should now able to collect raw weather data in proper format. 
+ 
+ 
+Fall 2007: New Station Retro-Fitted for MAWN Network (sm): 
+ 
+                Notes: 
+                  
+                   Will not be able to current wind data.   Sensor at 
+                   MSUKBS is installed at 10-m.   MAWN Network requires 
+                   wind data at 3-m. 
+ 
+                   Soil Moisture Data reported at slightly different  
+                   depths: 
+ 
+                      MSTR0:   KBS (5cm)    MAWN (10cm) 
+                      MSTR1:   KBS (20cm)   MAWN (25cm) 
+ 
+                Additional Station Needs: 
+ 
+ 
+ 
+============================================================================== 
+

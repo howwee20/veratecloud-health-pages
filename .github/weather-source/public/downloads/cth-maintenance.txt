@@ -1,0 +1,398 @@
+=============================================================================== 
+Station Notes - Chatham 
+ 
+ 
+=============================================================================== 
+08/08/2026: Logger / Station Maintenance:                                [1400] 
+ 
+            - station maintenance, including: 
+               - logger replacement (os downgrade: 32.07 -> 32.05)* 
+               - logger program change (cth-bbad.cr1 -> cth-bbadC.cr1)** 
+                
+               * version 32.07 causes logger to reset after connecting with 
+                 LoggerNet... haven't had this issue with 32.05. 
+ 
+              ** added extra data table for debugging "phantom tips".  
+ 
+ 
+ 
+=============================================================================== 
+12/13/2024: Logger / Station Maintenance:                                [1445] 
+ 
+            - recent communication issues...  
+               ... replaced modem 
+            - since station is on AC power... 
+               ... reset collection schedulde from 180-min to 15-min 
+ 
+ 
+05/19/2024: Logger / Station Maintenance:                                [1500] 
+  
+            - routine site maintenance, including: 
+               - replaced datalogger (to resolve faulty precipitation) 
+                     - checked / cleaned atmp/relh sensor 
+                     - checked soil sensors 
+                     - sprayed wasp nest under solar panel 
+                     - tested tipping-bucket rain gauge (good) 
+                     - weed / grass removal around station  
+               - loaded logger program: cth-bbad.cr1* (237 -> LWS-L)* 
+                     * supports "maintenance mode"  
+                     * sensor replaced: 06/27/2022 (faulty since: 08/16/2021) 
+                     * cleaned up previously collected data 
+  
+ 
+03/21/2024: Logger / Station Maintenance:                                [1650] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked atmp/relh (good) 
+               - checked leaf wetness [standard] sensor (program update needed)* 
+               - checked soil sensors (good) 
+               - checked tipping-bucket rain gauge (new and level from last visit) 
+               - checked tripod (good) 
+               - checked voltages (good) 
+               - checked wind vane (properly aligned) 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+ 
+=============================================================================== 
+08/26/2023: Logger / Station Maintnenace:                                [----] 
+ 
+            - routine site maintenance. including: 
+               - all sensors / cables in good condition* 
+               - weed / grass removal 
+ 
+               * program upgrade needed to support newer LWS leaf wetness sensor 
+ 
+ 
+ 
+=============================================================================== 
+09/15/2022: Logger / Station Maintenance:                                [1305] 
+ 
+            - routine site maintenance, including: 
+               - checked atmp/relh sensor  
+               - checked battery (13.25 V) 
+               - checked leaf wetness [standard] sensor (program updated needed)* 
+               - checked pyranometer (adjusted level) 
+               - checked soil sensor (good) 
+               - checked solar panel (21.3 V) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - cleaned atmp/relh radiation shield 
+               - cleaned battery box 
+               - cleaned solar panel 
+               - removed weeds / grass under tripod 
+               - repaired anemometer (was not connected) 
+               - repaired wind vane (corrected alignment) 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+06/27/2022: Logger / Station Maintenance:                                [1000] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery connections 
+               - checked pyranometer (adjusted level)  
+               - checked soil sensors (good) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - cleaned battery box 
+               - replaced leaf wetness (sensor) mount* 
+ 
+               * sensor failed 08/16/2021... sensor replaced 08/26/2021 
+               * updated logger program needed 
+               * station does not support canopy sensor 
+ 
+ 
+ 
+=============================================================================== 
+08/26/2021: Logger / Station Maintenance:                                [1305] 
+ 
+            - routine site maintenance, including: 
+               - replaced faulty wind vane 
+               - replaced leaf wetness (standard) sensor [237 -> LWS]* 
+               - replaced soil sensors (moisture and temperature) 
+ 
+               * sensor failed 08/16/2021 
+               * updated logger program is needed 
+               * station will not support canopy sensor 
+ 
+ 
+ 
+=============================================================================== 
+09/05/2019: Logger / Station Maintenance:                                [1505] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: cth-bbaa 
+ 
+ 
+ 
+=============================================================================== 
+11/14/2018: Logger Maintenance:                                          [1600] 
+ 
+            - replaced faulty logger battery, including... 
+              ...AC power adapter 
+ 
+ 
+ 
+============================================================================== 
+06/15/2015: Station Maintenance                                         [1700] 
+ 
+            - Loaded updatad logger program (cth-bbaa) 
+ 
+ 
+06/11/2015: Station Maintenance                                         [1700] 
+ 
+            - Logger upgrade from CR10X to CR1000, including: 
+              - new modem 
+              - new modem/lgger interface (SC-932B) 
+              - replacement RM Young Wind Sentry 
+ 
+ 
+ 
+============================================================================== 
+04/30/2014:  Data Quality:                                              [1830] 
+ 
+             - It was determined that there was a lengthy period of  
+               faulty "solar radiation" data.  All Solar Radiation  
+               data was marked as "missing" during the following  
+               period: 
+ 
+                  01/01/209 (d=001) 00:05 - 01/09/2013 (d=009) 11:00 
+ 
+ 
+02/19/2014:  Station Maintenance:                                       [1140] 
+  
+             - Data cleanup performed 
+             - Reactivated "live" station updates 
+ 
+ 
+02/18/2014:  Station Maintenance:                                       [1345] 
+ 
+             - Battery replacement... dual batteries now installed 
+ 
+ 
+01/24/2014:  Station Maintenance:                                       [1204] 
+ 
+             - Moved data-colletion to new LoggerNet Server 
+             - Loaded Logger Program: ABCF (hourly cycle) 
+ 
+ 
+01/20/2014:  Station Maintenance:                                       
+ 
+             - Replaced logger battery 
+ 
+ 
+ 
+============================================================================== 
+11/26/2013:  Station Maintenance:                                       [0002] 
+ 
+             - Loaded Logger Program "ABCW" (3-hour collection cycle) 
+ 
+ 
+02/01/2013:  Data Management:                                           [1200] 
+ 
+             - Data cleanup performed 
+             - Reactivated "live" updates 
+ 
+ 
+01/30/2013:  Station Maintenance:                                        
+ 
+             - Replaced Battery.  Continuing power issues have led to  
+               missing/faulty data 
+ 
+ 
+01/11/2013:  Data Management:                                           [1435] 
+ 
+             - Due to recent troubles, data was lost for following: 
+ 
+                 12/10/2012 (d=345) 1705 - 01/09/2013 (d=009) 1100 
+ 
+             - Reactivated "live" updates 
+             - Noted that communication failures still occurring, although 
+               not frequently enough to prevent adequate data collection. 
+ 
+ 
+01/09/2013:  Station Maintenance:                                       [1100] 
+ 
+             - SC932A Interface Module replaced. 
+             - Communication re-established. 
+ 
+ 
+01/04/2013:  Station Maintenance:                                       
+ 
+             - Logger replaced 
+ 
+ 
+ 
+============================================================================== 
+03/03/2012:  Station Maintenance:                                       [0005] 
+ 
+             - Loaded MAWN Program - ABCF (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+11/23/2011:  Station Maintenance:                                       [0002] 
+ 
+             - Loaded MAWN Program - ABCW (three-hour collection cycle) 
+ 
+ 
+ 
+03/02/2011:  Station Maintenance:                                       [0006] 
+ 
+             - Loaded MAWN Program - ABCF (hourly collection cycle) 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+12/01/2010:  Station Maintenance:                                       [0006] 
+ 
+             - Loaded MAWN Program - ABCW (3-hour collection cycle) 
+ 
+ 
+ 
+04/08/2010:  Station Maintenance:                                       [1345] 
+ 
+             - Recent logger/communication issues have led to a loss of 
+               data.  Unfortunately, data was not reported/collected  
+               during the following time period: 
+ 
+                  03/24/10 (d=083) 15:40  -  04/07/10 (d=097) 15:20 
+ 
+ 
+ 
+03/05/2010:  Station Maintenance: 
+ 
+             - Loaded MAWN Program - ABCF (hourly collection cycle)     [0002] 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+11/04/2009:  Station Maintenance: 
+ 
+             - Loaded MAWN Program - ABCW (3-hour collection cycle)     [0001]  
+ 
+ 
+ 
+08/21/2009:  Station Maintenance:                                       [1200] 
+ 
+             - On 08/11/09 at 14:00, communication to/from the Chatham 
+               datalogger was severed.    Rather than install/bury new 
+               short-haul modem cable, this opportunity was used to  
+               upgrade the Chatham station to the CELL-IP Network.  A 
+               wireless broadband modem was installed before noon and 
+               data-collection/monitoring is now controlled from the 
+               EnviroWeather Office on the campus of Michigan State 
+               University. 
+ 
+             - MAWN Program - ABCF Loaded (60-minute power-cycle). 
+ 
+             - Added Hourly Battery Voltage to MAWN Database tables 
+               for Chatham. 
+ 
+ 
+ 
+04/27/2009:  Station Maintenance: 
+ 
+             - Snowfall adapter was removed. 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+10/10/2007:  Station Maintenance: 
+ 
+             - Recent telecommunications with the data-collection PC 
+               for the Chatham station have been repaired.  As of  
+               10:10am this morning, data is flowing once again.  No 
+               data was lost during the temporary outage. 
+ 
+ 
+ 
+============================================================================== 
+10/24/2006:  Station Maintenance: 
+ 
+             - Snowfall adapter for Tipping Bucket Rain Gauge Installed. 
+ 
+               NOTE: Timing and amount of precip over the past couple of days  
+                     may be slightly off as there was some frozen precipitation 
+                     prior to the installation of the snowfall adapter.  It 
+                     was reported that 1.44" of precipitation fell between  
+                     10/22/06 - 10/26/06.  
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+11/30/2005:  Station Maintenance: 
+ 
+             - Snowfall adapter for Tipping Bucket Rain Gauge Installed. 
+ 
+ 
+ 
+06/09/2005:  Station Maintenance (sm): 
+ 
+             - General Station Maintenance and System Checks: 
+                  - repaired leaf wetness sensor 
+                  - cleaned Precipitation bucket 
+                  - checked Air Temp/Relative Humidty sensor 
+ 
+ 
+ 
+ 
+============================================================================== 
+10/01/2004:  Station Maintenance (sm): 
+ 
+             - General Station Maintenance and System Checks: 
+ 
+             - Checked Temperature/Relative Humidity Sensor (HMP45C).  No need 
+               to replace as this sensor was calibrated in 03/2004. 
+ 
+             - Checked Tipping Bucket Rain Gauge [10:45]. 
+ 
+             - Repaired Communication Wiring.   Wires used to connect short-haul  
+               modem to the back of the PC were not connected properly.  Repaired 
+               and reconnected. 
+ 
+             - Work was done approx: 10:30 - 11:00 (Day=275) 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+06/18/2003:  Data Collection and Data Archive for new station begins 
+ 
+                First report:   Jun 18, 2003 - 00:05   (Day=169) 
+ 
+ 
+06/17/2003:  New Station Installed: 
+ 
+                Notes: 
+                  
+                   - leaf wetness B (canopy) - still needs to be installed. 
+ 
+                   - Data Logger Program Loaded:    MAWN1C 
+ 
+ 
+                Additional Station Needs: 
+ 
+                   - Pyronometer stand needs leveling plate.  Sensor is  
+                     installed and tied down, but without proper leveling 
+                     plate. 
+ 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+

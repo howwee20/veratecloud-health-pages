@@ -1,0 +1,450 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:33
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+<table><tr><td align="left">
+
+
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=4><B>Late
+Summer and Fall Harvest Management of Alfalfa</B></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT SIZE=4>Richard
+Leep<SUP>1</SUP>, Jeffrey Andresen<SUP>2</SUP>, Doo-Hong Min<SUP>1</SUP>,
+and Aaron Pollyea<SUP>2</SUP></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in">Departments of Crop and
+Soil Sciences and Geography</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in">Michigan State
+University</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">The
+difficult alfalfa harvesting conditions in the spring during first
+cutting causes many farmers to get off schedule for harvesting
+alfalfa. This raises the question of best management for alfalfa
+harvest as the end of summer and fall approaches. Farmers have to
+balance the need for tonnage, forage quality and winter survival.</FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">In
+the late summer and early fall, alfalfa must either be cut early
+enough so it can regrow and then replenish root carbohydrates and
+proteins or so late that the alfalfa does not regrow less than 8
+inches and does not deplete root carbohydrates and proteins. This
+has resulted in the recommendation of a &lsquo;no-cut&rsquo;
+window from September to killing frost in Michigan. However,
+recent research in Quebec, Canada (1,2) has helped to redefine
+this window by assuming that if 500 growing degree days (GDD)
+accumulates after the last cutting there will still be enough
+regrowth of alfalfa for good carbohydrate accumulation in the
+crown and roots before a killing frost, and good winter survival
+and yield the following year. So a producer can cut in September
+as long as there is enough warm weather remaining in the growing
+season (accumulation of 500 GDD) before a killing frost without
+hurting the stand. These GDD&rsquo;s are calculated as the average
+of the daily minimum and maximum temperatures above 41<SUP>o</SUP>F
+until a killing frost (25<SUP>o</SUP>F).</FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="text-indent: 0.5in; margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">The
+Quebec research also showed that cutting later in the fall was
+acceptable as long as there was less than 200 GDD&rsquo;s
+accumulated after cutting. When less than 200 GDD&rsquo;s are
+accumulated after a late fall cutting, there is little regrowth to
+use up valuable stored carbohydrates and proteins in the alfalfa
+crowns and roots. This would result in good winter survival of the
+alfalfa plants.</FONT></P>
+<P ALIGN=LEFT STYLE="text-indent: 0.5in; margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="text-indent: 0.5in; margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">Using
+climatological statistics as a guide for the future in a given
+growing season, one can then calculate the sum of these two
+probabilities of reaching 500 GDD&rsquo;s after cutting in late
+summer or 200 GDD&rsquo;s after cutting in late fall to estimate
+the risk of winter injury or kill due to harvesting at different
+dates during this time period. These probabilities were calculated
+with 30 years of daily climatological data, 1971-2000 for 30 sites
+across Michigan. Graphs of the resulting daily probabilities of
+four selected geographical sites are listed alphabetically below.
+In each graph the top line of the graph represents the probability
+of accumulating either 500 GDD (dark green) or less than 200 GDD
+(light green) after the indicated date and shows the probability
+no injury or kill to alfalfa stands harvested on that date. </FONT>
+</P>
+<P ALIGN=LEFT STYLE="text-indent: 0.5in; margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="text-indent: 0.5in; margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">For
+example, the graph for Alma, Michigan indicates an 85% probability
+of reaching 500 GDD before a killing frost if cutting alfalfa on
+September 15 and a 20% probability of reaching 500 GDD if cutting
+on September 29. Waiting to cut until October 27 results in an 80%
+probability of reaching less than 200 GDD before a killing frost.
+In contrast, the graph indicates worst probabilities of achieving
+either condition at approximately the 3<SUP>rd</SUP> of October,
+which occurs outside of the traditional &lsquo;no-cut&rsquo;
+period. In general, one can see a geographical shift of the center
+of the adjusted no-cut period from early in the September-October
+period in northern areas of the state (especially those in
+interior sections away from the lakes) to later in the period
+across southern sections. Probability graphs of several locations
+throughout the state can be found below (click on image of interest
+to enlarge).
+</P>
+<P ALIGN=LEFT STYLE="text-indent: 0.5in; margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="text-indent: 0.5in; margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">In
+summary, forage quality of alfalfa changes little during
+September, so harvesting versus delaying cutting should be based
+on likelihood of winter injury or survival if the stand is to be
+kept. The purpose of these graphs is to give a probability of
+winter survival at various cutting dates in the fall so that
+farmers can determine the risk associated with harvesting at
+various dates.</FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 11pt">References</FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in">1. <FONT COLOR="#000000">Catherine
+<SPAN STYLE="background: #ffffff">Dhont</SPAN>, Yves Castonguay,
+Paul Nadeau, Gilles B&eacute;langer, Raynald Drapeau, </FONT>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#000000">and
+Fran&ccedil;ois-P. Chalifour. 2004. Untimely Fall Harvest Affects
+Dry Matter Yield </FONT>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#000000">and
+Root Organic Reserves in Field-Grown Alfalfa. Crop Sci. 2004 44:
+144-157.</FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#000000">2.
+G. B&eacute;langer, T. Kunelius, D. McKenzie, Y. Papadopoulos, B.
+Thomas, K. </FONT>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#000000">McRae,S.
+Fillmore, and B. Christie. 1999. Fall cutting management affects
+yield and </FONT>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT COLOR="#000000">persistence
+of alfalfa in Atlantic Canada. Can J Plant Sci 79:57-63.&nbsp;</FONT></P>
+<P ALIGN=LEFT><BR>
+</P>
+
+
+<TABLE WIDTH=80% ALIGN=CENTER BORDER=0 CELLPADDING=0 CELLSPACING=0>
+  <THEAD>
+    <TR>
+      <TH COLSPAN=3 WIDTH=100% VALIGN=TOP>
+        <P><FONT SIZE=2 STYLE="font-size: 10pt"><I>(click on images to enlarge)</I></FONT></P>
+      </TH>
+    </TR>
+  </THEAD>
+  <TBODY>
+    <TR VALIGN=TOP>
+      <TD WIDTH=250 ALIGN=CENTER>
+        <MAP NAME="MAP1"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/adrian.jpg" TARGET="_self" ALT="adrian"></MAP>
+	<IMG SRC="article-09/thumbnails/adrian.jpg" NAME="Andrian" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP1"><BR CLEAR=LEFT><BR>
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+        <MAP NAME="MAP2"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/alma.jpg" TARGET="_self" ALT="alma"></MAP>
+	<IMG SRC="article-09/thumbnails/alma.jpg" NAME="Alma" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP2"><BR CLEAR=LEFT><BR>			
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+        <MAP NAME="MAP3"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/alpena.jpg" TARGET="_self" ALT="alpena"></MAP>
+	<IMG SRC="article-09/thumbnails/alpena.jpg" NAME="Alpena" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP3"><BR CLEAR=LEFT><BR>	
+      </TD>
+    </TR>
+    <TR VALIGN=TOP>
+      <TD WIDTH=250 ALIGN=CENTER>
+        <MAP NAME="MAP4"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/bad-axe.jpg" TARGET="_self" ALT="bad-axe"></MAP>
+	<IMG SRC="article-09/thumbnails/bad-axe.jpg" NAME="Bad Axe" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP4"><BR CLEAR=LEFT><BR>
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+        <MAP NAME="MAP5"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/battle-creek.jpg" TARGET="_self" ALT="battle-creek"></MAP>
+	<IMG SRC="article-09/thumbnails/battle-creek.jpg" NAME="Battle Creek" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP5"><BR CLEAR=LEFT><BR>			
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP6"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/big-rapids.jpg" TARGET="_self" ALT="big-rapids"></MAP>
+	<IMG SRC="article-09/thumbnails/big-rapids.jpg" NAME="Big Rapids" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP6"><BR CLEAR=LEFT><BR>	
+      </TD>
+    </TR>
+    <TR VALIGN=TOP>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP7"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/cheboygan.jpg" TARGET="_self" ALT="cheboygan"></MAP>
+	<IMG SRC="article-09/thumbnails/cheboygan.jpg" NAME="Cheboygan" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP7"><BR CLEAR=LEFT><BR>
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP8"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/coldwater.jpg" TARGET="_self" ALT="coldwater"></MAP>
+	<IMG SRC="article-09/thumbnails/coldwater.jpg" NAME="Coldwater" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP8"><BR CLEAR=LEFT><BR>			
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP9"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/detroit.jpg" TARGET="_self" ALT="detroit"></MAP>
+	<IMG SRC="article-09/thumbnails/detroit.jpg" NAME="Detroit" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP9"><BR CLEAR=LEFT><BR>	
+      </TD>
+    </TR>
+    <TR VALIGN=TOP>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP10"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/east-tawas.jpg" TARGET="_self" ALT="east-tawas"></MAP>
+	<IMG SRC="article-09/thumbnails/east-tawas.jpg" NAME="East Tawas" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP10"><BR CLEAR=LEFT><BR>
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP11"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/gladwin.jpg" TARGET="_self" ALT="gladwin"></MAP>
+	<IMG SRC="article-09/thumbnails/gladwin.jpg" NAME="Galdwin" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP11"><BR CLEAR=LEFT><BR>			
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP12"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/grand-rapids.jpg" TARGET="_self" ALT="grand-rapids"></MAP>
+	<IMG SRC="article-09/thumbnails/grand-rapids.jpg" NAME="Grand Rapids" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP12"><BR CLEAR=LEFT><BR>	
+      </TD>
+    </TR>
+    <TR VALIGN=TOP>
+      <TD WIDTH=250 ALIGN=CENTER>	
+	<MAP NAME="MAP13"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/grayling.jpg" TARGET="_self" ALT="grayling"></MAP>
+	<IMG SRC="article-09/thumbnails/grayling.jpg" NAME="Grayling" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP13"><BR CLEAR=LEFT><BR>
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP14"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/hart.jpg" TARGET="_self" ALT="hart"></MAP>
+	<IMG SRC="article-09/thumbnails/hart.jpg" NAME="Hart" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP14"><BR CLEAR=LEFT><BR>			
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP15"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/hesperia.jpg" TARGET="_self" ALT="hesperia"></MAP>
+	<IMG SRC="article-09/thumbnails/hesperia.jpg" NAME="Hesperia" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP15"><BR CLEAR=LEFT><BR>	
+      </TD>
+    </TR>
+    <TR VALIGN=TOP>
+      <TD WIDTH=250 ALIGN=CENTER>
+        <MAP NAME="MAP16"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/holland.jpg" TARGET="_self" ALT="holland"></MAP>
+	<IMG SRC="article-09/thumbnails/holland.jpg" NAME="Holland" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP16"><BR CLEAR=LEFT><BR>
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP17"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/houghton.jpg" TARGET="_self" ALT="houghton"></MAP>
+	<IMG SRC="article-09/thumbnails/houghton.jpg" NAME="Houghton" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP17"><BR CLEAR=LEFT><BR>			
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP18"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/iron-mountain.jpg" TARGET="_self" ALT="iron-mountain"></MAP>
+	<IMG SRC="article-09/thumbnails/iron-mountain.jpg" NAME="Iron Mountain" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP18"><BR CLEAR=LEFT><BR>	
+      </TD>
+    </TR>
+    <TR VALIGN=TOP>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP19"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/jackson.jpg" TARGET="_self" ALT="jackson"></MAP>
+	<IMG SRC="article-09/thumbnails/jackson.jpg" NAME="Jackson" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP19"><BR CLEAR=LEFT><BR>
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP20"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/lake-city.jpg" TARGET="_self" ALT="lake-city"></MAP>
+	<IMG SRC="article-09/thumbnails/lake-city.jpg" NAME="Lake City" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP20"><BR CLEAR=LEFT><BR>			
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP21"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/lansing.jpg" TARGET="_self" ALT="lansing"></MAP>
+	<IMG SRC="article-09/thumbnails/lansing.jpg" NAME="Lansing" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP21"><BR CLEAR=LEFT><BR>	
+      </TD>
+    </TR>
+    <TR VALIGN=TOP>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP22"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/lapeer.jpg" TARGET="_self" ALT="lapeer"></MAP>
+	<IMG SRC="article-09/thumbnails/lapeer.jpg" NAME="Lapeer" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP22"><BR CLEAR=LEFT><BR>
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP23"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/monroe.jpg" TARGET="_self" ALT="monroe"></MAP>
+	<IMG SRC="article-09/thumbnails/monroe.jpg" NAME="Monroe" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP23"><BR CLEAR=LEFT><BR>			
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP24"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/muskegon.jpg" TARGET="_self" ALT="muskegon"></MAP>
+	<IMG SRC="article-09/thumbnails/muskegon.jpg" NAME="Muskegon" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP24"><BR CLEAR=LEFT><BR>	
+      </TD>
+    </TR>
+    <TR VALIGN=TOP>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP25"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/saginaw.jpg" TARGET="_self" ALT="saginaw"></MAP>
+	<IMG SRC="article-09/thumbnails/saginaw.jpg" NAME="Saginaw" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP25"><BR CLEAR=LEFT><BR>
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP26"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/sandusky.jpg" TARGET="_self" ALT="sandusky"></MAP>
+	<IMG SRC="article-09/thumbnails/sandusky.jpg" NAME="Sandusky" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP26"><BR CLEAR=LEFT><BR>			
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP27"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/sault-ste-marie.jpg" TARGET="_self" ALT="sault-ste-marie"></MAP>
+	<IMG SRC="article-09/thumbnails/sault-ste-marie.jpg" NAME="Sault St.e Marie" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP27"><BR CLEAR=LEFT><BR>	
+      </TD>
+    </TR>
+    <TR VALIGN=TOP>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP29"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/south-haven.jpg" TARGET="_self" ALT="south-haven"></MAP>
+	<IMG SRC="article-09/thumbnails/south-haven.jpg" NAME="South Haven" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP29"><BR CLEAR=LEFT><BR>			
+      </TD>		
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP28"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/stephenson.jpg" TARGET="_self" ALT="stephenson"></MAP>
+	<IMG SRC="article-09/thumbnails/stephenson.jpg" NAME="Stephenson" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP28"><BR CLEAR=LEFT><BR>
+      </TD>
+      <TD WIDTH=250 ALIGN=CENTER>
+	<MAP NAME="MAP30"><AREA SHAPE=RECT COORDS="5,4,250,193" HREF="article-09/images/traverse-city.jpg" TARGET="_self" ALT="traverse-city"></MAP>
+	<IMG SRC="article-09/thumbnails/traverse-city.jpg" NAME="Traverse City" WIDTH=250 HEIGHT=193 BORDER=0 USEMAP="#MAP30"><BR CLEAR=LEFT><BR>	
+      </TD>
+    </TR>														
+  </TBODY>
+</TABLE>
+
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+
+
+</td></tr></table>
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

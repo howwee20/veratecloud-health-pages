@@ -1,0 +1,519 @@
+============================================================================== 
+Station Notes - Belding: 
+ 
+ 
+03/09/2026: Station Maintenance:                                        [1510] 
+ 
+            - adjusted station tripod / footings 
+            - adjusted soil moisture (0-30cm) 
+            - replaced modem 
+ 
+ 
+============================================================================== 
+05/24/2021: Station Maintenance:                                        [1440] 
+ 
+            - tipping bucket rain gauge check 
+ 
+ 
+ 
+============================================================================== 
+06/24/2020: Logger / Station Maintenance:                               [1515] 
+ 
+            - power upgrade: 
+                 - upgraded battery 
+                 - upgraded solar panel 
+ 
+ 
+06/01/2020: Logger / Station Maintenance:                               [1120] 
+ 
+            - routine site maintenance  
+            - remounted leaf wetness sensor 
+ 
+ 
+ 
+============================================================================== 
+07/10/2019: Logger / Station Maintenance:                               [1255] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: bel-bbcb 
+ 
+ 
+ 
+============================================================================== 
+08/15/2018: Station Maintenance:                                        [1425] 
+ 
+            - routine station / site maintenance 
+ 
+ 
+07/02/2018: Station Maintenance:                                        [1415] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+============================================================================== 
+08/29/2017: Station Maintenance:                                        [1900] 
+ 
+            - repaired faulty tipping-bucket rain gauge: 
+               - removed obstruction from funnel 
+ 
+ 
+ 
+============================================================================== 
+08/07/2017: Station Maintenance:                                        [1035] 
+ 
+            - annual maintenance  
+ 
+ 
+05/17/2017: Station Maintenance:                                        [0001] 
+ 
+            - loaded logger program "bel-bbcb" 
+ 
+ 
+05/15/2017: Station Maintenance:                                        [1335] 
+ 
+            - annual maintenance 
+            - replaced air temp/relh sensor (HMP155 -> HMP155) 
+              - sensor now connected to "continuous" power 
+ 
+ 
+ 
+============================================================================== 
+11/03/2016: Station Maintenance:                                        [1140] 
+ 
+            - correct ATMP/RELH wiring issue 
+            - reload logger program (bel-bbcb) 
+ 
+                   
+11/02/2016: Station Maintenance:                                        [1220] 
+  
+            - Replaced ATMP/RELH sensor (HC2S3 -> HMP155A) 
+            - Loaded new logger program (bel-bbcb) 
+ 
+ 
+06/15/2016: Station Maintenance:                                        [1610] 
+ 
+            - Replaced Leaf Wetness Sensors (both sensors) 
+ 
+ 
+04/21/2016: Station Maintenance:                                        [1000] 
+ 
+            - Remount Leaf Wetness Sensor (standard mount) [temp fix] 
+ 
+ 
+ 
+============================================================================== 
+06/03/2015: Station Maintenance:                                        [xxxx] 
+ 
+            - Modem relay installed 
+ 
+ 
+06/02/2015: Station Modernization:                                      [1500] 
+ 
+            - Station upgraded with new logger and serveral new sensors. 
+ 
+            - loaded logger program "bel-bbbb" 
+ 
+            - Due to upgrade, station was offline for the following: 
+  
+                 06/02/2015 (d=153) 1505 - 06/02/2015 (d=153) 1700 
+ 
+            - the "live" data updates were able to resume at: 
+ 
+                 06/03/2015 (d=154) 1550 
+ 
+ 
+05/18/2015: Station Maintenance:                                        [1305] 
+ 
+            - replaced anemometer 
+            - replaced both leaf wetness sensors 
+            - weed removal 
+ 
+            - due to faulty sensors, data was lost for the following: 
+              - wind speed: 03/23/2015 (d=082) 2105 - 05/18/2015 (d=138) 1245 
+              - leaf wet 0: 05/09/2015 (d=129) 1620 - 05/18/2015 (d=138) 1305 
+              - leaf wet 1: 03/25/2015 (d=084) 0005 - 05/18/2015 (d=138) 1305 
+ 
+ 
+ 
+============================================================================== 
+12/16/2014: Station Maintenance:                                        [1330] 
+           
+            - replaced logger battery 
+ 
+ 
+07/17/2014: Station Maintenance:                                        [1500] 
+ 
+            - replaced solar radiation sensor 
+            - tighened loose connection wires, epecially those  
+              conected to tipping-bucket rain gauge. 
+ 
+ 
+05/23/2014: Station Maintenance:                                        [1250] 
+ 
+            - routine annual maintenance 
+ 
+ 
+01/24/2014: Station Maintenance:                                        [1007] 
+ 
+            - Moved data-colletion to new LoggerNet Server 
+            - Loaded Logger Program: AACF (hourly cycle) 
+ 
+ 
+01/20/2014: Station Maintenance:                                        [1520] 
+ 
+            - Replaced logger battery 
+ 
+ 
+ 
+============================================================================== 
+05/31/2013:  Station Maintenance:                                       [1240] 
+ 
+             - General maintenance: 
+                - replaced Leaf Wetness Sensor (standard mount) 
+ 
+                 
+02/06/2013:  Station Maintenance:                                       [1200] 
+ 
+             - Battery Replaced.  Battery issues led to recent loss of  
+               data. 
+ 
+ 
+ 
+============================================================================== 
+06/07/2012:  Station Maintenance:                                       [1105] 
+ 
+             - Replaced Modem 
+ 
+ 
+ 
+============================================================================== 
+12/29/2011:  Station Maintenance:                                       [1100] 
+ 
+             - Replaced battery 
+             - Reset Logger Clock 
+             - Due to recent battery/logger issues, data was lost for  
+               the following time period: 
+ 
+                  12/23/2011 (d=357) 0305 - 12/29/2011 (d=363) 1105 
+ 
+ 
+ 
+05/24/2011:  Station Maintenance:                                       [1445] 
+ 
+             - Routine Spring Maintenance, including: 
+                - Weed-Control (removal and herbicide application) 
+                - Precipitation bucket cleaned. 
+                - Canopy Leaf Wetness Sensor (LEAF1) checked. 
+                - Ground Wire was cleaned. 
+ 
+ 
+ 
+============================================================================== 
+07/13/2010:  Station Maintenance:                                       [1030] 
+ 
+             - Routine maintence, including: 
+                - weed removal/applied Round-Up as well 
+                - sensors all appeared to be ok 
+ 
+ 
+ 
+03/11/2010:  Station Maintenance: 
+ 
+             - Loaded MAWN Program - AACW (3-hour collection cycle)     [0009] 
+ 
+ 
+ 
+ 
+============================================================================== 
+12/19/2009:  Station Maintenance: 
+ 
+             - Loaded MAWN Program - AACW (3-hour collection cycle)     [0003] 
+ 
+ 
+ 
+06/03/2009:  Station Maintenance:                                       [1515] 
+ 
+             - General station maintenance and system checks 
+ 
+ 
+ 
+03/25/09:    Data Quality:  
+ 
+             - Due to faulty leaf wetness (canopy) sensor, all canopy 
+               sensor data was blanked out for the following time 
+               period: 
+ 
+                   03/07/09 (d=066) 0900  -  03/09/09 (d=068) 1300 
+ 
+ 
+ 
+03/09/09:    Station Maintenace: 
+ 
+             - Leaf Wetness 1 (Canopy Wetness) Sensor was repaired 
+               between 12:00 - 13:00. 
+ 
+ 
+============================================================================== 
+09/08/2008:  Station Maintenance: 
+ 
+             - Precipitation tipping bucket was repaired.   
+ 
+             - Preciptiation data entries during the following time 
+               period were marked as "missing": 
+ 
+                 08/24/08 (d=237) 07:30  -  09/08/08 (d=252) 10:30 
+ 
+ 
+ 
+09/03/2008:  Data Quality: 
+ 
+             - Several faulty RH values were removed from the MAWN database 
+               and raw data files.  All RH values > 104 during the following 
+               time period were removed: 
+ 
+                 05/16/08 (d=137) 00:00  -  07/25/08 (d=207) 11:00 
+ 
+ 
+ 
+05/21/2008:  Station Maintenance: 
+ 
+             - General station maintenance and system checks, including: 
+                   - Soil Moisture sensors now installed vertically: 
+                         - MSTR 0:  profile of depth =  0 - 12" 
+                         - MSTR 1:  profile of depth = 12 - 24" 
+ 
+             - Work was done approx: 1325 - 1350 (Day=142) 
+ 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+11/19/2007:  Station Maintenance (jb): 
+ 
+             - Loaded MAWN Program:  MAWN_AACF   (1-hr power cycle)  [15:33] 
+ 
+ 
+ 
+ 
+ 
+05/18/2007:  Station Maintenance (bn): 
+ 
+             - General station maintenance and system checks: 
+                   - Datalogger and Cell-Modem causing some intermittent 
+                     outages, so the logger was replaced. 
+                   - MAWN Program "mawn_aacs" loaded on new logger. 
+                   - Replacing logger and loading new program caused about 
+                     a 30-minute loss of data. 
+                   - Work was done approx: 11:00 - 11:35 (Day=138) 
+ 
+ 
+ 
+ 
+============================================================================== 
+10/11/2006:  Station Maintenance (jb): 
+ 
+                - Loaded MAWN Program:   MAWN_AACF (00:05) 
+ 
+ 
+ 
+08/11/2006:  Station Maintenance: (sm, bn): 
+ 
+             - Communication converted to broadband cell-modem: 
+ 
+                  - Broadband Cell modem installed. 
+                  - Datalogger Program "mawn_aacs" Loaded and Compiled 
+                  - Data Collection Configured To Upload Every 30 minutes. 
+ 
+ 
+             - General Station Maintenance and System Checks: 
+                  - added 2nd leaf-wetness sensor (in canopy at height of 49") 
+                  - weed removal and application of Round-Up above soil temps 
+                  - sensor placement checked 
+                  - anemometer bearings checked 
+                  - wind vane installation was corrected 
+                  - rain gauge checked for debris 
+  
+             - Work was done approx: 09:45 - 10:00 (Day=223) 
+ 
+ 
+ 
+  
+============================================================================== 
+08/04/2004:  Station Maintenance: (crn, jal): 
+ 
+             - Replaced Anemometer 
+ 
+             - General Station Maintenance and System Checks: 
+                  - weed removal and application of Round-Up above soil temps 
+                  - tipping bucket rain guage checked for accuracy 
+ 
+             - Work was done approx: 20:30 - 21:00 (Day=217) 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+05/16/2003:  - Replaced Temp/RH sensor (HMP45C): 
+ 
+             - Added second leaf wetness: 
+ 
+               - installed on NE fence post 
+               - approx. 1-foot high, facing north 
+               - installed within coverage of: Eunymous alatus 
+ 
+             - Corrected power to Soil Moisture B 
+ 
+             - Time of Installation:  14:20 - 15:00  (jtb) 
+ 
+ 
+ 
+ 
+============================================================================== 
+04/08/2002:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+             - Time of Obs were modified by one hour (forward)  
+               from Day=97, Time=200 through Day=97, Time=405. 
+ 
+ 
+ 
+ 
+10/29/2001:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=301, Time=200 through Day=301, Time=605. 
+ 
+ 
+ 
+10/30/2000:  Daylight Savings Time Adjustment. 
+                 
+             - Daylight Savings Time Ended on Day=303, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=303, Time=200 through Day=304, Time=1105. 
+               Only Observation Times were modified, not times of 
+               Maxs and Mins.  Users will need to take that into 
+               consideration when using this data. 
+ 
+ 
+ 
+07/21/2000:  Station Inspection. 
+ 
+              - Station down since 07/15/2000.  Phone line from road 
+                to datalogger was cut.  Notified Amy Irish-Brown.   
+               
+              - Downloaded data to fill in possible data gaps once 
+                line is repaired. 
+ 
+ 
+ 
+07/21/2000:  Station Maintenance 
+              
+             - Comments:          
+ 
+                  Needed to install solar panel and possibly troubleshoot modem  
+                  and/or phoneline troubles. 
+ 
+                  Burial-grade phone line that runs from the weather station  
+                  site to telephone pole is still above ground.  Although wires  
+                  inside the access box near the station were connected, it 
+                  didn't look real stable so reconnections were made.  The  
+                  phoneline from the access box to the modem was not run  
+                  through the hole at the bottom of the enclosure - it was  
+                  connected into the enclosure through the door, thus pinching 
+                  the cable when the door was closed.  Decided to pull the 
+                  phone line with the other cables that come up through the  
+                  bottom of the enclosure. 
+ 
+                  Doesn't look like any herbicide has been applied to station  
+                  plot.  Soil temps are currently under sod.  Soil moisture  
+                  probes are fine as they are in a grassy area. 
+ 
+                  Solar panel was installed and datalogger was checked with the  
+                  Dell laptop and all data in the buffer was collected. 
+ 
+                  Data values checked at site looked good with increasing  
+                  battery voltage numbers reported. 
+ 
+                  Upon return to MSU, same troubles persist.  The modem picks  
+                  up, but that is all.  There is static on the line, but no  
+                  modem tones. 
+ 
+                  - jtb 
+ 
+ 
+             - Solar Panel: New Hardware 
+                                 
+                            Installed near the top of the mast, bracket 
+                            sits a few inches below coupling at the top 
+                            of the mast and the top edge of the solar 
+                            panel is about level with the bottom of the 
+                            coupling.  Solar panel faces south with an 
+                            an angle of about 45-degrees. 
+ 
+             - Needs: - Modem troubleshooting. 
+                      - Leaf Wetness B 
+                      - Enclosure Bracket (bottom of enclosure is 
+                        not secured to the tripod). 
+ 
+ 
+ 
+05/17/2000:  Belding station added to MAWN database 
+ 
+ 
+ 
+05/16/2000:  Phone Line To Station Activated. 
+ 
+ 
+ 
+05/15/2000:  Data Logging Activated (mawn1b) 
+            
+                Data Logger Start Time:  00:05, Day=137 (05/16/2000) 
+ 
+ 
+ 
+05/15/2000:  Station Installed.   
+ 
+             - Leaf Wetness A:  Bracket mounted 40" from center of tripod, 
+                                39" high (~1-meter).  Mounted on NE leg, 
+                                sensor facing north. 
+ 
+             - Soil Temp A:     2-inch under sod, west of south leg, north 
+                                of Soil Temp B (straight in from fence post). 
+ 
+             - Soil Temp B:     4-inch under sod, west of south leg, south of 
+                                Soil Temp A (straight in from fence post). 
+ 
+             - Soil Moisture A: East of south leg, approx. one foot north 
+                                of Soil Moisture B (straight in from post). 
+ 
+             - Soil Moisture B: East of South leg, approx. one foot south 
+                                of Soil Moisture A (straight in from post). 
+ 
+             - Air Temp/RH:     HMP45C (requires mawn1b) 
+ 
+             - Wind Vane:       Points to North 
+ 
+             - Anemometer:      Points to South 
+ 
+             - Pyranometer:     Stand mounted to SW.  Bottom of bracket 
+                                is 40" above tripod bracket. 
+ 
+             - Phone Line:      blue/white  => tip 
+                                blue        => ring 
+                                red         => ground 
+ 
+             - Needs:           Solar Panel, Enclosure Bracket 
+ 
+ 
+ 
+============================================================================== 
+

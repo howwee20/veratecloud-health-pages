@@ -1,0 +1,265 @@
+=============================================================================== 
+Station Notes - Berrien Springs (Bob Pagel Vineyard) 
+ 
+ 
+05/25/2022: Station / Logger Maintenence                                [1130] 
+ 
+            - routine site maintenance, including: 
+               - adjusted (leveled) pyranometer 
+               - checked enclosure (clean and good condition) 
+               - checked anemometer (bearings smooth and quiet) 
+               - checked tipping-bucket rain gauge (clean and level) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned solar panel 
+               - cleaned battery box 
+               - weed removal  
+ 
+               * no canopy sensor at this site 
+ 
+ 
+05/25/2022: Logger Maintenance:                                         [1004] 
+ 
+            - loaded logger program: brs-bssd.cr6*  
+                - standard leaf wetness only [no canopy sensor] 
+                * supports "maintenance mode" 
+ 
+ 
+ 
+============================================================================== 
+07/07/2021: Station Maintenance:                                        [1100] 
+ 
+            - routine site maintenance  
+ 
+ 
+05/14/2021: Station / Logger Maintenance:                               [1340] 
+ 
+            - routine site maintenance, including:    
+               - updated modem 
+ 
+ 
+  
+============================================================================== 
+05/21/2020: Station Maintenance:                                        [1120] 
+ 
+            - routine site maintenance, including... 
+               - replaced leaf wetness sensor (standard) / new mount 
+               - add drain holes to battery box 
+ 
+ 
+ 
+============================================================================== 
+07/31/2019: Logger Maintenance:                                         [1400] 
+ 
+            - replaced logger (CR1000 -> CR6) 
+            - added PakBus modem 
+            - loaded logger program: brs-bssd 
+ 
+ 
+04/15/2019: Station Maintenance:                                        [1915] 
+ 
+            - troubleshoot battery/power issues: 
+               - replaced solid-state relay 
+               - replaced battery 
+ 
+ 
+ 
+============================================================================== 
+11/21/2018: Station Maintenance:                                       [1250] 
+ 
+            - repaired power system, including: 
+               - logger battery replaced 
+               - charge controller replaced 
+               - additional 10W solar panel installed 
+ 
+ 
+11/11/2018: Station Maintenance:                                        [1400] 
+ 
+            - replaced logger battery 
+ 
+ 
+07/11/2018: Station Maintenance:                                        [1100] 
+  
+            - routine station / site maintenance  
+ 
+ 
+05/10/2018: Station Maintenance:                                        [1230] 
+ 
+            - general maintenance / cleanup 
+                 
+ 
+ 
+=============================================================================== 
+07/18/2017: Station Maintenance:                                        [0002] 
+ 
+            - loaded logger program "brs-bbaa" 
+ 
+ 
+07/13/2017: Station Maintenance:                                        [1435]  
+ 
+            - annual maintenance, including: 
+               - rewired atmp/relh (now wired to "continuous" power) 
+ 
+ 
+04/06/2017: Station Maintenance:                                        [1330] 
+ 
+            - replaced LEAF0 (leaf wetness: standard [type 237]) 
+ 
+ 
+ 
+============================================================================== 
+08/08/2016: Station Maintenance:                                        [1250] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+05/11/2016: Station Maintenance:                                        [1300] 
+ 
+            - replaced leaf wetness sensor 
+            - annual maintenance and weed removal 
+            - 10W solar panel installed 
+ 
+ 
+ 
+============================================================================== 
+05/27/2015:  Station Maintenance:                                       [1030] 
+ 
+             - routine station maintenance, including: 
+                - cleaning of leaf wetness sensors 
+                - leveling of tipping bucket  
+                - weed removal 
+ 
+ 
+ 
+============================================================================== 
+05/19/2014:  Station Maintenance:                                       [1105] 
+ 
+             - moved configuration to new LoggerNet server 
+             - loaded logger program "bbaa-brs" 
+ 
+ 
+05/16/2014:  Station Maintenance:                                       [1600] 
+ 
+             - Replaced faulty communications modem 
+ 
+ 
+05/01/2014:  Station Maintenance:                                       [1440] 
+ 
+             - Reinstalled Soil Temperature sensors 
+ 
+ 
+01/10/2104:  Station Maintenance:                                       [1400] 
+ 
+             - Replaced logger battery 
+ 
+ 
+ 
+============================================================================== 
+10/29/2013:  Station Maintenance:                                       [1645] 
+ 
+             - Replaced Relative Humidity Sensor.  Due to faulty sensor, 
+               all Relative Humidity data was marked as "missing" for  
+               the following period: 
+ 
+                 10/20/2013 (d=293) 0615 - 10/29/2013 (d=302) 1645 
+ 
+ 
+10/07/2013:  Station Maintenance:                                       [1620] 
+ 
+             - Replaced Air Temperature / Relative Humidity sensor. 
+ 
+ 
+ 
+============================================================================== 
+06/03/2011:  Data Quality:                                              [1710] 
+ 
+             - Removed 4" Soil Temperatures (SOIL1) that were reported 
+               during the following time period due to faulty data: 
+ 
+                  05/31/2011 (d=151) 16:00 - 05/31/2011 (d=151) 20:00 
+ 
+ 
+05/31/2011:  Station Maintenance:                                       [1520] 
+ 
+             - Routine Spring Maintenance, including: 
+                - Weed-Control (removal and herbicide application) 
+ 
+ 
+ 
+============================================================================== 
+02/12/2010:  Station Maintenance:                                       [0945] 
+ 
+             - Replaced wireless broadband modem. 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+05/22/2009:  Station Maintenance:                                       [1220] 
+ 
+             - General station maintenance and system checks... 
+ 
+ 
+ 
+ 
+============================================================================== 
+08/18/2008:  Data Correction: 
+ 
+                - Wind direction data reported during the following 
+                  time period was corrected: 
+ 
+                     03/06/08 (d=066) 00:05  -  08/15/08 (d=228) 00:04 
+ 
+ 
+ 
+08/15/2008:  Station Maintenance: 
+ 
+                - MAWN Program (BBC-BRS) was loaded at 00:04.  New  
+                  program corrects multiplier used to calculate wind 
+                  direction. 
+ 
+ 
+ 
+07/14/2008:  Station Maintenance: 
+ 
+             - General station maintenance and system checks, including: 
+ 
+                   - Soil Moisture sensors now installed vertically: 
+                         - MSTR 0:  profile of depth =  0 - 12" 
+                         - MSTR 1:  profile of depth = 12 - 24" 
+         
+             - Work was done approx: 1230 - 1300 (Day=196) 
+ 
+ 
+ 
+03/07/2008:  Station Online: 
+ 
+                - Station added to MAWN web site. 
+ 
+ 
+ 
+03/05/2008:  Data Collection Enabled: 
+ 
+                - Data Collection and Data Archive for new station begins: 
+ 
+                     First data report:   Mar 06, 2008 - 00:05 (Day=006) 
+ 
+ 
+ 
+03/05/2008:  Station Maintenance: 
+ 
+                - Established telecommunication between station cell-modem and 
+                  data collection PC/server on campus.    
+ 
+                - Loaded MAWN Program:  MAWN_BBC 
+                                                   B => CR1000 
+                                                   B => CS616  
+                                                   C => Broadband Cell Modem (IP) 
+                                        
+ 
+                - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

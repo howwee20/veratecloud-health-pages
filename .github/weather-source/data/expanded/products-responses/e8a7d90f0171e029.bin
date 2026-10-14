@@ -1,0 +1,213 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:30
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+
+
+
+
+<table width="100%" height="120" border="0">
+   <tr height="100">
+      <td align="center">
+         <h1>MSU Agricultural Weather Office<h1>
+         <h2>Current Weather & Climatological Info</h2>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+
+<!--
+   <tr height="35">
+      <td align="center">
+         <font color="red" font size=3><b>State Budget Cuts Threaten This Website and Other MSUE/MAES Programs...
+         <br>Click  <a href="http://anrcom.msu.edu/Budget.aspx">Here</a> For More Information...</b></font>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+-->
+
+</table>
+
+<br>
+<table width="95%" border="0" valign="top" align="center">
+   <tr>
+      <td class="courier2">
+        
+         &nbsp;<br>177&nbsp;&nbsp;<br>ASUS63&nbsp;KDTX&nbsp;311615&nbsp;<br>RTPDTX&nbsp;<br>MORNING&nbsp;TEMPERATURE&nbsp;AND&nbsp;PRECIPITATION&nbsp;SUMMARY&nbsp;<br>NATIONAL&nbsp;WEATHER&nbsp;SERVICE&nbsp;DETROIT/PONTIAC&nbsp;MI&nbsp;<br>1115&nbsp;AM&nbsp;EST&nbsp;Fri&nbsp;Jan&nbsp;31&nbsp;2025&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>The&nbsp;Max/Min&nbsp;Temperature&nbsp;and&nbsp;Precipitation&nbsp;Table&nbsp;Product&nbsp;(RTP)&nbsp;will&nbsp;<br>be&nbsp;discontinued&nbsp;as&nbsp;of&nbsp;January&nbsp;31,&nbsp;2025.&nbsp;The&nbsp;last&nbsp;RTP&nbsp;will&nbsp;be&nbsp;issued&nbsp;<br>on&nbsp;January&nbsp;31,&nbsp;2025.&nbsp;For&nbsp;additional&nbsp;temperature&nbsp;and&nbsp;precipitation&nbsp;&nbsp;<br>resources,&nbsp;please&nbsp;see:&nbsp;&nbsp;<br>&nbsp;<br>https://www.weather.gov/media/notification/pdf/2023_24/scn24-109_cr_rtp_discontinuation.pdf&nbsp;<br>&nbsp;<br>&nbsp;<br>Values&nbsp;represent&nbsp;yesterday's&nbsp;highs/lows&nbsp;over&nbsp;the&nbsp;last&nbsp;12&nbsp;hours&nbsp;<br>and&nbsp;precipitation&nbsp;over&nbsp;the&nbsp;last&nbsp;24&nbsp;hours&nbsp;ending&nbsp;at&nbsp;7&nbsp;AM&nbsp;EST.&nbsp;<br>&nbsp;<br>&nbsp;<br>.BR&nbsp;DTX&nbsp;&nbsp;0131&nbsp;&nbsp;ES&nbsp;DH00/TAIRZX/DH07/TAIRZP/TA/PPDRZZ/SFDRZZ/SDIRZZ&nbsp;<br>&nbsp;<br>&nbsp;<br>:SOUTHEAST&nbsp;MICHIGAN&nbsp;--&nbsp;TEMPERATURE&nbsp;AND&nbsp;PRECIPITATION&nbsp;STATIONS&nbsp;<br>:....................................................................&nbsp;<br>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STATION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAX&nbsp;/&nbsp;MIN&nbsp;&nbsp;/&nbsp;7&nbsp;AM&nbsp;&nbsp;/&nbsp;24-HR&nbsp;/&nbsp;SNOW/&nbsp;SNOW&nbsp;<br>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NAME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEMP/&nbsp;TEMP&nbsp;/&nbsp;TEMP&nbsp;&nbsp;/&nbsp;PRECIP/&nbsp;FALL/&nbsp;DEPTH&nbsp;<br>:....................................................................&nbsp;<br>WHKM4:&nbsp;NWS&nbsp;WHITE&nbsp;LAKE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;47&nbsp;/&nbsp;&nbsp;34&nbsp;&nbsp;/&nbsp;&nbsp;34&nbsp;&nbsp;/&nbsp;0.07&nbsp;&nbsp;/&nbsp;&nbsp;0.0&nbsp;/&nbsp;4&nbsp;<br>ADG&nbsp;&nbsp;:&nbsp;Adrian&nbsp;Airport&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;46&nbsp;/&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;0.27&nbsp;&nbsp;&nbsp;<br>123M4:&nbsp;Ann&nbsp;Arbor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;48&nbsp;/&nbsp;&nbsp;35&nbsp;&nbsp;/&nbsp;&nbsp;36&nbsp;&nbsp;/&nbsp;0.10&nbsp;&nbsp;/&nbsp;&nbsp;0.0&nbsp;/&nbsp;T&nbsp;<br>BAX&nbsp;&nbsp;:*Bad&nbsp;Axe&nbsp;Airport&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;37&nbsp;/&nbsp;&nbsp;22&nbsp;&nbsp;/&nbsp;&nbsp;27&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>CFS&nbsp;&nbsp;:*Caro&nbsp;Airport-Tuscola:&nbsp;&nbsp;&nbsp;43&nbsp;/&nbsp;&nbsp;27&nbsp;&nbsp;/&nbsp;&nbsp;31&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>DET&nbsp;&nbsp;:&nbsp;Detroit&nbsp;City&nbsp;Airport:&nbsp;&nbsp;&nbsp;45&nbsp;/&nbsp;&nbsp;39&nbsp;&nbsp;/&nbsp;&nbsp;39&nbsp;&nbsp;/&nbsp;0.02&nbsp;&nbsp;&nbsp;<br>DTW&nbsp;&nbsp;:&nbsp;Detroit&nbsp;Metro&nbsp;Airprt:&nbsp;&nbsp;&nbsp;46&nbsp;/&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;&nbsp;38&nbsp;&nbsp;/&nbsp;0.01&nbsp;&nbsp;/&nbsp;&nbsp;0.0&nbsp;/&nbsp;0&nbsp;<br>FNT&nbsp;&nbsp;:&nbsp;Flint&nbsp;Bishop&nbsp;Airport:&nbsp;&nbsp;&nbsp;45&nbsp;/&nbsp;&nbsp;35&nbsp;&nbsp;/&nbsp;&nbsp;36&nbsp;&nbsp;/&nbsp;0.00&nbsp;&nbsp;/&nbsp;&nbsp;0.0&nbsp;/&nbsp;2&nbsp;<br>ONZ&nbsp;&nbsp;:*Grosse&nbsp;Ile&nbsp;Airport&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;37&nbsp;/&nbsp;&nbsp;34&nbsp;&nbsp;/&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;&nbsp;<br>OZW&nbsp;&nbsp;:*Howell&nbsp;Airport&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;46&nbsp;/&nbsp;&nbsp;35&nbsp;&nbsp;/&nbsp;&nbsp;35&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>DUH&nbsp;&nbsp;:*Lambertville&nbsp;Airport:&nbsp;&nbsp;&nbsp;45&nbsp;/&nbsp;&nbsp;38&nbsp;&nbsp;/&nbsp;&nbsp;38&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>D95&nbsp;&nbsp;:*Lapeer&nbsp;Dupont&nbsp;Airprt:&nbsp;&nbsp;&nbsp;42&nbsp;/&nbsp;&nbsp;33&nbsp;&nbsp;/&nbsp;&nbsp;34&nbsp;&nbsp;/&nbsp;&nbsp;<br>IKW&nbsp;&nbsp;:*Midland&nbsp;Airport&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;45&nbsp;/&nbsp;&nbsp;28&nbsp;&nbsp;/&nbsp;&nbsp;34&nbsp;&nbsp;/&nbsp;&nbsp;<br>TTF&nbsp;&nbsp;:*Monroe&nbsp;Airport&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;46&nbsp;/&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>RNP&nbsp;&nbsp;:*Owosso&nbsp;Airport&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;46&nbsp;/&nbsp;&nbsp;35&nbsp;&nbsp;/&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>PTK&nbsp;&nbsp;:&nbsp;Pontiac&nbsp;Airport&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;44&nbsp;/&nbsp;&nbsp;34&nbsp;&nbsp;/&nbsp;&nbsp;35&nbsp;&nbsp;/&nbsp;0.04&nbsp;&nbsp;&nbsp;<br>P58&nbsp;&nbsp;:&nbsp;Port&nbsp;Hope&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;M&nbsp;/&nbsp;&nbsp;&nbsp;M&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;M&nbsp;&nbsp;/&nbsp;0.00&nbsp;&nbsp;&nbsp;<br>PHN&nbsp;&nbsp;:*Port&nbsp;Huron&nbsp;Airport&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;39&nbsp;/&nbsp;&nbsp;34&nbsp;&nbsp;/&nbsp;&nbsp;34&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>MBS&nbsp;&nbsp;:&nbsp;Saginaw&nbsp;-&nbsp;Tri-Cities:&nbsp;&nbsp;&nbsp;46&nbsp;/&nbsp;&nbsp;31&nbsp;&nbsp;/&nbsp;&nbsp;31&nbsp;&nbsp;/&nbsp;0.00&nbsp;&nbsp;/&nbsp;&nbsp;0.0&nbsp;/&nbsp;1&nbsp;<br>HYX&nbsp;&nbsp;:*Saginaw-Harry&nbsp;Browne:&nbsp;&nbsp;&nbsp;43&nbsp;/&nbsp;&nbsp;30&nbsp;&nbsp;/&nbsp;&nbsp;30&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>VLL&nbsp;&nbsp;:*Oakland/Troy&nbsp;Airport:&nbsp;&nbsp;&nbsp;45&nbsp;/&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>YIP&nbsp;&nbsp;:Ypsilanti&nbsp;Willow&nbsp;Run&nbsp;:&nbsp;&nbsp;&nbsp;49&nbsp;/&nbsp;&nbsp;37&nbsp;&nbsp;/&nbsp;&nbsp;38&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;<br>.END&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>*The&nbsp;temperature&nbsp;data&nbsp;for&nbsp;these&nbsp;sites&nbsp;above&nbsp;represent&nbsp;the&nbsp;highest&nbsp;and&nbsp;<br>lowest&nbsp;temperatures&nbsp;that&nbsp;were&nbsp;reported&nbsp;on&nbsp;the&nbsp;METAR&nbsp;observations&nbsp;<br>that&nbsp;transmit&nbsp;three&nbsp;times&nbsp;an&nbsp;hour&nbsp;and&nbsp;may&nbsp;not&nbsp;represent&nbsp;the&nbsp;actual&nbsp;<br>high&nbsp;or&nbsp;low&nbsp;for&nbsp;that&nbsp;site.&nbsp;These&nbsp;sites&nbsp;do&nbsp;not&nbsp;measure&nbsp;precipitation.&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;<br>.....................................................................&nbsp;<br>&nbsp;<br>&nbsp;<br>THE&nbsp;FOLLOWING&nbsp;COOPERATIVE&nbsp;OBSERVER&nbsp;SITES&nbsp;REPORT&nbsp;FROM&nbsp;MIDNIGHT&nbsp;TO&nbsp;<br>MIDNIGHT&nbsp;EST.&nbsp;<br>&nbsp;<br>&nbsp;<br>.BR&nbsp;DTX&nbsp;&nbsp;0131&nbsp;&nbsp;ES&nbsp;DH07/TAIRZX/TAIRZN/TA/PPDRZZ/SFDRZZ/SDIRZZ&nbsp;<br>&nbsp;<br>&nbsp;<br>:SOUTHEAST&nbsp;MICHIGAN&nbsp;--&nbsp;TEMPERATURE&nbsp;AND&nbsp;PRECIPITATION&nbsp;STATIONS&nbsp;<br>:....................................................................&nbsp;<br>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STATION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAX&nbsp;/&nbsp;MIN&nbsp;&nbsp;/&nbsp;MIDNITE/24-HR&nbsp;/&nbsp;SNOW/&nbsp;SNOW&nbsp;<br>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NAME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEMP/&nbsp;TEMP&nbsp;/&nbsp;TEMP&nbsp;&nbsp;/PRECIP/&nbsp;FALL/&nbsp;DEPTH&nbsp;<br>:....................................................................&nbsp;<br>MDLM4:&nbsp;Midland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;42&nbsp;/&nbsp;&nbsp;16&nbsp;&nbsp;/&nbsp;&nbsp;31&nbsp;&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;M&nbsp;/&nbsp;3&nbsp;<br>MTCM4:&nbsp;Mt&nbsp;Clemens&nbsp;Selfridge:&nbsp;&nbsp;&nbsp;41&nbsp;/&nbsp;&nbsp;19&nbsp;&nbsp;/&nbsp;&nbsp;41&nbsp;&nbsp;/&nbsp;0.00&nbsp;/&nbsp;&nbsp;0.0&nbsp;/&nbsp;T&nbsp;<br>.....................................................................&nbsp;<br>.END&nbsp;<br>&nbsp;<br>&nbsp;<br>Cooperative&nbsp;observation&nbsp;values&nbsp;are&nbsp;for&nbsp;approximately&nbsp;24&nbsp;hours&nbsp;from&nbsp;<br>the&nbsp;previous&nbsp;OB&nbsp;time&nbsp;to&nbsp;the&nbsp;current&nbsp;OB&nbsp;time.&nbsp;Previous&nbsp;observation&nbsp;<br>times&nbsp;may&nbsp;not&nbsp;always&nbsp;be&nbsp;exactly&nbsp;the&nbsp;same.&nbsp;The&nbsp;24&nbsp;hour&nbsp;low&nbsp;may&nbsp;be&nbsp;<br>from&nbsp;the&nbsp;previous&nbsp;morning.&nbsp;Use&nbsp;the&nbsp;temperature&nbsp;at&nbsp;observation&nbsp;time&nbsp;<br>to&nbsp;help&nbsp;determine&nbsp;if&nbsp;the&nbsp;24&nbsp;hour&nbsp;low&nbsp;occurred&nbsp;this&nbsp;morning&nbsp;or&nbsp;the&nbsp;<br>previous&nbsp;morning.&nbsp;<br>&nbsp;<br>&nbsp;<br>.BR&nbsp;DTX&nbsp;&nbsp;0131&nbsp;&nbsp;ES&nbsp;DH07/TAIRZX/TAIRZN/TA/PPDRZZ/SFDRZZ/SDIRZZ&nbsp;<br>&nbsp;<br>&nbsp;<br>:..................................................................&nbsp;<br>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STATION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OB&nbsp;&nbsp;&nbsp;/MAX&nbsp;/&nbsp;MIN&nbsp;&nbsp;/OB&nbsp;&nbsp;/24-HR&nbsp;/SNOW/SNOW&nbsp;<br>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NAME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TIME&nbsp;/TEMP/&nbsp;TEMP&nbsp;/TEMP/PRECIP/FALL/DEPTH&nbsp;<br>:..................................................................&nbsp;<br>:&nbsp;***BAY&nbsp;COUNTY***&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***MIDLAND&nbsp;COUNTY***&nbsp;<br>OILM4:&nbsp;&nbsp;Oil&nbsp;City&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0730/&nbsp;46&nbsp;/&nbsp;&nbsp;15&nbsp;/&nbsp;&nbsp;31&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;T/&nbsp;&nbsp;&nbsp;T/&nbsp;3&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***HURON&nbsp;COUNTY***&nbsp;<br>BDAM4:&nbsp;&nbsp;Bad&nbsp;Axe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0650/&nbsp;39&nbsp;/&nbsp;&nbsp;18&nbsp;/&nbsp;&nbsp;25&nbsp;/&nbsp;0.00/&nbsp;0.0/&nbsp;3&nbsp;<br>FLNM4:&nbsp;&nbsp;Filion&nbsp;5NNW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0630/&nbsp;39&nbsp;/&nbsp;&nbsp;23&nbsp;/&nbsp;&nbsp;30&nbsp;/&nbsp;0.00/&nbsp;0.0/&nbsp;5&nbsp;<br>POAM4:&nbsp;&nbsp;Port&nbsp;Austin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0730/&nbsp;35&nbsp;/&nbsp;&nbsp;&nbsp;M&nbsp;/&nbsp;&nbsp;30&nbsp;/&nbsp;0.00/&nbsp;0.0/&nbsp;2&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***SAGINAW&nbsp;COUNTY***&nbsp;<br>CHSM4:&nbsp;&nbsp;Chesaning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0630/&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;0.00/&nbsp;0.0/&nbsp;0&nbsp;<br>MBSM4:&nbsp;&nbsp;Saginaw&nbsp;8NW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0730/&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;0.00/&nbsp;0.0/&nbsp;1&nbsp;<br>SAGM4:&nbsp;&nbsp;Saginaw&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0800/&nbsp;45&nbsp;/&nbsp;&nbsp;16&nbsp;/&nbsp;&nbsp;31&nbsp;/&nbsp;0.00/&nbsp;0.0/&nbsp;0&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***TUSCOLA&nbsp;COUNTY***&nbsp;<br>CARM4:&nbsp;&nbsp;Caro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0700/&nbsp;44&nbsp;/&nbsp;&nbsp;21&nbsp;/&nbsp;&nbsp;29&nbsp;/&nbsp;0.00/&nbsp;0.0/&nbsp;2&nbsp;<br>CSSM4:&nbsp;&nbsp;Cass&nbsp;City&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0630/&nbsp;41&nbsp;/&nbsp;&nbsp;20&nbsp;/&nbsp;&nbsp;27&nbsp;/&nbsp;0.00/&nbsp;0.0/&nbsp;5&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***SANILAC&nbsp;COUNTY***&nbsp;<br>LEXM4:&nbsp;&nbsp;Lexington&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0654/&nbsp;39&nbsp;/&nbsp;&nbsp;21&nbsp;/&nbsp;&nbsp;33&nbsp;/&nbsp;0.00/&nbsp;&nbsp;&nbsp;M/&nbsp;M&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***SHIAWASSEE&nbsp;COUNTY***&nbsp;<br>DRNM4:&nbsp;&nbsp;Durand&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0800/&nbsp;46&nbsp;/&nbsp;&nbsp;27&nbsp;/&nbsp;&nbsp;35&nbsp;/&nbsp;0.01/&nbsp;0.0/&nbsp;1&nbsp;<br>OWSM4:&nbsp;&nbsp;Owosso&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0700/&nbsp;47&nbsp;/&nbsp;&nbsp;19&nbsp;/&nbsp;&nbsp;35&nbsp;/&nbsp;0.00/&nbsp;0.0/&nbsp;2&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***GENESEE&nbsp;COUNTY***&nbsp;<br>BUNM4:&nbsp;&nbsp;Burton&nbsp;4N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0700/&nbsp;48&nbsp;/&nbsp;&nbsp;19&nbsp;/&nbsp;&nbsp;34&nbsp;/&nbsp;0.02/&nbsp;0.0/&nbsp;2&nbsp;<br>LIDM4:&nbsp;&nbsp;Linden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0700/&nbsp;46&nbsp;/&nbsp;&nbsp;22&nbsp;/&nbsp;&nbsp;35&nbsp;/&nbsp;0.10/&nbsp;0.0/&nbsp;M&nbsp;<br>GODM4:&nbsp;&nbsp;Goodrich&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0730/&nbsp;45&nbsp;/&nbsp;&nbsp;19&nbsp;/&nbsp;&nbsp;37&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;T/&nbsp;0.0/&nbsp;1&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***LAPEER&nbsp;COUNTY***&nbsp;<br>LPEM4:&nbsp;&nbsp;Lapeer&nbsp;2W&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0900/&nbsp;45&nbsp;/&nbsp;&nbsp;22&nbsp;/&nbsp;&nbsp;34&nbsp;/&nbsp;0.00/&nbsp;0.0/3&nbsp;<br>LPRM4:&nbsp;&nbsp;Lapeer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0730/&nbsp;45&nbsp;/&nbsp;&nbsp;21&nbsp;/&nbsp;&nbsp;34&nbsp;/&nbsp;0.00/&nbsp;0.0/2&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***ST.&nbsp;CLAIR&nbsp;COUNTY***&nbsp;<br>AGCM4:&nbsp;&nbsp;Algonac&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0800/&nbsp;41&nbsp;/&nbsp;&nbsp;21&nbsp;/&nbsp;&nbsp;34&nbsp;/&nbsp;0.05/&nbsp;0.0/&nbsp;T&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***LIVINGSTON&nbsp;COUNTY***&nbsp;<br>WHLM4:Whitmore&nbsp;LK&nbsp;1N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0700/&nbsp;45&nbsp;/&nbsp;&nbsp;21&nbsp;/&nbsp;&nbsp;36&nbsp;/&nbsp;0.04/&nbsp;&nbsp;&nbsp;M/&nbsp;M&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***OAKLAND&nbsp;COUNTY***&nbsp;<br>FARM4:&nbsp;&nbsp;Farmington&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0730/&nbsp;46&nbsp;/&nbsp;&nbsp;19&nbsp;/&nbsp;&nbsp;36&nbsp;/&nbsp;0.12/&nbsp;0.0/&nbsp;0&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***MACOMB&nbsp;COUNTY***&nbsp;<br>RICM4:&nbsp;&nbsp;Richmond&nbsp;4NNW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0800/&nbsp;37&nbsp;/&nbsp;&nbsp;17&nbsp;/&nbsp;&nbsp;32&nbsp;/&nbsp;0.12/&nbsp;0.0/&nbsp;1&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***WASHTENAW&nbsp;COUNTY***&nbsp;<br>AASM4:&nbsp;Ann&nbsp;Arbor&nbsp;SE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0730/&nbsp;48&nbsp;/&nbsp;&nbsp;20&nbsp;/&nbsp;&nbsp;37&nbsp;/&nbsp;0.04/&nbsp;0.0/&nbsp;T&nbsp;<br>CHLM4:&nbsp;&nbsp;Chelsea&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0930/&nbsp;49&nbsp;/&nbsp;&nbsp;27&nbsp;/&nbsp;&nbsp;37&nbsp;/&nbsp;0.13/&nbsp;0.0/&nbsp;T&nbsp;<br>MCHM4:&nbsp;&nbsp;Manchester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0700/&nbsp;47&nbsp;/&nbsp;&nbsp;21&nbsp;/&nbsp;&nbsp;37&nbsp;/&nbsp;0.03/&nbsp;0.0/&nbsp;0&nbsp;<br>SLNM4:&nbsp;&nbsp;Saline&nbsp;4SW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:1000/&nbsp;48&nbsp;/&nbsp;&nbsp;22&nbsp;/&nbsp;&nbsp;37&nbsp;/&nbsp;0.08/&nbsp;&nbsp;&nbsp;M/&nbsp;M&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***WAYNE&nbsp;COUNTY***&nbsp;<br>ECNM4:&nbsp;&nbsp;East&nbsp;Detroit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0900/&nbsp;43&nbsp;/&nbsp;&nbsp;25&nbsp;/&nbsp;&nbsp;37&nbsp;/&nbsp;0.05/&nbsp;0.0/&nbsp;T&nbsp;<br>DBNM4:&nbsp;&nbsp;Dearborn&nbsp;&nbsp;#2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0800/&nbsp;40&nbsp;/&nbsp;&nbsp;23&nbsp;/&nbsp;&nbsp;39&nbsp;/&nbsp;0.01/&nbsp;0.0/&nbsp;0&nbsp;<br>DRBM4:U&nbsp;OF&nbsp;M&nbsp;Dearborn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0900/&nbsp;45&nbsp;/&nbsp;&nbsp;26&nbsp;/&nbsp;&nbsp;38&nbsp;/&nbsp;0.02/&nbsp;0.0/&nbsp;0&nbsp;<br>GPFM4:&nbsp;&nbsp;Grosse&nbsp;Pt&nbsp;Farms&nbsp;&nbsp;&nbsp;:0800/&nbsp;40&nbsp;/&nbsp;&nbsp;23&nbsp;/&nbsp;&nbsp;35&nbsp;/&nbsp;0.02/&nbsp;0.0/&nbsp;1&nbsp;<br>WYTM4:&nbsp;&nbsp;Wyandotte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0800/&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;0.02/&nbsp;0.0/&nbsp;T&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***LENAWEE&nbsp;COUNTY***&nbsp;<br>MRIM4:&nbsp;&nbsp;Morenci&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0730/&nbsp;46&nbsp;/&nbsp;&nbsp;21&nbsp;/&nbsp;&nbsp;37&nbsp;/&nbsp;0.37/&nbsp;0.0/&nbsp;0&nbsp;<br>TECM4:&nbsp;&nbsp;Tecumseh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0700/&nbsp;46&nbsp;/&nbsp;&nbsp;23&nbsp;/&nbsp;&nbsp;37&nbsp;/&nbsp;0.12/&nbsp;&nbsp;&nbsp;M/&nbsp;M&nbsp;<br>&nbsp;<br>&nbsp;<br>:&nbsp;***MONROE&nbsp;COUNTY***&nbsp;<br>MLIM4:&nbsp;&nbsp;Milan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:0800/&nbsp;47&nbsp;/&nbsp;&nbsp;11&nbsp;/&nbsp;&nbsp;37&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;M/&nbsp;&nbsp;&nbsp;M/&nbsp;M&nbsp;<br>.END&nbsp;<br>&nbsp;<br>&nbsp;<br>*All&nbsp;data&nbsp;is&nbsp;preliminary&nbsp;and&nbsp;has&nbsp;not&nbsp;undergone&nbsp;final&nbsp;quality&nbsp;<br>control&nbsp;by&nbsp;the&nbsp;National&nbsp;Center&nbsp;for&nbsp;Environmental&nbsp;Information&nbsp;/NCEI/.&nbsp;<br>Therefore,&nbsp;this&nbsp;data&nbsp;is&nbsp;subject&nbsp;to&nbsp;revision.&nbsp;Final&nbsp;and&nbsp;certified&nbsp;<br>climate&nbsp;data&nbsp;can&nbsp;be&nbsp;accessed&nbsp;at&nbsp;www.ncei.noaa.gov.&nbsp;<br>&nbsp;<br>&nbsp;<br>$$&nbsp;<br>&nbsp;<br>&nbsp;<br>
+       
+      </td>
+   </tr>
+</table>
+
+
+
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

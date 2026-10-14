@@ -1,0 +1,188 @@
+============================================================================== 
+Station Notes - Charlotte (GLBRC) 
+ 
+ 
+03/23/2022: Logger / Station Maintnenace:                               [1202] 
+ 
+            - loaded logger program: clt-bbad.cr1* (237 -> LWS-L)** 
+                  * supports "maintenance mode" 
+                 ** sensor replaced: 08/17/2020 (no canopy) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+============================================================================== 
+07/09/2021: Station Maintenance:                                        [1215] 
+ 
+            - routine site maintenance  
+ 
+ 
+06/01/2021: Logger / Station Maintenance:                               [1200] 
+ 
+            - routine site maintenance 
+            - updated modem 
+ 
+ 
+02/13/2021: Logger / Station Maintenance:                               [1100]  
+ 
+            - installed second battery  
+ 
+ 
+02/09/2021: Logger / Station Maintenance:                               [1200] 
+ 
+            - removed snow from solar panel 
+            - replaced battery 
+ 
+ 
+ 
+============================================================================== 
+06/01/2020: Logger / Station Maintenance:                               [1000] 
+ 
+            - routine site maintenance  
+            - replaced battery 
+ 
+ 
+ 
+============================================================================== 
+11/07/2019: Logger / Station Maintenance:                               [1240] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - loaded logger program: clt-bbaa 
+            - replaced faulty anemometer (wind speed) 
+ 
+ 
+06/11/2019: Logger Maintenance:                                         [1145] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: clt-bbaa 
+ 
+ 
+ 
+============================================================================== 
+07/25/2018: Station Maintenance:                                        [1525] 
+ 
+            - routine station / site maintenance  
+ 
+ 
+06/04/2018: Station Maintenance:                                        [1105] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+============================================================================== 
+10/03/2017: Station Maintenance:                                        [0001] 
+ 
+            - loaded logger program "clt-bbaa" 
+ 
+ 
+07/24/2017: Station Maintenance:                                        [1530] 
+ 
+            - annual maintenance  
+ 
+ 
+05/22/2017: Station Maintenance:                                        [1315] 
+ 
+            - annual maintenance, including: 
+               - rewire of atmp/relh (HMP45C) to "continuous" power 
+ 
+ 
+ 
+============================================================================== 
+08/01/2016: Station Maintenance:                                        [1240] 
+ 
+            - annual maintenance and weed removal 
+            - leveled precipitation bucket 
+ 
+ 
+05/18/2016: Station Maintenance:                                        [1140] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+ 
+============================================================================== 
+06/08/2015: Station Maintenance:                                        [1200] 
+ 
+            - routine station maintenance, including: 
+               - cleaned leaf wetness sensor 
+               - removed debris from tipping-bucket rain gauge 
+               - leveled tipping-bucket rain gauge 
+               - weed removal 
+ 
+ 
+ 
+============================================================================== 
+09/16/2014:  System Maintenance:                                        [1303] 
+ 
+             - moved data-collection to new LoggerNet server 
+             - loaded logger program "bbaa-clt" 
+ 
+ 
+05/20/2014:  Station Maintenance:                                       [1800] 
+    
+             - Removal of debris from tipping-bucket rain gauge. 
+ 
+ 
+ 
+============================================================================== 
+05/21/2013:  Station Maintenance:                                       [1040] 
+              
+             - General station maintenance and system checks, including: 
+                - Removal of debris from tipping-bucket rain gauge. 
+ 
+ 
+ 
+============================================================================== 
+05/11/2010:  Station Maintenance:                                       [1100] 
+ 
+             - Wireless broadband modem was replaced to correct temporary 
+               communication troubles (caused by local switch to Verizon). 
+             - As of 16:05, Charlotte station is back online. 
+ 
+ 
+ 
+============================================================================== 
+06/02/2009:  Station Maintenance:                                       [1700] 
+ 
+             - General station maintenance and system checks, including: 
+                   - Tipping-bucket rain gauge test (faulty pcpn data 
+                     that was introduced was removed on 06/10/09) 
+ 
+ 
+ 
+ 
+============================================================================== 
+08/13/2008:  Station Online: 
+ 
+                - Station added to MAWN web site. 
+ 
+ 
+ 
+08/05/2008:  Data Collection Enabled: 
+ 
+                - Data Collection and Data Archive for new station begins: 
+ 
+                     First data report:   Aug 06, 2008 - 00:05 (Day=219) 
+ 
+ 
+ 
+08/05/2008:  Station Maintenance: 
+ 
+                - Established telecommunication between station cell-modem and 
+                  data collection PC/server on campus.    
+ 
+                - Loaded MAWN Program:   BBC-CLT 
+                                             B => CR1000 
+                                             B => CS616  
+                                             C => Broadband Cell Modem (IP) 
+                                           CLT => Station ID (Charlotte) 
+                                        
+ 
+                - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

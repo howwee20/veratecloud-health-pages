@@ -1,0 +1,260 @@
+============================================================================== 
+Station Notes - Stephenson  
+ 
+ 
+05/23/2025: Station Maintenance:                                        [1035] 
+ 
+            - routine site maintenance, including: 
+               - checked atmp/relh (cleaned sensor) 
+               - checked leaf wetness [standard] (good)* 
+               - checked pyranometer (good) 
+               - checked solar panel (adjusted angle) 
+               - checked tipping-bucket rain gauge (adjust level) 
+               - checked voltages: battery (13.47V), solar panel (19.41V) 
+               - checked wind speed / direction (good) 
+               - cleaned pyranometer 
+               - cleaned radiation shield (atmp/relh) 
+               - cleaned solar panel 
+               - cleaned tipping-bucket rain gauge 
+               - updated cell modem OS 
+               - weed removal 
+ 
+               * site does not include a canopy sensor 
+ 
+            
+05/21/2025: Logger Maintenance:                                         [1404] 
+ 
+            - loaded logger program: stv-bbad.cr1 (237 -> LWS-L)* 
+ 
+               * supports "maintenance mode" 
+               * sensor replaced: 03/22/2024 
+               * cleaned-up previously collected data 
+ 
+ 
+ 
+============================================================================== 
+03/22/2024: Station Maintenance:                                        [1525] 
+ 
+            - routine site maintenance, including: 
+               - checked atmp/relh (good) 
+               - checked batteries: 
+                  - replaced 35Ah battery (mouse issues) 
+                  - current 7Ah battery is fine 
+               - checked soil sensors (good) 
+               - checked station tripod (adjusted level) 
+               - checked tipping-bucket rain gauge (added funnel screen) 
+               - cleaned radiation shield (atmp/relh) 
+               - replaced leaf wetness [standard] (237 -> LWS)* ** 
+               - replaced wind sentry (i.e. direction / speed) 
+               - weed removal 
+  
+               * site does not include a canopy sensor 
+              ** an updated logger program is needed 
+ 
+ 
+============================================================================== 
+07/13/2021: Logger / Station Maintenance:                               [1240] 
+ 
+            - site visit, including: 
+               - tipping-bucket rain gauge repair (adjusted mounting) 
+               - installed updated modem 
+ 
+ 
+ 
+============================================================================== 
+09/18/2020: Logger / Station Maintenance:                               [1100] 
+ 
+            - cleaned tipping-bucket rain gauge (cleared obstruction)  
+ 
+ 
+ 
+============================================================================== 
+09/06/2019: Logger / Station Maintenance:                               [1100] 
+ 
+            - replaced logger (CR10X -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: stv-bbac 
+ 
+ 
+04/04/2019: Station Maintenance:                                        [1000] 
+ 
+            - repaired tipping-bucket precipitation issue: 
+               - unplugged funnel 
+ 
+ 
+ 
+============================================================================== 
+04/13/2017: Station Maintenance:                                        [1100] 
+ 
+            - unclogged precipitation bucket 
+ 
+ 
+ 
+============================================================================== 
+01/21/2016: Station Maintenance:                                        [1330] 
+ 
+            - replaced faulty battery 
+ 
+ 
+ 
+============================================================================== 
+03/06/2014:  Station Maintenance:                                       [1505] 
+  
+             - Moved data-collection to new LoggerNet server 
+             - Loaded logger program: ABCF (hourly cycle) 
+ 
+ 
+ 
+============================================================================= 
+10/19/2013:  Station Maintenance:                                      [0730] 
+ 
+             - Battery replaced 
+ 
+ 
+ 
+============================================================================= 
+12/18/2012:  Station Maintnenace:                                      
+ 
+             - Battery replaced 
+ 
+ 
+12/05/2012:  Station Maintenance:                                       [0930] 
+ 
+             - Replace wireless broadband modem 
+ 
+ 
+03/09/2011:  Station Maintenance:                                       [0001] 
+ 
+             - Loaded MAWN Program - ABCF (hourly collection cycle) 
+ 
+ 
+01/10/2011:  Station Maintenance:                                       [0900] 
+ 
+             - Telecommunication issues resolved last Friday.   Checked 
+               data and reactived "live" updates this morning.  Unfortunately, 
+               data for the following time period was lost: 
+ 
+                  12/14/2010 (d=348) 06:05  -  12/20/2010 (d=354) 15:00 
+ 
+ 
+ 
+============================================================================== 
+12/14/2010:  Station Maintenance:                                       [0002] 
+ 
+             - Loaded MAWN Program - ABCW (3-hour collection cycle) 
+ 
+ 
+11/29/2010:  Station Maintenance:                                       [1000] 
+ 
+             - Weak battery recently detected... replaced with a new 
+               battery this morning. 
+ 
+ 
+07/01/2010:  Station Maintenance:                                       [1100] 
+ 
+             - Routine maintence, including: 
+                - checked/reinstalled 4" soil temp sensor 
+ 
+ 
+07/01/2010:  Station Maintenance:                                       [1250] 
+ 
+             - Replaced short-haul modem/FTP with wireless broadband. 
+             - Loaded MAWN Program ABCS (30-minute power cycle) 
+ 
+             - Added "battery voltage" to hourly data table 
+ 
+ 
+ 
+============================================================================== 
+04/18/2008:  Station Update: 
+ 
+             - Network connection at Stephenson has been repaired.  Station 
+               is back online. 
+ 
+ 
+04/16/2008:  Station Update: 
+ 
+             - Recent thunderstorm has knocked-out internet connectivity  
+               at the Stephenson station.   The network at Stephenson  
+               should be back up later in the week or early next week. 
+ 
+ 
+ 
+ 
+============================================================================== 
+05/17/2007:  Station Maintenance (sm, jb): 
+ 
+             - Recent telecommunication troubles that prevented proper 
+               data collection has been repaired.   Data is once again 
+               being collected and updated to the MAWN database. 
+ 
+             - Due to the telecommunication outage, data for the following 
+               time period has been lost: 
+   
+                  03/19/07 (Day=78) 08:35 CDT - 04/28/07 (Day=118) 17:50 CDT 
+ 
+ 
+ 
+ 
+============================================================================== 
+11/03/2005:  Station Maintenance (sm): 
+ 
+             - Communications between the data-collection PC and the 
+               data-logger on the weather station had been out for 
+               several weeks.   Replacement of the short-haul modem  
+               components corrected the trouble.   Unfortunately,  
+               uncollected data was lost for the following time 
+               period: 
+ 
+                  10/04/05 (Day=277) 18:35 CDT - 10/16/05 (Day=289) 16:30 CDT 
+  
+              
+04/10/2005:  Data Quality Note: 
+ 
+             - It was determined that the clock on the Stephenson MAWN 
+               station slowly drifted and was reporting incorrectly for  
+               most of the winter.   Because of the incorrect clock, the 
+               observation times of the data reports are in error. 
+ 
+             - The clock was corrected on 04/10/2005. 
+ 
+             - Prior to the correction (Nov 2004 - April 09, 2005), the 
+               observation times may be off by several hours.  Eventually, 
+               all data with incorrect time stamps will either be corrected 
+               or removed from the MAWN database. 
+ 
+ 
+ 
+============================================================================== 
+03/08/2004:  Spring Maintenance (crn): 
+ 
+             - Site visit - Sensor Check: All OK 
+ 
+ 
+ 
+============================================================================== 
+09/30/2003:  Data Collection and Data Archive for new station begins 
+ 
+                First report:   Sep 30, 2003 - 00:05   (Day=273) 
+ 
+ 
+09/19/2003:  New Station Installed: 
+ 
+                Notes: 
+   
+                   - leaf wetness B (canopy)     - not installed 
+ 
+                   - pressure sensor installed   - not active 
+ 
+                   - Soil Moisture Sensor Type   - CS616 Water Content  
+                                                   Reflectometer 
+ 
+                   - Data Logger Program Loaded:  MAWN1C 
+ 
+ 
+                Additional Station Needs: 
+ 
+ 
+ 
+============================================================================== 
+

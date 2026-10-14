@@ -13,7 +13,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-node@v4
@@ -23,6 +23,19 @@ jobs:
         with:
           python-version: '3.12'
       - uses: actions/configure-pages@v5
+      - name: Restore successful source cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            .github/weather-source/data/expanded
+            .github/weather-source/data/normalized/map-descriptions.json
+            .github/weather-source/public/media/climate
+            .github/weather-source/public/downloads/climate-map-refresh.json
+            .github/weather-source/public/downloads/climate-map-regional-samples.csv
+          key: weather-expanded-v1-${{ github.run_id }}
+          restore-keys: weather-expanded-v1-
+      - name: Install climate image text validator
+        run: sudo apt-get update -qq && sudo apt-get install -y tesseract-ocr
       - name: Install pinned build dependencies
         working-directory: .github/weather-source
         run: |
@@ -30,6 +43,8 @@ jobs:
           npm ci
       - name: Refresh and validate before staging
         working-directory: .github/weather-source
+        env:
+          WEATHER_REFRESH: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         run: python scripts/publish_refresh.py
       - uses: actions/upload-pages-artifact@v4
         with:

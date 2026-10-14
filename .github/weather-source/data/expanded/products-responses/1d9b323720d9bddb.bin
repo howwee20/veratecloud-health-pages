@@ -1,0 +1,111 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.02 [en] (Win95; I) [Netscape]">
+   <TITLE>file:///Untitled</TITLE>
+</HEAD>
+<BODY>
+<FONT SIZE=+3>Ontonagon (6210)</FONT>
+
+<P>&nbsp;The following tables are the 1951-1980 Normals and Narrative Summary
+
+<P>1. <A HREF="http://climate.geo.msu.edu/Stations/6210/TMP1_NM.TXT">Temperature
+normals and extremes</A>
+
+<P>2. <A HREF="http://climate.geo.msu.edu/Stations/6210/TMP2_NM.TXT">Heating &amp;
+cooling degree days, and number of days for selected thresholds</A>
+
+<P>3. <A HREF="http://climate.geo.msu.edu/Stations/6210/prec_nm.txt">Precipitation
+normals</A>
+
+<P>4. <A HREF="http://climate.geo.msu.edu/Stations/6210/narrat.txt">Narrative summary</A>
+
+<P>The following tables are statistical probabilities based on the 1951-1980
+data
+
+<P>using the indicated Probability Distribution Function (PDF).
+
+<P>5. <A HREF="http://climate.geo.msu.edu/Stations/6210/tmax_st.txt">Average daily
+maximum temperature (Normal PDF)</A>
+
+<P>6. <A HREF="http://climate.geo.msu.edu/Stations/6210/tmin_st.txt">Average daily
+minimum temperature (Normal PDF)</A>
+
+<P>7. <A HREF="http://climate.geo.msu.edu/Stations/6210/tmen_st.txt">Average daily
+mean temperature (Normal PDF)</A>
+
+<P>8. <A HREF="http://climate.geo.msu.edu/Stations/6210/hdd65_st.txt">Monthly &amp;
+seasonal (July-June) heating degree-days base 65 F (Gamma PDF)</A>
+
+<P>9. <A HREF="http://climate.geo.msu.edu/Stations/6210/cdd65_st.txt">Monthly &amp;
+annual cooling degree days-base 65 F (Gamma PDF)</A>
+
+<P>10. <A HREF="http://climate.geo.msu.edu/Stations/6210/txg90_st.txt">Number of
+days with maximum Temperature of 90 F or above (Weibull PDF)</A>
+
+<P>11. <A HREF="http://climate.geo.msu.edu/Stations/6210/txl32_st.txt">Number of
+days with maximum Temperature of 32 F or below (Weibull PDF)</A>
+
+<P>12. <A HREF="http://climate.geo.msu.edu/Stations/6210/tnl32_st.txt">Number of
+days with minimum Temperature of 32 F or below (Weibull PDF)</A>
+
+<P>13. <A HREF="http://climate.geo.msu.edu/Stations/6210/tnl0_st.txt">Number of
+days with minimum Temperature of 0 F or below (Weibull PDF)</A>
+
+<P>14. <A HREF="http://climate.geo.msu.edu/Stations/6210/l_spr_st.txt">Last spring
+temperature threshold date (Normal PDF)</A>
+
+<P>15. <A HREF="http://climate.geo.msu.edu/Stations/6210/f_fal_st.txt">First fall
+temperature threshold date (Normal PDF)</A>
+
+<P>16. <A HREF="http://climate.geo.msu.edu/Stations/6210/g_sea_st.txt">Growing
+season length between threshold dates (Normal PDF)</A>
+
+<P>17. <A HREF="http://climate.geo.msu.edu/Stations/6210/gdd40_st.txt">Monthly
+&amp; seasonal (Mar-Oct) growing degree-days base 40 F (Gamma PDF)</A>
+
+<P>18. <A HREF="http://climate.geo.msu.edu/Stations/6210/gdd45_st.txt">Monthly
+&amp; seasonal (Mar-Oct) growing degree-days base 45 F (Gamma PDF)</A>
+
+<P>19. <A HREF="http://climate.geo.msu.edu/Stations/6210/gdd50_st.txt">Monthly
+&amp; seasonal (Mar-Oct) growing degree-days base 50 F (Gamma PDF)</A>
+
+<P>20. <A HREF="http://climate.geo.msu.edu/Stations/6210/gdd55_st.txt">Monthly
+&amp; seasonal (Mar-Oct) growing degree-days base 55 F (Gamma PDF)</A>
+
+<P>21. <A HREF="http://climate.geo.msu.edu/Stations/6210/g8650_st.txt">Monthly
+&amp; seasonal (Mar-Oct) growing degree-days, corn method (86max &amp;
+50min) (Gamma PDF)</A>
+
+<P>22. <A HREF="http://climate.geo.msu.edu/Stations/6210/prec_st.txt">Monthly &amp;
+annual total precipitation (Gamma PDF)</A>
+
+<P>23. <A HREF="http://climate.geo.msu.edu/Stations/6210/snow_st.txt">Monthly &amp;
+seasonal (Sep-May) total snowfall (Gamma PDF)</A>
+
+<P>24. <A HREF="http://climate.geo.msu.edu/Stations/6210/dpg10_st.txt"># of days
+with precipitation of .10 inch or above (Weibull PDF)</A>
+
+<P>25. <A HREF="http://climate.geo.msu.edu/Stations/6210/dpg25_st.txt"># of days
+with precipitation of .25 inch or above (Weibull PDF)</A>
+
+<P>26. <A HREF="http://climate.geo.msu.edu/Stations/6210/dpg50_st.txt"># of days
+with precipitation of .50 inch or above (Weibull PDF)</A>
+
+<P>27. <A HREF="http://climate.geo.msu.edu/Stations/6210/prssn_st.txt">Monthly
+&amp; seasonal (Apr-Sep) precipitation (Gamma PDF)</A>
+
+<P>28. Grouping of all Normals tables (Archived)
+
+<P>29. Grouping of all temperature related files (Archived)
+
+<P>30. Grouping of all growing &amp; frost related files (Archived)
+
+<P>31. Grouping of all precipitation related files (Archived)
+
+<P>32. Grouping of all tables (Archived)
+
+<P>33. <A HREF="http://climate.geo.msu.edu/Stations/6210/T_EX_AVG.txt">Daily temperature
+extremes and averages for period of record</A>
+</BODY>
+</HTML>

@@ -1,0 +1,46 @@
+=============================================================================== 
+Station Notes - Mount Pleasant (MI) 
+ 
+ 
+05/20/2026: Station Maintenance:                                         [1315] 
+ 
+            - logger replaced* 
+ 
+            * offline since 04/02/2026 due to electrical storm damage 
+ 
+ 
+ 
+=============================================================================== 
+09/12/2019: Station Maintenance:                                         [----] 
+ 
+            - obstruction cleared from precipitation bucket  
+ 
+ 
+07/23/2019: Power Issues:                                                [1405] 
+ 
+            - interruption to campus power... 
+              ... restored at: 07/23/2019 1700 
+ 
+ 
+ 
+=============================================================================== 
+08/20/2018: Station Online:                                              [1250] 
+     
+            - Station added to Enviroweather/MAWN database system 
+          
+ 
+08/13/2018: Data Collection Enabled                                      [1005] 
+ 
+            - Data Collection begins: 
+ 
+                  First data report: August 14. 2018 (d=226) 00:05 
+ 
+ 
+--/--/----: Station Setup                                                [----] 
+ 
+            - station setup/activated at field site 
+ 
+ 
+ 
+=============================================================================== 
+

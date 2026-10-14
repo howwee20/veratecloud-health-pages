@@ -1,0 +1,256 @@
+============================================================================== 
+Station Notes - Saginaw Valley: 
+ 
+ 
+11/26/2008:  Station Retired 
+ 
+             - The MAWN station at Saginaw has been retired 
+ 
+ 
+ 
+05/29/2008:  Station Maintenance: 
+ 
+             - General station maintenance and system checks, including: 
+                   - Soil Moisture sensors now installed vertically: 
+                         - MSTR 0:  profile of depth =  0 - 12" 
+                         - MSTR 1:  profile of depth = 12 - 24" 
+ 
+             - Work was done approx: 1000 - 1015 (Day=150) 
+ 
+ 
+ 
+ 
+03/26/2008:  Data Removal: 
+ 
+             - A small section of the data record from 11/09/07 - 11/13/07 
+               contained some corrupted data, possibly due to a low battery. 
+  
+               The following five-minute data entries (and associated hourly 
+               and daily entries) have been deleted: 
+ 
+                  11/09/2007 (d=313): 0740, 0805 - 0815, 0835 - 0845 
+                  11/12/2007 (d=316): 0410 - 2400 
+                  11/13/2007 (d=317): 0005 - 1725 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+03/07/2008:  Station Maintenance (jb): 
+ 
+             - Loaded MAWN Program:  MAWN_AACF  (hourly power cycle)  [00:05] 
+ 
+ 
+ 
+=============================================================================== 
+11/19/2007:  Station Maintenance (jb): 
+ 
+             - Loaded MAWN Program:  MAWN_AACW   (3-hr power cycle)  [12:35] 
+ 
+ 
+ 
+ 
+ 
+07/25/2007:  Station Maintenance: (bn): 
+ 
+             - Communication converted to broadband cell-modem: 
+ 
+                  - Broadband Cell modem installed. 
+                  - Datalogger Program "mawn_aacs" Loaded and Compiled 
+                  - Data Collection Configured To Upload Every 30 minutes. 
+ 
+ 
+             - General Station Maintenance and System Checks: 
+ 
+ 
+             - Work was done approx: 15:30 - 16:00 (Day=206) 
+ 
+ 
+ 
+05/08/2007:  Station Maintenance (sm, bn): 
+ 
+             - General station maintenance and system checks. 
+                   - soil temp 1 (4") replaced. 
+                   - soil temp 0 (2") was reinstalled. 
+ 
+                   - Work was done approx: 13:20 - 14:00 (Day=128) 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+03/14/2006:  Station Maintenance: (sm) 
+ 
+             - Tipping Bucket Rain Gauge at Saginaw Valley MAWN station 
+               was covered during the winter.   Cover was removed today  
+               and precipitation data from this station should once  
+               again show up in the data entries. 
+ 
+ 
+ 
+============================================================================== 
+ 
+08/03/2004:  Station Maintenance: (crn,jal) 
+ 
+             - Replaced Anemometer 
+             - Replaced Temperature/Relative Humidity Sensor - HMP45C (16:15) 
+             - Checked Tipping Bucket Rain Guage 
+ 
+             - Datalogger Program Loaded:  MAWN1B 
+ 
+ 
+ 
+ 
+============================================================================== 
+ 
+04/08/2002:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+             - Time of Obs were modified by one hour (forward)  
+               from Day=97, Time=200 through Day=97, Time=415. 
+ 
+ 
+ 
+10/31/2001:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=301, Time=200 through Day=301, Time=610. 
+ 
+ 
+ 
+10/09/2001:  Phone Number Change. 
+ 
+             - Area code for the SAGINAW region was changed over the 
+               past weekend from "517" to "989".  Phone number was 
+               modified to reflect this change: 
+ 
+ 
+ 
+10/30/2000:  Daylight Savings Time Adjustment. 
+                 
+             - Daylight Savings Time Ended on Day=303, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=303, Time=200 through Day=304, Time=1700. 
+               Only Observation Times were modified, not times of 
+               Maxs and Mins.  Users will need to take that into 
+               consideration when using this data. 
+ 
+ 
+ 
+07/20/2000:  Saginaw Valley Station added to MAWN database 
+ 
+ 
+ 
+07/19/2000:  Data Logging Activated (mawn1a) 
+            
+             - Data Logger Start Time:  00:05, Day=202 (07/20/2000) 
+ 
+ 
+ 
+07/19/2000:  Station Update  
+ 
+             - Comments:       Paul Horny needed to unlock the gate 
+                               as well as a lock to the datalogger 
+                               enclosure. 
+ 
+                               Basically standardized the Saginaw 
+                               Valley station.  The tripod was already 
+                               aligned properly.  Replaced Temp/RH, 
+                               Wind Sentry, Soil Temps, and Pyronemeter. 
+                               Added Leaf Wetness A and Soil Moisture 
+                               Probes.  Moved Soil Temperature Sensors 
+                               and Pyranomter arm.  Solar Panel and 
+                               Radiation shields were left alone. 
+                               More details follow. 
+ 
+                               General condition:  Site was in good 
+                               condition.  No problems with any weeds 
+                               or tall grass.  A portion of the site is 
+                               covered with mulch.  There is a plot of 
+                               rhubarb to the west which might be used as 
+                               a canopy for Leaf Wetness B (when that is 
+                               installed). 
+ 
+                               No major difficulties with the update. 
+ 
+                               - jtb 
+ 
+ 
+             - Leaf Wetness A:  New Hardware 
+                                - Bracket mounted 3-feet from center of  
+                                  tripod, 39-inches (~1m) high.  Mounted 
+                                  on NE leg, sensor facing north. 
+ 
+             - Leaf Wetness B:  Not Installed 
+ 
+             - Soil Temp A:     Existing Hardware 
+                                - Relocated current sensor.  Installed at 
+                                  2-inch depth, west of south leg, north 
+                                  of Soil Temp B.  Soil cover=wood chips. 
+ 
+             - Soil Temp B:     Existing Hardware 
+                                - Relocated current sensor.  Installed at 
+                                  4-inch depth, west of south leg, south  
+                                  of Soil Temp A.  Soil cover=wood chips. 
+ 
+             - Soil Moisture A: New Hardware 
+                                - Probe installed east of south leg, approx. 
+                                  one foot north of Soil Moisture B.  Soil 
+                                  cover=wood chips. 
+ 
+             - Soil Moisture B: New Hardware 
+                                - Probe installed east of South leg, approx.  
+                                  one foot south of Soil Moisture A.  Soil 
+                                  cover=wood chips. 
+ 
+             - Air Temp/RH:     New Hardware 
+                                - Replaced HMP35C with calibrated HMP35C. 
+                                  Shield is installed with a height of  
+                                  61.25" to 8th plate.  This is normally 
+                                  installed at 59", but the shield can not 
+                                  be installed at the height due to the  
+                                  leg extensions of the tripod. 
+                                  (requires mawn1a) 
+ 
+             - Wind Vane:       New Hardware 
+                                - Points to North 
+ 
+             - Anemometer:      New Hardware 
+                                - Points to South 
+ 
+             - Pyranometer:     New Hardware 
+                                - Existing mounting bracket relocated to  
+                                  point to the SW.  Bottom of bracket is 
+                                  is ??" above tripod bracket. 
+ 
+             - Solar Panel:     Existing Hardware 
+                                - Currently installed on south leg, facing 
+                                  south (leads not long enough to mount high 
+                                  on the mast). 
+                                  
+ 
+             - Precipitation:   Existing Hardware 
+                                - Currently installed SW corner of station 
+                                  plot. 
+ 
+             - Modem:           Existing Hardware 
+                                - tip    => ??? 
+                                - ring   => ??? 
+                                - ground => ??? 
+                                - number => 517-781-9656   
+ 
+ 
+             - Needs:           Leaf Wetness B 
+ 
+ 
+ 
+============================================================================== 
+

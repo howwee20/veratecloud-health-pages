@@ -1,0 +1,213 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:30
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+
+
+
+
+<table width="100%" height="120" border="0">
+   <tr height="100">
+      <td align="center">
+         <h1>MSU Agricultural Weather Office<h1>
+         <h2>Current Weather & Climatological Info</h2>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+
+<!--
+   <tr height="35">
+      <td align="center">
+         <font color="red" font size=3><b>State Budget Cuts Threaten This Website and Other MSUE/MAES Programs...
+         <br>Click  <a href="http://anrcom.msu.edu/Budget.aspx">Here</a> For More Information...</b></font>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+-->
+
+</table>
+
+<br>
+<table width="95%" border="0" valign="top" align="center">
+   <tr>
+      <td class="courier2">
+        
+         &nbsp;<br>172&nbsp;&nbsp;<br>ASUS63&nbsp;KMQT&nbsp;310056&nbsp;<br>RTPMQT&nbsp;<br>&nbsp;<br>&nbsp;<br>Regional&nbsp;Temperature&nbsp;And&nbsp;Precipitation&nbsp;Summary&nbsp;<br>National&nbsp;Weather&nbsp;Service&nbsp;Marquette&nbsp;MI&nbsp;<br>756&nbsp;PM&nbsp;EST&nbsp;Thu&nbsp;Jan&nbsp;30&nbsp;2025&nbsp;<br>&nbsp;<br>NOTE...This&nbsp;is&nbsp;the&nbsp;final&nbsp;issuance&nbsp;of&nbsp;this&nbsp;product.&nbsp;<br>:&nbsp;<br>:The&nbsp;following&nbsp;tables&nbsp;are&nbsp;from&nbsp;ASOS/AWOS&nbsp;stations&nbsp;and&nbsp;<br>:represent&nbsp;the&nbsp;highs&nbsp;and&nbsp;lows&nbsp;over&nbsp;the&nbsp;past&nbsp;18&nbsp;hours&nbsp;<br>:and&nbsp;precipitation&nbsp;over&nbsp;the&nbsp;last&nbsp;24&nbsp;hours&nbsp;&nbsp;<br>:&nbsp;<br>:Values&nbsp;ending&nbsp;at&nbsp;6&nbsp;PM&nbsp;Central&nbsp;Standard&nbsp;Time.&nbsp;<br>:&nbsp;<br>.BR&nbsp;MQT&nbsp;0130&nbsp;CS&nbsp;DH18/TAIRZS/TAIRZI/PPDRZZ&nbsp;<br>:....................................................&nbsp;<br>:&nbsp;&nbsp;&nbsp;Station&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max&nbsp;&nbsp;Min&nbsp;&nbsp;&nbsp;24Hr&nbsp;<br>:&nbsp;ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temp&nbsp;Temp&nbsp;&nbsp;Precip&nbsp;<br>:....................................................&nbsp;<br>:&nbsp;<br>IWD&nbsp;&nbsp;&nbsp;:&nbsp;Ironwood&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;43&nbsp;/&nbsp;23&nbsp;/&nbsp;&nbsp;M&nbsp;<br>IMT&nbsp;&nbsp;&nbsp;:&nbsp;Iron&nbsp;Mountain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;44&nbsp;/&nbsp;20&nbsp;/&nbsp;&nbsp;M&nbsp;<br>MNM&nbsp;&nbsp;&nbsp;:&nbsp;Menominee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;46&nbsp;/&nbsp;23&nbsp;/&nbsp;&nbsp;M&nbsp;<br>.END&nbsp;<br>&nbsp;&nbsp;<br>:Values&nbsp;ending&nbsp;at&nbsp;7&nbsp;PM&nbsp;Eastern&nbsp;Standard&nbsp;Time.&nbsp;<br>:&nbsp;<br>.BR&nbsp;MQT&nbsp;0130&nbsp;ES&nbsp;DH19/TAIRZS/TAIRZI/PPDRZZ&nbsp;<br>:....................................................&nbsp;<br>:&nbsp;&nbsp;&nbsp;Station&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max&nbsp;&nbsp;Min&nbsp;&nbsp;&nbsp;24Hr&nbsp;<br>:&nbsp;ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temp&nbsp;Temp&nbsp;&nbsp;Precip&nbsp;<br>:....................................................&nbsp;<br>:&nbsp;<br>CMX&nbsp;&nbsp;&nbsp;:&nbsp;Houghton&nbsp;Arpt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;35&nbsp;/&nbsp;17&nbsp;/&nbsp;&nbsp;M&nbsp;<br>P59&nbsp;&nbsp;&nbsp;:&nbsp;Copper&nbsp;Harbor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;M&nbsp;/&nbsp;&nbsp;M&nbsp;/&nbsp;0.02&nbsp;<br>MQT&nbsp;&nbsp;&nbsp;:&nbsp;NWS&nbsp;Marquette&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;39&nbsp;/&nbsp;16&nbsp;/&nbsp;0.01&nbsp;<br>SAW&nbsp;&nbsp;&nbsp;:&nbsp;Marquette&nbsp;Sawyer&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;37&nbsp;/&nbsp;14&nbsp;/&nbsp;&nbsp;M&nbsp;<br>ESC&nbsp;&nbsp;&nbsp;:&nbsp;Escanaba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;42&nbsp;/&nbsp;14&nbsp;/&nbsp;&nbsp;M&nbsp;<br>ISQ&nbsp;&nbsp;&nbsp;:&nbsp;Manistique&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;36&nbsp;/&nbsp;20&nbsp;/&nbsp;&nbsp;M&nbsp;<br>ERY&nbsp;&nbsp;&nbsp;:&nbsp;Newberry&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;35&nbsp;/&nbsp;&nbsp;8&nbsp;/&nbsp;&nbsp;M&nbsp;<br>.END&nbsp;<br>&nbsp;&nbsp;<br>:Cooperative&nbsp;observer&nbsp;temperature&nbsp;and&nbsp;precipitation&nbsp;reports.&nbsp;<br>:Temperature&nbsp;reports&nbsp;are&nbsp;12&nbsp;hour&nbsp;values&nbsp;ending&nbsp;around&nbsp;7&nbsp;PM&nbsp;<br>:Eastern&nbsp;Time.&nbsp;<br>:&nbsp;<br>.BR&nbsp;MQT&nbsp;0130&nbsp;E&nbsp;DH19/TAIRZY/PPKRZZ/SFKRZZ/SDIRZZ&nbsp;<br>:...................................................................&nbsp;<br>:&nbsp;&nbsp;&nbsp;Station&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max&nbsp;&nbsp;12Hr&nbsp;&nbsp;12Hr&nbsp;&nbsp;Snow&nbsp;<br>:&nbsp;ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;Temp&nbsp;Pcpn&nbsp;&nbsp;Snow&nbsp;&nbsp;Depth&nbsp;<br>:...................................................................&nbsp;<br>:Marquette&nbsp;County&nbsp;<br>MQT&nbsp;&nbsp;&nbsp;:&nbsp;NWS&nbsp;Marquette&nbsp;&nbsp;&nbsp;:&nbsp;DH1900/&nbsp;39/&nbsp;&nbsp;0.00/&nbsp;&nbsp;0.0/&nbsp;&nbsp;&nbsp;&nbsp;9&nbsp;<br>.END&nbsp;<br>&nbsp;&nbsp;<br>:The&nbsp;data&nbsp;above&nbsp;are&nbsp;preliminary&nbsp;and&nbsp;have&nbsp;not&nbsp;undergone&nbsp;final&nbsp;<br>:quality&nbsp;control&nbsp;by&nbsp;the&nbsp;Center&nbsp;for&nbsp;Weather&nbsp;and&nbsp;Climate,&nbsp;part&nbsp;of&nbsp;<br>:the&nbsp;National&nbsp;Centers&nbsp;for&nbsp;Environmental&nbsp;Information&nbsp;(NCEI).&nbsp;&nbsp;<br>:Therefore,&nbsp;these&nbsp;data&nbsp;are&nbsp;subject&nbsp;to&nbsp;revision.&nbsp;Final&nbsp;and&nbsp;<br>:certified&nbsp;climatic&nbsp;data&nbsp;can&nbsp;be&nbsp;accessed&nbsp;at&nbsp;www.ncdc.noaa.gov.&nbsp;<br>&nbsp;&nbsp;<br>&&&nbsp;<br>&nbsp;&nbsp;<br>:Data&nbsp;for&nbsp;the&nbsp;following&nbsp;stations&nbsp;are&nbsp;compiled&nbsp;by&nbsp;an&nbsp;automated&nbsp;<br>:computer&nbsp;program.&nbsp;The&nbsp;data&nbsp;is&nbsp;only&nbsp;partially&nbsp;quality&nbsp;controlled.&nbsp;<br>:&nbsp;<br>:Values&nbsp;represent&nbsp;the&nbsp;high&nbsp;temperature&nbsp;over&nbsp;the&nbsp;last&nbsp;12&nbsp;<br>:hours,&nbsp;the&nbsp;low&nbsp;temperature&nbsp;over&nbsp;the&nbsp;last&nbsp;18&nbsp;hours&nbsp;and&nbsp;<br>:the&nbsp;minimum&nbsp;relative&nbsp;humidity&nbsp;over&nbsp;the&nbsp;past&nbsp;12&nbsp;hours.&nbsp;<br>:Precipitation&nbsp;is&nbsp;for&nbsp;24&nbsp;hours&nbsp;ending&nbsp;at&nbsp;7&nbsp;PM&nbsp;local&nbsp;time.&nbsp;<br>..................................&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max&nbsp;&nbsp;&nbsp;Min&nbsp;&nbsp;&nbsp;&nbsp;Min&nbsp;<br>Station&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temp&nbsp;&nbsp;Temp&nbsp;&nbsp;&nbsp;RH&nbsp;<br>..................................&nbsp;<br>Wakefield&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;46&nbsp;&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;&nbsp;&nbsp;38&nbsp;<br>Watersmeet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45&nbsp;&nbsp;&nbsp;&nbsp;16&nbsp;&nbsp;&nbsp;&nbsp;39&nbsp;<br>Pelkie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;46&nbsp;&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;&nbsp;&nbsp;39&nbsp;<br>Kenton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;46&nbsp;&nbsp;&nbsp;&nbsp;13&nbsp;&nbsp;&nbsp;&nbsp;41&nbsp;<br>Baraga&nbsp;Plains&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;44&nbsp;&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;&nbsp;&nbsp;40&nbsp;<br>Windigo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40&nbsp;&nbsp;&nbsp;&nbsp;37&nbsp;&nbsp;&nbsp;&nbsp;59&nbsp;<br>Ojibway&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32&nbsp;&nbsp;&nbsp;&nbsp;19&nbsp;&nbsp;&nbsp;&nbsp;88&nbsp;<br>Randville&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;48&nbsp;&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;&nbsp;&nbsp;35&nbsp;<br>Yellow&nbsp;Dog&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;43&nbsp;&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;&nbsp;&nbsp;39&nbsp;<br>Gwinn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;42&nbsp;&nbsp;&nbsp;&nbsp;14&nbsp;&nbsp;&nbsp;&nbsp;39&nbsp;<br>La&nbsp;Branche&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;44&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;&nbsp;39&nbsp;<br>Wausaukee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;46&nbsp;&nbsp;&nbsp;&nbsp;20&nbsp;&nbsp;&nbsp;&nbsp;37&nbsp;<br>Doe&nbsp;Lake&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;44&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;45&nbsp;<br>Stonington&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;43&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;49&nbsp;<br>High&nbsp;Bridge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;42&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;45&nbsp;<br>Munising&nbsp;East&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;41&nbsp;&nbsp;&nbsp;&nbsp;28&nbsp;&nbsp;&nbsp;&nbsp;47&nbsp;<br>Stanley&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40&nbsp;&nbsp;&nbsp;&nbsp;12&nbsp;&nbsp;&nbsp;&nbsp;47&nbsp;<br>Seney&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38&nbsp;&nbsp;&nbsp;&nbsp;14&nbsp;&nbsp;&nbsp;&nbsp;57&nbsp;<br>Spincich&nbsp;Lake&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;39&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;&nbsp;&nbsp;63&nbsp;<br>Trout&nbsp;Lake&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;&nbsp;61&nbsp;<br>Rexton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;37&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;&nbsp;65&nbsp;<br>Raco&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;36&nbsp;&nbsp;&nbsp;&nbsp;12&nbsp;&nbsp;&nbsp;&nbsp;67&nbsp;<br>Rudyard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35&nbsp;&nbsp;&nbsp;&nbsp;11&nbsp;&nbsp;&nbsp;&nbsp;62&nbsp;<br>&nbsp;&nbsp;<br>:The&nbsp;following&nbsp;locations&nbsp;are&nbsp;marine&nbsp;observation&nbsp;platforms.&nbsp;<br>:Values&nbsp;are&nbsp;the&nbsp;high&nbsp;temperatures&nbsp;from&nbsp;today&nbsp;and&nbsp;<br>:the&nbsp;overnight&nbsp;low.&nbsp;<br>:..................................&nbsp;<br>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;High&nbsp;&nbsp;Low&nbsp;&nbsp;<br>:Station&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temp&nbsp;&nbsp;Temp&nbsp;<br>:..................................&nbsp;<br>Gay&nbsp;4SW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;41&nbsp;&nbsp;&nbsp;&nbsp;17&nbsp;<br>Big&nbsp;Bay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;43&nbsp;&nbsp;&nbsp;&nbsp;19&nbsp;<br>Grand&nbsp;Marais&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40&nbsp;&nbsp;&nbsp;&nbsp;20&nbsp;<br>&nbsp;&nbsp;<br>$$&nbsp;<br>&nbsp;<br>JSS&nbsp;<br>&nbsp;<br>
+       
+      </td>
+   </tr>
+</table>
+
+
+
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

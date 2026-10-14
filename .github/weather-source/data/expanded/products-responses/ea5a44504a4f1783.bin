@@ -1,0 +1,213 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:30
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+
+
+
+
+<table width="100%" height="120" border="0">
+   <tr height="100">
+      <td align="center">
+         <h1>MSU Agricultural Weather Office<h1>
+         <h2>Current Weather & Climatological Info</h2>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+
+<!--
+   <tr height="35">
+      <td align="center">
+         <font color="red" font size=3><b>State Budget Cuts Threaten This Website and Other MSUE/MAES Programs...
+         <br>Click  <a href="http://anrcom.msu.edu/Budget.aspx">Here</a> For More Information...</b></font>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+-->
+
+</table>
+
+<br>
+<table width="95%" border="0" valign="top" align="center">
+   <tr>
+      <td class="courier2">
+        
+         &nbsp;<br>045&nbsp;&nbsp;<br>ASUS63&nbsp;KGRR&nbsp;310015&nbsp;<br>RTPGRR&nbsp;<br>&nbsp;<br>Max/Min&nbsp;Temperature&nbsp;and&nbsp;Precipitation&nbsp;Table&nbsp;<br>for&nbsp;Southwest&nbsp;Lower&nbsp;Michigan&nbsp;<br>National&nbsp;Weather&nbsp;Service&nbsp;Grand&nbsp;Rapids&nbsp;MI&nbsp;<br>715&nbsp;PM&nbsp;EST&nbsp;Thu&nbsp;Jan&nbsp;30&nbsp;2025&nbsp;<br>&nbsp;<br>Values&nbsp;represent&nbsp;lows&nbsp;over&nbsp;the&nbsp;last&nbsp;18&nbsp;hours...&nbsp;<br>highs&nbsp;over&nbsp;the&nbsp;last&nbsp;18&nbsp;hours&nbsp;and&nbsp;precipitation&nbsp;over&nbsp;the&nbsp;<br>last&nbsp;24&nbsp;hours&nbsp;<br>&nbsp;<br>.BR&nbsp;GRR&nbsp;&nbsp;0130&nbsp;ES&nbsp;DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ&nbsp;&nbsp;<br>:&nbsp;<br>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max&nbsp;&nbsp;&nbsp;Min&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Snow&nbsp;&nbsp;Snow&nbsp;<br>:ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temp&nbsp;&nbsp;Temp&nbsp;&nbsp;&nbsp;Pcpn&nbsp;&nbsp;&nbsp;Fall&nbsp;&nbsp;Depth&nbsp;<br>:&nbsp;<br>:&nbsp;Automated&nbsp;Surface&nbsp;Observing&nbsp;System&nbsp;/ASOS/&nbsp;Sites&nbsp;<br>:&nbsp;<br>GRR&nbsp;:&nbsp;&nbsp;Grand&nbsp;Rapids&nbsp;ASOS&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;47&nbsp;/&nbsp;&nbsp;20&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0/&nbsp;&nbsp;&nbsp;&nbsp;2&nbsp;<br>LAN&nbsp;:&nbsp;&nbsp;Lansing&nbsp;ASOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;46&nbsp;/&nbsp;&nbsp;21&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0/&nbsp;&nbsp;&nbsp;&nbsp;M&nbsp;<br>MKG&nbsp;:&nbsp;&nbsp;Muskegon&nbsp;ASOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;44&nbsp;/&nbsp;&nbsp;21&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0/&nbsp;&nbsp;&nbsp;&nbsp;2&nbsp;<br>AZO&nbsp;:&nbsp;&nbsp;Kalamazoo&nbsp;ASOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;43&nbsp;/&nbsp;&nbsp;17&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0/&nbsp;&nbsp;&nbsp;&nbsp;M&nbsp;<br>BIV&nbsp;:&nbsp;&nbsp;Holland&nbsp;ASOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;48&nbsp;/&nbsp;&nbsp;22&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M/&nbsp;&nbsp;&nbsp;&nbsp;M&nbsp;<br>BTL&nbsp;:&nbsp;&nbsp;Battle&nbsp;Creek&nbsp;ASOS&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;45&nbsp;/&nbsp;&nbsp;21&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M/&nbsp;&nbsp;&nbsp;&nbsp;M&nbsp;<br>JXN&nbsp;:&nbsp;&nbsp;Jackson&nbsp;ASOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;48&nbsp;/&nbsp;&nbsp;21&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M/&nbsp;&nbsp;&nbsp;&nbsp;M&nbsp;<br>:&nbsp;<br>:&nbsp;<br>:&nbsp;Automated&nbsp;Weather&nbsp;Observing&nbsp;System&nbsp;/AWOS/&nbsp;Sites&nbsp;<br>:&nbsp;<br>RQB&nbsp;:&nbsp;&nbsp;Big&nbsp;Rapids&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;46&nbsp;/&nbsp;9&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;<br>LDM&nbsp;:&nbsp;&nbsp;Ludington&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;44&nbsp;/&nbsp;18&nbsp;&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;<br>RMY&nbsp;:&nbsp;&nbsp;Marshall&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;47&nbsp;/&nbsp;20&nbsp;&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;<br>MOP&nbsp;:&nbsp;&nbsp;Mt&nbsp;Pleasant&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;49&nbsp;/&nbsp;16&nbsp;&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;<br>Y70&nbsp;:&nbsp;&nbsp;Ionia&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;46&nbsp;/&nbsp;16&nbsp;&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;<br>FPK&nbsp;:&nbsp;&nbsp;Charlotte&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;46&nbsp;/&nbsp;15&nbsp;&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;<br>LWA&nbsp;:&nbsp;&nbsp;South&nbsp;Haven&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;48&nbsp;/&nbsp;19&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>AMN&nbsp;:&nbsp;&nbsp;Alma&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;47&nbsp;/&nbsp;16&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>FFX&nbsp;:&nbsp;&nbsp;Fremont&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;44&nbsp;/&nbsp;17&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>TEW&nbsp;:&nbsp;&nbsp;Mason&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;47&nbsp;/&nbsp;20&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>.END&nbsp;<br>:&nbsp;<br>:&nbsp;Surrounding&nbsp;Automated&nbsp;Weather&nbsp;Observing&nbsp;System&nbsp;/AWOS/ASOS/&nbsp;Sites&nbsp;<br>:&nbsp;<br>CAD&nbsp;:&nbsp;Cadillac&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;39&nbsp;/&nbsp;7&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>OEB&nbsp;:&nbsp;Coldwater,&nbsp;MI&nbsp;AWOS&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;47&nbsp;/&nbsp;21&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>HAI&nbsp;:&nbsp;Three&nbsp;Rivers,&nbsp;MI&nbsp;AWOS:&nbsp;&nbsp;47&nbsp;/&nbsp;22&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>BEH&nbsp;:&nbsp;Benton&nbsp;Harbor&nbsp;ASOS&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;49&nbsp;/&nbsp;23&nbsp;&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>HTL&nbsp;:&nbsp;Houghton&nbsp;Lake&nbsp;ASOS&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;43&nbsp;/&nbsp;8&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>MBL&nbsp;:&nbsp;Manistee&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;47&nbsp;/&nbsp;16&nbsp;&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>IRS&nbsp;:&nbsp;Sturgis,&nbsp;MI&nbsp;AWOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;46&nbsp;/&nbsp;24&nbsp;&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>JYM&nbsp;:&nbsp;Hillsdale,&nbsp;MI&nbsp;AWOS&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;44&nbsp;/&nbsp;20&nbsp;&nbsp;/&nbsp;&nbsp;0.00/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>T&nbsp;=&nbsp;Trace&nbsp;<br>M&nbsp;=&nbsp;Missing&nbsp;<br>&nbsp;<br>The&nbsp;temperature&nbsp;data&nbsp;for&nbsp;AWOS&nbsp;sites&nbsp;represents&nbsp;the&nbsp;highest&nbsp;and&nbsp;<br>lowest&nbsp;temperatures&nbsp;that&nbsp;were&nbsp;reported&nbsp;on&nbsp;the&nbsp;metar&nbsp;observations&nbsp;<br>that&nbsp;transmit&nbsp;three&nbsp;times&nbsp;an&nbsp;hour&nbsp;and&nbsp;may&nbsp;not&nbsp;represent&nbsp;the&nbsp;actual&nbsp;<br>high&nbsp;or&nbsp;low&nbsp;for&nbsp;that&nbsp;site.&nbsp;&nbsp;Some&nbsp;sites&nbsp;do&nbsp;not&nbsp;measure&nbsp;precipitation.&nbsp;<br>:............................................................&nbsp;<br>&nbsp;<br>Soil&nbsp;temperatures&nbsp;taken&nbsp;under&nbsp;grass&nbsp;covered&nbsp;soil&nbsp;at&nbsp;7PM&nbsp;EST/8PM&nbsp;EDT&nbsp;<br>:............................................................&nbsp;<br>:&nbsp;&nbsp;&nbsp;&nbsp;Station&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soil&nbsp;Temperature&nbsp;(degrees&nbsp;F)&nbsp;<br>:............................................................&nbsp;<br>:&nbsp;<br>NWS&nbsp;Grand&nbsp;Rapids:&nbsp;&nbsp;2&nbsp;in:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;30&nbsp;&nbsp;<br>NWS&nbsp;Grand&nbsp;Rapids:&nbsp;&nbsp;4&nbsp;in:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;30&nbsp;&nbsp;<br>NWS&nbsp;Grand&nbsp;Rapids:&nbsp;&nbsp;8&nbsp;in:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;30&nbsp;&nbsp;<br>NWS&nbsp;Grand&nbsp;Rapids:&nbsp;20&nbsp;in:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;32&nbsp;&nbsp;<br>NWS&nbsp;Grand&nbsp;Rapids:&nbsp;40&nbsp;in:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;38&nbsp;&nbsp;<br>NWS&nbsp;Grand&nbsp;Rapids:&nbsp;60&nbsp;in:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;36&nbsp;&nbsp;<br>:............................................................&nbsp;<br>These&nbsp;data&nbsp;are&nbsp;preliminary&nbsp;and&nbsp;have&nbsp;not&nbsp;undergone&nbsp;final&nbsp;quality&nbsp;<br>control&nbsp;by&nbsp;the&nbsp;National&nbsp;Centers&nbsp;For&nbsp;Environmental&nbsp;Information&nbsp;/NCEI/.&nbsp;<br>Therefore...&nbsp;these&nbsp;data&nbsp;are&nbsp;subject&nbsp;to&nbsp;revision.&nbsp;&nbsp;Final&nbsp;and&nbsp;certified&nbsp;<br>climate&nbsp;data&nbsp;can&nbsp;be&nbsp;accessed&nbsp;at&nbsp;www.ncdc.noaa.gov.&nbsp;<br>&nbsp;<br>$$&nbsp;<br>&nbsp;<br>
+       
+      </td>
+   </tr>
+</table>
+
+
+
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

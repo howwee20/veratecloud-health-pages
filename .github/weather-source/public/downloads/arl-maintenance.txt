@@ -1,0 +1,252 @@
+============================================================================== 
+Station Notes - Arlene (Dutchman Tree Farms) 
+ 
+ 
+07/14/2021: Logger Maintenance:                                         [1103] 
+ 
+            - loaded logger program: arl-bbcdC.cr1* 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+06/10/2021: Logger / Station Maintenance:                               [1130] 
+ 
+            - routine site maintenance  
+            - updated modem 
+ 
+ 
+ 
+============================================================================== 
+12/14/2020: Logger / Station Maintnenace:                               [1200] 
+ 
+            - loaded logger program: arl-bbcdC.cr1   (237 -> LWS-L) 
+            - cleaned-up previously collected data 
+ 
+ 
+06/17/2020: Station Maintenance:                                        [1205] 
+ 
+            - routine station maintenance 
+            - installed new leaf wetness mount 
+ 
+ 
+ 
+============================================================================== 
+12/20/2019: Logger / Station Maintenance:                               [1040] 
+ 
+            - replaced leaf wetness (237 -> LWS-L)   [no canopy] 
+            - requires logger program change 
+ 
+ 
+07/10/2019: Logger / Station Maintenance:                               [1400] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: arl-bbcaC 
+ 
+ 
+ 
+============================================================================== 
+11/17/2018: Logger Maintenance:                                         [1250] 
+ 
+            - replaced faulty logger battery 
+ 
+ 
+08/23/2018: Station Maintenance:                                        [1250] 
+ 
+            - routine station / site maintenance 
+ 
+ 
+07/06/2018: Station Maintenance:                                        [1800] 
+ 
+            - annual station / site maintenance, including: 
+               - repair of soil moisture sensor (mstr1) 
+ 
+ 
+ 
+============================================================================== 
+12/20/2017: Logger Maintenance:                                         [1801] 
+ 
+            - logger logger program "arl-bbcaC" 
+ 
+ 
+12/19/2017: Station Maintenance:                                        [1300] 
+ 
+            - replaced ATMP/RELH sensor (HMP45C -> HMP155A) 
+ 
+ 
+10/20/2017: Logger Maintenance:                                         [1401] 
+ 
+            - loaded logger program "arl-bbaaC-20171009" 
+               - NOTE: temporary fix 
+ 
+ 
+10/17/2017: Logger Maintenance:                                         [0009] 
+ 
+            - loaded logger program "arl-bbaC" 
+               - NOTE: broke ATMP/RELH... need to recheck wiring 
+ 
+ 
+08/11/2017: Station Maintenance:                                        [1400] 
+ 
+            - annual maintenance  
+ 
+ 
+06/02/2017: Station Maintenance:                                        [1045] 
+ 
+            - annual maintenance 
+ 
+ 
+ 
+============================================================================== 
+05/10/2016: Station Maintenance:                                        [????] 
+ 
+            - annual maintenance and weed removal  
+ 
+ 
+01/28/2016: System Maintenance:                                         [1400] 
+ 
+            - replaced faulty RH sensor (HMP-45C) 
+ 
+ 
+ 
+============================================================================== 
+10/08/2014: System Maintenance:                                         [1205] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbaaC-arl" 
+ 
+ 
+05/19/2014: Station Maintenance:                                        [1320] 
+ 
+            - Disconnected faulty canopy temperature sensors 
+ 
+ 
+ 
+============================================================================== 
+11/08/2013: Station Maintenance:                                        [1145] 
+ 
+            - Replaced wireless modem 
+            - Replaced loggery battery 
+  
+ 
+08/14/2013: Station Maintenance:                                        [1130] 
+ 
+            - Replaced anemometer (wind speed) 
+ 
+ 
+ 
+============================================================================== 
+04/26/2012: Station Maintenance:                                        [0004] 
+ 
+            - Loaded updated Logger Program BBAA-ARL.  Logger now 
+              set to collect on a 30-minute cycle from Apr - Sep. 
+ 
+ 
+ 
+============================================================================== 
+12/13/2009: Station Maintenance:                                        [1215] 
+ 
+            - Battery was replaced. 
+ 
+ 
+ 
+09/26/2009: Station Maintenance:                                        [1030] 
+ 
+            - Wireless modem was replaced to correct recent communication 
+              failure. 
+ 
+ 
+ 
+02/15/2009: Program Change: 
+ 
+            - Updated MAWN program loaded on Arlene datalogger.  This 
+              was done to reflect additional sensors that have been  
+              installed on that station: 
+ 
+               - mean hourly duff layer temp  (ctmp00ft) 
+               - mean hourly 2-ft height temp (ctmp02ft) 
+ 
+               - daily minimum duff layer temp              (ctmp00ft_min) 
+               - time 'daily min duff layer temp' occurred  (ctmp00ft_mint) 
+               - daily maximum duff layer temp              (ctmp00ft_max) 
+               - time 'daily max duff layer temp' occurred  (ctmp00ft_maxt) 
+ 
+               - daily minimum 2-ft height temp             (ctmp02ft_min) 
+               - time 'daily min 2-ft height temp' occurred (ctmp02ft_mint) 
+               - daily maximum 2-ft height temp             (ctmp02ft_max) 
+               - time 'daily max 2-ft height temp' occurred (ctmp02ft_maxt) 
+ 
+ 
+ 
+ 
+============================================================================== 
+08/18/2008: Data Correction: 
+ 
+            - Wind direction data reported during the following 
+              time period was corrected: 
+ 
+                 12/04/07 (d=338) 00:05  -  08/15/08 (d=228) 00:07 
+ 
+ 
+ 
+08/15/2008: Station Maintenance: 
+ 
+            - MAWN Program (BBC-ARL) was loaded at 00:07.  New  
+              program corrects multiplier used to calculate wind 
+              direction. 
+ 
+ 
+ 
+03/17/2008: Station Maintenance: 
+ 
+            - Recent power supply troubles has led to some data 
+              loss and faulty data entries.   Data from the following 
+              time period was either missing or removed: 
+ 
+                 03/14/08 (day=74) 1400 - 03/16/08 (day=76) 2400 
+ 
+              Power supply was replaced over the weekend. 
+ 
+ 
+ 
+ 
+============================================================================== 
+12/28/2007: Station Online: 
+ 
+            - Station added to MAWN web site. 
+ 
+ 
+ 
+12/04/2007: Data Collection Enabled: 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                 First data report:   Dec 04, 2007 - 00:05 (Day=338) 
+ 
+ 
+ 
+12/03/2007: Station Maintenance: 
+ 
+            - Established telecommunication between station cell-modem and 
+              data collection PC/server on campus.    
+ 
+            - Loaded MAWN Program:  MAWN_BBC 
+                                                   B => CR1000 
+                                                   B => CS616  
+                                                   C => Broadband Cell Modem (IP) 
+                                        
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+Fall 2007: New Station Installed (sm): 
+ 
+             Notes: 
+                  
+ 
+             Additional Station Needs: 
+ 
+ 
+============================================================================== 
+

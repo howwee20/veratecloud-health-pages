@@ -1,0 +1,180 @@
+============================================================================== 
+Station Notes - Hastings (Pierce Cedar Creek Institute) 
+ 
+ 
+06/01/2021: Station / Logger Maintenance:                               [1500] 
+ 
+            - routine site maintenance  
+            - battery upgrade 
+ 
+ 
+05/01/2021: Station Maintenance:                                        [1130] 
+  
+            - replaced faulty soil temp (5-cm) [soil0]  
+            - replaced soil temp (10-cm) [soil1] sensor 
+            - replaced cell modem 
+ 
+ 
+ 
+============================================================================== 
+07/03/2019: Logger / Station Maintenance:                               [1520] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: pcc-bbab 
+ 
+ 
+03/26/2019: Logger Maintenance:                                         [1225] 
+ 
+            - resolved logger / communication issues 
+ 
+ 
+03/21/2019: Station Maintenance:                                        [1130] 
+ 
+            - repaired tipping-bucket rain gauge 
+ 
+ 
+ 
+============================================================================== 
+07/27/2018: Station Maintenance:                                        [1320] 
+ 
+            - annual station / site maintenance  
+ 
+ 
+05/24/2018: Station Maintenance:                                        [----] 
+ 
+            - annual station / site maintenance  
+ 
+ 
+ 
+============================================================================== 
+07/24/2017: Station Maintenance:                                        [1400] 
+ 
+            - annual maintenance, including: 
+               - wind vane calibration 
+ 
+ 
+06/14/2017: Station Maintenance:                                        [0005] 
+ 
+            - loaded logger program "pcc-bbaa" 
+ 
+ 
+05/30/2017: Station Maintenance:                                        [1745] 
+ 
+            - annual maintenance, including: 
+               - rewired air temp/relh (HMP45C) to "continuous" power 
+ 
+ 
+ 
+============================================================================== 
+08/03/2016: Station Maintenance:                                        [1300] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+ 
+============================================================================== 
+06/19/2015: Station Maintenance:                                        [1135] 
+ 
+            - routine station maintenance, including: 
+               - cleaned leaf wetness sensors 
+               - cleaned tipping-bucket rain gauge 
+               - weed removal 
+ 
+ 
+ 
+============================================================================== 
+10/10/2014: System Maintenance:                                         [1404] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbaa-tpd" 
+ 
+ 
+05/08/2014: Station Maintenance:                                        [1530] 
+ 
+            - Routine maintenance  
+            - cleaned temp/rh sensor 
+ 
+ 
+ 
+============================================================================== 
+06/21/2013: Station Maintenance:                                        [1300] 
+ 
+            - Replaced Soil Temp Sensors (2", 4") 
+            - Replaced Air Temp/RH Sensor 
+            - Cleaned Leaf Wetness Sensors 
+ 
+   
+06/06/2013: Station Maintenance:                                        [1435] 
+ 
+            - General station maintenance and system checks, including: 
+              - Reinstallation of Soil Temp Probes. 
+              - Soil Temp 1 (4") still has some issues and needs additional 
+                repair or replacement. 
+ 
+ 
+ 
+============================================================================== 
+06/07/2012: Station Maintenance:                                        [1400] 
+ 
+            - Replaced Modem 
+ 
+ 
+ 
+============================================================================== 
+06/02/2009: Station Maintenance:                                        [1700] 
+ 
+            - General station maintenance and system checks, including: 
+              - Tipping-bucket rain gauge test (faulty pcpn data 
+                that was introduced was removed on 06/10/09) 
+ 
+ 
+ 
+ 
+============================================================================== 
+10/20/2008: Data Cleanup: 
+ 
+            - Faulty 4" soil temperature sensor was replaced at 
+              noon on Oct 09, 2008 (d=283).  It appears that the 
+              sensor sstarted to fail at noon on Sep 08, 2008  
+              (d=252).   
+                
+              All 4" soil temperature during the following time 
+              period was marked as "missing": 
+ 
+                  09/08/08 (d=252) 12:00 - 10/09/08 (d=283) 13:00 
+ 
+ 
+ 
+08/29/2008: Station Online: 
+ 
+            - Station added to MAWN web site. 
+ 
+ 
+ 
+08/06/2008: Data Collection Enabled: 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                 First data report:   Aug 07, 2008 - 00:05 (Day=220) 
+ 
+ 
+ 
+08/06/2008: Station Maintenance: 
+ 
+            - Established telecommunication between station cell-modem and 
+              data collection PC/server on campus.    
+ 
+            - Loaded MAWN Program:   BBC-PCC 
+                                         B => CR1000 
+                                         B => CS616  
+                                         C => Broadband Cell Modem (IP) 
+                                       PCC => Station ID (Hastings) 
+                                    
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

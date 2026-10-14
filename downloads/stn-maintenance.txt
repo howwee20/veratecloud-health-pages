@@ -1,0 +1,187 @@
+=============================================================================== 
+Station Notes - Standale / Walker (MI) 
+ 
+ 
+06/11/2019: Logger Maintenance:                                          [1035] 
+ 
+            - replaced logger (CR1000 -> CR1000 / PakBus change) 
+            - loaded logger program: stn-bbcb 
+ 
+ 
+06/07/2019: Logger Maintenance:                                          [0033] 
+ 
+            - loaded logger program: stn-bbcb 
+ 
+ 
+06/06/2019: Logger Maintenance:                                          [1320] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: stn-bbcb 
+ 
+ 
+ 
+=============================================================================== 
+09/21/2018: Logger Maintenance:                                          [1203] 
+ 
+            - loaded new logger program "stn-bbcb" 
+ 
+ 
+09/20/2018: Station Maintenance:                                         [1520] 
+ 
+            - sensor maintenance: 
+               - replaced atmp/relh (HMP45C -> HMP155A) 
+ 
+ 
+08/30/2018: Station Maintenance:                                         [1620] 
+ 
+            - sensor maintenance: 
+               - replaced faulty standard leaf wetness sensor (lws0) 
+               - replaced faulty HMP46C (atmp/relh) sensor 
+ 
+ 
+08/27/2018: Logger Maintenance:                                          [1437] 
+ 
+            - reloaded logger program "stn-bbab" 
+               - hourly data table was not reporting prior to program load 
+ 
+ 
+07/26/2018: Station Maintenance:                                         [1545] 
+ 
+            - annual maintenance 
+ 
+ 
+06/11/2018: Station Maintenance:                                         [1410] 
+ 
+            - annual maintenance, including: 
+               - replacement of canopy leaf wetness sensor (lws1) 
+               - replacement of 2" soil temperature sensor (soil0) 
+ 
+ 
+  
+=============================================================================== 
+12/12/2017: Station Maintenance:                                         [1120] 
+ 
+            - replaced faulty logger battery (35 amp battery installed) 
+ 
+ 
+07/19/2017: Station Maintnenace:                                         [1245] 
+ 
+            - annual maintenance  
+ 
+ 
+05/31/2017: Station Maintenance:                                         [1830] 
+ 
+            - annual maintenance 
+ 
+ 
+04/24/2017: Station Maintenance:                                         [1545] 
+ 
+            - repaired/reinstalled AIR TEMP/RELH sensor (HMP45C) 
+ 
+ 
+04/19/2017: Station Maintenance:                                         [1605] 
+ 
+            - loaded logger program "stn-bbab" 
+ 
+ 
+04/18/2017: Station Maintenance:                                         [1245] 
+ 
+            - replaced air temp/relh sensor (HMP155A -> HMP45C) 
+              - sensor now connected to "continuous" power 
+ 
+ 
+ 
+=============================================================================== 
+11/03/2016: Station Maintenance:                                         [1245] 
+  
+            - Replaced ATMP/RELH sensor (HC2S3 -> HMP155A) 
+            - Loaded new logger program (bel-bbcb) 
+ 
+ 
+05/16/2016: Station Maintenance:                                         [1130] 
+     
+            - replaced air temp/relative humidity sensor 
+ 
+ 
+04/27/2016: Station Maintenance:                                         [1230] 
+ 
+            - replaced soil moisture A (0-12") sensor 
+ 
+ 
+ 
+=============================================================================== 
+05/18/2015: Data cleanup:                                                [1620] 
+ 
+            - no explanation for it, but RH data was faulty for nearly a 
+              three day period.  All RH data was marked as MISSING for the 
+              following: 
+  
+                 05/09/2015 (d=129) 0615 - 05/11/2015 (d=131) 2240 
+ 
+ 
+05/12/2015: Station Maintenance:                                         [????] 
+ 
+            - did not replace AIR TEMP/RH sensor, but did adjust 
+              mounting and removed electrical tape that was attached. 
+            - checked and tightened all wire connections 
+            - weed removal 
+ 
+ 
+04/20/2015: Station Maintenance:                                         [1215] 
+ 
+            - Corrected loose communication cable 
+            - Corrected leaf wetness sensors: 
+              - corrected faulty wiring 
+              - reinstalled sensors in proper orientation 
+              - leaf A installed on tripod 
+              - leaf B installed on tripod (not in canopy at this time) 
+ 
+              - NOTE: all leaf wetness prior to the following should be 
+                      ignored: 
+ 
+                         04/20/2014 (d=110) 1400 
+ 
+            - added estimated MAX/MIN Air Temps for 04/17/2015 
+ 
+ 
+ 
+=============================================================================== 
+10/29/2014: Station Online:                                              [1230] 
+ 
+            - Station added to Enviroweather/MAWN Web Site 
+ 
+ 
+10/23/2014: Data Collection Enabled                                      [1600] 
+ 
+             - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   October 23, 2014 (Day=296) 0005 
+ 
+ 
+10/22/2014: Station Installed:                                           [1700] 
+ 
+             - Station installed at station field site 
+ 
+ 
+10/20/2014: Station Maintenance:                                         [1630] 
+ 
+             - Established telecommunication between station cell-modem  
+               and data-collection PC/server on campus.    
+ 
+ 
+10/20/2014: Station Setup                                                [1630] 
+ 
+             - Loaded MAWN Program:   BBBB-STN 
+                                          B => CR1000/MI (Logger/State) 
+                                          B => CS616 (Soil Moisture) 
+                                          B => HC2S3 (Temp/RH) 
+                                          B => LWS-L (Leaf Wetness) 
+                                        STN => Station ID (Standale)                                 
+ 
+             - Now able to collect raw weather data. 
+ 
+ 
+ 
+=============================================================================== 
+

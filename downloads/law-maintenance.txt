@@ -1,0 +1,342 @@
+============================================================================== 
+Station Notes - Lawton 
+ 
+ 
+12/05/2022: Logger Maintenance:                                         [1245] 
+ 
+            - loaded logger program "law-bssb.cr6"* 
+ 
+               * station was alive, but no logger program was  
+                 loaded or running. 
+ 
+ 
+11/29/2022: Station / Logger Maintenance                                [ ] 
+ 
+            - power issues resolved: 
+               - site host replaced battery 
+ 
+ 
+07/22/2022: Station Maintenance:                                        [1145] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearing are good) 
+               - checked pyranometer (good condition / level) 
+               - checked soil sensor cables (good) 
+               - checked wind vane (properly aligned) 
+               - checked / tested tipping-bucket rain gauge 
+               - cleaned battery box (sprayed with peppermint spray) 
+               - cleaned grounding rod (sprayed with contact cleaner) 
+               - cleaned radiation shield (HygroVue10)  
+               - cleaned relative humidity sensor (HygroVue10) 
+               - cleaned / checked solar panel (good: 19.95V) 
+               - replaced battery cables 
+               - tested leaf wetness (good)* 
+               - weed removal not needed (site well-maintained by host) 
+ 
+               * site has a standard and a canopy sensor 
+ 
+ 
+06/07/2022: Station / Logger Maintenance                                [1300] 
+ 
+            - additional power issues resolved: 
+               - spare battery installed 
+ 
+ 
+05/20/2022: Station / Logger Maintenance                                [1240] 
+ 
+            - power issues resolved: 
+               - replaced battery connections 
+ 
+ 
+05/20/2022: Logger Maintenance:                                         [1105] 
+ 
+            - loaded logger program: law-bssb.cr6*  
+                 - both standard and canopy leaf wetness sensors 
+                 * supports "maintenance mode" 
+ 
+ 
+05/19/2022: Station / Logger Maintenence                                [1635] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer / wind vane (good) 
+               - checked, cleaned, and leveled tipping-bucket rain gauge 
+               - checked pyranometer (good) 
+               - cleaned HygroVue (atmp/relh) 
+               - cleaned solar panel 
+               - cleaned and tested leaf wetness (standard mount) 
+               - cleaned and tested leaf wetness (canopy mount) 
+               - cleaned battery box 
+               - weed removal / trimmed grass 
+ 
+ 
+ 
+============================================================================== 
+10/41/2021: Station Maintenance:                                        [1520] 
+ 
+            - replaced faulty leaf wetness sensor (standard sensor) 
+ 
+ 
+06/24/2021: Station Maintenance:                                        [1040] 
+ 
+            - routine site maintenance  
+ 
+ 
+05/05/2021: Station Maintenance:                                        [1135] 
+ 
+            - routine station maintenance 
+            - reinstalled canopy leaf wetness sensor  
+ 
+ 
+ 
+============================================================================== 
+05/26/2020: Station Maintenance:                                        [1325] 
+ 
+            - routine station maintenance 
+            - installed new leaf wetness mount 
+ 
+ 
+01/21/2020: Logger Maintenance:                                         [1145] 
+ 
+            - troubleshoot power / logger issues 
+  
+ 
+ 
+============================================================================== 
+11/22/2019: Station Maintenance:                                        [1430] 
+ 
+            - repaired faulty canopy leaf wetness sensor 
+ 
+ 
+11/22/2019: Logger Maintenance:                                         [0001] 
+ 
+            - loaded logger program: law-bssb  
+ 
+ 
+08/29/2019: Logger Maintenance:                                         [0005] 
+ 
+            - loaded logger program: law-bssd [no canopy] 
+ 
+ 
+08/26/2019: Logger Maintenance:                                         [0005] 
+ 
+            - replaced logger (CR1000 -> CR6) 
+            - logger program: template-bssd 
+ 
+ 
+08/12/2019: Station Maintenance:                                        [----] 
+ 
+            - installed new CR6 station to replace CR1000  
+            - added PakBus modem 
+ 
+============================================================================== 
+07/18/2018: Station Maintenance:                                        [1450] 
+ 
+            - annual maintenance / site maintenance, including: 
+               - replacement of faulty soil temp (5cm) sensor 
+ 
+ 
+05/24/2018: Station Maintenance:                                        [1430] 
+ 
+            - annual station / site maintenance  
+ 
+ 
+ 
+============================================================================== 
+09/12/2017: Station Maintenance:                                        [1500] 
+ 
+            - repaired faulty RELH 
+ 
+ 
+07/19/2017: Station Maintenance:                                        [----] 
+ 
+            - faulty modem replaced 
+ 
+ 
+07/13/2017: Station Maintenacne:                                        [1040] 
+ 
+            - annual maintenance  
+ 
+ 
+05/23/2017: Station Maintenance:                                        [0005] 
+ 
+            - loaded logger program: law-bbcb 
+ 
+ 
+05/19/2017: Station Maintenance:                                        [0935] 
+ 
+            - annual maintenance, including: 
+               - rewire of atmp/relh (HMP155A) to "continuous" power 
+ 
+ 
+ 
+============================================================================== 
+10/04/2016: Station Maintenance:                                        [1700] 
+ 
+            - replaced Air Temp/Relative Humidity Sensor: 
+                 HC2S3 -> HMP155A 
+            - loaded new logger program: law-bbcb 
+ 
+ 
+08/09/2016: Station Maintenance:                                        [1135] 
+ 
+            - annual maintenance and weed removal 
+            - unglogged tipping-bucket rain gauge 
+ 
+ 
+ 
+============================================================================== 
+06/10/2015: Station Maintenance:                                        [????] 
+ 
+            - routine station maintenance, including:  
+              - replacement of pyranometer 
+              - replacement of soil temperature sensors 
+ 
+ 
+06/09/2015: Station Maintenance:                                        [1310] 
+ 
+            - routine station maintenance, including:  
+              - replacement of wind sentry 
+ 
+ 
+05/20/2015: Station Modernization:                                      [1100] 
+ 
+            - Station upgraded with new logger and serveral new sensors. 
+ 
+            - All new sensors.  Existing tripod was in good condition and  
+              was reused. 
+ 
+            - Due to upgrade, station was offline for the following: 
+  
+                 05/20/2015 (d=140) 1105 - 05/20/2015 (d=140) 1300 
+ 
+            - the "live" data updates were able to resume at: 
+ 
+                 05/21/2015 (d=141) 1430 
+ 
+ 
+ 
+============================================================================== 
+11/14/2014: System Maintenance:                                         [1305] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "mawn_abcf" 
+ 
+ 
+04/23/2014: Station Maintenance:                                        [1630] 
+ 
+            - Replaced wind vane (i.e. wind direction) 
+            - Corrected tipping-bucket rain gauge 
+ 
+ 
+ 
+============================================================================== 
+02/01/2013: Station Maintenance:                                        [1300] 
+ 
+            - Battery Replaced.   Battery issues led to loss of data. 
+ 
+ 
+      
+============================================================================== 
+06/21/2010: Station Maintenance:                                        [1030] 
+ 
+            - Routine maintence, including: 
+              - weed removal/Round-Up applied 
+              - sensors checked... all appeared to be ok 
+ 
+ 
+ 
+============================================================================== 
+07/13/2009: Station Maintenance:                                        [1200] 
+ 
+            - General station maintenance and system checks (no  
+              faulty data appears to have been introduced). 
+ 
+ 
+ 
+============================================================================== 
+06/06/2007: Data Management (jb): 
+ 
+            - It was determined that relative humidity values have been  
+              reporting incorrectly since July 01, 2006.   All relative 
+              humidty data between the following dates have been removed 
+              from the MAWN database for the Lawton station: 
+ 
+                 Jul 01, 2006 [00:00]  -  May 09, 2007 [12:10] 
+ 
+ 
+05/09/2007: Station Maintenance (sm, bn): 
+ 
+            - General station maintenance and system checks. 
+              - air temp/rh sensor replaced. 
+ 
+              - Work was done approx: 11:30 - 12:10 (Day=129) 
+ 
+ 
+ 
+============================================================================== 
+10/18/2006: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:   MAWN_ABCF (10:35) 
+ 
+ 
+09/07/2006: Station Maintenance: (jb): 
+ 
+            - Loaded MAWN Program:   ABCS (hourly voltage) 
+ 
+ 
+05/31/2006: Station Maintenance: (bn): 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+              - sensor placement checked 
+              - anemometer bearings checked 
+              - rain gauge checked for debris. 
+ 
+            - Work was done approx: 13:50 - 14:20 (Day=151) 
+ 
+ 
+04/07/2006: Station Online: 
+ 
+            - Station added to MAWN web site. 
+ 
+ 
+04/05/2006: Station Maintenance: (sm) 
+ 
+            - Cell phone modem maintenance (will hopefully correct 
+              connection failures): 
+ 
+              - Enabled "roaming" - accept connections from any carrier. 
+ 
+              - Disabled "chat" scripts 
+ 
+ 
+ 
+03/30/2006: Data Collection Enabled: 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                 First data report:   Mar 28, 2006 - 00:05   (Day=87) 
+ 
+ 
+03/29/2006: Station Maintenance: 
+ 
+            - Established telecommunication between station cell-modem and 
+              data collection PC/server on campus.   Now able to collect 
+              raw weather data. 
+ 
+ 
+03/07/2006: New Station Installed: 
+ 
+              Notes: 
+                  
+               - leaf wetness B (canopy) - still needs to be installed. 
+ 
+               - Data Logger Program Loaded:    MAWN_BBCS 
+ 
+ 
+              Additional Station Needs: 
+ 
+ 
+ 
+============================================================================== 
+

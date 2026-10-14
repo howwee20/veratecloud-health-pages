@@ -1,0 +1,82 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+   <link href="../../style.css" rel="stylesheet" type="text/css" media="all" />
+   <title>Michigan State Climatologist's Office: Main Semcog Page</title>
+</head>
+<body>
+<div id="header"><img src="../../images/mich_cli_wordmark.png" alt="Michigan State Climatologist's Office" title="Michigan State Climatologist's Office" width="520" height="49" /></div>
+<div id="container">
+	<div id="content_left">
+		<ul class="sidemenu">
+			<li><a href="../../index.html">Home</a></li>
+			<li><a href="../../about_us.html">About Us</a></li>
+			<li><a href="http://www.agweather.geo.msu.edu">MSU Ag Weather Office </a></li>
+			<li><a href="climate_maps.html">Michigan Climate Maps </a></li>
+			<li><a href="mainsem.html">SEMCOG Precip Data </a></li>
+			<li><a href="../../climate_mi/index.html">Climate Statistics: Normals & Statistics </a></li>
+		</ul>
+	</div>
+	<div id="page2_middle">
+	<h1>Semcog Precipitation Data</h1>
+
+<ul>
+<li>
+<a href="semtable.html">Table of Available
+Precipitation</a></li>
+
+<li>
+<a href="semlatlon.txt">Latitude/Longitude
+Coordinate File</a> as of 12/8/04</li>
+
+<li>
+<a href="maps/2003/actstn03.pdf">Map of 
+Stations</a> as of 6/1/04</li>
+
+<li>
+Station History File</li>
+</ul>
+
+<hr Size = "10" NOSHADE>
+<li>
+Annual Summaries -- The following documents and maps are available</li>
+
+<center>Click on year desired: <a href="maps/1998/1998.html">1998</a>,
+<a href="maps/1999/1999.html">1999</a>,
+<a href="maps/2000/2000.html">2000</a>,
+<a href="maps/2001/2001.html">2001</a>,
+<a href="maps/2002/2002.html">2002</a>,
+<a href="maps/2003/2003.html">2003</a></center>
+
+<ul>
+<li>
+Narrative Summary </li>
+
+<li>
+Annual Maps</li>
+
+<ol>
+<li>
+Selected year's annual totals</li>
+
+<li>
+Selected year's change from previous year</li>
+
+<li>
+Selected year's departure from median</li>
+
+<li>
+Selected year's calculated probabilities</li>
+</ol>
+
+<li>
+Monthly and Annual Precipitation Table&nbsp; </li>
+
+<li>
+Ranked Monthly and Annual Precipitation Table </li>
+</ul>
+</div></div>
+</body>
+</html>

@@ -1,0 +1,125 @@
+=============================================================================== 
+Station Notes - Grant (MI) 
+ 
+ 
+06/10/2022: Station Maintenance:                                         [1100] 
+ 
+           - routine site maintenance, including: 
+               - checked anemometer (fair... replace bearings next visit) 
+               - checked soil sensor cables (good) 
+               - checked / cleaned solar panel 
+               - checked / tested battery (good) 
+               - cleaned battery box 
+               - checked / tested leaf wetness [canopy] (good)+ 
+               - checked / tested leaf wetness [standard] (good) 
+               - cleaned / tested tipping-bucket rain gauge 
+               - replaced soil temperature [5cm] sensor 
+               - weed removal 
+ 
+               * canopy sensor is attached to tripod leg... not in actual canopy 
+ 
+ 
+ 
+=============================================================================== 
+07/14/2021: Station Maintenance:                                         [0955] 
+    
+            - routine site maintenance  
+ 
+ 
+06/04/2021: Station Maintenance:                                         [1005] 
+ 
+            - routine site maintenance 
+ 
+ 
+04/29/2021: Station Maintenance:                                         [1600] 
+ 
+            - replaced atmp/relh sensor (HMP155) 
+            - replaced modem 
+ 
+ 
+04/12/2021: Station Maintenance:                                         [1800] 
+ 
+            - rain gauge repair (removed obstruction) 
+ 
+ 
+=============================================================================== 
+05/29/2020: Station Maintenance:                                         [1505] 
+ 
+            - replaced atmp/relh sensor (HMP155)* 
+            - remounted leaf wetness (standard) 
+            - replaced leaf wetness (canopy) 
+ 
+            * may still be faulty 
+ 
+ 
+ 
+=============================================================================== 
+06/04/2019: Logger Maintenance:                                          [1210] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: grt-bbcb 
+ 
+ 
+ 
+=============================================================================== 
+08/02/2018: Station Maintenance:                                         [1115] 
+ 
+            - general maintenance / weed removal 
+ 
+ 
+06/07/2018: Station Maintenance:                                         [1420]  
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+=============================================================================== 
+08/07/2017: Station Maintenance:                                         [1125] 
+ 
+            - annual maintenance  
+ 
+ 
+06/06/2017: Station Maintenance:                                         [1430] 
+ 
+            - repaired "wind speed" and "precipitation" 
+ 
+ 
+05/31/2017: Station Online:                                              [xxxx] 
+     
+            - Station added to Enviroweather/MAWN database system 
+ 
+ 
+05/24/2017: Data Collection Enabled                                      [1400] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   May 25, 2017 (d=145) 00:05 
+ 
+ 
+05/24/2017: Station Installed:                                           [1300] 
+ 
+            - Station installed at station field site 
+ 
+ 
+05/16/2017: Station Maintenance:                                         [1500] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+05/16/2017: Station Setup                                                [1438] 
+ 
+            - Loaded MAWN Program: grt-bbcb 
+                                      grt => Station ID (Grant) 
+                                        b => CR1000/MI (Logger/State) 
+                                        b => CS616 (Soil Moisture) 
+                                        c => HMP155A (Temp/RH) 
+                                        b => LWS-L (Leaf Wetness) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+=============================================================================== 
+

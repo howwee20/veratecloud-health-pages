@@ -1,0 +1,45 @@
+=============================================================================== 
+Station Notes: Alpers / Redpath: Lake Leelanau, MI 
+=============================================================================== 
+ 
+??/??/2026: Station Online:                                              [????] 
+     
+            - Station added to Enviroweather/MAWN database system 
+          
+ 
+01/15/2026: Data Collection Enabled                                      [1355] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   January 16, 2026 (d=016) 00:05 
+ 
+ 
+01/15/2026: Logger Setup                                                 [1341] 
+ 
+            - Loaded Logger Program:  
+                 llu-bssd.2601.cr6 
+                    llu => Station ID (lakeleelanau) 
+                      b => MI (state network) 
+                      s => SDI-12 [CS655] (Soil Moisture) 
+                      s => SDI-12 [HygroVue10] (Temp/RH) 
+                      d => LWS-L (Leaf Wetness) [no canopy] 
+                   2601 => Jan 2026 (program template version) 
+                    cr6 => CR6 (logger / logger program type) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+01/07/2026: Station Maintenance:                                         [1445] 
+ 
+            - Established telecommunication between station cell-modem 
+              and data-collection PC/server on campus. 
+ 
+ 
+11/19/2025: Station Setup                                                [----] 
+ 
+            - station setup / activated at field site 
+ 
+ 
+ 
+=============================================================================== 
+

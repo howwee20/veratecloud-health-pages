@@ -1,0 +1,227 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:34
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+<table><tr><td align="left">
+
+
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>2000 Growing Season Weather Summary</STRONG></P>
+
+<P><FONT SIZE="-1"The 2000 growing season will be best characterized as a season of weather contrasts, both in
+terms of temperature and of precipitation.  Lack of moisture was a major concern early in the
+season following a prolonged period of below normal precipitation over much of the state since
+the fall of 1998. By climatological standards, a drier than normal pattern this long is extremely
+unusual in Michigan and at least temporarily reversed a long term regional trend of increasing
+precipitation (since the 1930's). As a result, soil moisture reserves across the state in April were
+at their lowest levels since the spring of 1988 and surface/subsurface water levels had fallen well
+below historical normals (e.g. Great Lakes levels fell to the lowest levels since 1965).  The state
+was on the northern fringes of a broad area of abnormal dryness stretching from the central Great
+Plains eastward into the Ohio Valley.  In addition to the dry conditions, the early spring season
+was abnormally mild (among the 5 warmest February/March periods of the past century),
+bringing overwintering crops out of dormancy early and warming soils enough to support early
+spring planting.</FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">With abnormally dry soils across large sections of the central U.S. and moderate to strong La
+Nina conditions in the equatorial Pacific, long lead outlooks at the time called for a warmer and
+drier than normal summer.  Unexpectedly, an upper air troughing pattern set up across the Upper
+Midwest in May and persisted for several weeks.  This pattern brought a series of low pressure
+centers and associated frontal boundaries through the region which led to several rounds of heavy
+rain.  Rainfall totals across Michigan for the month of May alone ranged from less than 3 inches
+in northern sections of the state to more than 8 inches (more than 200 percent of normal rates) at
+some southern locations. The precipitation eased long term dryness but led to lengthy planting
+and fieldwork delays. Some locations exceeded all-time records for maximum monthly
+precipitation totals.</FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">A shift of the jet stream to a more northwest to southeast configuration across the Great Lakes
+and New England in June led to a cooler than normal temperature pattern which continued into
+August.  Mean temperatures for July generally ranged from 1-5 degrees F below normal, leading
+to the coolest July and June-August period since the summer of 1992.  Scattered frost and
+freezing temperatures were reported across the Upper and northern Lower Peninsulas on the July
+19-20, breaking records at some locations for an event so late in the season.  By mid-summer,
+growing degree day accumulations had fallen back (from above normal levels earlier in the
+season) to below normal levels, slowing crop growth and development, especially in eastern
+sections of the state. </FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">A return to an upper air ridging pattern across the Midwest during late September and much of
+October brought warmer, drier weather, which when combined with a later than normal first
+killing freeze of the fall allowed many crops slowed by earlier cool temperatures to reach
+maturity.  Overall, for the 5-month May-September period, mean temperatures and growing
+degree day accumulations ranged from near to below normal statewide.  Precipitation was highly
+variable, ranging from below normal totals in northern sections of the state to much above
+normal levels in the south.</FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">Jeff Andresen,</FONT></P>
+
+<P><FONT SIZE="-1">Extension Agricultural Meteorologist</FONT></P>
+
+<P><FONT SIZE="-1">Michigan State University</FONT></P>
+</td></tr></table>
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+{
+  "southwest": {
+    "url": "https://mawn.geo.msu.edu/mawn-sw.html",
+    "image": "/media/region-southwest.jpg",
+    "stationIds": [
+      "alg",
+      "bbc",
+      "brs",
+      "cas",
+      "cnt",
+      "dow",
+      "fev",
+      "grj",
+      "hfd",
+      "kbs",
+      "klr",
+      "kzo",
+      "wmu",
+      "law",
+      "men",
+      "ost",
+      "pcc",
+      "scd",
+      "shv",
+      "swm",
+      "tpd"
+    ],
+    "retrievedAtUtc": "2026-10-14T00:42:41.272713+00:00",
+    "sha256": "9ba947feb1d0ec167aa51c63c84845c4a96dae8746f745f2d26a938d32f05b71"
+  },
+  "northwest": {
+    "url": "https://mawn.geo.msu.edu/mawn-nw.html",
+    "image": "/media/region-northwest.jpg",
+    "stationIds": [
+      "arl",
+      "bnz",
+      "clx",
+      "eld",
+      "elk",
+      "epr",
+      "kal",
+      "kwd",
+      "llu",
+      "mcb",
+      "ncm",
+      "nth",
+      "nwm",
+      "obl",
+      "old",
+      "omn",
+      "omp",
+      "pky",
+      "wld",
+      "wmt"
+    ],
+    "retrievedAtUtc": "2026-10-14T00:42:43.650990+00:00",
+    "sha256": "0606185ad592402706f3224a343d1f73bef6ff6b3aa42305e97135e9bfbf2052"
+  }
+}

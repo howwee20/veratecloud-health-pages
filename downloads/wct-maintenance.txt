@@ -1,0 +1,45 @@
+=============================================================================== 
+Station Notes: West Central Michigan Research & Education Center: Hart, MI 
+=============================================================================== 
+ 
+01/26/2026: Station Online:                                              [1655] 
+     
+            - Station added to Enviroweather/MAWN database system 
+          
+ 
+01/06/2026: Data Collection Enabled                                      [1300] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   January 07, 2026 (d=007) 00:05 
+ 
+ 
+01/05/2026: Station Maintenance:                                         [1405] 
+ 
+            - Established telecommunication between station cell-modem 
+              and data-collection PC/server on campus. 
+ 
+ 
+01/05/2026: Logger Setup                                                 [----] 
+ 
+            - Loaded Logger Program:  
+                 wct-bssdT.cr1x 
+                    wct => Station ID (hart10) 
+                      b => MI (state network) 
+                      s => SDI-12 [CS655] (Soil Moisture) 
+                      s => SDI-12 [HygroVue10] (Temp/RH) 
+                      d => LWS-L (Leaf Wetness) [no canopy] 
+                      T => Tower Station (extra sensors: 10m tower config) 
+                   cr1x => CR1000X (logger / logger program type) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+12/18/2025: Station Setup                                                [----] 
+ 
+            - station setup / activated at field site 
+ 
+ 
+ 
+=============================================================================== 
+

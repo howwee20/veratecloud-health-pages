@@ -1,0 +1,320 @@
+============================================================================== 
+Station Notes - Sandusky 
+ 
+ 
+05/10/2023: Station Maintenance:                                        [1125] 
+ 
+            - routine site maintenance, including: 
+               - checked battery (13.72 V) 
+               - checked leaf wetness sensor [standard] (good)* 
+               - checked soil sensor cables (good) 
+               - checked solar panel (19.56 V) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - cleaned solar panel 
+               - replaced atmp/relh sensor [1.5m]** 
+               - replaced atmp/relh sensor [3.0m] 
+ 
+               * no canopy sensor at this site 
+              ** faulty since 11/27/2022 
+ 
+ 
+ 
+============================================================================== 
+08/25/2022: Station Maintenance:                                        [1050] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (replaced bearings) 
+               - checked battery (good: 13.61V) 
+               - checked pyranometer (good condition / level) 
+               - checked soil sensor cables (good) 
+               - checked tipping-bucket rain gauge (level) 
+               - cleaned batter box 
+               - cleaned grounding rod (sprayed with contact cleaner) 
+               - cleaned radiation shield (hmp155a) 
+               - cleaned relative humidity sensor (hmp155a) 
+               - cleaned / checked solar panel (good: 18.88V) 
+               - tested leaf wetness [standard] (good)* 
+               - weed removal (site well-maintained by host) 
+ 
+               * site does not make use of a canopy leaf wetness sensor 
+ 
+ 
+05/10/2022: Station / Logger Maintenence                                [1010] 
+ 
+            - routine site maintenance, including: 
+               - cleaned all three HMP155 (atmp/relh [1.5m, 3.0m, 45cm]) 
+               - cleaned solar panels 
+               - cleaned / leveled tipping-bucket rain gauge 
+               - replaced battery (35Ahr) 
+               - cleaned / tested leaf wetness sensor 
+               - no weed removal needed (site is bare ground) 
+ 
+ 
+ 
+============================================================================== 
+12/08/2021: Logger Maintenance:                                         [1202] 
+ 
+            - loaded logger program: sdk-bbcdS.cr1*  
+                 - no canopy leaf wetness sensor        
+                 * supports "maintenance mode" 
+ 
+ 
+08/10/2021: Station Maintenance:                                        [1250] 
+ 
+            - routine site maintenance  
+ 
+ 
+07/02/2021: Logger / Station Maintenance:                               [1200] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - replaced wiring panel 
+            - replaced all soil temperature sensors (SOIL0, SOIL1) 
+            - replaced all soil moisture sensors (MSTR0, MSTR1) 
+ 
+ 
+06/08/2021: Logger/ Station Maintenance:                                [1420] 
+  
+            - routine site maintenance  
+            - updated wireless modem 
+ 
+ 
+ 
+============================================================================== 
+06/11/2020: Station Maintenance                                         [1540] 
+ 
+            - routine site maintenance  
+            - reinstalled "mstr1" soil moisture sensor (30-60cm) 
+ 
+ 
+04/30/2020: Station Maintenance                                         [0900] 
+ 
+            - reinstalled "soil0" (5cm) soil temperature sensor 
+            - corrected "soil1" (10cm) soil temperature sensor 
+ 
+ 
+ 
+============================================================================== 
+07/16/2019: Logger / Station Maintenance:                               [1105] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: sdk-bbcdS 
+ 
+ 
+06/14/2019: Station Maintenace:                                         [1420] 
+ 
+            - replaced soil moisture sensors (CS615 -> CS616) 
+ 
+ 
+03/29/2019: Logger Maintenance:                                         [1820] 
+ 
+            - replaced modem / serial cables 
+ 
+ 
+03/08/2019: Logger Maintenance:                                         [1200] 
+ 
+            - replaced faulty solid-state relay (which was causing 
+              communication issues) 
+ 
+ 
+03/06/2019: Station Maintenance:                                        [1200] 
+ 
+            - repair sensor mount used to soybean inversion study 
+ 
+ 
+01/04/2019: Station Maintenance:                                        [1600] 
+ 
+            - Soybean Inversion Study Upgrade, including: 
+                - logger upgrade (CR10X -> CR1000) 
+                - install new ATMP/RELH sensor @ 45cm 
+                - install new ATMP/RELH sensor @ 3m 
+                - replace leaf wetness sensors (237 -> LWS-L) 
+                - load new logger program "sdk-bbcdS" 
+  
+                * NOTE: soil moisture sensors still need to be replaced 
+ 
+ 
+ 
+============================================================================== 
+06/20/2018: Station Maintenance:                                        [1135] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+============================================================================== 
+08/16/2017: Station Maintenance:                                        [1000] 
+ 
+            - routine maintenance  
+ 
+ 
+06/21/2017: Station Maintenance:                                        [1115] 
+ 
+            - annual maintenance 
+ 
+ 
+01/25/2017: Station Maintenance:                                        [1150] 
+ 
+            - replaced logger battery 
+ 
+ 
+ 
+============================================================================== 
+06/21/2016: Station Maintenance:                                        [1105] 
+ 
+            - annual maintenance and weed removal 
+            - replaced 2" soil temperature sensor 
+            - replaced 4" soil temperature sensor 
+ 
+ 
+ 
+============================================================================== 
+02/25/2015: Station Maintenance:                                        [0003] 
+ 
+            - loaded logger program "mawn_aacf" (hourly collection cycle) 
+ 
+ 
+01/21/2015: System Maintenance:                                         [0003] 
+ 
+            - loaded logger program "mawn_aacw" 
+ 
+ 
+ 
+============================================================================== 
+11/19/2014: System Maintenance:                                         [1506] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "mawn_aacf" 
+ 
+ 
+09/09/2014: Station Maintenance:                                        [1015] 
+              
+            - obstruction removed from tipping bucket rain gauge. 
+            - due to blockage, there is no precipitation data for 
+              the following period: 
+  
+                 09/01/2014 (d=244) 0005 - 09/09/2014 (d=525) 1015 
+ 
+ 
+07/09/2014: Station Maintenance:                                        [1645] 
+ 
+            - routine maintenance, including: 
+              - cleaned air temp / rh sensor 
+              - cleaned solar radiation sensor 
+              - unclogged tipping-bucket rain gauge 
+ 
+ 
+           
+============================================================================== 
+08/15/2012: Station Maintenance:                                        [0920] 
+ 
+            - Rain gauge unplugged.   Due to blockage, precipiation  
+              data has been marked as "missing" for the following 
+              time period: 
+ 
+                 07/25/2012 (d=207) 00:05 - 08/15/2012 (d=229) 09:20 
+ 
+ 
+ 
+============================================================================== 
+07/27/2010: Station Maintenance:                                        [1500] 
+ 
+            - Routine maintence 
+ 
+ 
+ 
+============================================================================== 
+08/10/2008: Station Maintenance: 
+ 
+            - General station maintenance and system checks. 
+ 
+            - Work was done approx: 1145 - 1215 (Day=223) 
+ 
+ 
+08/13/2008: Database Modification: 
+ 
+            - Added hourly battery voltage (logging of the hourly 
+              voltage data actually started at 5:00pm on April 04, 
+              2008 (d=095). 
+ 
+ 
+04/04/2008: Station Maintenace (sm): 
+ 
+            - Installed wireless broadband modem.   This was done 
+              to correct recent troubles with old analog cell  
+              modem.                                               [16:00] 
+ 
+            - Established communication to wireless broadband  
+              modem using LoggerNet.                               [16:20] 
+ 
+            - Loaded MAWN Program:   AACF   (hourly schedule)      [16:20] 
+ 
+ 
+ 
+============================================================================== 
+05/13/2004: Station Maintenance (jaa): 
+ 
+            - Tipping Bucket Rain Gauge Repaired 
+ 
+ 
+04/21/2004: Telecommunication Trouble Corrected (crn, sm): 
+ 
+            - Faulty COM100 Cell Phone Modem Replaced.  Station 
+              returned to regular 6:35am/6:35pm data collection 
+              schedule. 
+ 
+ 
+04/13/2004: Telecommunication Trouble: 
+ 
+            - Currently unable to connect to cell modem installed 
+              at the Sandusky MAWN station.  Data will likely be 
+              unavailable until we are able to service the trouble (jtb). 
+ 
+ 
+01/12/2004: Station Online: 
+ 
+            - Data Collection and Data Archive for new station begins and 
+              now made available via the MAWN website: 
+ 
+                 First data report:   Jan 01, 2004 - 00:05   (Day=001) 
+ 
+ 
+01/08/2004: Communications Troubleshooting: 
+ 
+            - PC208W Communication software now properly configured 
+              thanks to suggestions provided by Campbell Scientific. 
+              The following modem string was needed to properly  
+              handshake with COM200 installed in the field: 
+ 
+                 &B1V1X3S7=60&M0&N2 
+ 
+ 
+01/02/2004: Cellular Package Troubleshooting: 
+ 
+            - Thumb Cellular replaced Motorola Transceiver and  
+              communication to/from station appears to be OK. 
+ 
+            - PC208W still needs to be configured 
+ 
+ 
+12/19/2003: New Station Installed: 
+ 
+               Notes: 
+                  
+               - station includes following communication package: 
+ 
+                 COM100 Cellular Phone Package 
+                 COM200 Data Modem 
+                 ASP962 Directional Antenna 
+  
+                 - leaf wetness B (canopy) - still needs to be installed. 
+ 
+                 - Data Logger Program Loaded:    MAWN?? 
+ 
+ 
+               Additional Station Needs: 
+ 
+ 
+ 
+============================================================================== 
+

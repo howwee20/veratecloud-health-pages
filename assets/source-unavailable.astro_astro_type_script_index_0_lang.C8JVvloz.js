@@ -1,0 +1,1 @@
+var e=new URLSearchParams(location.search).get(`source`);if(e)try{let t=new URL(e);[`mawn.geo.msu.edu`,`www.agweather.geo.msu.edu`,`climate.geo.msu.edu`].includes(t.hostname)&&(document.querySelector(`#source-address`).textContent=`Original archive reference: `+t.href)}catch{}

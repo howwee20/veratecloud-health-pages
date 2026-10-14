@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import {localHref} from '../lib/route';
+const {page}=Astro.props;
+const semMatch=page.source?.url.match(/\/semcog\/sem\/(maps|daily|hourly)\/(\d{4})\/(?:sem)?(\d{2})(\d{2})/);
+const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+const displayTitle=semMatch ? `SEMCOG ${semMatch[1]==='maps'?'precipitation map':semMatch[1]+' precipitation'} — ${months[Number(semMatch[4])-1]} ${semMatch[2]}` : page.title;
+const dailySource=semMatch ? `https://climate.geo.msu.edu/semcog/sem/daily/${semMatch[2]}/${semMatch[3]}${semMatch[4]}smry.txt` : '';
+const hourlySource=semMatch ? `https://climate.geo.msu.edu/semcog/sem/hourly/${semMatch[2]}/${semMatch[3]}${semMatch[4]}hrly.txt` : '';
+const issued=page.text?.slice(0,500).match(/\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})\s+(20\d{2})\b/i);
+const issuedDate=issued ? new Date(`${issued[1]} ${issued[2]}, ${issued[3]} 00:00:00 GMT`) : null;
+const stale=issuedDate && /(?:report|fcst)\.asp/.test(page.source?.url||'') && Date.now()-issuedDate.getTime()>3*86400000;
+const tempRows=page.source?.url.includes('fileid=mitemps') ? page.text.split('\n').map(l=>l.trim().split(/\s+/)).filter(t=>t.length===7 && /^[A-Z_]+$/.test(t[0]) && /^[*\d.-]+$/.test(t[1])) : [];
+const allTempMissing=tempRows.length>0 && tempRows.every(t=>t.slice(1).every(v=>/^\*+$/.test(v)));
+const markup=page.html.replace(/href="([^"]+)"/g,(_:string,href:string)=>`href="${localHref(href.replaceAll('&amp;','&')).replaceAll('&','&amp;')}"`);
+---
+<BaseLayout title={displayTitle} section={page.section} source={page.source?.url || 'unavailable'}>
+<article class="local-product"><h1>{displayTitle}</h1>
+<p><a href={page.section==='climate'?'/climate/':'/agricultural-weather/current/'}>{page.section==='climate'?'Climate Office':'Current Weather'}</a>{page.section!=='climate'&&<> · <a href="/agricultural-weather/forecasts/">Forecast Products</a></>}</p>
+{(page.source?.url.endsWith('/maxtemp.html') || page.source?.url.endsWith('/mintemp.html')) && <p><span>The publisher currently blocks this graphic. Related observations: <a href="/weather-network/">choose a weather station</a>, then open its daily maximum and minimum temperatures.</span></p>}
+{page.unavailable ? <p>This product is not available in the local capture. Other reports remain available from the indexes above.</p> : <>
+{semMatch?.[1]==='maps' && <p>Source observations for this map: <a href={localHref(dailySource)}>Daily precipitation table</a> · <a href={localHref(hourlySource)}>Hourly precipitation table</a>.</p>}
+{stale && <p><strong>Archived source product: {issued![0]}.</strong> This is not current weather.</p>}
+{allTempMissing && <p>The source currently supplies missing-value markers for every station in this temperature table. <a href="/weather-network/">Recent MAWN station observations</a> are available separately.</p>}
+{page.text && <pre class="report-text">{page.text}</pre>}
+{markup && <div set:html={markup}/>}
+{page.download && <p><a href={page.download}>Download saved source document</a></p>}
+</>}
+{page.source && <details class="source-details"><summary>Source and update time</summary><p>{page.source.url}</p><p>Saved {new Date(page.source.retrievedAtUtc).toLocaleString('en-US',{timeZone:'America/Detroit',dateStyle:'medium',timeStyle:'short'})} Eastern. Publication dates inside the product are supplied by its publisher.</p></details>}
+</article></BaseLayout>

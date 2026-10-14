@@ -1,0 +1,254 @@
+============================================================================== 
+Station Notes - Fairgrove 
+ 
+ 
+05/21/2019: Logger Maintenance:                                         [1330] 
+ 
+            - repaired logger / power issues    
+ 
+ 
+05/14/2019: Station Maintenance:                                        [1500] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - replaced anemometer (wind speed) 
+            - replaced wind vane (wind direction) 
+            - replaced soil sensors 
+            - upgraded atmp/relh (HMP45C -> HMP155A) 
+            - upgraded leaf wetness (237 -> LWS-L)   [no canopy] 
+            - loaded logger program: fgv-bbcd 
+ 
+ 
+01/15/2019: Logger Maintenance:                                         [1205] 
+ 
+            - data collection / logger issues: 
+               - reloaded logger program "fgv-bbaa" 
+ 
+ 
+ 
+============================================================================== 
+06/20/2018: Station Maintenance:                                        [1110] 
+  
+            - routine station / site maintenance  
+ 
+ 
+09/19/2018: Logger Maintenance:                                         [1301] 
+ 
+            - loaded new logger program "fgv-bbaa" 
+ 
+ 
+09/18/2018: Station Maintenance:                                        [1750] 
+ 
+            - replaced faulty datalogger (CR10X -> CR1000] 
+            - replaced faulty modem 
+ 
+ 
+09/14/2018: Station Maintenance:                                        [1200] 
+ 
+            - replaced faulty leaf wetness sensors (both) 
+            - replaced atmp/relh sensor (hmp45c) 
+            - reinstalled solar panel 
+ 
+ 
+04/12/2018: Station Maintenance:                                        [1430] 
+ 
+            - replaced faulty tipping-bucket rain gauge 
+ 
+ 
+ 
+============================================================================== 
+10/06/2017: Station Maintenance:                                        [1845] 
+ 
+            - power system repair  
+ 
+ 
+08/15/2017: Station Maintenance:                                        [1445] 
+ 
+            - annual maintenance, including: 
+               - tipping-bucket rain gauge repair (obstruction) 
+ 
+ 
+06/21/2017: Station Maintenance:                                        [1635] 
+ 
+            - annual maintenance 
+ 
+ 
+01/25/2017: Station Maintenance:                                        [1055] 
+ 
+            - replaced logger battery 
+ 
+ 
+ 
+============================================================================== 
+12/16/2016: Station Maintenance:                                        [1245] 
+ 
+            - replaced logger battery 
+            - cleared snow/ice from solar panel 
+ 
+ 
+06/14/2016: Station Maintenance:                                        [1125] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+ 
+============================================================================== 
+11/14/2014: System Maintenance:                                         [1207] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "mawn_abcf" 
+ 
+ 
+06/12/2014: Station Maintenance:                                        [1400] 
+ 
+            - Cleaned solar panel 
+            - Tightened battery connections 
+ 
+ 
+05/27/2014: Station Maintenance:                                        [1745] 
+ 
+            - replace battery 
+            - performed annual routine maintenance 
+ 
+ 
+04/25/2014: Station Maintenance:                                        [1600] 
+ 
+            - Battery / power issues due to corroded battery wire. 
+ 
+ 
+ 
+============================================================================== 
+07/30/2013: Data Quality:                                               [1445] 
+ 
+            - Due to recent sensor problems, wind data marked as  
+              "missing" for the following time period: 
+ 
+                 04/17/2013 (d=107) 0005 - 07/01/2013 (d=182) 1700 
+ 
+ 
+07/01/2013: Station Maintenance:                                        [1700] 
+ 
+            - Logger maintenance / communication correction 
+              - replaced logger 
+              - repalced wind sentry 
+ 
+ 
+04/19/2013: Station Maintenance:                                        [1200] 
+ 
+            - Logger Replaced 
+            - Original Logger Program: ABCF (hourly schedule) loaded 
+            - Due to logger failure, data was lost for the following: 
+       
+                 04/17/2013 (d=107) 0005 - 04/19/2013 (d=109) 1200 
+ 
+ 
+01/09/2013: Station Maintenance:                                        [1245] 
+        
+            - Logger Replaced 
+            - Reloaded Logger Program: ABCF (hourly schedule) 
+ 
+ 
+ 
+============================================================================== 
+12/16/2012: Station Maintenance:                                        [1400] 
+ 
+            - Battery Replaced 
+              
+            - Data lost or removed for following several periods between 
+              12/10/2012 - 12/26/2012 due to battery issues. 
+ 
+             
+ 
+============================================================================== 
+10/29/2008: Station Maintenance: 
+ 
+            - Loaded MAWN Program - ABCF (60-minute power cycle) [0001] 
+ 
+ 
+08/20/2008: Station Maintenance: 
+ 
+            - Field Technecians made a site-visit to troubleshoot 
+              wireless communication trouble.  As of 14:30 (d=233), 
+              station back online. 
+ 
+ 
+08/13/2008: Database Modification: 
+ 
+            - Added hourly battery voltage (logging of the hourly 
+              voltage data actually started at 1:00am on June 15, 
+              2008 (d=167). 
+ 
+ 
+08/08/2008: Station Maintenance: 
+ 
+            - General station maintenance and system checks, including: 
+              - Convert to wireless broadband (cell-ip) 
+              - Soil Moisture sensors now installed vertically: 
+                - MSTR 0:  profile of depth =  0 - 12" 
+                - MSTR 1:  profile of depth = 12 - 24" 
+ 
+            - Work was done approx: 1200 - 1300 (Day=221) 
+ 
+ 
+ 
+============================================================================== 
+05/08/2007: Station Maintenance (sm, bn): 
+ 
+            - General station maintenance and system checks. 
+              - solar radiation sensor was cleaned. 
+ 
+              - Work was done approx: ??.?? - ??.?? (Day=128) 
+ 
+ 
+ 
+============================================================================== 
+10/05/2006: Station Maintenance: (bn): 
+ 
+            - Replaced Modem (COM100).   The replacement modem is brand 
+              new and will hopefully improve connection success rates. 
+              [Work done: ~ 15:50] 
+ 
+ 
+05/03/2006: Station Maintenance: 
+ 
+            - Leaf Wetness "A" has been reporting abnormal "WET" periods. 
+              Remote Field Technician was dispatched and the seneck and  
+              clean the sensor. 
+ 
+ 
+              
+======================================================================= 
+08/06/2004: Station Maintenance: (crn, jal): 
+ 
+            - Replaced Anemometer 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+              - tipping bucket rain gauge lid nearly clogged - debris was removed. 
+              - tipping bucket rain gauge checked for accuracy 
+ 
+            - Work was done approx: 15:30 - 16:30 (Day=219) 
+ 
+ 
+ 
+======================================================================= 
+11/01/2003: Data Collection and Data Archive for new station begins 
+ 
+               First report:   Nov 01, 2003 - 00:05   (Day=305) 
+ 
+ 
+10/16/2003: New Station Installed: 
+ 
+               Notes: 
+                  
+                 - leaf wetness B (canopy) - still needs to be installed. 
+ 
+                 - Data Logger Program Loaded:    MAWN1C 
+ 
+ 
+               Additional Station Needs: 
+ 
+ 
+ 
+============================================================================== 
+

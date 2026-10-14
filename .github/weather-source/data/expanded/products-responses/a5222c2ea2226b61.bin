@@ -1,0 +1,57 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.6 [en] (Win98; I) [Netscape]">
+   <title>Annual Summary Page</title>
+</head>
+<body>
+
+<hr Size = "10" NOSHADE>
+<h1>
+Annual Summaries</h1>
+
+<ul>
+<li>
+<a href="sem99anl.doc">Narrative
+Summary</a> (Word document)</li>
+
+<br><!-- <A HREF="SEM99ANL.doc">Narrative Summary</A> (Word document)</li> -->
+<li>
+Annual Maps</li>
+
+<ol>
+<li>
+<!-- <a href="99anlpr.gif">1999 annual totals</a></li> --><a href="99anlpr.gif">1999
+annual totals</a></li>
+
+<li>
+<a href="99cwlyr.gif">1999 change
+from 1998</a></li>
+
+<br><!-- <a href="99cwlyr.gif">1999 change from 1998</a></li> -->
+<li>
+<a href="99cwmed.gif">1999 departure
+from median</a></li>
+
+<br><!-- <a href="99cwmed.gif">1999 departure from median</a></li> -->
+<li>
+<a href="99anlcp.gif">1999 calculated
+probabilities</a></li>
+
+<br><!-- <a href="99anlcp.gif">1999 calculated probabilities</a></li> --></ol>
+
+<li>
+<a href="01_12_99.doc">1999 Monthly
+and Annual Precipitation Table&nbsp;</a> (Word document)</li>
+
+<br><!-- <A HREF="01_12_99.doc">1999 Monthly and Annual Precipitation Table with Reliability Codes</A> (Word document)  -->
+<li>
+<a href="1999rank.xls">1999 Ranked
+Monthly and Annual Precipitation Table</a> (Excel file)</li>
+
+<br><!-- <A HREF="1999Rank.xls">1999 Ranked Monthly and Annual Precipitation Table</A>
+ (Excel file) --></ul>
+
+</body>
+</html>

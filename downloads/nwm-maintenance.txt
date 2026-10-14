@@ -1,0 +1,347 @@
+============================================================================== 
+Station Notes - NWMHRS/Traverse City (Bingham): 
+ 
+ 
+ 
+06/27/2023: Station Maintenance:                                        [1300] 
+ 
+            - communication troubleshooting: 
+               - reset logger / modem* 
+ 
+               * did not correct the outage immediately, but the  
+                 communication did resume at 06/27/2023 2150 EDT 
+                 without explanation (possible cell-provider issue) 
+                
+              
+06/19/2023: Station Maintenance:                                        [1415] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked atmp/relh sensor (good) 
+               - checked battery (13.54V) 
+               - checked pyranometer (adjusted level) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (20.67V) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned battery terminals 
+               - cleaned solar panel 
+               - cleaned tipping-bucket rain gauge 
+               - tested leaf wetness sensor [standard] (good)* 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+ 
+============================================================================== 
+08/31/2022: Logger Maintenance:                                         [1050] 
+ 
+            - loaded logger program: nwm-bssd.cr6 
+                - marks current canopy leaf wetness as missing 
+                - removed all canopy data back to 07/27/2015 10:35 
+ 
+   
+08/18/2022: Station Maintenance:                                        [1400] 
+ 
+            - routine site maintenance, including: 
+                - checked anemometer (bearings good) 
+                - checked soil sensor cables (good)  
+                - checked tipping-bucket rain gauge (adjusted level) 
+                - checked wind vane (properly aligned)  
+                - checked / cleaned pyranometer (adjusted level) 
+                - checked / tested battery 
+                - checked / tested leaf wetness (standard)* 
+                - cleaned HygroVue (atmp/relh) radiation shield  
+                - cleaned battery box 
+                - cleaned solar panel 
+ 
+                * site does not include a canopy leaf wetness sensor 
+                   - logger program change to ignore canopy data is needed 
+ 
+ 
+06/22/2022: Station Maintenance:                                        [1410] 
+ 
+            - routine site maintenance, including: 
+                - checked anemometer (bearings good) 
+                - checked pyranomter (level) 
+                - checked soil sensor cables (good) 
+                - checked tipping-bucket rain gauge (adjusted level) 
+                - checked wind vane (properly aligned) 
+                - checked / cleaned solar panel 
+                - checked / tested battery  
+                - checked / tested leaf wetness (standard)* 
+                - cleaned battery box 
+                - cleaned HygroVue (atmp/relh) radiation shield  
+ 
+                * site does not include a canopy leaf wetness sensor 
+                   - logger program change to ignore canopy data is needed 
+ 
+ 
+ 
+============================================================================== 
+12/04/2021: Logger Maintenance:                                         [1515] 
+ 
+            - replaced faulty CR6 logger 
+            - loaded logger program: nwm-bssb.cr6* 
+                 * supports "maintenance mode" 
+ 
+ 
+08/23/2021: Station Maintenance:                                        [1130] 
+ 
+            - routine site maintenance  
+ 
+ 
+06/17/2021: Logger Maintenance:                                         [1310] 
+ 
+            - loaded logger program: nwm-bssb.cr6* 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+06/17/2021: Logger Maintenance:                                         [0222] 
+ 
+            - loaded logger program: nwm-bssb.cr6* 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+06/15/2021: Station Maintenance:                                        [1135] 
+ 
+            - routine site maintenance, including: 
+                 - modem update  
+ 
+ 
+06/07/2021: Logger Maintenance:                                         [1438] 
+ 
+            - loaded logger program: nwm-bssb.cr6*  
+                 * supports "maintenance mode" 
+ 
+ 
+ 
+============================================================================== 
+08/27/2019: Logger Maintenance:                                         [1745] 
+ 
+            - loaded logger program: nwm-bssb 
+ 
+ 
+08/14/2019: Logger Maintenance:                                         [----] 
+ 
+            - replaced logger (CR1000 -> CR6) 
+            - added PakBus modem 
+ 
+ 
+ 
+=======================================================================i====== 
+12/27/2017: Logger Maintenance:                                         [1000] 
+ 
+            - replaced faulty solid-state relay 
+ 
+ 
+02/10/2017: Station Maintenance:                                        [0006] 
+ 
+            - reload logger program: nwm-bbbbC 
+              - supports switch of HC2S3 from SW12V to 12V 
+ 
+ 
+02/02/2017: Station Maintenance:                                        [1410] 
+ 
+            - Switched Air Temp/RH sensor (HC2S3) to "continous" power 
+ 
+ 
+ 
+============================================================================== 
+07/27/2015: Station Modernization:                                      [1030] 
+ 
+            - Station upgraded with new logger and serveral new sensors. 
+ 
+            - loaded logger program "nwm-bbbbC" 
+ 
+            - Due to upgrade, station was offline for the following: 
+  
+                 07/27/2015 (d=208) 1035 - 07/27/2015 (d=208) 1225 
+ 
+            - the "live" data updates were able to resume at: 
+ 
+                 07/28/2015 (d=209) 1630 
+ 
+ 
+ 
+============================================================================== 
+11/19/2014: System Maintenance:                                         [1403] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbaaC-nwm" 
+ 
+ 
+ 
+============================================================================== 
+04/10/2012: Station Maintenance:                                        [0008] 
+ 
+            - Loaded updated Logger Program BBAA-NWM.  Logger now 
+              set to collect on a 30-minute cycle from Apr - Sep. 
+ 
+ 
+ 
+============================================================================== 
+11/23/2011: Station Maintenance:                                        [0002] 
+ 
+            - Loaded updated MAWN Program: BBC-NWM (hourly 
+              collection cycle even during the winter) 
+ 
+ 
+11/19/2011: Station Maintenance:                                        [0915] 
+ 
+            - Repaired "Soil Moisture A".  Station powered-off 
+              between 9:10 - 9:13 to make repairs/connections. 
+ 
+ 
+11/15/2011: Station Maintenance:                                        [1330] 
+ 
+            - Changed Daily Battery Voltage to 24-hour Observered  
+              Minimum Voltage. 
+            - Added Hourly Standard Deviation of Wind Direction 
+            - Reactivate "live" updates 
+ 
+ 
+11/14/2011: Station Maintenace:                                         [1235] 
+ 
+            - Loaded MAWN Program: BBC-NWM 
+ 
+ 
+11/14/2011: Station Maintenance:                                        [1035] 
+ 
+            - Moved station to new location: 
+            - Replaced old logger with newer CR1000 
+            - Due to move, no data during following time period: 
+ 
+          11/14/2011 (d=318) 1005 - 11/14/2011 (d=318) 1245 
+ 
+ 
+10/14/2011: Station Maintenance:                                        [0003] 
+ 
+            - Loaded MAWN Program - AACF (60-minute collection cycle) 
+ 
+ 
+07/20/2011: Data Quality                                                [1500] 
+ 
+            - Recent collection/communication failure lead to loss of  
+              data.   Estimated "hourly" and "daily" air temperature  
+              values were added into the MAWN database for the following 
+              time period: 
+ 
+                 07/04/2011 (d=185) 1900  -  07/11/2011 (d=192) 1500 
+ 
+ 
+07/20/2011: Station Maintenance                                         [0005] 
+ 
+            - Loaded MAWN Program AACS (30-minute power/collection 
+              cycle).  Data-collection now controlled by LoggerNet 
+              server on main campus of Michigan State University. 
+ 
+ 
+07/19/2011: Station Maintenance                                         [2150] 
+ 
+            - Converted communication with station to wireless broadband 
+              due to recent failure of remote data-collection (PC208W 
+              software).   
+ 
+ 
+ 
+============================================================================== 
+03/26/2008: Data Removal (jtb): 
+ 
+            - The Solar Radiation sensor was replaced in 2005.   However,  
+              for a period of time in May 2005, faulty Solar Radiation 
+              data still existed in the MAWN database. 
+ 
+              Solar Radiation for the following time period was removed 
+              from the aarchived raw data file as well as removed from 
+              the MAWN database: 
+ 
+                 05/06/05 (d=126) 2000  -  05/26/05 (d=146) 1400 
+ 
+ 
+ 
+=========================================================================    
+08/13/2007: Station Maintenance: (bk): 
+ 
+            - Repairs needed after recent thunderstorm: 
+              - short haul modem was replaced 
+              - power to datalogger was reset 
+              - MAWN program (MAWN1B) was reloaded. 
+ 
+            - Recent outage led to loss of data for the following 
+              time period: 
+ 
+                 08/12/07 (day=224) 06:35  -  08/13/07 (day=225) 10:45 
+ 
+              Although daily data for 08/12 was lost, an entry was added 
+              to the database to report the 1.31" of rain that was manually 
+              observed and recorded at the NWMHRS station. 
+ 
+ 
+ 
+========================================================================= 
+01/09/2006: Station Maintenance: (bk) 
+ 
+            - Current battery was not holding charge, so it was 
+              replaced with another battery this morning. 
+ 
+ 
+ 
+========================================================================= 
+12/06/2005: Station Maintenance: (sm) 
+ 
+            - Battery was replaced. 
+ 
+ 
+10/05/2005: Station Maintenance (sm): 
+ 
+            - Installed Soil Moisture B: 
+              - sensor model:    CS615 
+              - depth:           25 cm 
+ 
+            - Reinstalled Soil Moisure A: 
+              - sensor model:  CS615 
+              - depth:         10 cm 
+ 
+            - Checked all other sensors. 
+ 
+            - Routine maintenance and cleaning. 
+ 
+ 
+05/26/2005: Station Maintenance (sm): 
+ 
+            - Replaced Soil Temperature Sensors 
+            - Replaced Solar Radiation Sensor 
+            - Removed/Checked/Reinstalled Soil Moisture Sensor (sensor A). 
+              Still Missing 2nd Soil Moisture Sensor (sensor B). 
+            - Cleaned Air Temp/Relative Humidty Sensor 
+            - Cleaned and Reconnected All Grounding Cables 
+ 
+ 
+ 
+========================================================================= 
+04/08/2002: Daylight Savings Time Adjustment. 
+ 
+            - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+            - Time of Obs were modified by one hour (forward)  
+              from Day=97, Time=200 through Day=98, Time=1215. 
+ 
+ 
+10/29/2001: Daylight Savings Time Adjustment. 
+ 
+            - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+            - Time of Obs were modified by one hour (subtracted) 
+              from Day=301, Time=200 through Day=301, Time=950. 
+ 
+ 
+??/??/????: Station Installed.   
+ 
+ 
+ 
+============================================================================== 
+

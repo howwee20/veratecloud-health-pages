@@ -1,0 +1,1025 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:33
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+<table><tr><td align="left">
+
+<CENTER>
+  <TABLE ALIGN="CENTER" WIDTH="100%">
+    <TR VALIGN="BOTTOM"> 
+      <TD COLSPAN="21" ALIGN="CENTER"><FONT SIZE="-1"></FONT><FONT SIZE="-1"></FONT><FONT FACE="Helv" SIZE="+1"><STRONG>TEMPERATURE, 
+        PRECIPITATION, AND GROWING DEGREE DAY SUMMARY</STRONG></FONT></TD>
+    </TR>
+    <TR VALIGN="BOTTOM"> 
+      <TD COLSPAN="21" ALIGN="CENTER"><FONT FACE="Helv" SIZE="+1"><STRONG>2002 
+        GROWING SEASON</STRONG></FONT></TD>
+    </TR>
+    <TR VALIGN="BOTTOM"> 
+      <TD COLSPAN="21" ALIGN="CENTER"><FONT FACE="Helv" SIZE="+1"></font></TD>
+    </TR>
+  </TABLE>
+  <table align="CENTER" width="100%" border="1">
+    <tr valign="BOTTOM"> 
+      <td colspan="20" align="CENTER"></td>
+      <td valign="TOP"></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td colspan="2"></td>
+      <td colspan="3" align="CENTER"><b><font face="Helv" size="-2">MAY</font></b></td>
+      <td colspan="3" align="CENTER"><b><font face="Helv" size="-2">JUNE</font></b></td>
+      <td colspan="3" align="CENTER"><b><font face="Helv" size="-2">JULY</font></b></td>
+      <td colspan="3" align="CENTER"><b><font face="Helv" size="-2">AUGUST</font></b></td>
+      <td colspan="3" align="CENTER"><b><font face="Helv" size="-2">SEPTEMBER</font></b></td>
+      <td rowspan="2" align="CENTER"><b><font face="Helv" size="-2"></font></b></td>
+      <td colspan="3" align="CENTER"><b><font face="Helv" size="-2">SEASON</font></b></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">COUNTY</font></b></td>
+      <td><b><font face="Helv" size="-2"></font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">OBS</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">NORM</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">DEV</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">OBS</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">NORM</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">DEV</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">OBS</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">NORM</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">DEV</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">OBS</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">NORM</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">DEV</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">OBS</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">NORM</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">DEV</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">OBS</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">NORM</font></b></td>
+      <td align="CENTER"><b><font face="Helv" size="-2">DEV</font></b></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td colspan="21">&nbsp;</td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">TEMP</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">47.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">53.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-5.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">64.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">62.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">70.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">66.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">60.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">57.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.5</font></td>
+      <td   rowspan="3"><font face="Helv" size="-1"></font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">62.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">61.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.8</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">MENOMINEE</font></b></td>
+      <td><b><font face="Helv" size="-2">PPT</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.00</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.57</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.57</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">5.75</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.72</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.03</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.86</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.63</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.23</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.26</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.86</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.40</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.58</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.60</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.02</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">20.45</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">18.38</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.07</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">GDD</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">130</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">285</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-155</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">454</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">438</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">16</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">656</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">559</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">97</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">529</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">513</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">16</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">348</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">319</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">29</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2117</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2114</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td colspan="21"><b>&nbsp;</b></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">TEMP</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">49.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">53.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-4.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">63.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">74.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">68.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">5.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">69.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">59.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">6.4</font></td>
+      <td rowspan="3"><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">64.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">62.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.3</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">GRAND TRAVERSE</font></b></td>
+      <td><b><font face="Helv" size="-2">PPT</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.82</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.48</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.34</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.74</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.15</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.41</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.99</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.88</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.89</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.99</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.93</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.06</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.54</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.60</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-3.06</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">14.08</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">15.04</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.96</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">GDD</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">161.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">273</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-111.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">501</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">454</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">47</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">721.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">587</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">134.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">610.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">552</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">58.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">504.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">348</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">156.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2499</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2214</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">285</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td colspan="21"><b>&nbsp;</b></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">TEMP</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">49.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">52.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-3.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">63.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">61.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">71.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">66.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">66.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">64.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">64.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">57.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">6.9</font></td>
+      <td rowspan="3"><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">62.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">60.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.3</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">ALPENA</font></b></td>
+      <td><b><font face="Helv" size="-2">PPT</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.86</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.78</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.08</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.97</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.12</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.15</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.79</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.11</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.68</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.05</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.23</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.18</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.23</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.08</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.85</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">14.90</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">15.32</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.42</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">GDD</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">128</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">251</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-123</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">418</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">413</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">665</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">534</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">131</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">511</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">496</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">15</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">461</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">317</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">144</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2183</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2011</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">172</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td colspan="21"><b>&nbsp;</b></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">TEMP</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">49.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">54.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-4.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">64.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">63.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">71.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">68.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">63.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">60.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.6</font></td>
+      <td rowspan="3"><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">63.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">62.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.8</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">MASON</font></b></td>
+      <td><b><font face="Helv" size="-2">PPT</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.14</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.48</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.66</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.36</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.93</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.43</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.37</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.18</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.19</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.40</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.79</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-2.39</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.68</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.25</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-2.57</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">11.95</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">14.63</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-2.68</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">GDD</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">342</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">273</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">69</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">461</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">450</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">11</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">671</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">587</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">84</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">663</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">552</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">111</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">341</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">365</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-24</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2478</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2227</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">251</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td colspan="21"><b>&nbsp;</b></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">TEMP</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">51.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">57.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-6.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">73.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">71.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">69.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">62.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">61.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.1</font></td>
+      <td rowspan="3"><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">64.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.8</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">MONTCALM</font></b></td>
+      <td><b><font face="Helv" size="-2">PPT</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.68</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.88</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.80</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.32</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.43</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.11</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.80</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.50</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.30</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.19</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.84</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.65</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.94</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.12</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-2.18</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">13.93</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">15.77</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.84</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">GDD</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">196</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">351</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-155</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">549</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">536</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">13</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">743</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">646</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">97</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">549</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">603</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-54</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">418</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">414</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2455</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2550</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-95</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td colspan="21"><b>&nbsp;</b></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">TEMP</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">50.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">55.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-4.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">64.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">72.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">69.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">68.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">61.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.4</font></td>
+      <td rowspan="3"><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">64.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">63.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.9</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">HURON</font></b></td>
+      <td><b><font face="Helv" size="-2">PPT</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.38</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.58</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.80</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.66</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.88</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.78</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">5.20</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.93</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.27</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.53</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.01</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.52</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.93</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.67</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.74</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">16.70</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">14.07</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.63</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">GDD</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">162</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">298</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-136</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">483</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">479</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">699</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">602</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">97</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">588</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">569</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">19</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">590</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">387</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">203</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2522</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2335</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">187</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td colspan="21"><b>&nbsp;</b></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">TEMP</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">52.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">58.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-6.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">68.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">68.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">73.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">72.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">69.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">70.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">62.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.2</font></td>
+      <td rowspan="3"><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">66.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.7</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">SAGINAW</font></b></td>
+      <td><b><font face="Helv" size="-2">PPT</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.97</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.49</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.48</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.87</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.09</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.22</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.97</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.83</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.14</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.85</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.29</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.56</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.41</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.76</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-2.35</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">14.07</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">14.46</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.39</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">GDD</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">231.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">367</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-135.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">576.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">555</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">21.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">695.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">670</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">25.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">585.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">623</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-37.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">509.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">438</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">71.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2597.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2653</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-55.2</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td colspan="21"><b>&nbsp;</b></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">TEMP</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">53.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">57.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-4.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">69.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">75.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">71.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">71.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">69.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">66.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">61.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.4</font></td>
+      <td rowspan="3"><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.7</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">KENT</font></b></td>
+      <td><b><font face="Helv" size="-2">PPT</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.29</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.86</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.43</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.00</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.68</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.68</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.08</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.95</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.87</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">5.06</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.14</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.92</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.97</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.24</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-2.27</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">14.40</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">15.87</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.47</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">GDD</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">212</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">335</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-123</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">602</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">530</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">72</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">790</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">654</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">136</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">662</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">610</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">52</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">503</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">412</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">91</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2769</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2541</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">228</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td colspan="21"><b>&nbsp;</b></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">TEMP</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">52.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">59.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-7.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">70.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">68.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">74.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">71.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">70.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">70.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">63.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.3</font></td>
+      <td rowspan="3"><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">66.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">66.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.1</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">ST. JOSEPH</font></b></td>
+      <td><b><font face="Helv" size="-2">PPT</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.76</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.12</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.64</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.93</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.95</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-2.02</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.13</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.79</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.66</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.85</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.16</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.69</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.72</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.01</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-2.29</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">15.39</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">17.03</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.64</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">GDD</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">223.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">381</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-157.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">620</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">564</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">56</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">772</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">670</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">102</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">653</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">628</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">25</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">490</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">454</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">36</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2758.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2697</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">61.4</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td colspan="21"><b>&nbsp;</b></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">TEMP</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">52.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">57.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-5.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">68.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">73.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">70.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">69.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">69.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">62.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.4</font></td>
+      <td rowspan="3"><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">65.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.6</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">INGHAM</font></b></td>
+      <td><b><font face="Helv" size="-2">PPT</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">4.76</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.73</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.03</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.12</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.54</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.42</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.74</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.02</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.72</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.40</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.12</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.72</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.52</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.50</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.98</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">12.54</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">14.91</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-2.37</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">GDD</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">223.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">338</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-114.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">583.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">530</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">53.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">689</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">640</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">49</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">612.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">598</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">14.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">513.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">418</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">95.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2621.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2524</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">97.7</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td colspan="21"><b>&nbsp;</b></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">TEMP</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">54.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">58.3</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-4.0</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">70.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">74.4</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">71.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">70.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">69.9</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">66.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">62.6</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.6</font></td>
+      <td rowspan="3"><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font><font face="Helv" size="-1"></font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">67.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">66.1</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.2</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">MONROE</font></b></td>
+      <td><b><font face="Helv" size="-2">PPT</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.53</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.04</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">0.49</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.83</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.30</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.47</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.95</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.73</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.78</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">1.45</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">3.20</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-1.75</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.40</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2.62</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-0.22</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">12.16</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">15.89</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-3.73</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><b><font face="Helv" size="-2">&nbsp;</font></b></td>
+      <td><b><font face="Helv" size="-2">GDD</font></b></td>
+      <td align="RIGHT"><font face="Helv" size="-1">269.2</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">353</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">-83.8</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">615</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">542</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">73</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">706</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">658</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">48</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">629</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">616</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">13</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">535.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">432</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">103.5</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2754.7</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">2601</font></td>
+      <td align="RIGHT"><font face="Helv" size="-1">153.7</font></td>
+    </tr>
+  </table>
+  <table align="CENTER" width="100%">
+    <tr valign="BOTTOM"> 
+      <td><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2">TEMP 
+        = Mean temperature (°F)</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2">PPT 
+        = Precipitation (inches)</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2">GDD 
+        = Growing Degree Days calculated at base 50°F, with 50°F and 86°F cutoffs</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2">OBS 
+        = Totals observed in 2000</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2">NORM 
+        = Normals calculated over 30 year period (1951-1980)</font></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2">DEV 
+        = Deviation of observed from normal</font></td>
+    </tr>
+    <tr valign="TOP"> 
+      <td></td>
+    </tr>
+    <tr valign="BOTTOM"> 
+      <td><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2"></font><font size="-2">Table 
+        courtesy of MSU Agricultural Weather Office (517/355-0231)</font></td>
+    </tr>
+  </table>
+</CENTER>
+
+</td></tr></table>
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

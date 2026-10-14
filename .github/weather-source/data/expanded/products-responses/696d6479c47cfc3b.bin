@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Microsoft FrontPage 5.0">
+   <TITLE>MSU Climatology Program</TITLE>
+</HEAD>
+<body>
+
+<h1>East Upper Division -- Click on a station symbol for tables</h1>
+
+<HR width="100%">
+<center>
+   <img src="e-upper.gif" usemap="#E-UPPER" hspace=5 vspace=5 border=0 height=272 width=584>
+      <map name="E-UPPER">
+         <area shape="circle" coords="41,61,5"   href="stations/5184" alt="">
+         <area shape="circle" coords="7,79,5"    href="stations/4127" alt="">
+         <area shape="circle" coords="77,164,5"  href="stations/7068" alt="">
+         <area shape="circle" coords="59,198,5"  href="no-summary.html" alt="">
+         <area shape="circle" coords="25,241,5"  href="stations/7742" alt="">
+         <area shape="circle" coords="153,238,5" href="stations/2737" alt="">
+         <area shape="circle" coords="175,133,5" href="stations/7880" alt="">
+         <area shape="circle" coords="110,104,5" href="stations/1484" alt="">
+         <area shape="circle" coords="155,91,5"  href="stations/5690" alt="">
+         <area shape="circle" coords="254,111,5" href="stations/7515" alt="">
+         <area shape="circle" coords="209,175,5" href="stations/5073" alt="">
+         <area shape="circle" coords="316,227,5" href="stations/7277" alt="">
+         <area shape="circle" coords="386,242,5" href="stations/1896" alt="">
+         <area shape="circle" coords="422,251,5" href="stations/6438" alt="">
+         <area shape="circle" coords="464,235,5" href="stations/1492" alt="">
+         <area shape="circle" coords="542,165,5" href="stations/2094" alt="">
+         <area shape="circle" coords="493,94,5"  href="stations/2298" alt="">
+         <area shape="circle" coords="316,97,5"  href="stations/5816" alt="">
+         <area shape="circle" coords="248,40,5"  href="stations/3319" alt="">
+         <area shape="circle" coords="381,12,5"  href="stations/8920" alt="">
+         <area shape="circle" coords="462,114,5" href="stations/7190" alt="">
+         <area shape="circle" coords="476,65,5"  href="stations/7366" alt="">
+         <area shape="circle" coords="83,230,5"  href="stations/2626" alt="">
+         <area shape="circle" coords="262,176,5" href="stations/6686" alt="">
+         <area shape="circle" coords="429,210,5" href="stations/5000" alt="">
+      </map>
+   </img>
+</center>
+
+<p>Additional Stations:</p>
+<p><a href="stations/7274/">7274 Saint Ignace</a></p>
+
+<p><a href="stations/8043/">8043 Tahquamenon Falls</a></p>
+
+</BODY>
+</HTML>

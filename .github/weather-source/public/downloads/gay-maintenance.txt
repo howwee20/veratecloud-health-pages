@@ -1,0 +1,159 @@
+=============================================================================== 
+Station Notes - Gaylord (MI) 
+ 
+ 
+10/26/2021: Logger / Station Maintnenace:                               [1000] 
+ 
+            - loaded logger program: gay-bbad.cr1* (237 -> LWS-L)** 
+                  * supports "maintenance mode" 
+                 ** sensor replaced: 08/25/2020 (no canopy) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+08/25/2021: Logger / Station Maintenance:                               [1050] 
+ 
+            - routine site maintenance 
+ 
+ 
+06/30/2021: Station Maintenance:                                        [1130] 
+ 
+            - routine site / station maintenance  
+            - updated modem 
+ 
+ 
+ 
+============================================================================== 
+05/15/2020: Station Maintenance:                                        [1405] 
+ 
+            - routine site / station maintenance  
+            - replaced faulty soil temperature (10-cm) sensor 
+            - replaced soil temperature (5-cm) sensor 
+ 
+ 
+07/19/2019: Logger / Station Maintenance:                               [1610] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: gay-bbaa 
+ 
+ 
+ 
+=============================================================================== 
+08/23/2018: Station Maintenance:                                         [1115] 
+ 
+            - routine station / site maintenance 
+ 
+ 
+07/06/2018: Station Maintenance:                                         [1545] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+ 
+=============================================================================== 
+08/21/2017: Station Maintenance:                                         [1215] 
+ 
+            - routine maintenance  
+ 
+ 
+05/19/2017: Station Maintenance:                                         [0001] 
+ 
+            - loaded logger program "gay-bbaa" 
+ 
+ 
+05/17/2017: Station Maintenance:                                         [1250] 
+ 
+            - annual maintenance  
+            - replaced atmp/relh (HC2S3 -> HMP45C) 
+               - atmp/relh now wired to "continuous" power 
+            - replaced leaf wetness (standard mount) 
+ 
+ 
+03/23/2017: Station Maintenance:                                         [1355] 
+ 
+            - replaced soil temperature sensors 
+ 
+ 
+ 
+=============================================================================== 
+04/26/2016: Station Maintenance:                                         [1300] 
+ 
+            - replaced leaf wetness sensors 
+            - replaced tipping bucket rain gauge 
+            - rplaced soil temperature sensors 
+ 
+ 
+ 
+=============================================================================== 
+06/04/2015: System Maintenance:                                          [1305] 
+ 
+            - replaced faulty temp/rh sensor 
+ 
+            - relative humidity data marked as missing for the following: 
+ 
+                05/27/2015 (d=147) 0135 - 06/04/2015 (d=155) 1305 
+ 
+ 
+05/19/2015: System Maintenance:                                          [1225] 
+ 
+            - replaced faulty RH sensor. 
+ 
+            - Relative humidity data marked as missing for the following: 
+  
+                05/09/2015 (d=129) 0255 - 05/19/2015 (d=139) 1225 
+ 
+            - NOTE: As of 05/27/2015, RH problems have resurfaced 
+ 
+ 
+04/24/2015: System Maintenance:                                          [????] 
+ 
+            - replaced faulty 2" soil temperature sensor (SOIL0). 
+ 
+            - 2" soil temperature data marked as missing for the following: 
+             
+                11/15/2014 (d=319) 2005 - 04/24/2105 (d=114) 2400 
+ 
+ 
+ 
+=============================================================================== 
+09/08/2014: System Maintenance:                                          [1632] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbba-gay" 
+ 
+ 
+ 
+=============================================================================== 
+05/04/2012: Station Online:                                              [1600] 
+ 
+            - Station added to MAWN web site. 
+ 
+ 
+05/01/2012: Data Collection Enabled: 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                 First data report:   May 02, 2012 - 00:05 (Day=123) 
+ 
+ 
+05/01/2012: Station Maintenance: 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+05/01/2012: Station Installed: 
+ 
+            - Loaded MAWN Program:   BBBA-GAY 
+                                        B => CR1000/MI (Logger/State) 
+                                        B => CS616 (Soil Moisture) 
+                                        B => HC2S3 (Temp/RH) 
+                                        A => 237 (Leaf Wetness) 
+                                        GAY => Station ID (Gaylord)                                 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

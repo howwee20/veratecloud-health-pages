@@ -1,0 +1,457 @@
+map,period_start,period_end,region,lower_bound,upper_bound,unit,sample_pixels,image_sha256
+prcp-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,0.03,0.05,inches,617,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,0.02,0.03,inches,239,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,0.01,0.02,inches,112,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,0,0.01,inches,79,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,0.05,0.1,inches,23,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,0.03,0.05,inches,401,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,0.05,0.1,inches,318,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,0.1,0.15,inches,210,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,0.15,0.2,inches,156,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,0.02,0.03,inches,22,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,0.01,0.02,inches,4,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,0.15,0.2,inches,341,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,0.3,0.5,inches,285,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,0.2,0.25,inches,160,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,0.1,0.15,inches,145,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,0.25,0.3,inches,142,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,0.05,0.1,inches,10,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,0.5,0.75,inches,4,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,0.15,0.2,inches,424,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,0.1,0.15,inches,413,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,0.05,0.1,inches,223,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,0.2,0.25,inches,196,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,0.03,0.05,inches,6,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,0,0.01,inches,595,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,0.05,0.1,inches,379,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,0.03,0.05,inches,172,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,0.01,0.02,inches,65,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,0.1,0.15,inches,44,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,0.02,0.03,inches,41,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Thumb,0,0.01,inches,342,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Thumb,0.01,0.02,inches,188,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Thumb,0.02,0.03,inches,148,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Thumb,0.05,0.1,inches,60,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Thumb,0.03,0.05,inches,48,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Thumb,0.1,0.15,inches,2,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,0,0.01,inches,1163,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,0.03,0.05,inches,138,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,0.01,0.02,inches,125,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,0.02,0.03,inches,104,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,0.05,0.1,inches,2,5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9
+prcp-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,0.5,1,inches,926,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,1,1.5,inches,144,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,0.5,1,inches,1111,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,1,1.5,inches,1034,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,1.5,2,inches,32,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,0.5,1,inches,21,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,2,3,inches,1206,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,3,4,inches,28,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,1.5,2,inches,28,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,2,3,inches,893,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,1.5,2,inches,387,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,1,1.5,inches,16,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Thumb,1.5,2,inches,681,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Thumb,1,1.5,inches,107,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,4,6,inches,534,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,2,3,inches,524,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,3,4,inches,474,3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107
+prcp-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,4,7.5,inches,1070,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,4,7.5,inches,930,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,2,4,inches,181,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,4,7.5,inches,1087,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,7.5,10,inches,827,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,4,7.5,inches,252,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,10,12.5,inches,183,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,4,7.5,inches,900,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,7.5,10,inches,314,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,10,12.5,inches,82,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Thumb,4,7.5,inches,499,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Thumb,10,12.5,inches,185,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Thumb,7.5,10,inches,104,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,10,12.5,inches,933,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,7.5,10,inches,380,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcp-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,12.5,15,inches,219,85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169
+prcpdev-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,-1,1,inches,1070,50704d7c7ac5e7c13f072643d702ea030b9723e58c2e238470a0922b9b2b9170
+prcpdev-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,-1,1,inches,1111,50704d7c7ac5e7c13f072643d702ea030b9723e58c2e238470a0922b9b2b9170
+prcpdev-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,-1,1,inches,1087,50704d7c7ac5e7c13f072643d702ea030b9723e58c2e238470a0922b9b2b9170
+prcpdev-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,-1,1,inches,1262,50704d7c7ac5e7c13f072643d702ea030b9723e58c2e238470a0922b9b2b9170
+prcpdev-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,-1,1,inches,1296,50704d7c7ac5e7c13f072643d702ea030b9723e58c2e238470a0922b9b2b9170
+prcpdev-7days.png,2026-10-06,2026-10-12,Thumb,-1,1,inches,788,50704d7c7ac5e7c13f072643d702ea030b9723e58c2e238470a0922b9b2b9170
+prcpdev-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,-1,1,inches,1532,50704d7c7ac5e7c13f072643d702ea030b9723e58c2e238470a0922b9b2b9170
+prcpdev-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,-4,-2,inches,1070,831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6
+prcpdev-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,-4,-2,inches,1111,831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6
+prcpdev-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,-4,-2,inches,1087,831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6
+prcpdev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,-2,-1,inches,710,831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6
+prcpdev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,-1,1,inches,547,831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6
+prcpdev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,-4,-2,inches,5,831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6
+prcpdev-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,-1,1,inches,678,831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6
+prcpdev-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,-2,-1,inches,618,831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6
+prcpdev-30days.png,2026-09-13,2026-10-12,Thumb,-2,-1,inches,788,831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6
+prcpdev-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,-1,1,inches,1050,831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6
+prcpdev-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,2,4,inches,252,831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6
+prcpdev-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,1,2,inches,230,831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6
+prcpdev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,-8,-4,inches,979,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,-4,-2,inches,91,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,-8,-4,inches,1111,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,-8,-4,inches,714,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,-4,-2,inches,373,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,-2,2,inches,971,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,-4,-2,inches,172,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,-8,-4,inches,86,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,2,4,inches,33,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,-4,-2,inches,784,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,-2,2,inches,402,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,-8,-4,inches,110,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Thumb,-4,-2,inches,499,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Thumb,-2,2,inches,289,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,-2,2,inches,1195,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,2,4,inches,337,ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc
+prcpdev2-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,2,5,percent of normal,816,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,0,2,percent of normal,161,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,5,10,percent of normal,93,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,2,5,percent of normal,411,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,10,20,percent of normal,366,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,5,10,percent of normal,330,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,0,2,percent of normal,4,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,10,20,percent of normal,483,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,20,30,percent of normal,305,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,30,50,percent of normal,285,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,5,10,percent of normal,10,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,50,75,percent of normal,4,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,20,30,percent of normal,563,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,10,20,percent of normal,519,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,5,10,percent of normal,174,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,2,5,percent of normal,6,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,0,2,percent of normal,615,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,5,10,percent of normal,429,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,2,5,percent of normal,138,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,10,20,percent of normal,114,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Thumb,0,2,percent of normal,382,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Thumb,2,5,percent of normal,300,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Thumb,5,10,percent of normal,62,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Thumb,10,20,percent of normal,44,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,0,2,percent of normal,1207,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,2,5,percent of normal,289,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,5,10,percent of normal,36,a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469
+prcpdev2-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,10,20,percent of normal,712,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,20,30,percent of normal,309,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,30,50,percent of normal,49,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,20,30,percent of normal,558,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,10,20,percent of normal,553,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,30,50,percent of normal,872,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,20,30,percent of normal,215,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,50,75,percent of normal,1083,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,75,90,percent of normal,178,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,30,50,percent of normal,1,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,50,75,percent of normal,852,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,75,90,percent of normal,444,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Thumb,50,75,percent of normal,535,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Thumb,30,50,percent of normal,253,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,75,90,percent of normal,433,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,150,200,percent of normal,395,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,90,110,percent of normal,368,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,110,125,percent of normal,249,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,125,150,percent of normal,87,4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b
+prcpdev2-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,50,75,percent of normal,824,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,30,50,percent of normal,246,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,30,50,percent of normal,740,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,50,75,percent of normal,371,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,50,75,percent of normal,939,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,30,50,percent of normal,148,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,90,110,percent of normal,533,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,75,90,percent of normal,329,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,50,75,percent of normal,257,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,110,125,percent of normal,125,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,125,150,percent of normal,18,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,50,75,percent of normal,707,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,75,90,percent of normal,300,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,110,125,percent of normal,192,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,90,110,percent of normal,97,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Thumb,50,75,percent of normal,475,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Thumb,90,110,percent of normal,169,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Thumb,110,125,percent of normal,120,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Thumb,75,90,percent of normal,24,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,90,110,percent of normal,705,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,110,125,percent of normal,593,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,125,150,percent of normal,164,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+prcpdev2-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,75,90,percent of normal,70,76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601
+tmax-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,65,70,degrees F,830,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,70,75,degrees F,240,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,65,70,degrees F,770,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,60,65,degrees F,341,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,60,65,degrees F,1079,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,65,70,degrees F,8,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,65,70,degrees F,1213,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,60,65,degrees F,49,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,65,70,degrees F,689,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,70,75,degrees F,607,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-7days.png,2026-10-06,2026-10-12,Thumb,65,70,degrees F,788,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,65,70,degrees F,807,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,70,75,degrees F,725,21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0
+tmax-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,65,70,degrees F,908,0d6761de45b4f425f0b8402818d9cbf2368fd99b1243cba478797cc64a276d73
+tmax-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,60,65,degrees F,162,0d6761de45b4f425f0b8402818d9cbf2368fd99b1243cba478797cc64a276d73
+tmax-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,65,70,degrees F,1111,0d6761de45b4f425f0b8402818d9cbf2368fd99b1243cba478797cc64a276d73
+tmax-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,65,70,degrees F,1087,0d6761de45b4f425f0b8402818d9cbf2368fd99b1243cba478797cc64a276d73
+tmax-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,65,70,degrees F,1262,0d6761de45b4f425f0b8402818d9cbf2368fd99b1243cba478797cc64a276d73
+tmax-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,65,70,degrees F,1187,0d6761de45b4f425f0b8402818d9cbf2368fd99b1243cba478797cc64a276d73
+tmax-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,70,75,degrees F,109,0d6761de45b4f425f0b8402818d9cbf2368fd99b1243cba478797cc64a276d73
+tmax-30days.png,2026-09-13,2026-10-12,Thumb,65,70,degrees F,788,0d6761de45b4f425f0b8402818d9cbf2368fd99b1243cba478797cc64a276d73
+tmax-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,70,75,degrees F,928,0d6761de45b4f425f0b8402818d9cbf2368fd99b1243cba478797cc64a276d73
+tmax-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,65,70,degrees F,604,0d6761de45b4f425f0b8402818d9cbf2368fd99b1243cba478797cc64a276d73
+tmax-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,70,75,degrees F,1000,cdf4f20c6913dbb8870470e8510f130fbbd4e7f345e3bb353d655b7c328956b6
+tmax-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,75,80,degrees F,70,cdf4f20c6913dbb8870470e8510f130fbbd4e7f345e3bb353d655b7c328956b6
+tmax-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,70,75,degrees F,1111,cdf4f20c6913dbb8870470e8510f130fbbd4e7f345e3bb353d655b7c328956b6
+tmax-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,70,75,degrees F,1087,cdf4f20c6913dbb8870470e8510f130fbbd4e7f345e3bb353d655b7c328956b6
+tmax-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,70,75,degrees F,1138,cdf4f20c6913dbb8870470e8510f130fbbd4e7f345e3bb353d655b7c328956b6
+tmax-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,75,80,degrees F,124,cdf4f20c6913dbb8870470e8510f130fbbd4e7f345e3bb353d655b7c328956b6
+tmax-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,75,80,degrees F,1296,cdf4f20c6913dbb8870470e8510f130fbbd4e7f345e3bb353d655b7c328956b6
+tmax-90days.png,2026-07-15,2026-10-12,Thumb,75,80,degrees F,788,cdf4f20c6913dbb8870470e8510f130fbbd4e7f345e3bb353d655b7c328956b6
+tmax-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,75,80,degrees F,1532,cdf4f20c6913dbb8870470e8510f130fbbd4e7f345e3bb353d655b7c328956b6
+tmaxdev-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,9,12,degrees F,585,dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014
+tmaxdev-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,12,15,degrees F,485,dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014
+tmaxdev-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,6,9,degrees F,673,dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014
+tmaxdev-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,9,12,degrees F,438,dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014
+tmaxdev-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,6,9,degrees F,1019,dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014
+tmaxdev-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,3,6,degrees F,68,dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014
+tmaxdev-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,6,9,degrees F,1167,dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014
+tmaxdev-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,3,6,degrees F,95,dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014
+tmaxdev-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,6,9,degrees F,1296,dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014
+tmaxdev-7days.png,2026-10-06,2026-10-12,Thumb,3,6,degrees F,788,dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014
+tmaxdev-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,3,6,degrees F,928,dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014
+tmaxdev-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,6,9,degrees F,604,dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014
+tmaxdev-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,4,6,degrees F,769,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,2,4,degrees F,301,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,4,6,degrees F,777,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,2,4,degrees F,334,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,4,6,degrees F,884,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,2,4,degrees F,203,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,1,2,degrees F,766,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,2,4,degrees F,368,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,-1,1,degrees F,112,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,4,6,degrees F,16,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,1,2,degrees F,1186,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,-1,1,degrees F,61,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,2,4,degrees F,49,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Thumb,-1,1,degrees F,735,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Thumb,1,2,degrees F,53,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,1,2,degrees F,1041,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,-1,1,degrees F,456,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,2,4,degrees F,35,58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c
+tmaxdev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,2,3,degrees F,565,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,3,4,degrees F,427,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,4,5,degrees F,74,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,1,2,degrees F,4,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,2,3,degrees F,823,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,1,2,degrees F,288,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,3,4,degrees F,490,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,2,3,degrees F,459,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,1,2,degrees F,106,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,4,5,degrees F,32,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,-1,1,degrees F,841,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,1,2,degrees F,341,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,2,3,degrees F,80,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,1,2,degrees F,1136,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,-1,1,degrees F,154,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,2,3,degrees F,6,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Thumb,-1,1,degrees F,436,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Thumb,1,2,degrees F,352,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,1,2,degrees F,1133,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,-1,1,degrees F,255,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmaxdev-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,2,3,degrees F,144,629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d
+tmean-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,50,55,degrees F,569,08c963c90ea97d671ac203c083ede878ca6335a79442c389643904e636d7471b
+tmean-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,55,60,degrees F,501,08c963c90ea97d671ac203c083ede878ca6335a79442c389643904e636d7471b
+tmean-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,50,55,degrees F,955,08c963c90ea97d671ac203c083ede878ca6335a79442c389643904e636d7471b
+tmean-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,55,60,degrees F,156,08c963c90ea97d671ac203c083ede878ca6335a79442c389643904e636d7471b
+tmean-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,50,55,degrees F,1087,08c963c90ea97d671ac203c083ede878ca6335a79442c389643904e636d7471b
+tmean-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,50,55,degrees F,1054,08c963c90ea97d671ac203c083ede878ca6335a79442c389643904e636d7471b
+tmean-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,55,60,degrees F,208,08c963c90ea97d671ac203c083ede878ca6335a79442c389643904e636d7471b
+tmean-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,55,60,degrees F,685,08c963c90ea97d671ac203c083ede878ca6335a79442c389643904e636d7471b
+tmean-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,50,55,degrees F,611,08c963c90ea97d671ac203c083ede878ca6335a79442c389643904e636d7471b
+tmean-7days.png,2026-10-06,2026-10-12,Thumb,55,60,degrees F,788,08c963c90ea97d671ac203c083ede878ca6335a79442c389643904e636d7471b
+tmean-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,55,60,degrees F,1532,08c963c90ea97d671ac203c083ede878ca6335a79442c389643904e636d7471b
+tmean-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,50,55,degrees F,1070,1ed2877639fa689d5f9a4cbc60f61d3de1108c31c92656ad107c4567a8f8a6d4
+tmean-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,50,55,degrees F,1111,1ed2877639fa689d5f9a4cbc60f61d3de1108c31c92656ad107c4567a8f8a6d4
+tmean-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,50,55,degrees F,1087,1ed2877639fa689d5f9a4cbc60f61d3de1108c31c92656ad107c4567a8f8a6d4
+tmean-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,50,55,degrees F,829,1ed2877639fa689d5f9a4cbc60f61d3de1108c31c92656ad107c4567a8f8a6d4
+tmean-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,55,60,degrees F,433,1ed2877639fa689d5f9a4cbc60f61d3de1108c31c92656ad107c4567a8f8a6d4
+tmean-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,55,60,degrees F,909,1ed2877639fa689d5f9a4cbc60f61d3de1108c31c92656ad107c4567a8f8a6d4
+tmean-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,50,55,degrees F,387,1ed2877639fa689d5f9a4cbc60f61d3de1108c31c92656ad107c4567a8f8a6d4
+tmean-30days.png,2026-09-13,2026-10-12,Thumb,55,60,degrees F,788,1ed2877639fa689d5f9a4cbc60f61d3de1108c31c92656ad107c4567a8f8a6d4
+tmean-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,55,60,degrees F,1355,1ed2877639fa689d5f9a4cbc60f61d3de1108c31c92656ad107c4567a8f8a6d4
+tmean-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,60,65,degrees F,177,1ed2877639fa689d5f9a4cbc60f61d3de1108c31c92656ad107c4567a8f8a6d4
+tmean-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,55,60,degrees F,548,b90f56bef2d9f31784ad92c4d56db212c9fb8fa2ce11fc71af3176a6ebfcf6f8
+tmean-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,60,65,degrees F,522,b90f56bef2d9f31784ad92c4d56db212c9fb8fa2ce11fc71af3176a6ebfcf6f8
+tmean-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,60,65,degrees F,1111,b90f56bef2d9f31784ad92c4d56db212c9fb8fa2ce11fc71af3176a6ebfcf6f8
+tmean-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,60,65,degrees F,1087,b90f56bef2d9f31784ad92c4d56db212c9fb8fa2ce11fc71af3176a6ebfcf6f8
+tmean-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,60,65,degrees F,1262,b90f56bef2d9f31784ad92c4d56db212c9fb8fa2ce11fc71af3176a6ebfcf6f8
+tmean-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,60,65,degrees F,741,b90f56bef2d9f31784ad92c4d56db212c9fb8fa2ce11fc71af3176a6ebfcf6f8
+tmean-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,65,70,degrees F,555,b90f56bef2d9f31784ad92c4d56db212c9fb8fa2ce11fc71af3176a6ebfcf6f8
+tmean-90days.png,2026-07-15,2026-10-12,Thumb,65,70,degrees F,788,b90f56bef2d9f31784ad92c4d56db212c9fb8fa2ce11fc71af3176a6ebfcf6f8
+tmean-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,65,70,degrees F,1532,b90f56bef2d9f31784ad92c4d56db212c9fb8fa2ce11fc71af3176a6ebfcf6f8
+tmeandev-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,6,9,degrees F,697,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,9,12,degrees F,373,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,3,6,degrees F,601,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,6,9,degrees F,510,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,3,6,degrees F,1075,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,1,3,degrees F,12,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,3,6,degrees F,1180,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,6,9,degrees F,82,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,3,6,degrees F,1262,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,6,9,degrees F,25,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,1,3,degrees F,9,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Thumb,1,3,degrees F,481,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Thumb,3,6,degrees F,301,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Thumb,-1,1,degrees F,6,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,3,6,degrees F,1351,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,1,3,degrees F,181,5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc
+tmeandev-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,1,2,degrees F,550,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,2,4,degrees F,490,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,-1,1,degrees F,30,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,-1,1,degrees F,822,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,1,2,degrees F,242,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,2,4,degrees F,47,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,1,2,degrees F,602,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,-1,1,degrees F,451,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,2,4,degrees F,34,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,1,2,degrees F,605,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,-1,1,degrees F,572,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,2,4,degrees F,85,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,-1,1,degrees F,1035,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,1,2,degrees F,146,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,2,4,degrees F,115,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Thumb,-1,1,degrees F,778,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Thumb,1,2,degrees F,10,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,1,2,degrees F,1307,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,2,4,degrees F,215,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,-1,1,degrees F,10,d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de
+tmeandev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,2,3,degrees F,532,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,1,2,degrees F,518,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,3,4,degrees F,20,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,-1,1,degrees F,822,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,1,2,degrees F,182,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,2,3,degrees F,107,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,1,2,degrees F,822,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,-1,1,degrees F,154,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,2,3,degrees F,111,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,1,2,degrees F,831,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,-1,1,degrees F,345,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,2,3,degrees F,86,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,-1,1,degrees F,700,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,1,2,degrees F,486,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,2,3,degrees F,110,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Thumb,1,2,degrees F,542,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Thumb,-1,1,degrees F,246,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,1,2,degrees F,960,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmeandev-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,2,3,degrees F,572,5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3
+tmin-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,35,40,degrees F,552,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,40,45,degrees F,518,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,40,45,degrees F,1027,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,35,40,degrees F,84,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,40,45,degrees F,973,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,35,40,degrees F,114,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,40,45,degrees F,1262,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,40,45,degrees F,731,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,35,40,degrees F,565,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-7days.png,2026-10-06,2026-10-12,Thumb,40,45,degrees F,557,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-7days.png,2026-10-06,2026-10-12,Thumb,45,50,degrees F,231,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,40,45,degrees F,813,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,45,50,degrees F,719,5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8
+tmin-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,35,40,degrees F,572,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,40,45,degrees F,498,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,35,40,degrees F,830,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,40,45,degrees F,281,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,40,45,degrees F,667,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,35,40,degrees F,420,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,40,45,degrees F,1222,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,45,50,degrees F,40,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,40,45,degrees F,801,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,45,50,degrees F,495,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-30days.png,2026-09-13,2026-10-12,Thumb,45,50,degrees F,788,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,45,50,degrees F,1498,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,50,55,degrees F,34,3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba
+tmin-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,45,50,degrees F,814,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,50,55,degrees F,246,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,40,45,degrees F,10,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,45,50,degrees F,1014,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,50,55,degrees F,97,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,45,50,degrees F,943,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,50,55,degrees F,144,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,50,55,degrees F,1256,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,45,50,degrees F,6,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,50,55,degrees F,1245,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,55,60,degrees F,30,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,45,50,degrees F,21,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Thumb,55,60,degrees F,625,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Thumb,50,55,degrees F,163,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmin-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,55,60,degrees F,1532,c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e
+tmindev-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,3,6,degrees F,852,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,1,3,degrees F,155,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Western Upper Peninsula,6,9,degrees F,63,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,1,3,degrees F,522,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,3,6,degrees F,466,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,-1,1,degrees F,84,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Central Upper Peninsula,6,9,degrees F,39,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,1,3,degrees F,553,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,3,6,degrees F,503,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Eastern Upper Peninsula,-1,1,degrees F,31,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,3,6,degrees F,680,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Northern Lower Peninsula,1,3,degrees F,582,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,-1,1,degrees F,997,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,1,3,degrees F,155,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,3,6,degrees F,135,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Central Lower Peninsula,-3,-1,degrees F,9,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Thumb,1,3,degrees F,527,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Thumb,-1,1,degrees F,225,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Thumb,-3,-1,degrees F,36,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,1,3,degrees F,1301,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,3,6,degrees F,187,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-7days.png,2026-10-06,2026-10-12,Southern Lower Peninsula,-1,1,degrees F,44,e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98
+tmindev-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,-1,1,degrees F,598,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,-2,-1,degrees F,258,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,-4,-2,degrees F,175,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Western Upper Peninsula,1,2,degrees F,39,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,-4,-2,degrees F,474,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,-6,-4,degrees F,348,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,-1,1,degrees F,249,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Central Upper Peninsula,-2,-1,degrees F,40,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,-4,-2,degrees F,492,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,-2,-1,degrees F,437,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,-6,-4,degrees F,114,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Eastern Upper Peninsula,-1,1,degrees F,44,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,-1,1,degrees F,977,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,1,2,degrees F,271,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Northern Lower Peninsula,-2,-1,degrees F,14,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,-1,1,degrees F,790,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,-2,-1,degrees F,251,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,2,4,degrees F,233,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Central Lower Peninsula,1,2,degrees F,22,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Thumb,-1,1,degrees F,710,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Thumb,1,2,degrees F,50,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Thumb,-2,-1,degrees F,28,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,2,4,degrees F,1151,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-30days.png,2026-09-13,2026-10-12,Southern Lower Peninsula,1,2,degrees F,381,efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8
+tmindev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,1,2,degrees F,419,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,-1,1,degrees F,365,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,2,3,degrees F,225,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,3,4,degrees F,31,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Western Upper Peninsula,-2,-1,degrees F,30,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,-2,-1,degrees F,540,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,-1,1,degrees F,306,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Central Upper Peninsula,1,2,degrees F,265,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,-1,1,degrees F,880,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,-2,-1,degrees F,173,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Eastern Upper Peninsula,1,2,degrees F,34,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,1,2,degrees F,717,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,2,3,degrees F,351,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,-1,1,degrees F,174,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Northern Lower Peninsula,3,4,degrees F,20,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,-1,1,degrees F,985,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,2,3,degrees F,218,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,1,2,degrees F,78,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Central Lower Peninsula,3,4,degrees F,15,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Thumb,1,2,degrees F,408,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Thumb,-1,1,degrees F,380,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,2,3,degrees F,1373,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,1,2,degrees F,114,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990
+tmindev-90days.png,2026-07-15,2026-10-12,Southern Lower Peninsula,3,4,degrees F,45,bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990

@@ -1,0 +1,224 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:33
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+<table><tr><td align="left">
+
+<BR WP="BR1"><BR WP="BR2">
+<P ALIGN="CENTER"><FONT SIZE="-1"><STRONG>2002 Growing Season Weather Summary</STRONG></FONT></P>
+<P ALIGN="CENTER"><FONT SIZE="-1">Jeff Andresen</FONT></P>
+<P ALIGN="CENTER"><FONT SIZE="-1">Michigan State University</FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">The 2002 growing season began quickly in response to a large upper air ridge across 
+the central and eastern US, which brought a period of abnormally warm weather during the middle 2 weeks 
+of the month.  Mean daily temperatures at or in excess of 90F were recorded at some locations in the 
+state (at least 35F above climatological normal high temperatures for the season), setting new maximum 
+temperature records at many locations during the 16th-18th.  Seasonal growing degree (GDD) accumulations, 
+which had been near zero due to cooler than normal temperatures during much of March and early April 
+surged to much above normal levels, resulting in rapid early growth and development of most overwintering 
+crops, and allowing rapid progress of spring fieldwork and planting.  Base GDD accumulations for the 8th-20th 
+of April ranged from about 40 units in the far northern Upper Peninsula to more than 150 units in the southern 
+Lower Peninsula, which is nearly double the normal accumulation for this time of year and versus the 2001 
+growing season totals. The unusual warmth came to an abrupt end on the 20<SUP>th</SUP> and again on the 
+25<SUP>th</SUP> with the passages of cold fronts through the region.  The change in jet stream was accompanied 
+by snowfall on the 21<SUP>st</SUP> and 22<SUP>nd</SUP>, and near-record minimum temperatures which fell into 
+the upper teens and 20's F. on the morning of the 23<SUP>rd</SUP>.  The cold temperatures caused extensive 
+damage to many perennial crops, especially tree fruit and grapes.</FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1"></FONT><FONT SIZE="-1">In contrast to the record warmth of April, much of May and June 
+were cooler than normal, thanks to a persistent broad troughing upper air feature across the Great Lakes 
+region.  A series of frontal systems also brought above normal precipitation totals to much of the state. 
+The cool, wet weather caused major delays in spring planting and slowed germination, growth, and development 
+of all crops.  In some areas, the conditions necessitated replanting.  By mid-June, seasonal base 50F growing 
+degree day totals lagged from 50-100 units behind normal, a dramatic change from the much above normal totals 
+experienced at the beginning of the season.  A return of an upper air ridging pattern across the Midwest during 
+late June led to yet another major weather change which continued through much of the remainder of the growing 
+season.  This middle and latter portions of the growing season were characterized by warmer than normal temperatures, 
+and during much of  June, July, and early August, by much drier than normal conditions.  During the period between 
+the first week of June and the second week of July, rainfall totals were less than 0.25 inches across much of the 
+Lower Peninsula.  The dryness led to increasing levels of moisture stress in most spring and summer crops, but 
+favored harvest of winter grains.  Much-needed rainfall brought relief to the stressful conditions in early August.  
+A drier the normal pattern developed across much of the state once again in late August and continued through the 
+remainder of the fall season. By late September, sections of southern Lower Michigan were characterized by NOAA's 
+Palmer Drought Index as experiencing 'moderate' drought conditions.  A notable exception to the drier than pattern 
+was western and central sections of the Upper Peninsula, where periodic heavy rainfall led to above normal precipitation 
+totals and a Palmer Drought Index characterization of 'abnormally wet' conditions during much of the fall season.</FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1">September and much of October were characterized by warmer and drier than normal weather, which 
+favored maturation and drydown of summer crops as well as harvest activities.  The first killing freeze of the fall 
+season occurred during the last week of September and first two weeks of October over most of the state, which is 
+near to a few days later than normal. Overall, for the 5-month May-September period, mean temperatures and growing 
+degree day accumulations ranged from near to above normal statewide.  From a climatological standpoint, the varying
+nature of GDD accumulations during the season was unusual.  From previous studies, we know that it is uncommon
+in Michigan for significant GDD deficits (or excesses) that develop during the first half of the growing season to be
+reversed by the end of the season, and as was the case this year.  Precipitation totals were also variable across the
+state, ranging from below normal totals much of the Lower Peninsula to much above normal levels in the Upper
+Peninsula.</FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+</td></tr></table>
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

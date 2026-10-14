@@ -1,3 +1,4 @@
+import expandedNetwork from '../../data/expanded/network.json';
 import swmHourly from '../../data/normalized/swm-hourly.json';
 import swmDaily from '../../data/normalized/swm-daily.json';
 import swmMaintenance from '../../data/normalized/swm-maintenance.json';
@@ -8,6 +9,7 @@ import { runs } from './format';
 export const reportsByStation: Record<string, { hourly: typeof hourly; daily: typeof daily; maintenance: typeof maintenance }> = {
   bnz: { hourly, daily, maintenance },
   swm: { hourly: swmHourly as typeof hourly, daily: swmDaily as typeof daily, maintenance: swmMaintenance as typeof maintenance },
+  ...expandedNetwork.reports as any,
 };
 
 export const hasAnyValue = (row: { cells: Record<string, Cell> }) => Object.values(row.cells).some((c) => !c.missing);
@@ -25,7 +27,7 @@ export function emptyRuns<T extends { cells: Record<string, Cell> }>(rows: T[], 
   return runs(idx).map(([from, to]) => ({ from: label(rows[from]), to: label(rows[to]), count: to - from + 1 }));
 }
 
-const OFFSETS: Record<string, number> = { EDT: 4, EST: 5 };
+const OFFSETS: Record<string, number> = { EDT: 4, EST: 5, CDT: 5, CST: 6 };
 
 /**
  * Minutes between an hourly row's labelled time and a UTC retrieval time.

@@ -1,7 +1,9 @@
 {
   "prcp-7days.png": {
-    "period": "October 5\u201311, 2026",
-    "summary": "Most of central and southern Lower Michigan received less than 0.01 inch. Northern Lower Michigan generally received 0.01\u20130.25 inch. The Upper Peninsula was wetter toward the east, where parts received roughly 0.25\u20130.5 inch.",
+    "period": "October 6, 2026 to October 12, 2026",
+    "periodStart": "2026-10-06",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 0.03 to 0.05 inches. Central Upper Peninsula: the most frequent sampled color represents 0.03 to 0.05 inches. Eastern Upper Peninsula: the most frequent sampled color represents 0.15 to 0.2 inches. Northern Lower Peninsula: the most frequent sampled color represents 0.15 to 0.2 inches. Central Lower Peninsula: the most frequent sampled color represents 0 to 0.01 inches. Thumb: the most frequent sampled color represents 0 to 0.01 inches. Southern Lower Peninsula: the most frequent sampled color represents 0 to 0.01 inches.",
     "legend": [
       0,
       0.01,
@@ -20,13 +22,327 @@
       1.5
     ],
     "unit": "inches",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "0.03 to 0.05",
+        "sampledRanges": "0 to 0.01, 0.01 to 0.02, 0.02 to 0.03, 0.03 to 0.05, 0.05 to 0.1",
+        "bands": [
+          {
+            "lower": 0.03,
+            "upper": 0.05,
+            "range": "0.03 to 0.05",
+            "samplePixels": 617
+          },
+          {
+            "lower": 0.02,
+            "upper": 0.03,
+            "range": "0.02 to 0.03",
+            "samplePixels": 239
+          },
+          {
+            "lower": 0.01,
+            "upper": 0.02,
+            "range": "0.01 to 0.02",
+            "samplePixels": 112
+          },
+          {
+            "lower": 0,
+            "upper": 0.01,
+            "range": "0 to 0.01",
+            "samplePixels": 79
+          },
+          {
+            "lower": 0.05,
+            "upper": 0.1,
+            "range": "0.05 to 0.1",
+            "samplePixels": 23
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "0.03 to 0.05",
+        "sampledRanges": "0.01 to 0.02, 0.02 to 0.03, 0.03 to 0.05, 0.05 to 0.1, 0.1 to 0.15, 0.15 to 0.2",
+        "bands": [
+          {
+            "lower": 0.03,
+            "upper": 0.05,
+            "range": "0.03 to 0.05",
+            "samplePixels": 401
+          },
+          {
+            "lower": 0.05,
+            "upper": 0.1,
+            "range": "0.05 to 0.1",
+            "samplePixels": 318
+          },
+          {
+            "lower": 0.1,
+            "upper": 0.15,
+            "range": "0.1 to 0.15",
+            "samplePixels": 210
+          },
+          {
+            "lower": 0.15,
+            "upper": 0.2,
+            "range": "0.15 to 0.2",
+            "samplePixels": 156
+          },
+          {
+            "lower": 0.02,
+            "upper": 0.03,
+            "range": "0.02 to 0.03",
+            "samplePixels": 22
+          },
+          {
+            "lower": 0.01,
+            "upper": 0.02,
+            "range": "0.01 to 0.02",
+            "samplePixels": 4
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "0.15 to 0.2",
+        "sampledRanges": "0.05 to 0.1, 0.1 to 0.15, 0.15 to 0.2, 0.2 to 0.25, 0.25 to 0.3, 0.3 to 0.5, 0.5 to 0.75",
+        "bands": [
+          {
+            "lower": 0.15,
+            "upper": 0.2,
+            "range": "0.15 to 0.2",
+            "samplePixels": 341
+          },
+          {
+            "lower": 0.3,
+            "upper": 0.5,
+            "range": "0.3 to 0.5",
+            "samplePixels": 285
+          },
+          {
+            "lower": 0.2,
+            "upper": 0.25,
+            "range": "0.2 to 0.25",
+            "samplePixels": 160
+          },
+          {
+            "lower": 0.1,
+            "upper": 0.15,
+            "range": "0.1 to 0.15",
+            "samplePixels": 145
+          },
+          {
+            "lower": 0.25,
+            "upper": 0.3,
+            "range": "0.25 to 0.3",
+            "samplePixels": 142
+          },
+          {
+            "lower": 0.05,
+            "upper": 0.1,
+            "range": "0.05 to 0.1",
+            "samplePixels": 10
+          },
+          {
+            "lower": 0.5,
+            "upper": 0.75,
+            "range": "0.5 to 0.75",
+            "samplePixels": 4
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "0.15 to 0.2",
+        "sampledRanges": "0.03 to 0.05, 0.05 to 0.1, 0.1 to 0.15, 0.15 to 0.2, 0.2 to 0.25",
+        "bands": [
+          {
+            "lower": 0.15,
+            "upper": 0.2,
+            "range": "0.15 to 0.2",
+            "samplePixels": 424
+          },
+          {
+            "lower": 0.1,
+            "upper": 0.15,
+            "range": "0.1 to 0.15",
+            "samplePixels": 413
+          },
+          {
+            "lower": 0.05,
+            "upper": 0.1,
+            "range": "0.05 to 0.1",
+            "samplePixels": 223
+          },
+          {
+            "lower": 0.2,
+            "upper": 0.25,
+            "range": "0.2 to 0.25",
+            "samplePixels": 196
+          },
+          {
+            "lower": 0.03,
+            "upper": 0.05,
+            "range": "0.03 to 0.05",
+            "samplePixels": 6
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "0 to 0.01",
+        "sampledRanges": "0 to 0.01, 0.01 to 0.02, 0.02 to 0.03, 0.03 to 0.05, 0.05 to 0.1, 0.1 to 0.15",
+        "bands": [
+          {
+            "lower": 0,
+            "upper": 0.01,
+            "range": "0 to 0.01",
+            "samplePixels": 595
+          },
+          {
+            "lower": 0.05,
+            "upper": 0.1,
+            "range": "0.05 to 0.1",
+            "samplePixels": 379
+          },
+          {
+            "lower": 0.03,
+            "upper": 0.05,
+            "range": "0.03 to 0.05",
+            "samplePixels": 172
+          },
+          {
+            "lower": 0.01,
+            "upper": 0.02,
+            "range": "0.01 to 0.02",
+            "samplePixels": 65
+          },
+          {
+            "lower": 0.1,
+            "upper": 0.15,
+            "range": "0.1 to 0.15",
+            "samplePixels": 44
+          },
+          {
+            "lower": 0.02,
+            "upper": 0.03,
+            "range": "0.02 to 0.03",
+            "samplePixels": 41
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "0 to 0.01",
+        "sampledRanges": "0 to 0.01, 0.01 to 0.02, 0.02 to 0.03, 0.03 to 0.05, 0.05 to 0.1, 0.1 to 0.15",
+        "bands": [
+          {
+            "lower": 0,
+            "upper": 0.01,
+            "range": "0 to 0.01",
+            "samplePixels": 342
+          },
+          {
+            "lower": 0.01,
+            "upper": 0.02,
+            "range": "0.01 to 0.02",
+            "samplePixels": 188
+          },
+          {
+            "lower": 0.02,
+            "upper": 0.03,
+            "range": "0.02 to 0.03",
+            "samplePixels": 148
+          },
+          {
+            "lower": 0.05,
+            "upper": 0.1,
+            "range": "0.05 to 0.1",
+            "samplePixels": 60
+          },
+          {
+            "lower": 0.03,
+            "upper": 0.05,
+            "range": "0.03 to 0.05",
+            "samplePixels": 48
+          },
+          {
+            "lower": 0.1,
+            "upper": 0.15,
+            "range": "0.1 to 0.15",
+            "samplePixels": 2
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "0 to 0.01",
+        "sampledRanges": "0 to 0.01, 0.01 to 0.02, 0.02 to 0.03, 0.03 to 0.05, 0.05 to 0.1",
+        "bands": [
+          {
+            "lower": 0,
+            "upper": 0.01,
+            "range": "0 to 0.01",
+            "samplePixels": 1163
+          },
+          {
+            "lower": 0.03,
+            "upper": 0.05,
+            "range": "0.03 to 0.05",
+            "samplePixels": 138
+          },
+          {
+            "lower": 0.01,
+            "upper": 0.02,
+            "range": "0.01 to 0.02",
+            "samplePixels": 125
+          },
+          {
+            "lower": 0.02,
+            "upper": 0.03,
+            "range": "0.02 to 0.03",
+            "samplePixels": 104
+          },
+          {
+            "lower": 0.05,
+            "upper": 0.1,
+            "range": "0.05 to 0.1",
+            "samplePixels": 2
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-7days.png",
+    "title": "Total Precipitation",
+    "generated": "Tue Oct 13, 2026 14:21:15 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:25.815101+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "5c91abdbf44ac8c9466094e08fc0a9d765f79a3f9e7617b6757a68739c37a2d9",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "prcp-30days.png": {
-    "period": "September 12\u2013October 11, 2026",
-    "summary": "The Upper Peninsula generally received 0.5\u20132 inches. Much of northern and central Lower Michigan received 1.5\u20133 inches. Southern and southwestern Lower Michigan were wetter, commonly 3\u20136 inches.",
+    "period": "September 13, 2026 to October 12, 2026",
+    "periodStart": "2026-09-13",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 0.5 to 1 inches. Central Upper Peninsula: the most frequent sampled color represents 0.5 to 1 inches. Eastern Upper Peninsula: the most frequent sampled color represents 1 to 1.5 inches. Northern Lower Peninsula: the most frequent sampled color represents 2 to 3 inches. Central Lower Peninsula: the most frequent sampled color represents 2 to 3 inches. Thumb: the most frequent sampled color represents 1.5 to 2 inches. Southern Lower Peninsula: the most frequent sampled color represents 4 to 6 inches.",
     "legend": [
       0,
       0.01,
@@ -45,15 +361,192 @@
       15
     ],
     "unit": "inches",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "0.5 to 1",
+        "sampledRanges": "0.5 to 1, 1 to 1.5",
+        "bands": [
+          {
+            "lower": 0.5,
+            "upper": 1,
+            "range": "0.5 to 1",
+            "samplePixels": 926
+          },
+          {
+            "lower": 1,
+            "upper": 1.5,
+            "range": "1 to 1.5",
+            "samplePixels": 144
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "0.5 to 1",
+        "sampledRanges": "0.5 to 1",
+        "bands": [
+          {
+            "lower": 0.5,
+            "upper": 1,
+            "range": "0.5 to 1",
+            "samplePixels": 1111
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "1 to 1.5",
+        "sampledRanges": "0.5 to 1, 1 to 1.5, 1.5 to 2",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 1.5,
+            "range": "1 to 1.5",
+            "samplePixels": 1034
+          },
+          {
+            "lower": 1.5,
+            "upper": 2,
+            "range": "1.5 to 2",
+            "samplePixels": 32
+          },
+          {
+            "lower": 0.5,
+            "upper": 1,
+            "range": "0.5 to 1",
+            "samplePixels": 21
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "2 to 3",
+        "sampledRanges": "1.5 to 2, 2 to 3, 3 to 4",
+        "bands": [
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 1206
+          },
+          {
+            "lower": 3,
+            "upper": 4,
+            "range": "3 to 4",
+            "samplePixels": 28
+          },
+          {
+            "lower": 1.5,
+            "upper": 2,
+            "range": "1.5 to 2",
+            "samplePixels": 28
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "2 to 3",
+        "sampledRanges": "1 to 1.5, 1.5 to 2, 2 to 3",
+        "bands": [
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 893
+          },
+          {
+            "lower": 1.5,
+            "upper": 2,
+            "range": "1.5 to 2",
+            "samplePixels": 387
+          },
+          {
+            "lower": 1,
+            "upper": 1.5,
+            "range": "1 to 1.5",
+            "samplePixels": 16
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "1.5 to 2",
+        "sampledRanges": "1 to 1.5, 1.5 to 2",
+        "bands": [
+          {
+            "lower": 1.5,
+            "upper": 2,
+            "range": "1.5 to 2",
+            "samplePixels": 681
+          },
+          {
+            "lower": 1,
+            "upper": 1.5,
+            "range": "1 to 1.5",
+            "samplePixels": 107
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "4 to 6",
+        "sampledRanges": "2 to 3, 3 to 4, 4 to 6",
+        "bands": [
+          {
+            "lower": 4,
+            "upper": 6,
+            "range": "4 to 6",
+            "samplePixels": 534
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 524
+          },
+          {
+            "lower": 3,
+            "upper": 4,
+            "range": "3 to 4",
+            "samplePixels": 474
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-30days.png",
+    "title": "Total Precipitation",
+    "generated": "Tue Oct 13, 2026 14:21:15 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:28.127582+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "3119a710a63de1d3f3e7626a1c66c002a7c4e4342f4efb0f43e336efb7d74107",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "prcp-90days.png": {
-    "period": "July 14\u2013October 11, 2026",
-    "summary": "The Upper Peninsula generally received 4\u201310 inches. Lower Michigan commonly received 7.5\u201315 inches, with wetter areas in the northeast and across parts of the south.",
+    "period": "July 15, 2026 to October 12, 2026",
+    "periodStart": "2026-07-15",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 4 to 7.5 inches. Central Upper Peninsula: the most frequent sampled color represents 4 to 7.5 inches. Eastern Upper Peninsula: the most frequent sampled color represents 4 to 7.5 inches. Northern Lower Peninsula: the most frequent sampled color represents 7.5 to 10 inches. Central Lower Peninsula: the most frequent sampled color represents 4 to 7.5 inches. Thumb: the most frequent sampled color represents 4 to 7.5 inches. Southern Lower Peninsula: the most frequent sampled color represents 10 to 12.5 inches.",
     "legend": [
       0,
+      0.01,
       0.1,
       0.5,
       1,
@@ -65,18 +558,187 @@
       12.5,
       15,
       20,
-      25,
       30,
       40
     ],
     "unit": "inches",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "4 to 7.5",
+        "sampledRanges": "4 to 7.5",
+        "bands": [
+          {
+            "lower": 4,
+            "upper": 7.5,
+            "range": "4 to 7.5",
+            "samplePixels": 1070
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "4 to 7.5",
+        "sampledRanges": "2 to 4, 4 to 7.5",
+        "bands": [
+          {
+            "lower": 4,
+            "upper": 7.5,
+            "range": "4 to 7.5",
+            "samplePixels": 930
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 181
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "4 to 7.5",
+        "sampledRanges": "4 to 7.5",
+        "bands": [
+          {
+            "lower": 4,
+            "upper": 7.5,
+            "range": "4 to 7.5",
+            "samplePixels": 1087
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "7.5 to 10",
+        "sampledRanges": "4 to 7.5, 7.5 to 10, 10 to 12.5",
+        "bands": [
+          {
+            "lower": 7.5,
+            "upper": 10,
+            "range": "7.5 to 10",
+            "samplePixels": 827
+          },
+          {
+            "lower": 4,
+            "upper": 7.5,
+            "range": "4 to 7.5",
+            "samplePixels": 252
+          },
+          {
+            "lower": 10,
+            "upper": 12.5,
+            "range": "10 to 12.5",
+            "samplePixels": 183
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "4 to 7.5",
+        "sampledRanges": "4 to 7.5, 7.5 to 10, 10 to 12.5",
+        "bands": [
+          {
+            "lower": 4,
+            "upper": 7.5,
+            "range": "4 to 7.5",
+            "samplePixels": 900
+          },
+          {
+            "lower": 7.5,
+            "upper": 10,
+            "range": "7.5 to 10",
+            "samplePixels": 314
+          },
+          {
+            "lower": 10,
+            "upper": 12.5,
+            "range": "10 to 12.5",
+            "samplePixels": 82
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "4 to 7.5",
+        "sampledRanges": "4 to 7.5, 7.5 to 10, 10 to 12.5",
+        "bands": [
+          {
+            "lower": 4,
+            "upper": 7.5,
+            "range": "4 to 7.5",
+            "samplePixels": 499
+          },
+          {
+            "lower": 10,
+            "upper": 12.5,
+            "range": "10 to 12.5",
+            "samplePixels": 185
+          },
+          {
+            "lower": 7.5,
+            "upper": 10,
+            "range": "7.5 to 10",
+            "samplePixels": 104
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "10 to 12.5",
+        "sampledRanges": "7.5 to 10, 10 to 12.5, 12.5 to 15",
+        "bands": [
+          {
+            "lower": 10,
+            "upper": 12.5,
+            "range": "10 to 12.5",
+            "samplePixels": 933
+          },
+          {
+            "lower": 7.5,
+            "upper": 10,
+            "range": "7.5 to 10",
+            "samplePixels": 380
+          },
+          {
+            "lower": 12.5,
+            "upper": 15,
+            "range": "12.5 to 15",
+            "samplePixels": 219
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcp-90days.png",
+    "title": "Total Precipitation",
+    "generated": "Tue Oct 13, 2026 14:22:22 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:30.362730+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "85d5439c57e96e8571b335cd7d62570632cedcd0228a472c98c1590ace81c169",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "prcpdev-7days.png": {
-    "period": "October 5\u201311, 2026",
-    "summary": "Almost all of Michigan is in the white legend bands, representing precipitation departures within about one inch of the 1991\u20132020 normal. The map does not distinguish negative and positive values within these white bands.",
+    "period": "October 6, 2026 to October 12, 2026",
+    "periodStart": "2026-10-06",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents -1 to 1 inches. Central Upper Peninsula: the most frequent sampled color represents -1 to 1 inches. Eastern Upper Peninsula: the most frequent sampled color represents -1 to 1 inches. Northern Lower Peninsula: the most frequent sampled color represents -1 to 1 inches. Central Lower Peninsula: the most frequent sampled color represents -1 to 1 inches. Thumb: the most frequent sampled color represents -1 to 1 inches. Southern Lower Peninsula: the most frequent sampled color represents -1 to 1 inches.",
     "legend": [
       -2,
       -1,
@@ -84,13 +746,129 @@
       1
     ],
     "unit": "inches",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 1070
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 1111
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 1087
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 1262
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 1296
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 788
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 1532
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-7days.png",
+    "title": "Total Precipitation - Departure from Mean",
+    "generated": "Tue Oct 13, 2026 14:21:24 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:32.649820+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "50704d7c7ac5e7c13f072643d702ea030b9723e58c2e238470a0922b9b2b9170",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "prcpdev-30days.png": {
-    "period": "September 12\u2013October 11, 2026",
-    "summary": "The Upper Peninsula was generally 2\u20134 inches below normal. Northern and eastern Lower Michigan were commonly below normal or within one inch of normal. Southern and southwestern Lower Michigan had areas about 1\u20134 inches above normal.",
+    "period": "September 13, 2026 to October 12, 2026",
+    "periodStart": "2026-09-13",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents -4 to -2 inches. Central Upper Peninsula: the most frequent sampled color represents -4 to -2 inches. Eastern Upper Peninsula: the most frequent sampled color represents -4 to -2 inches. Northern Lower Peninsula: the most frequent sampled color represents -2 to -1 inches. Central Lower Peninsula: the most frequent sampled color represents -1 to 1 inches. Thumb: the most frequent sampled color represents -2 to -1 inches. Southern Lower Peninsula: the most frequent sampled color represents -1 to 1 inches.",
     "legend": [
       -4,
       -2,
@@ -103,13 +881,159 @@
       8
     ],
     "unit": "inches",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "-4 to -2",
+        "sampledRanges": "-4 to -2",
+        "bands": [
+          {
+            "lower": -4,
+            "upper": -2,
+            "range": "-4 to -2",
+            "samplePixels": 1070
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "-4 to -2",
+        "sampledRanges": "-4 to -2",
+        "bands": [
+          {
+            "lower": -4,
+            "upper": -2,
+            "range": "-4 to -2",
+            "samplePixels": 1111
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "-4 to -2",
+        "sampledRanges": "-4 to -2",
+        "bands": [
+          {
+            "lower": -4,
+            "upper": -2,
+            "range": "-4 to -2",
+            "samplePixels": 1087
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "-2 to -1",
+        "sampledRanges": "-4 to -2, -2 to -1, -1 to 1",
+        "bands": [
+          {
+            "lower": -2,
+            "upper": -1,
+            "range": "-2 to -1",
+            "samplePixels": 710
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 547
+          },
+          {
+            "lower": -4,
+            "upper": -2,
+            "range": "-4 to -2",
+            "samplePixels": 5
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-2 to -1, -1 to 1",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 678
+          },
+          {
+            "lower": -2,
+            "upper": -1,
+            "range": "-2 to -1",
+            "samplePixels": 618
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "-2 to -1",
+        "sampledRanges": "-2 to -1",
+        "bands": [
+          {
+            "lower": -2,
+            "upper": -1,
+            "range": "-2 to -1",
+            "samplePixels": 788
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 1050
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 252
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 230
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-30days.png",
+    "title": "Total Precipitation - Departure from Mean",
+    "generated": "Tue Oct 13, 2026 14:21:24 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:34.894423+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "831974db7e2f73f3e73288d9bbe392bd05085893b386a55a634499de6ac28ef6",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "prcpdev-90days.png": {
-    "period": "July 14\u2013October 11, 2026",
-    "summary": "The Upper Peninsula was generally 2\u20138 inches below normal. Lower Michigan was mixed: a broad central band and the Thumb were below normal, while parts of the northeast and south were above normal. Most Lower Peninsula departures were within about four inches.",
+    "period": "July 15, 2026 to October 12, 2026",
+    "periodStart": "2026-07-15",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents -8 to -4 inches. Central Upper Peninsula: the most frequent sampled color represents -8 to -4 inches. Eastern Upper Peninsula: the most frequent sampled color represents -8 to -4 inches. Northern Lower Peninsula: the most frequent sampled color represents -2 to 2 inches. Central Lower Peninsula: the most frequent sampled color represents -4 to -2 inches. Thumb: the most frequent sampled color represents -4 to -2 inches. Southern Lower Peninsula: the most frequent sampled color represents -2 to 2 inches.",
     "legend": [
       -12,
       -8,
@@ -122,13 +1046,183 @@
       12
     ],
     "unit": "inches",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "-8 to -4",
+        "sampledRanges": "-8 to -4, -4 to -2",
+        "bands": [
+          {
+            "lower": -8,
+            "upper": -4,
+            "range": "-8 to -4",
+            "samplePixels": 979
+          },
+          {
+            "lower": -4,
+            "upper": -2,
+            "range": "-4 to -2",
+            "samplePixels": 91
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "-8 to -4",
+        "sampledRanges": "-8 to -4",
+        "bands": [
+          {
+            "lower": -8,
+            "upper": -4,
+            "range": "-8 to -4",
+            "samplePixels": 1111
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "-8 to -4",
+        "sampledRanges": "-8 to -4, -4 to -2",
+        "bands": [
+          {
+            "lower": -8,
+            "upper": -4,
+            "range": "-8 to -4",
+            "samplePixels": 714
+          },
+          {
+            "lower": -4,
+            "upper": -2,
+            "range": "-4 to -2",
+            "samplePixels": 373
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "-2 to 2",
+        "sampledRanges": "-8 to -4, -4 to -2, -2 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": -2,
+            "upper": 2,
+            "range": "-2 to 2",
+            "samplePixels": 971
+          },
+          {
+            "lower": -4,
+            "upper": -2,
+            "range": "-4 to -2",
+            "samplePixels": 172
+          },
+          {
+            "lower": -8,
+            "upper": -4,
+            "range": "-8 to -4",
+            "samplePixels": 86
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 33
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "-4 to -2",
+        "sampledRanges": "-8 to -4, -4 to -2, -2 to 2",
+        "bands": [
+          {
+            "lower": -4,
+            "upper": -2,
+            "range": "-4 to -2",
+            "samplePixels": 784
+          },
+          {
+            "lower": -2,
+            "upper": 2,
+            "range": "-2 to 2",
+            "samplePixels": 402
+          },
+          {
+            "lower": -8,
+            "upper": -4,
+            "range": "-8 to -4",
+            "samplePixels": 110
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "-4 to -2",
+        "sampledRanges": "-4 to -2, -2 to 2",
+        "bands": [
+          {
+            "lower": -4,
+            "upper": -2,
+            "range": "-4 to -2",
+            "samplePixels": 499
+          },
+          {
+            "lower": -2,
+            "upper": 2,
+            "range": "-2 to 2",
+            "samplePixels": 289
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "-2 to 2",
+        "sampledRanges": "-2 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": -2,
+            "upper": 2,
+            "range": "-2 to 2",
+            "samplePixels": 1195
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 337
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev-90days.png",
+    "title": "Total Precipitation - Departure from Mean",
+    "generated": "Tue Oct 13, 2026 14:22:27 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:37.104126+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "ad964d93707b1013e293ea11611f34a84b9cebb85c7184f5cd838e3ebbf6d0dc",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "prcpdev2-7days.png": {
-    "period": "October 5\u201311, 2026",
-    "summary": "Much of central and southern Lower Michigan received less than 2% of normal precipitation. Northern Lower Michigan and the eastern Upper Peninsula received larger fractions, commonly 10\u201350% of normal. No broad Michigan region reaches normal precipitation on this map.",
+    "period": "October 6, 2026 to October 12, 2026",
+    "periodStart": "2026-10-06",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 2 to 5 percent of normal. Central Upper Peninsula: the most frequent sampled color represents 2 to 5 percent of normal. Eastern Upper Peninsula: the most frequent sampled color represents 10 to 20 percent of normal. Northern Lower Peninsula: the most frequent sampled color represents 20 to 30 percent of normal. Central Lower Peninsula: the most frequent sampled color represents 0 to 2 percent of normal. Thumb: the most frequent sampled color represents 0 to 2 percent of normal. Southern Lower Peninsula: the most frequent sampled color represents 0 to 2 percent of normal.",
     "legend": [
       0,
       2,
@@ -140,13 +1234,249 @@
       75
     ],
     "unit": "percent of normal",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "2 to 5",
+        "sampledRanges": "0 to 2, 2 to 5, 5 to 10",
+        "bands": [
+          {
+            "lower": 2,
+            "upper": 5,
+            "range": "2 to 5",
+            "samplePixels": 816
+          },
+          {
+            "lower": 0,
+            "upper": 2,
+            "range": "0 to 2",
+            "samplePixels": 161
+          },
+          {
+            "lower": 5,
+            "upper": 10,
+            "range": "5 to 10",
+            "samplePixels": 93
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "2 to 5",
+        "sampledRanges": "0 to 2, 2 to 5, 5 to 10, 10 to 20",
+        "bands": [
+          {
+            "lower": 2,
+            "upper": 5,
+            "range": "2 to 5",
+            "samplePixels": 411
+          },
+          {
+            "lower": 10,
+            "upper": 20,
+            "range": "10 to 20",
+            "samplePixels": 366
+          },
+          {
+            "lower": 5,
+            "upper": 10,
+            "range": "5 to 10",
+            "samplePixels": 330
+          },
+          {
+            "lower": 0,
+            "upper": 2,
+            "range": "0 to 2",
+            "samplePixels": 4
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "10 to 20",
+        "sampledRanges": "5 to 10, 10 to 20, 20 to 30, 30 to 50, 50 to 75",
+        "bands": [
+          {
+            "lower": 10,
+            "upper": 20,
+            "range": "10 to 20",
+            "samplePixels": 483
+          },
+          {
+            "lower": 20,
+            "upper": 30,
+            "range": "20 to 30",
+            "samplePixels": 305
+          },
+          {
+            "lower": 30,
+            "upper": 50,
+            "range": "30 to 50",
+            "samplePixels": 285
+          },
+          {
+            "lower": 5,
+            "upper": 10,
+            "range": "5 to 10",
+            "samplePixels": 10
+          },
+          {
+            "lower": 50,
+            "upper": 75,
+            "range": "50 to 75",
+            "samplePixels": 4
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "20 to 30",
+        "sampledRanges": "2 to 5, 5 to 10, 10 to 20, 20 to 30",
+        "bands": [
+          {
+            "lower": 20,
+            "upper": 30,
+            "range": "20 to 30",
+            "samplePixels": 563
+          },
+          {
+            "lower": 10,
+            "upper": 20,
+            "range": "10 to 20",
+            "samplePixels": 519
+          },
+          {
+            "lower": 5,
+            "upper": 10,
+            "range": "5 to 10",
+            "samplePixels": 174
+          },
+          {
+            "lower": 2,
+            "upper": 5,
+            "range": "2 to 5",
+            "samplePixels": 6
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "0 to 2",
+        "sampledRanges": "0 to 2, 2 to 5, 5 to 10, 10 to 20",
+        "bands": [
+          {
+            "lower": 0,
+            "upper": 2,
+            "range": "0 to 2",
+            "samplePixels": 615
+          },
+          {
+            "lower": 5,
+            "upper": 10,
+            "range": "5 to 10",
+            "samplePixels": 429
+          },
+          {
+            "lower": 2,
+            "upper": 5,
+            "range": "2 to 5",
+            "samplePixels": 138
+          },
+          {
+            "lower": 10,
+            "upper": 20,
+            "range": "10 to 20",
+            "samplePixels": 114
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "0 to 2",
+        "sampledRanges": "0 to 2, 2 to 5, 5 to 10, 10 to 20",
+        "bands": [
+          {
+            "lower": 0,
+            "upper": 2,
+            "range": "0 to 2",
+            "samplePixels": 382
+          },
+          {
+            "lower": 2,
+            "upper": 5,
+            "range": "2 to 5",
+            "samplePixels": 300
+          },
+          {
+            "lower": 5,
+            "upper": 10,
+            "range": "5 to 10",
+            "samplePixels": 62
+          },
+          {
+            "lower": 10,
+            "upper": 20,
+            "range": "10 to 20",
+            "samplePixels": 44
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "0 to 2",
+        "sampledRanges": "0 to 2, 2 to 5, 5 to 10",
+        "bands": [
+          {
+            "lower": 0,
+            "upper": 2,
+            "range": "0 to 2",
+            "samplePixels": 1207
+          },
+          {
+            "lower": 2,
+            "upper": 5,
+            "range": "2 to 5",
+            "samplePixels": 289
+          },
+          {
+            "lower": 5,
+            "upper": 10,
+            "range": "5 to 10",
+            "samplePixels": 36
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data and NCEI Normals"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-7days.png",
+    "title": "Total Precipitation - Percent of Mean",
+    "generated": "Tue Oct 13, 2026 14:21:20 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:39.387368+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "a1cbce2571088ea3fe5daa4cb2ba177e82ff1e2613d22380fe581e63e965d469",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "prcpdev2-30days.png": {
-    "period": "September 12\u2013October 11, 2026",
-    "summary": "The Upper Peninsula generally received 10\u201350% of normal precipitation. Much of northern and eastern Lower Michigan received 50\u201390%. Southern and southwestern Lower Michigan were near or above normal, with areas at 125\u2013200%.",
+    "period": "September 13, 2026 to October 12, 2026",
+    "periodStart": "2026-09-13",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 10 to 20 percent of normal. Central Upper Peninsula: the most frequent sampled color represents 20 to 30 percent of normal. Eastern Upper Peninsula: the most frequent sampled color represents 30 to 50 percent of normal. Northern Lower Peninsula: the most frequent sampled color represents 50 to 75 percent of normal. Central Lower Peninsula: the most frequent sampled color represents 50 to 75 percent of normal. Thumb: the most frequent sampled color represents 50 to 75 percent of normal. Southern Lower Peninsula: the most frequent sampled color represents 75 to 90 percent of normal.",
     "legend": [
       0,
       2,
@@ -166,13 +1496,201 @@
       400
     ],
     "unit": "percent of normal",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "10 to 20",
+        "sampledRanges": "10 to 20, 20 to 30, 30 to 50",
+        "bands": [
+          {
+            "lower": 10,
+            "upper": 20,
+            "range": "10 to 20",
+            "samplePixels": 712
+          },
+          {
+            "lower": 20,
+            "upper": 30,
+            "range": "20 to 30",
+            "samplePixels": 309
+          },
+          {
+            "lower": 30,
+            "upper": 50,
+            "range": "30 to 50",
+            "samplePixels": 49
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "20 to 30",
+        "sampledRanges": "10 to 20, 20 to 30",
+        "bands": [
+          {
+            "lower": 20,
+            "upper": 30,
+            "range": "20 to 30",
+            "samplePixels": 558
+          },
+          {
+            "lower": 10,
+            "upper": 20,
+            "range": "10 to 20",
+            "samplePixels": 553
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "30 to 50",
+        "sampledRanges": "20 to 30, 30 to 50",
+        "bands": [
+          {
+            "lower": 30,
+            "upper": 50,
+            "range": "30 to 50",
+            "samplePixels": 872
+          },
+          {
+            "lower": 20,
+            "upper": 30,
+            "range": "20 to 30",
+            "samplePixels": 215
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "50 to 75",
+        "sampledRanges": "30 to 50, 50 to 75, 75 to 90",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 75,
+            "range": "50 to 75",
+            "samplePixels": 1083
+          },
+          {
+            "lower": 75,
+            "upper": 90,
+            "range": "75 to 90",
+            "samplePixels": 178
+          },
+          {
+            "lower": 30,
+            "upper": 50,
+            "range": "30 to 50",
+            "samplePixels": 1
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "50 to 75",
+        "sampledRanges": "50 to 75, 75 to 90",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 75,
+            "range": "50 to 75",
+            "samplePixels": 852
+          },
+          {
+            "lower": 75,
+            "upper": 90,
+            "range": "75 to 90",
+            "samplePixels": 444
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "50 to 75",
+        "sampledRanges": "30 to 50, 50 to 75",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 75,
+            "range": "50 to 75",
+            "samplePixels": 535
+          },
+          {
+            "lower": 30,
+            "upper": 50,
+            "range": "30 to 50",
+            "samplePixels": 253
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "75 to 90",
+        "sampledRanges": "75 to 90, 90 to 110, 110 to 125, 125 to 150, 150 to 200",
+        "bands": [
+          {
+            "lower": 75,
+            "upper": 90,
+            "range": "75 to 90",
+            "samplePixels": 433
+          },
+          {
+            "lower": 150,
+            "upper": 200,
+            "range": "150 to 200",
+            "samplePixels": 395
+          },
+          {
+            "lower": 90,
+            "upper": 110,
+            "range": "90 to 110",
+            "samplePixels": 368
+          },
+          {
+            "lower": 110,
+            "upper": 125,
+            "range": "110 to 125",
+            "samplePixels": 249
+          },
+          {
+            "lower": 125,
+            "upper": 150,
+            "range": "125 to 150",
+            "samplePixels": 87
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data and NCEI Normals"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-30days.png",
+    "title": "Total Precipitation - Percent of Mean",
+    "generated": "Tue Oct 13, 2026 14:21:20 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:41.675598+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "4d8767e9f6ef49bf8fb00537bd952ec5b01d731cfb3c632894001aee85cc422b",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "prcpdev2-90days.png": {
-    "period": "July 14\u2013October 11, 2026",
-    "summary": "The Upper Peninsula generally received 30\u201375% of normal precipitation. Lower Michigan was mixed: a central band and parts of the Thumb were below normal, while parts of the northeast and south were near or above normal, commonly 100\u2013125%.",
+    "period": "July 15, 2026 to October 12, 2026",
+    "periodStart": "2026-07-15",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 50 to 75 percent of normal. Central Upper Peninsula: the most frequent sampled color represents 30 to 50 percent of normal. Eastern Upper Peninsula: the most frequent sampled color represents 50 to 75 percent of normal. Northern Lower Peninsula: the most frequent sampled color represents 90 to 110 percent of normal. Central Lower Peninsula: the most frequent sampled color represents 50 to 75 percent of normal. Thumb: the most frequent sampled color represents 50 to 75 percent of normal. Southern Lower Peninsula: the most frequent sampled color represents 90 to 110 percent of normal.",
     "legend": [
       0,
       2,
@@ -190,15 +1708,226 @@
       200
     ],
     "unit": "percent of normal",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "50 to 75",
+        "sampledRanges": "30 to 50, 50 to 75",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 75,
+            "range": "50 to 75",
+            "samplePixels": 824
+          },
+          {
+            "lower": 30,
+            "upper": 50,
+            "range": "30 to 50",
+            "samplePixels": 246
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "30 to 50",
+        "sampledRanges": "30 to 50, 50 to 75",
+        "bands": [
+          {
+            "lower": 30,
+            "upper": 50,
+            "range": "30 to 50",
+            "samplePixels": 740
+          },
+          {
+            "lower": 50,
+            "upper": 75,
+            "range": "50 to 75",
+            "samplePixels": 371
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "50 to 75",
+        "sampledRanges": "30 to 50, 50 to 75",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 75,
+            "range": "50 to 75",
+            "samplePixels": 939
+          },
+          {
+            "lower": 30,
+            "upper": 50,
+            "range": "30 to 50",
+            "samplePixels": 148
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "90 to 110",
+        "sampledRanges": "50 to 75, 75 to 90, 90 to 110, 110 to 125, 125 to 150",
+        "bands": [
+          {
+            "lower": 90,
+            "upper": 110,
+            "range": "90 to 110",
+            "samplePixels": 533
+          },
+          {
+            "lower": 75,
+            "upper": 90,
+            "range": "75 to 90",
+            "samplePixels": 329
+          },
+          {
+            "lower": 50,
+            "upper": 75,
+            "range": "50 to 75",
+            "samplePixels": 257
+          },
+          {
+            "lower": 110,
+            "upper": 125,
+            "range": "110 to 125",
+            "samplePixels": 125
+          },
+          {
+            "lower": 125,
+            "upper": 150,
+            "range": "125 to 150",
+            "samplePixels": 18
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "50 to 75",
+        "sampledRanges": "50 to 75, 75 to 90, 90 to 110, 110 to 125",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 75,
+            "range": "50 to 75",
+            "samplePixels": 707
+          },
+          {
+            "lower": 75,
+            "upper": 90,
+            "range": "75 to 90",
+            "samplePixels": 300
+          },
+          {
+            "lower": 110,
+            "upper": 125,
+            "range": "110 to 125",
+            "samplePixels": 192
+          },
+          {
+            "lower": 90,
+            "upper": 110,
+            "range": "90 to 110",
+            "samplePixels": 97
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "50 to 75",
+        "sampledRanges": "50 to 75, 75 to 90, 90 to 110, 110 to 125",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 75,
+            "range": "50 to 75",
+            "samplePixels": 475
+          },
+          {
+            "lower": 90,
+            "upper": 110,
+            "range": "90 to 110",
+            "samplePixels": 169
+          },
+          {
+            "lower": 110,
+            "upper": 125,
+            "range": "110 to 125",
+            "samplePixels": 120
+          },
+          {
+            "lower": 75,
+            "upper": 90,
+            "range": "75 to 90",
+            "samplePixels": 24
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "90 to 110",
+        "sampledRanges": "75 to 90, 90 to 110, 110 to 125, 125 to 150",
+        "bands": [
+          {
+            "lower": 90,
+            "upper": 110,
+            "range": "90 to 110",
+            "samplePixels": 705
+          },
+          {
+            "lower": 110,
+            "upper": 125,
+            "range": "110 to 125",
+            "samplePixels": 593
+          },
+          {
+            "lower": 125,
+            "upper": 150,
+            "range": "125 to 150",
+            "samplePixels": 164
+          },
+          {
+            "lower": 75,
+            "upper": 90,
+            "range": "75 to 90",
+            "samplePixels": 70
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data and NCEI Normals"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/prcpdev2-90days.png",
+    "title": "Total Precipitation - Percent of Mean",
+    "generated": "Tue Oct 13, 2026 14:22:22 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:43.871697+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "76deff53abc8f3aca360f87b4120cd7e400d700a296e582d3cde6e02151e2601",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmax-7days.png": {
-    "period": "October 5\u201311, 2026",
-    "summary": "Average daily highs were generally 60\u201370\u00b0F in the Upper Peninsula and northern Lower Michigan, and 65\u201375\u00b0F farther south. Southern Lower Michigan was the warmest part of the state.",
+    "period": "October 6, 2026 to October 12, 2026",
+    "periodStart": "2026-10-06",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 65 to 70 degrees F. Central Upper Peninsula: the most frequent sampled color represents 65 to 70 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 60 to 65 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 65 to 70 degrees F. Central Lower Peninsula: the most frequent sampled color represents 65 to 70 degrees F. Thumb: the most frequent sampled color represents 65 to 70 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 65 to 70 degrees F.",
     "legend": [
-      55,
       60,
       65,
       70,
@@ -207,13 +1936,165 @@
       85
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "65 to 70, 70 to 75",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 830
+          },
+          {
+            "lower": 70,
+            "upper": 75,
+            "range": "70 to 75",
+            "samplePixels": 240
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "60 to 65, 65 to 70",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 770
+          },
+          {
+            "lower": 60,
+            "upper": 65,
+            "range": "60 to 65",
+            "samplePixels": 341
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "60 to 65",
+        "sampledRanges": "60 to 65, 65 to 70",
+        "bands": [
+          {
+            "lower": 60,
+            "upper": 65,
+            "range": "60 to 65",
+            "samplePixels": 1079
+          },
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 8
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "60 to 65, 65 to 70",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 1213
+          },
+          {
+            "lower": 60,
+            "upper": 65,
+            "range": "60 to 65",
+            "samplePixels": 49
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "65 to 70, 70 to 75",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 689
+          },
+          {
+            "lower": 70,
+            "upper": 75,
+            "range": "70 to 75",
+            "samplePixels": 607
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "65 to 70",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 788
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "65 to 70, 70 to 75",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 807
+          },
+          {
+            "lower": 70,
+            "upper": 75,
+            "range": "70 to 75",
+            "samplePixels": 725
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-7days.png",
+    "title": "Average High Temperature",
+    "generated": "Tue Oct 13, 2026 14:20:57 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:46.047739+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "21938d842d7063037632900990f4e27de1ef2341c000372bce5a79217211efa0",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmax-30days.png": {
-    "period": "September 12\u2013October 11, 2026",
-    "summary": "Average daily highs were generally 60\u201370\u00b0F in the Upper Peninsula, 65\u201370\u00b0F across much of northern and central Lower Michigan, and 70\u201375\u00b0F in the south.",
+    "period": "September 13, 2026 to October 12, 2026",
+    "periodStart": "2026-09-13",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 65 to 70 degrees F. Central Upper Peninsula: the most frequent sampled color represents 65 to 70 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 65 to 70 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 65 to 70 degrees F. Central Lower Peninsula: the most frequent sampled color represents 65 to 70 degrees F. Thumb: the most frequent sampled color represents 65 to 70 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 70 to 75 degrees F.",
     "legend": [
       60,
       65,
@@ -222,13 +2103,147 @@
       80
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "60 to 65, 65 to 70",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 908
+          },
+          {
+            "lower": 60,
+            "upper": 65,
+            "range": "60 to 65",
+            "samplePixels": 162
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "65 to 70",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 1111
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "65 to 70",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 1087
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "65 to 70",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 1262
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "65 to 70, 70 to 75",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 1187
+          },
+          {
+            "lower": 70,
+            "upper": 75,
+            "range": "70 to 75",
+            "samplePixels": 109
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "65 to 70",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 788
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "70 to 75",
+        "sampledRanges": "65 to 70, 70 to 75",
+        "bands": [
+          {
+            "lower": 70,
+            "upper": 75,
+            "range": "70 to 75",
+            "samplePixels": 928
+          },
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 604
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-30days.png",
+    "title": "Average High Temperature",
+    "generated": "Tue Oct 13, 2026 14:20:57 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:48.298373+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "0d6761de45b4f425f0b8402818d9cbf2368fd99b1243cba478797cc64a276d73",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmax-90days.png": {
-    "period": "July 14\u2013October 11, 2026",
-    "summary": "Average daily highs were generally 70\u201375\u00b0F across much of the Upper Peninsula, with warmer pockets. Lower Michigan was mostly 75\u201380\u00b0F; some northern areas were 70\u201375\u00b0F.",
+    "period": "July 15, 2026 to October 12, 2026",
+    "periodStart": "2026-07-15",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 70 to 75 degrees F. Central Upper Peninsula: the most frequent sampled color represents 70 to 75 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 70 to 75 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 70 to 75 degrees F. Central Lower Peninsula: the most frequent sampled color represents 75 to 80 degrees F. Thumb: the most frequent sampled color represents 75 to 80 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 75 to 80 degrees F.",
     "legend": [
       65,
       70,
@@ -237,13 +2252,141 @@
       85
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "70 to 75",
+        "sampledRanges": "70 to 75, 75 to 80",
+        "bands": [
+          {
+            "lower": 70,
+            "upper": 75,
+            "range": "70 to 75",
+            "samplePixels": 1000
+          },
+          {
+            "lower": 75,
+            "upper": 80,
+            "range": "75 to 80",
+            "samplePixels": 70
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "70 to 75",
+        "sampledRanges": "70 to 75",
+        "bands": [
+          {
+            "lower": 70,
+            "upper": 75,
+            "range": "70 to 75",
+            "samplePixels": 1111
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "70 to 75",
+        "sampledRanges": "70 to 75",
+        "bands": [
+          {
+            "lower": 70,
+            "upper": 75,
+            "range": "70 to 75",
+            "samplePixels": 1087
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "70 to 75",
+        "sampledRanges": "70 to 75, 75 to 80",
+        "bands": [
+          {
+            "lower": 70,
+            "upper": 75,
+            "range": "70 to 75",
+            "samplePixels": 1138
+          },
+          {
+            "lower": 75,
+            "upper": 80,
+            "range": "75 to 80",
+            "samplePixels": 124
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "75 to 80",
+        "sampledRanges": "75 to 80",
+        "bands": [
+          {
+            "lower": 75,
+            "upper": 80,
+            "range": "75 to 80",
+            "samplePixels": 1296
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "75 to 80",
+        "sampledRanges": "75 to 80",
+        "bands": [
+          {
+            "lower": 75,
+            "upper": 80,
+            "range": "75 to 80",
+            "samplePixels": 788
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "75 to 80",
+        "sampledRanges": "75 to 80",
+        "bands": [
+          {
+            "lower": 75,
+            "upper": 80,
+            "range": "75 to 80",
+            "samplePixels": 1532
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmax-90days.png",
+    "title": "Average High Temperature",
+    "generated": "Tue Oct 13, 2026 14:22:12 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:50.517532+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "cdf4f20c6913dbb8870470e8510f130fbbd4e7f345e3bb353d655b7c328956b6",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmaxdev-7days.png": {
-    "period": "October 5\u201311, 2026",
-    "summary": "Average daily highs were above the 1991\u20132020 normal statewide. The Upper Peninsula generally ran 3\u201312\u00b0F warmer, with the larger departures toward the west. Lower Michigan was commonly 3\u20139\u00b0F warmer.",
+    "period": "October 6, 2026 to October 12, 2026",
+    "periodStart": "2026-10-06",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 9 to 12 degrees F. Central Upper Peninsula: the most frequent sampled color represents 6 to 9 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 6 to 9 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 6 to 9 degrees F. Central Lower Peninsula: the most frequent sampled color represents 6 to 9 degrees F. Thumb: the most frequent sampled color represents 3 to 6 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 3 to 6 degrees F.",
     "legend": [
       -1,
       0,
@@ -252,16 +2395,163 @@
       6,
       9,
       12,
-      15
+      15,
+      18
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "9 to 12",
+        "sampledRanges": "9 to 12, 12 to 15",
+        "bands": [
+          {
+            "lower": 9,
+            "upper": 12,
+            "range": "9 to 12",
+            "samplePixels": 585
+          },
+          {
+            "lower": 12,
+            "upper": 15,
+            "range": "12 to 15",
+            "samplePixels": 485
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "6 to 9",
+        "sampledRanges": "6 to 9, 9 to 12",
+        "bands": [
+          {
+            "lower": 6,
+            "upper": 9,
+            "range": "6 to 9",
+            "samplePixels": 673
+          },
+          {
+            "lower": 9,
+            "upper": 12,
+            "range": "9 to 12",
+            "samplePixels": 438
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "6 to 9",
+        "sampledRanges": "3 to 6, 6 to 9",
+        "bands": [
+          {
+            "lower": 6,
+            "upper": 9,
+            "range": "6 to 9",
+            "samplePixels": 1019
+          },
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 68
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "6 to 9",
+        "sampledRanges": "3 to 6, 6 to 9",
+        "bands": [
+          {
+            "lower": 6,
+            "upper": 9,
+            "range": "6 to 9",
+            "samplePixels": 1167
+          },
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 95
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "6 to 9",
+        "sampledRanges": "6 to 9",
+        "bands": [
+          {
+            "lower": 6,
+            "upper": 9,
+            "range": "6 to 9",
+            "samplePixels": 1296
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "3 to 6",
+        "sampledRanges": "3 to 6",
+        "bands": [
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 788
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "3 to 6",
+        "sampledRanges": "3 to 6, 6 to 9",
+        "bands": [
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 928
+          },
+          {
+            "lower": 6,
+            "upper": 9,
+            "range": "6 to 9",
+            "samplePixels": 604
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-7days.png",
+    "title": "Average High Temperature - Departure from Mean",
+    "generated": "Tue Oct 13, 2026 14:21:02 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:52.687027+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "dc8537df82a7a6eee16ed12407ccd73117b670b77fefef26d049986ae1f75014",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmaxdev-30days.png": {
-    "period": "September 12\u2013October 11, 2026",
-    "summary": "Average daily highs were generally 2\u20136\u00b0F above normal in the Upper Peninsula. Lower Michigan was mostly near normal to 2\u00b0F above normal, with some warmer areas along the northwest coast.",
+    "period": "September 13, 2026 to October 12, 2026",
+    "periodStart": "2026-09-13",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 4 to 6 degrees F. Central Upper Peninsula: the most frequent sampled color represents 4 to 6 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 4 to 6 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 1 to 2 degrees F. Central Lower Peninsula: the most frequent sampled color represents 1 to 2 degrees F. Thumb: the most frequent sampled color represents -1 to 1 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 1 to 2 degrees F.",
     "legend": [
       -4,
       -2,
@@ -274,13 +2564,195 @@
       8
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "4 to 6",
+        "sampledRanges": "2 to 4, 4 to 6",
+        "bands": [
+          {
+            "lower": 4,
+            "upper": 6,
+            "range": "4 to 6",
+            "samplePixels": 769
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 301
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "4 to 6",
+        "sampledRanges": "2 to 4, 4 to 6",
+        "bands": [
+          {
+            "lower": 4,
+            "upper": 6,
+            "range": "4 to 6",
+            "samplePixels": 777
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 334
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "4 to 6",
+        "sampledRanges": "2 to 4, 4 to 6",
+        "bands": [
+          {
+            "lower": 4,
+            "upper": 6,
+            "range": "4 to 6",
+            "samplePixels": 884
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 203
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 4, 4 to 6",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 766
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 368
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 112
+          },
+          {
+            "lower": 4,
+            "upper": 6,
+            "range": "4 to 6",
+            "samplePixels": 16
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 1186
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 61
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 49
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1, 1 to 2",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 735
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 53
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 1041
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 456
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 35
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-30days.png",
+    "title": "Average High Temperature - Departure from Mean",
+    "generated": "Tue Oct 13, 2026 14:21:01 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:54.855661+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "58ef9a220e5ca44fcc6f7d50736201a52364c4afd0ca5b2383b576404757b55c",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmaxdev-90days.png": {
-    "period": "July 14\u2013October 11, 2026",
-    "summary": "Average daily highs were mostly above normal in the Upper Peninsula, commonly by 1\u20135\u00b0F. Lower Michigan was mostly within about 3\u00b0F of normal, with warmer areas in the central and southern peninsula.",
+    "period": "July 15, 2026 to October 12, 2026",
+    "periodStart": "2026-07-15",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 2 to 3 degrees F. Central Upper Peninsula: the most frequent sampled color represents 2 to 3 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 3 to 4 degrees F. Northern Lower Peninsula: the most frequent sampled color represents -1 to 1 degrees F. Central Lower Peninsula: the most frequent sampled color represents 1 to 2 degrees F. Thumb: the most frequent sampled color represents -1 to 1 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 1 to 2 degrees F.",
     "legend": [
       -3,
       -2,
@@ -294,15 +2766,214 @@
       6
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "2 to 3",
+        "sampledRanges": "1 to 2, 2 to 3, 3 to 4, 4 to 5",
+        "bands": [
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 565
+          },
+          {
+            "lower": 3,
+            "upper": 4,
+            "range": "3 to 4",
+            "samplePixels": 427
+          },
+          {
+            "lower": 4,
+            "upper": 5,
+            "range": "4 to 5",
+            "samplePixels": 74
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 4
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "2 to 3",
+        "sampledRanges": "1 to 2, 2 to 3",
+        "bands": [
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 823
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 288
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "3 to 4",
+        "sampledRanges": "1 to 2, 2 to 3, 3 to 4, 4 to 5",
+        "bands": [
+          {
+            "lower": 3,
+            "upper": 4,
+            "range": "3 to 4",
+            "samplePixels": 490
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 459
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 106
+          },
+          {
+            "lower": 4,
+            "upper": 5,
+            "range": "4 to 5",
+            "samplePixels": 32
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 3",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 841
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 341
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 80
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 3",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 1136
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 154
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 6
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1, 1 to 2",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 436
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 352
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 3",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 1133
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 255
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 144
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmaxdev-90days.png",
+    "title": "Average High Temperature - Departure from Mean",
+    "generated": "Tue Oct 13, 2026 14:22:13 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:57.030290+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "629705528ac58961fde7d90bf71ceadec30b7e89ca508061ff58855c032e783d",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmean-7days.png": {
-    "period": "October 5\u201311, 2026",
-    "summary": "Mean temperatures were generally 50\u201355\u00b0F across the Upper Peninsula and northern Lower Michigan, with some cooler Upper Peninsula locations. Central and southern Lower Michigan were mostly 55\u201360\u00b0F.",
+    "period": "October 6, 2026 to October 12, 2026",
+    "periodStart": "2026-10-06",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 50 to 55 degrees F. Central Upper Peninsula: the most frequent sampled color represents 50 to 55 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 50 to 55 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 50 to 55 degrees F. Central Lower Peninsula: the most frequent sampled color represents 55 to 60 degrees F. Thumb: the most frequent sampled color represents 55 to 60 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 55 to 60 degrees F.",
     "legend": [
-      45,
       50,
       55,
       60,
@@ -310,13 +2981,153 @@
       70
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "50 to 55",
+        "sampledRanges": "50 to 55, 55 to 60",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 569
+          },
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 501
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "50 to 55",
+        "sampledRanges": "50 to 55, 55 to 60",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 955
+          },
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 156
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "50 to 55",
+        "sampledRanges": "50 to 55",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 1087
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "50 to 55",
+        "sampledRanges": "50 to 55, 55 to 60",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 1054
+          },
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 208
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "55 to 60",
+        "sampledRanges": "50 to 55, 55 to 60",
+        "bands": [
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 685
+          },
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 611
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "55 to 60",
+        "sampledRanges": "55 to 60",
+        "bands": [
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 788
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "55 to 60",
+        "sampledRanges": "55 to 60",
+        "bands": [
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 1532
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-7days.png",
+    "title": "Average Temperature",
+    "generated": "Tue Oct 13, 2026 14:20:48 EDT",
+    "checkedAtUtc": "2026-10-14T00:26:59.189014+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "08c963c90ea97d671ac203c083ede878ca6335a79442c389643904e636d7471b",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmean-30days.png": {
-    "period": "September 12\u2013October 11, 2026",
-    "summary": "Mean temperatures were generally 50\u201355\u00b0F across the Upper Peninsula and parts of northern Lower Michigan. Central Lower Michigan was mostly 55\u201360\u00b0F, and the south was commonly 60\u201365\u00b0F.",
+    "period": "September 13, 2026 to October 12, 2026",
+    "periodStart": "2026-09-13",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 50 to 55 degrees F. Central Upper Peninsula: the most frequent sampled color represents 50 to 55 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 50 to 55 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 50 to 55 degrees F. Central Lower Peninsula: the most frequent sampled color represents 55 to 60 degrees F. Thumb: the most frequent sampled color represents 55 to 60 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 55 to 60 degrees F.",
     "legend": [
       50,
       55,
@@ -325,13 +3136,147 @@
       70
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "50 to 55",
+        "sampledRanges": "50 to 55",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 1070
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "50 to 55",
+        "sampledRanges": "50 to 55",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 1111
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "50 to 55",
+        "sampledRanges": "50 to 55",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 1087
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "50 to 55",
+        "sampledRanges": "50 to 55, 55 to 60",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 829
+          },
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 433
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "55 to 60",
+        "sampledRanges": "50 to 55, 55 to 60",
+        "bands": [
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 909
+          },
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 387
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "55 to 60",
+        "sampledRanges": "55 to 60",
+        "bands": [
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 788
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "55 to 60",
+        "sampledRanges": "55 to 60, 60 to 65",
+        "bands": [
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 1355
+          },
+          {
+            "lower": 60,
+            "upper": 65,
+            "range": "60 to 65",
+            "samplePixels": 177
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-30days.png",
+    "title": "Average Temperature",
+    "generated": "Tue Oct 13, 2026 14:20:48 EDT",
+    "checkedAtUtc": "2026-10-14T00:27:01.431586+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "1ed2877639fa689d5f9a4cbc60f61d3de1108c31c92656ad107c4567a8f8a6d4",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmean-90days.png": {
-    "period": "July 14\u2013October 11, 2026",
-    "summary": "Mean temperatures were generally 60\u201365\u00b0F in the Upper Peninsula and northern Lower Michigan. Central and southern Lower Michigan were mostly 65\u201370\u00b0F.",
+    "period": "July 15, 2026 to October 12, 2026",
+    "periodStart": "2026-07-15",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 55 to 60 degrees F. Central Upper Peninsula: the most frequent sampled color represents 60 to 65 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 60 to 65 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 60 to 65 degrees F. Central Lower Peninsula: the most frequent sampled color represents 60 to 65 degrees F. Thumb: the most frequent sampled color represents 65 to 70 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 65 to 70 degrees F.",
     "legend": [
       55,
       60,
@@ -340,13 +3285,141 @@
       75
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "55 to 60",
+        "sampledRanges": "55 to 60, 60 to 65",
+        "bands": [
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 548
+          },
+          {
+            "lower": 60,
+            "upper": 65,
+            "range": "60 to 65",
+            "samplePixels": 522
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "60 to 65",
+        "sampledRanges": "60 to 65",
+        "bands": [
+          {
+            "lower": 60,
+            "upper": 65,
+            "range": "60 to 65",
+            "samplePixels": 1111
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "60 to 65",
+        "sampledRanges": "60 to 65",
+        "bands": [
+          {
+            "lower": 60,
+            "upper": 65,
+            "range": "60 to 65",
+            "samplePixels": 1087
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "60 to 65",
+        "sampledRanges": "60 to 65",
+        "bands": [
+          {
+            "lower": 60,
+            "upper": 65,
+            "range": "60 to 65",
+            "samplePixels": 1262
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "60 to 65",
+        "sampledRanges": "60 to 65, 65 to 70",
+        "bands": [
+          {
+            "lower": 60,
+            "upper": 65,
+            "range": "60 to 65",
+            "samplePixels": 741
+          },
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 555
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "65 to 70",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 788
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "65 to 70",
+        "sampledRanges": "65 to 70",
+        "bands": [
+          {
+            "lower": 65,
+            "upper": 70,
+            "range": "65 to 70",
+            "samplePixels": 1532
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmean-90days.png",
+    "title": "Average Temperature",
+    "generated": "Tue Oct 13, 2026 14:22:08 EDT",
+    "checkedAtUtc": "2026-10-14T00:27:03.820138+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "b90f56bef2d9f31784ad92c4d56db212c9fb8fa2ce11fc71af3176a6ebfcf6f8",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmeandev-7days.png": {
-    "period": "October 5\u201311, 2026",
-    "summary": "Mean temperatures were generally above the 1991\u20132020 normal. The western and central Upper Peninsula commonly ran 3\u20136\u00b0F warmer, with some warmer pockets; eastern portions were closer to normal. Lower Michigan was mostly 1\u20136\u00b0F warmer, with locally smaller departures.",
+    "period": "October 6, 2026 to October 12, 2026",
+    "periodStart": "2026-10-06",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 6 to 9 degrees F. Central Upper Peninsula: the most frequent sampled color represents 3 to 6 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 3 to 6 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 3 to 6 degrees F. Central Lower Peninsula: the most frequent sampled color represents 3 to 6 degrees F. Thumb: the most frequent sampled color represents 1 to 3 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 3 to 6 degrees F.",
     "legend": [
       -3,
       -1,
@@ -355,16 +3428,187 @@
       3,
       6,
       9,
-      12
+      12,
+      15
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "6 to 9",
+        "sampledRanges": "6 to 9, 9 to 12",
+        "bands": [
+          {
+            "lower": 6,
+            "upper": 9,
+            "range": "6 to 9",
+            "samplePixels": 697
+          },
+          {
+            "lower": 9,
+            "upper": 12,
+            "range": "9 to 12",
+            "samplePixels": 373
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "3 to 6",
+        "sampledRanges": "3 to 6, 6 to 9",
+        "bands": [
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 601
+          },
+          {
+            "lower": 6,
+            "upper": 9,
+            "range": "6 to 9",
+            "samplePixels": 510
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "3 to 6",
+        "sampledRanges": "1 to 3, 3 to 6",
+        "bands": [
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 1075
+          },
+          {
+            "lower": 1,
+            "upper": 3,
+            "range": "1 to 3",
+            "samplePixels": 12
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "3 to 6",
+        "sampledRanges": "3 to 6, 6 to 9",
+        "bands": [
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 1180
+          },
+          {
+            "lower": 6,
+            "upper": 9,
+            "range": "6 to 9",
+            "samplePixels": 82
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "3 to 6",
+        "sampledRanges": "1 to 3, 3 to 6, 6 to 9",
+        "bands": [
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 1262
+          },
+          {
+            "lower": 6,
+            "upper": 9,
+            "range": "6 to 9",
+            "samplePixels": 25
+          },
+          {
+            "lower": 1,
+            "upper": 3,
+            "range": "1 to 3",
+            "samplePixels": 9
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "1 to 3",
+        "sampledRanges": "-1 to 1, 1 to 3, 3 to 6",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 3,
+            "range": "1 to 3",
+            "samplePixels": 481
+          },
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 301
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 6
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "3 to 6",
+        "sampledRanges": "1 to 3, 3 to 6",
+        "bands": [
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 1351
+          },
+          {
+            "lower": 1,
+            "upper": 3,
+            "range": "1 to 3",
+            "samplePixels": 181
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-7days.png",
+    "title": "Average Temperature - Departure from Mean",
+    "generated": "Tue Oct 13, 2026 14:20:53 EDT",
+    "checkedAtUtc": "2026-10-14T00:27:05.979118+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "5a57fa5cdba9d534974ed08b7973a0747cd8bf7c5c4e8dc57c93a03222f1c8bc",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmeandev-30days.png": {
-    "period": "September 12\u2013October 11, 2026",
-    "summary": "Mean temperatures were near normal to about 4\u00b0F above normal in the Upper Peninsula. Lower Michigan was mostly within about 2\u00b0F of normal, with warmer areas in the southwest and south-central region.",
+    "period": "September 13, 2026 to October 12, 2026",
+    "periodStart": "2026-09-13",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 1 to 2 degrees F. Central Upper Peninsula: the most frequent sampled color represents -1 to 1 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 1 to 2 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 1 to 2 degrees F. Central Lower Peninsula: the most frequent sampled color represents -1 to 1 degrees F. Thumb: the most frequent sampled color represents -1 to 1 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 1 to 2 degrees F.",
     "legend": [
       -2,
       -1,
@@ -375,13 +3619,207 @@
       6
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 550
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 490
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 30
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 822
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 242
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 47
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 602
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 451
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 34
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 605
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 572
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 85
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 1035
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 146
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 115
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1, 1 to 2",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 778
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 10
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 1307
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 215
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 10
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-30days.png",
+    "title": "Average Temperature - Departure from Mean",
+    "generated": "Tue Oct 13, 2026 14:20:53 EDT",
+    "checkedAtUtc": "2026-10-14T00:27:08.223326+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "d536218e1de76422879bedbb4b435de87dacf91abca5e0eac6c73a5d20dc52de",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmeandev-90days.png": {
-    "period": "July 14\u2013October 11, 2026",
-    "summary": "Mean temperatures were generally above normal. The western Upper Peninsula commonly ran 2\u20134\u00b0F warmer; eastern portions were closer to normal. Lower Michigan was mostly near normal to 3\u00b0F warmer, with larger departures in parts of the southwest.",
+    "period": "July 15, 2026 to October 12, 2026",
+    "periodStart": "2026-07-15",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 2 to 3 degrees F. Central Upper Peninsula: the most frequent sampled color represents -1 to 1 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 1 to 2 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 1 to 2 degrees F. Central Lower Peninsula: the most frequent sampled color represents -1 to 1 degrees F. Thumb: the most frequent sampled color represents 1 to 2 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 1 to 2 degrees F.",
     "legend": [
       -1,
       0,
@@ -392,30 +3830,201 @@
       5
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "2 to 3",
+        "sampledRanges": "1 to 2, 2 to 3, 3 to 4",
+        "bands": [
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 532
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 518
+          },
+          {
+            "lower": 3,
+            "upper": 4,
+            "range": "3 to 4",
+            "samplePixels": 20
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 3",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 822
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 182
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 107
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 3",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 822
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 154
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 111
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 3",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 831
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 345
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 86
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 3",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 700
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 486
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 110
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 542
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 246
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "1 to 2, 2 to 3",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 960
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 572
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmeandev-90days.png",
+    "title": "Average Temperature - Departure from Mean",
+    "generated": "Tue Oct 13, 2026 14:22:08 EDT",
+    "checkedAtUtc": "2026-10-14T00:27:10.484219+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "5957863d7eaf1066b9cd12bf544e7fdefa380910d43c33ee07a2850e7fecebd3",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmin-7days.png": {
-    "period": "October 5\u201311, 2026",
-    "summary": "Average daily lows were mostly 35\u201345\u00b0F in the Upper Peninsula. Lower Michigan was mostly 35\u201345\u00b0F inland, with 45\u201350\u00b0F areas along parts of the Lake Michigan coast and the far southwest.",
-    "legend": [
-      30,
-      35,
-      40,
-      45,
-      50,
-      55,
-      60
-    ],
-    "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
-    "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
-  },
-  "tmin-30days.png": {
-    "period": "September 12\u2013October 11, 2026",
-    "summary": "Average daily lows were generally 35\u201345\u00b0F in the Upper Peninsula, 40\u201345\u00b0F in northern Lower Michigan, and 45\u201355\u00b0F farther south and along portions of the lakeshores.",
+    "period": "October 6, 2026 to October 12, 2026",
+    "periodStart": "2026-10-06",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 35 to 40 degrees F. Central Upper Peninsula: the most frequent sampled color represents 40 to 45 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 40 to 45 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 40 to 45 degrees F. Central Lower Peninsula: the most frequent sampled color represents 40 to 45 degrees F. Thumb: the most frequent sampled color represents 40 to 45 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 40 to 45 degrees F.",
     "legend": [
       35,
       40,
@@ -426,13 +4035,334 @@
       65
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "35 to 40",
+        "sampledRanges": "35 to 40, 40 to 45",
+        "bands": [
+          {
+            "lower": 35,
+            "upper": 40,
+            "range": "35 to 40",
+            "samplePixels": 552
+          },
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 518
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "40 to 45",
+        "sampledRanges": "35 to 40, 40 to 45",
+        "bands": [
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 1027
+          },
+          {
+            "lower": 35,
+            "upper": 40,
+            "range": "35 to 40",
+            "samplePixels": 84
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "40 to 45",
+        "sampledRanges": "35 to 40, 40 to 45",
+        "bands": [
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 973
+          },
+          {
+            "lower": 35,
+            "upper": 40,
+            "range": "35 to 40",
+            "samplePixels": 114
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "40 to 45",
+        "sampledRanges": "40 to 45",
+        "bands": [
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 1262
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "40 to 45",
+        "sampledRanges": "35 to 40, 40 to 45",
+        "bands": [
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 731
+          },
+          {
+            "lower": 35,
+            "upper": 40,
+            "range": "35 to 40",
+            "samplePixels": 565
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "40 to 45",
+        "sampledRanges": "40 to 45, 45 to 50",
+        "bands": [
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 557
+          },
+          {
+            "lower": 45,
+            "upper": 50,
+            "range": "45 to 50",
+            "samplePixels": 231
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "40 to 45",
+        "sampledRanges": "40 to 45, 45 to 50",
+        "bands": [
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 813
+          },
+          {
+            "lower": 45,
+            "upper": 50,
+            "range": "45 to 50",
+            "samplePixels": 719
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-7days.png",
+    "title": "Average Low Temperature",
+    "generated": "Tue Oct 13, 2026 14:21:06 EDT",
+    "checkedAtUtc": "2026-10-14T00:27:12.634224+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "5327193e36995ab08af832642905cab55cb0b473a9dff2ac3e8fd0c5f64b84b8",
+    "descriptionMethod": "validated legend and regional raster samples v1"
+  },
+  "tmin-30days.png": {
+    "period": "September 13, 2026 to October 12, 2026",
+    "periodStart": "2026-09-13",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 35 to 40 degrees F. Central Upper Peninsula: the most frequent sampled color represents 35 to 40 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 40 to 45 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 40 to 45 degrees F. Central Lower Peninsula: the most frequent sampled color represents 40 to 45 degrees F. Thumb: the most frequent sampled color represents 45 to 50 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 45 to 50 degrees F.",
+    "legend": [
+      35,
+      40,
+      45,
+      50,
+      55,
+      60,
+      65
+    ],
+    "unit": "degrees F",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "35 to 40",
+        "sampledRanges": "35 to 40, 40 to 45",
+        "bands": [
+          {
+            "lower": 35,
+            "upper": 40,
+            "range": "35 to 40",
+            "samplePixels": 572
+          },
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 498
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "35 to 40",
+        "sampledRanges": "35 to 40, 40 to 45",
+        "bands": [
+          {
+            "lower": 35,
+            "upper": 40,
+            "range": "35 to 40",
+            "samplePixels": 830
+          },
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 281
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "40 to 45",
+        "sampledRanges": "35 to 40, 40 to 45",
+        "bands": [
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 667
+          },
+          {
+            "lower": 35,
+            "upper": 40,
+            "range": "35 to 40",
+            "samplePixels": 420
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "40 to 45",
+        "sampledRanges": "40 to 45, 45 to 50",
+        "bands": [
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 1222
+          },
+          {
+            "lower": 45,
+            "upper": 50,
+            "range": "45 to 50",
+            "samplePixels": 40
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "40 to 45",
+        "sampledRanges": "40 to 45, 45 to 50",
+        "bands": [
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 801
+          },
+          {
+            "lower": 45,
+            "upper": 50,
+            "range": "45 to 50",
+            "samplePixels": 495
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "45 to 50",
+        "sampledRanges": "45 to 50",
+        "bands": [
+          {
+            "lower": 45,
+            "upper": 50,
+            "range": "45 to 50",
+            "samplePixels": 788
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "45 to 50",
+        "sampledRanges": "45 to 50, 50 to 55",
+        "bands": [
+          {
+            "lower": 45,
+            "upper": 50,
+            "range": "45 to 50",
+            "samplePixels": 1498
+          },
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 34
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
+    "provider": "Midwestern Regional Climate Center",
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-30days.png",
+    "title": "Average Low Temperature",
+    "generated": "Tue Oct 13, 2026 14:21:06 EDT",
+    "checkedAtUtc": "2026-10-14T00:27:14.776360+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "3d7b426dfc75273faa8d0dbc51b1b3e07826c9a3bb1fb65797b82e54e5b1e6ba",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmin-90days.png": {
-    "period": "July 14\u2013October 11, 2026",
-    "summary": "Average daily lows were generally 45\u201355\u00b0F in the Upper Peninsula. Lower Michigan was mostly 50\u201355\u00b0F in the north and 55\u201360\u00b0F across the central and southern peninsula.",
+    "period": "July 15, 2026 to October 12, 2026",
+    "periodStart": "2026-07-15",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 45 to 50 degrees F. Central Upper Peninsula: the most frequent sampled color represents 45 to 50 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 45 to 50 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 50 to 55 degrees F. Central Lower Peninsula: the most frequent sampled color represents 50 to 55 degrees F. Thumb: the most frequent sampled color represents 55 to 60 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 55 to 60 degrees F.",
     "legend": [
       40,
       45,
@@ -443,13 +4373,177 @@
       70
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "45 to 50",
+        "sampledRanges": "40 to 45, 45 to 50, 50 to 55",
+        "bands": [
+          {
+            "lower": 45,
+            "upper": 50,
+            "range": "45 to 50",
+            "samplePixels": 814
+          },
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 246
+          },
+          {
+            "lower": 40,
+            "upper": 45,
+            "range": "40 to 45",
+            "samplePixels": 10
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "45 to 50",
+        "sampledRanges": "45 to 50, 50 to 55",
+        "bands": [
+          {
+            "lower": 45,
+            "upper": 50,
+            "range": "45 to 50",
+            "samplePixels": 1014
+          },
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 97
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "45 to 50",
+        "sampledRanges": "45 to 50, 50 to 55",
+        "bands": [
+          {
+            "lower": 45,
+            "upper": 50,
+            "range": "45 to 50",
+            "samplePixels": 943
+          },
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 144
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "50 to 55",
+        "sampledRanges": "45 to 50, 50 to 55",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 1256
+          },
+          {
+            "lower": 45,
+            "upper": 50,
+            "range": "45 to 50",
+            "samplePixels": 6
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "50 to 55",
+        "sampledRanges": "45 to 50, 50 to 55, 55 to 60",
+        "bands": [
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 1245
+          },
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 30
+          },
+          {
+            "lower": 45,
+            "upper": 50,
+            "range": "45 to 50",
+            "samplePixels": 21
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "55 to 60",
+        "sampledRanges": "50 to 55, 55 to 60",
+        "bands": [
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 625
+          },
+          {
+            "lower": 50,
+            "upper": 55,
+            "range": "50 to 55",
+            "samplePixels": 163
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "55 to 60",
+        "sampledRanges": "55 to 60",
+        "bands": [
+          {
+            "lower": 55,
+            "upper": 60,
+            "range": "55 to 60",
+            "samplePixels": 1532
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmin-90days.png",
+    "title": "Average Low Temperature",
+    "generated": "Tue Oct 13, 2026 14:22:17 EDT",
+    "checkedAtUtc": "2026-10-14T00:27:16.935678+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "c033757d760774db543c76e00b6be9a51acb64890e4c39cbc756183ee32d1e3e",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmindev-7days.png": {
-    "period": "October 5\u201311, 2026",
-    "summary": "Average daily lows were mixed relative to the 1991\u20132020 normal. Much of the Upper Peninsula was near normal to 6\u00b0F warmer. Lower Michigan had cooler areas in the central interior and southeast, locally 3\u20136\u00b0F below normal, and warmer areas along the Lake Michigan coast.",
+    "period": "October 6, 2026 to October 12, 2026",
+    "periodStart": "2026-10-06",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 3 to 6 degrees F. Central Upper Peninsula: the most frequent sampled color represents 1 to 3 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents 1 to 3 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 3 to 6 degrees F. Central Lower Peninsula: the most frequent sampled color represents -1 to 1 degrees F. Thumb: the most frequent sampled color represents 1 to 3 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 1 to 3 degrees F.",
     "legend": [
       -6,
       -3,
@@ -459,22 +4553,230 @@
       3,
       6,
       9,
-      12
+      12,
+      15
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "3 to 6",
+        "sampledRanges": "1 to 3, 3 to 6, 6 to 9",
+        "bands": [
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 852
+          },
+          {
+            "lower": 1,
+            "upper": 3,
+            "range": "1 to 3",
+            "samplePixels": 155
+          },
+          {
+            "lower": 6,
+            "upper": 9,
+            "range": "6 to 9",
+            "samplePixels": 63
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "1 to 3",
+        "sampledRanges": "-1 to 1, 1 to 3, 3 to 6, 6 to 9",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 3,
+            "range": "1 to 3",
+            "samplePixels": 522
+          },
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 466
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 84
+          },
+          {
+            "lower": 6,
+            "upper": 9,
+            "range": "6 to 9",
+            "samplePixels": 39
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "1 to 3",
+        "sampledRanges": "-1 to 1, 1 to 3, 3 to 6",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 3,
+            "range": "1 to 3",
+            "samplePixels": 553
+          },
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 503
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 31
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "3 to 6",
+        "sampledRanges": "1 to 3, 3 to 6",
+        "bands": [
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 680
+          },
+          {
+            "lower": 1,
+            "upper": 3,
+            "range": "1 to 3",
+            "samplePixels": 582
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-3 to -1, -1 to 1, 1 to 3, 3 to 6",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 997
+          },
+          {
+            "lower": 1,
+            "upper": 3,
+            "range": "1 to 3",
+            "samplePixels": 155
+          },
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 135
+          },
+          {
+            "lower": -3,
+            "upper": -1,
+            "range": "-3 to -1",
+            "samplePixels": 9
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "1 to 3",
+        "sampledRanges": "-3 to -1, -1 to 1, 1 to 3",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 3,
+            "range": "1 to 3",
+            "samplePixels": 527
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 225
+          },
+          {
+            "lower": -3,
+            "upper": -1,
+            "range": "-3 to -1",
+            "samplePixels": 36
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "1 to 3",
+        "sampledRanges": "-1 to 1, 1 to 3, 3 to 6",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 3,
+            "range": "1 to 3",
+            "samplePixels": 1301
+          },
+          {
+            "lower": 3,
+            "upper": 6,
+            "range": "3 to 6",
+            "samplePixels": 187
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 44
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-7days.png",
+    "title": "Average Low Temperature - Departure from Mean",
+    "generated": "Tue Oct 13, 2026 14:21:11 EDT",
+    "checkedAtUtc": "2026-10-14T00:27:19.096281+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "e93dbfd1ada066734592c2e783c64d4fa388cbf9e0f59e4a64657d71478e7a98",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmindev-30days.png": {
-    "period": "September 12\u2013October 11, 2026",
-    "summary": "Average daily lows were below normal across much of the central and eastern Upper Peninsula, commonly by 2\u20136\u00b0F. Northern and central Lower Michigan also had cooler areas. Southwestern Lower Michigan was warmer, commonly 2\u20134\u00b0F above normal.",
+    "period": "September 13, 2026 to October 12, 2026",
+    "periodStart": "2026-09-13",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents -1 to 1 degrees F. Central Upper Peninsula: the most frequent sampled color represents -4 to -2 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents -4 to -2 degrees F. Northern Lower Peninsula: the most frequent sampled color represents -1 to 1 degrees F. Central Lower Peninsula: the most frequent sampled color represents -1 to 1 degrees F. Thumb: the most frequent sampled color represents -1 to 1 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 2 to 4 degrees F.",
     "legend": [
       -6,
       -4,
       -2,
       -1,
       0,
+      1,
       2,
       4,
       6,
@@ -482,13 +4784,231 @@
       10
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-4 to -2, -2 to -1, -1 to 1, 1 to 2",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 598
+          },
+          {
+            "lower": -2,
+            "upper": -1,
+            "range": "-2 to -1",
+            "samplePixels": 258
+          },
+          {
+            "lower": -4,
+            "upper": -2,
+            "range": "-4 to -2",
+            "samplePixels": 175
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 39
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "-4 to -2",
+        "sampledRanges": "-6 to -4, -4 to -2, -2 to -1, -1 to 1",
+        "bands": [
+          {
+            "lower": -4,
+            "upper": -2,
+            "range": "-4 to -2",
+            "samplePixels": 474
+          },
+          {
+            "lower": -6,
+            "upper": -4,
+            "range": "-6 to -4",
+            "samplePixels": 348
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 249
+          },
+          {
+            "lower": -2,
+            "upper": -1,
+            "range": "-2 to -1",
+            "samplePixels": 40
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "-4 to -2",
+        "sampledRanges": "-6 to -4, -4 to -2, -2 to -1, -1 to 1",
+        "bands": [
+          {
+            "lower": -4,
+            "upper": -2,
+            "range": "-4 to -2",
+            "samplePixels": 492
+          },
+          {
+            "lower": -2,
+            "upper": -1,
+            "range": "-2 to -1",
+            "samplePixels": 437
+          },
+          {
+            "lower": -6,
+            "upper": -4,
+            "range": "-6 to -4",
+            "samplePixels": 114
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 44
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-2 to -1, -1 to 1, 1 to 2",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 977
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 271
+          },
+          {
+            "lower": -2,
+            "upper": -1,
+            "range": "-2 to -1",
+            "samplePixels": 14
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-2 to -1, -1 to 1, 1 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 790
+          },
+          {
+            "lower": -2,
+            "upper": -1,
+            "range": "-2 to -1",
+            "samplePixels": 251
+          },
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 233
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 22
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-2 to -1, -1 to 1, 1 to 2",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 710
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 50
+          },
+          {
+            "lower": -2,
+            "upper": -1,
+            "range": "-2 to -1",
+            "samplePixels": 28
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "2 to 4",
+        "sampledRanges": "1 to 2, 2 to 4",
+        "bands": [
+          {
+            "lower": 2,
+            "upper": 4,
+            "range": "2 to 4",
+            "samplePixels": 1151
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 381
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-30days.png",
+    "title": "Average Low Temperature - Departure from Mean",
+    "generated": "Tue Oct 13, 2026 14:21:11 EDT",
+    "checkedAtUtc": "2026-10-14T00:27:21.327427+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "efc645b30aad0854c73ada5ba422e6de0e2e4e2bbc77fa7eb318278ebe7209b8",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   },
   "tmindev-90days.png": {
-    "period": "July 14\u2013October 11, 2026",
-    "summary": "Average daily lows were above normal in much of the western Upper Peninsula but near or slightly below normal in parts of the east. Lower Michigan was mostly near normal to 4\u00b0F warmer, with the largest warm departures in the southwest.",
+    "period": "July 15, 2026 to October 12, 2026",
+    "periodStart": "2026-07-15",
+    "periodEnd": "2026-10-12",
+    "summary": "Western Upper Peninsula: the most frequent sampled color represents 1 to 2 degrees F. Central Upper Peninsula: the most frequent sampled color represents -2 to -1 degrees F. Eastern Upper Peninsula: the most frequent sampled color represents -1 to 1 degrees F. Northern Lower Peninsula: the most frequent sampled color represents 1 to 2 degrees F. Central Lower Peninsula: the most frequent sampled color represents -1 to 1 degrees F. Thumb: the most frequent sampled color represents 1 to 2 degrees F. Southern Lower Peninsula: the most frequent sampled color represents 2 to 3 degrees F.",
     "legend": [
       -2,
       -1,
@@ -502,8 +5022,224 @@
       7
     ],
     "unit": "degrees F",
-    "basis": "Visual description of the saved MRCC map. Regional values are approximate color-band readings, not station measurements.",
+    "regions": [
+      {
+        "region": "Western Upper Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-2 to -1, -1 to 1, 1 to 2, 2 to 3, 3 to 4",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 419
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 365
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 225
+          },
+          {
+            "lower": 3,
+            "upper": 4,
+            "range": "3 to 4",
+            "samplePixels": 31
+          },
+          {
+            "lower": -2,
+            "upper": -1,
+            "range": "-2 to -1",
+            "samplePixels": 30
+          }
+        ],
+        "recognizedPixels": 1070,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Central Upper Peninsula",
+        "dominantRange": "-2 to -1",
+        "sampledRanges": "-2 to -1, -1 to 1, 1 to 2",
+        "bands": [
+          {
+            "lower": -2,
+            "upper": -1,
+            "range": "-2 to -1",
+            "samplePixels": 540
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 306
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 265
+          }
+        ],
+        "recognizedPixels": 1111,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Eastern Upper Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-2 to -1, -1 to 1, 1 to 2",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 880
+          },
+          {
+            "lower": -2,
+            "upper": -1,
+            "range": "-2 to -1",
+            "samplePixels": 173
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 34
+          }
+        ],
+        "recognizedPixels": 1087,
+        "sampledPixels": 1156
+      },
+      {
+        "region": "Northern Lower Peninsula",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 3, 3 to 4",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 717
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 351
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 174
+          },
+          {
+            "lower": 3,
+            "upper": 4,
+            "range": "3 to 4",
+            "samplePixels": 20
+          }
+        ],
+        "recognizedPixels": 1262,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Central Lower Peninsula",
+        "dominantRange": "-1 to 1",
+        "sampledRanges": "-1 to 1, 1 to 2, 2 to 3, 3 to 4",
+        "bands": [
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 985
+          },
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 218
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 78
+          },
+          {
+            "lower": 3,
+            "upper": 4,
+            "range": "3 to 4",
+            "samplePixels": 15
+          }
+        ],
+        "recognizedPixels": 1296,
+        "sampledPixels": 1445
+      },
+      {
+        "region": "Thumb",
+        "dominantRange": "1 to 2",
+        "sampledRanges": "-1 to 1, 1 to 2",
+        "bands": [
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 408
+          },
+          {
+            "lower": -1,
+            "upper": 1,
+            "range": "-1 to 1",
+            "samplePixels": 380
+          }
+        ],
+        "recognizedPixels": 788,
+        "sampledPixels": 867
+      },
+      {
+        "region": "Southern Lower Peninsula",
+        "dominantRange": "2 to 3",
+        "sampledRanges": "1 to 2, 2 to 3, 3 to 4",
+        "bands": [
+          {
+            "lower": 2,
+            "upper": 3,
+            "range": "2 to 3",
+            "samplePixels": 1373
+          },
+          {
+            "lower": 1,
+            "upper": 2,
+            "range": "1 to 2",
+            "samplePixels": 114
+          },
+          {
+            "lower": 3,
+            "upper": 4,
+            "range": "3 to 4",
+            "samplePixels": 45
+          }
+        ],
+        "recognizedPixels": 1532,
+        "sampledPixels": 1734
+      }
+    ],
+    "basis": "Approximate color-band samples from seven Michigan regions in this exact map image. These are not station measurements, regional averages, or full-region minima and maxima. Shared colors span multiple legend intervals; those intervals are combined. The underlying gridded numbers are not supplied with the image.",
     "provider": "Midwestern Regional Climate Center",
-    "dataSource": "PRISM Weather Data"
+    "dataSource": "PRISM Weather Data",
+    "sourceUrl": "https://mrcc.purdue.edu/files/cliwatch/state_climatologists/michigan/tmindev-90days.png",
+    "title": "Average Low Temperature - Departure from Mean",
+    "generated": "Tue Oct 13, 2026 14:22:17 EDT",
+    "checkedAtUtc": "2026-10-14T00:27:23.580075+00:00",
+    "sourceLastModified": "Tue, 13 Oct 2026 19:03:19 GMT",
+    "sha256": "bf95770a9b5dda15e7f58c8a249c9148cc05d9fc49ad113f161cb266b9e7b990",
+    "descriptionMethod": "validated legend and regional raster samples v1"
   }
 }

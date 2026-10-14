@@ -1,0 +1,213 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:29
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+
+
+
+
+<table width="100%" height="120" border="0">
+   <tr height="100">
+      <td align="center">
+         <h1>MSU Agricultural Weather Office<h1>
+         <h2>Current Weather & Climatological Info</h2>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+
+<!--
+   <tr height="35">
+      <td align="center">
+         <font color="red" font size=3><b>State Budget Cuts Threaten This Website and Other MSUE/MAES Programs...
+         <br>Click  <a href="http://anrcom.msu.edu/Budget.aspx">Here</a> For More Information...</b></font>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+-->
+
+</table>
+
+<br>
+<table width="95%" border="0" valign="top" align="center">
+   <tr>
+      <td class="courier2">
+        
+         &nbsp;<br>862&nbsp;&nbsp;<br>ASUS43&nbsp;KDTX&nbsp;140010&nbsp;<br>RWRMI&nbsp;&nbsp;<br>MICHIGAN&nbsp;HOURLY&nbsp;REGIONAL&nbsp;WEATHER&nbsp;ROUNDUP&nbsp;<br>NATIONAL&nbsp;WEATHER&nbsp;SERVICE&nbsp;DETROIT/PONTIAC&nbsp;MI&nbsp;<br>ISSUED&nbsp;BY&nbsp;NATIONAL&nbsp;WEATHER&nbsp;SERVICE&nbsp;GRAND&nbsp;RAPIDS&nbsp;MI&nbsp;<br>800&nbsp;PM&nbsp;EDT&nbsp;TUE&nbsp;OCT&nbsp;13&nbsp;2026&nbsp;<br>&nbsp;<br>NOTE:&nbsp;"FAIR"&nbsp;INDICATES&nbsp;FEW&nbsp;OR&nbsp;NO&nbsp;CLOUDS&nbsp;BELOW&nbsp;12,000&nbsp;FEET&nbsp;WITH&nbsp;NO&nbsp;<br>SIGNIFICANT&nbsp;WEATHER&nbsp;AND/OR&nbsp;OBSTRUCTION&nbsp;TO&nbsp;VISIBILITY.&nbsp;<br>&nbsp;<br>MIZ047>049-052>055-059>063-066>070-074>076-081>083-140100-&nbsp;<br>SOUTHEAST&nbsp;LOWER&nbsp;MICHIGAN&nbsp;<br>&nbsp;&nbsp;&nbsp;<br>CITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKY/WX&nbsp;&nbsp;&nbsp;&nbsp;TMP&nbsp;DP&nbsp;&nbsp;RH&nbsp;WIND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRES&nbsp;&nbsp;&nbsp;REMARKS&nbsp;<br>ADRIAN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75&nbsp;&nbsp;60&nbsp;&nbsp;59&nbsp;W6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.88R&nbsp;TC&nbsp;&nbsp;24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;75;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;85;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>ALMA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;63&nbsp;&nbsp;57&nbsp;&nbsp;82&nbsp;NW7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.88R&nbsp;TC&nbsp;&nbsp;17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;63;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;81;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>ANN&nbsp;ARBOR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N/A&nbsp;&nbsp;&nbsp;&nbsp;N/A&nbsp;N/A&nbsp;N/A&nbsp;MISG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.85R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>BAD&nbsp;AXE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;63&nbsp;&nbsp;59&nbsp;&nbsp;88&nbsp;NW13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.84R&nbsp;TC&nbsp;&nbsp;17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;63;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;82;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>DETROIT&nbsp;CITY&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;80&nbsp;&nbsp;57&nbsp;&nbsp;45&nbsp;W10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.83R&nbsp;TC&nbsp;&nbsp;27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;80;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;88;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>DETROIT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PTCLDY&nbsp;&nbsp;&nbsp;&nbsp;76&nbsp;&nbsp;59&nbsp;&nbsp;55&nbsp;W8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.84R&nbsp;TC&nbsp;&nbsp;24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;76;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;87;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>FLINT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70&nbsp;&nbsp;59&nbsp;&nbsp;68&nbsp;W14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.86R&nbsp;TC&nbsp;&nbsp;21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;70;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;84;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>GROSSE&nbsp;ILE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;77&nbsp;&nbsp;61&nbsp;&nbsp;57&nbsp;W8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.83R&nbsp;TC&nbsp;&nbsp;25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;77;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;86;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>HILLSDALE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PTCLDY&nbsp;&nbsp;&nbsp;&nbsp;72&nbsp;&nbsp;61&nbsp;&nbsp;68&nbsp;W7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.90R&nbsp;TC&nbsp;&nbsp;22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>HOWELL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70&nbsp;&nbsp;59&nbsp;&nbsp;68&nbsp;W8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.87R&nbsp;TC&nbsp;&nbsp;21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;71;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;83;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;<br>CITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKY/WX&nbsp;&nbsp;&nbsp;&nbsp;TMP&nbsp;DP&nbsp;&nbsp;RH&nbsp;WIND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRES&nbsp;&nbsp;&nbsp;REMARKS&nbsp;<br>JACKSON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;72&nbsp;&nbsp;58&nbsp;&nbsp;61&nbsp;W8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;72;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;83;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>LANSING&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;67&nbsp;&nbsp;59&nbsp;&nbsp;75&nbsp;W10G18&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;67;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;82;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>MASON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70&nbsp;&nbsp;58&nbsp;&nbsp;65&nbsp;W10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.88R&nbsp;TC&nbsp;&nbsp;21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;70;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;84;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>MIDLAND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;63&nbsp;&nbsp;55&nbsp;&nbsp;77&nbsp;W5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.87R&nbsp;TC&nbsp;&nbsp;17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;62;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;83;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>MONROE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;73&nbsp;&nbsp;61&nbsp;&nbsp;64&nbsp;W7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.85R&nbsp;TC&nbsp;&nbsp;23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;73;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;86;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>MT.&nbsp;CLEMENS&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;79&nbsp;&nbsp;58&nbsp;&nbsp;48&nbsp;W10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.78R&nbsp;TC&nbsp;&nbsp;26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;79;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;88;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>PONTIAC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;74&nbsp;&nbsp;59&nbsp;&nbsp;59&nbsp;W10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.85R&nbsp;TC&nbsp;&nbsp;23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;74;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;84;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>PORT&nbsp;HOPE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N/A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;63&nbsp;&nbsp;58&nbsp;&nbsp;83&nbsp;W14G23&nbsp;&nbsp;&nbsp;&nbsp;29.84R&nbsp;TC&nbsp;&nbsp;17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;63;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;81;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>PORT&nbsp;HURON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75&nbsp;&nbsp;61&nbsp;&nbsp;60&nbsp;W7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.82R&nbsp;TC&nbsp;&nbsp;24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;75;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;87;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>TRI&nbsp;CITIES&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;63&nbsp;&nbsp;57&nbsp;&nbsp;81&nbsp;NW10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.88R&nbsp;TC&nbsp;&nbsp;17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;63;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;82;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>YPSILANTI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75&nbsp;&nbsp;58&nbsp;&nbsp;55&nbsp;W10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.85R&nbsp;TC&nbsp;&nbsp;24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;75;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;87;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>$$&nbsp;<br>MIZ043>046-050>051-056>058-064>065-071>073-077>080-140100-&nbsp;<br>SOUTHWEST&nbsp;LOWER&nbsp;MICHIGAN&nbsp;<br>&nbsp;&nbsp;&nbsp;<br>CITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKY/WX&nbsp;&nbsp;&nbsp;&nbsp;TMP&nbsp;DP&nbsp;&nbsp;RH&nbsp;WIND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRES&nbsp;&nbsp;&nbsp;REMARKS&nbsp;<br>BATTLE&nbsp;CREEK&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;69&nbsp;&nbsp;61&nbsp;&nbsp;75&nbsp;NW6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;69;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;80;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>BENTON&nbsp;HARBOR&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65&nbsp;&nbsp;61&nbsp;&nbsp;87&nbsp;CALM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.87S&nbsp;TC&nbsp;&nbsp;18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;65;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;75;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>BIG&nbsp;RAPIDS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;61&nbsp;&nbsp;55&nbsp;&nbsp;82&nbsp;W6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.90R&nbsp;TC&nbsp;&nbsp;16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;60;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;65;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>COLDWATER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;73&nbsp;&nbsp;59&nbsp;&nbsp;60&nbsp;W3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;71;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;81;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>HOLLAND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;61&nbsp;&nbsp;58&nbsp;&nbsp;90&nbsp;CALM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89S&nbsp;TC&nbsp;&nbsp;16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;61;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;73;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>GRAND&nbsp;RAPIDS&nbsp;&nbsp;&nbsp;PTCLDY&nbsp;&nbsp;&nbsp;&nbsp;65&nbsp;&nbsp;57&nbsp;&nbsp;75&nbsp;W7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;65;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;77;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>KALAMAZOO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;69&nbsp;&nbsp;59&nbsp;&nbsp;70&nbsp;NW5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;68;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;80;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>MARSHALL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PTCLDY&nbsp;&nbsp;&nbsp;&nbsp;72&nbsp;&nbsp;61&nbsp;&nbsp;68&nbsp;NW5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;71;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;83;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>MOUNT&nbsp;PLEASANT&nbsp;PTCLDY&nbsp;&nbsp;&nbsp;&nbsp;61&nbsp;&nbsp;55&nbsp;&nbsp;82&nbsp;W6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.88R&nbsp;TC&nbsp;&nbsp;16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;61;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;79;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>MUSKEGON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;59&nbsp;&nbsp;56&nbsp;&nbsp;89&nbsp;CALM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.90R&nbsp;TC&nbsp;&nbsp;15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;58;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;70;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>SOUTH&nbsp;HAVEN&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;64&nbsp;&nbsp;61&nbsp;&nbsp;88&nbsp;NE3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.88S&nbsp;TC&nbsp;&nbsp;18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;64;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;75;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>STURGIS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;73&nbsp;&nbsp;59&nbsp;&nbsp;60&nbsp;NW5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;73;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;82;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>$$&nbsp;<br>MIZ016>042-140100-&nbsp;<br>NORTHERN&nbsp;LOWER&nbsp;MICHIGAN&nbsp;<br>&nbsp;&nbsp;&nbsp;<br>CITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKY/WX&nbsp;&nbsp;&nbsp;&nbsp;TMP&nbsp;DP&nbsp;&nbsp;RH&nbsp;WIND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRES&nbsp;&nbsp;&nbsp;REMARKS&nbsp;<br>ALPENA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;53&nbsp;&nbsp;51&nbsp;&nbsp;93&nbsp;VRB5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.86R&nbsp;TC&nbsp;&nbsp;12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;53;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;61;&nbsp;6HR&nbsp;PCP:&nbsp;&nbsp;0.02;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>BEAVER&nbsp;ISLAND&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;52&nbsp;&nbsp;46&nbsp;&nbsp;82&nbsp;NW12G20&nbsp;&nbsp;&nbsp;29.90R&nbsp;TC&nbsp;&nbsp;11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;53;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;56;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>BELLAIRE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;55&nbsp;&nbsp;52&nbsp;&nbsp;89&nbsp;CALM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.90R&nbsp;TC&nbsp;&nbsp;13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;55;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;58;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>CADILLAC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;55&nbsp;&nbsp;54&nbsp;&nbsp;94&nbsp;W6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;56;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;60;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>CHARLEVOIX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;55&nbsp;&nbsp;50&nbsp;&nbsp;82&nbsp;NW9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;55;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;57;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>GAYLORD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;52&nbsp;&nbsp;50&nbsp;&nbsp;93&nbsp;NW6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;FOG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TC&nbsp;&nbsp;11&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;52;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;56;&nbsp;6HR&nbsp;PCP:&nbsp;&nbsp;0.02;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>HOUGHTON&nbsp;LAKE&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;56&nbsp;&nbsp;54&nbsp;&nbsp;93&nbsp;NW7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;56;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;62;&nbsp;6HR&nbsp;PCP:&nbsp;TRACE;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>MANISTEE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PTCLDY&nbsp;&nbsp;&nbsp;&nbsp;52&nbsp;&nbsp;52&nbsp;100&nbsp;CALM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.91R&nbsp;TC&nbsp;&nbsp;11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>OSCODA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;61&nbsp;&nbsp;54&nbsp;&nbsp;77&nbsp;W13G18&nbsp;&nbsp;&nbsp;&nbsp;29.86R&nbsp;TC&nbsp;&nbsp;16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;60;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;76;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>PELLSTON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;53&nbsp;&nbsp;49&nbsp;&nbsp;86&nbsp;NW8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;53;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;55;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>TRAVERSE&nbsp;CITY&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;57&nbsp;&nbsp;54&nbsp;&nbsp;89&nbsp;N8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.88R&nbsp;TC&nbsp;&nbsp;14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;56;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;60;&nbsp;6HR&nbsp;PCP:&nbsp;TRACE;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>LUDINGTON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLEAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;55&nbsp;&nbsp;54&nbsp;&nbsp;94&nbsp;NW1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.91R&nbsp;TC&nbsp;&nbsp;13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;56;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;66;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>$$&nbsp;<br>MIZ007>008-015-140100-&nbsp;<br>EASTERN&nbsp;UPPER&nbsp;MICHIGAN&nbsp;<br>&nbsp;&nbsp;&nbsp;<br>CITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKY/WX&nbsp;&nbsp;&nbsp;&nbsp;TMP&nbsp;DP&nbsp;&nbsp;RH&nbsp;WIND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRES&nbsp;&nbsp;&nbsp;REMARKS&nbsp;<br>KINROSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;48&nbsp;&nbsp;47&nbsp;&nbsp;96&nbsp;W10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.88R&nbsp;FOG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TC&nbsp;&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;48;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;50;&nbsp;6HR&nbsp;PCP:&nbsp;TRACE;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>MACKINAC&nbsp;ISLAN&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;50&nbsp;&nbsp;48&nbsp;&nbsp;93&nbsp;NW12G17&nbsp;&nbsp;&nbsp;29.88R&nbsp;TC&nbsp;&nbsp;10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;50;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;52;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>NEWBERRY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;48&nbsp;&nbsp;46&nbsp;&nbsp;93&nbsp;W12G17&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;48;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;53;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>S.&nbsp;S.&nbsp;MARIE&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;48&nbsp;&nbsp;45&nbsp;&nbsp;89&nbsp;NW12G20&nbsp;&nbsp;&nbsp;29.86R&nbsp;TC&nbsp;&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;48;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;51;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>$$&nbsp;<br>MIZ004>006-011>014-085-140100-&nbsp;<br>CENTRAL&nbsp;UPPER&nbsp;MICHIGAN&nbsp;<br>&nbsp;&nbsp;&nbsp;<br>CITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKY/WX&nbsp;&nbsp;&nbsp;&nbsp;TMP&nbsp;DP&nbsp;&nbsp;RH&nbsp;WIND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRES&nbsp;&nbsp;&nbsp;REMARKS&nbsp;<br>MANISTIQUE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOCLDY&nbsp;&nbsp;&nbsp;&nbsp;50&nbsp;&nbsp;46&nbsp;&nbsp;87&nbsp;N8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.90R&nbsp;TC&nbsp;&nbsp;10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;50;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;57;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>ESCANABA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;54&nbsp;&nbsp;51&nbsp;&nbsp;90&nbsp;N6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.91R&nbsp;TC&nbsp;&nbsp;12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;54;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;59;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>MENOMINEE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;59&nbsp;&nbsp;51&nbsp;&nbsp;75&nbsp;CALM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.90R&nbsp;TC&nbsp;&nbsp;15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;59;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;61;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>SAWYER-GWINN&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;48&nbsp;&nbsp;46&nbsp;&nbsp;93&nbsp;N7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.90S&nbsp;TC&nbsp;&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>$$&nbsp;<br>MIZ001>003-009>011-084-140100-&nbsp;<br>WESTERN&nbsp;UPPER&nbsp;MICHIGAN&nbsp;<br>&nbsp;&nbsp;&nbsp;<br>CITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKY/WX&nbsp;&nbsp;&nbsp;&nbsp;TMP&nbsp;DP&nbsp;&nbsp;RH&nbsp;WIND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRES&nbsp;&nbsp;&nbsp;REMARKS&nbsp;<br>IRON&nbsp;MOUNTAIN&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;55&nbsp;&nbsp;47&nbsp;&nbsp;74&nbsp;NW8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.89R&nbsp;TC&nbsp;&nbsp;13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;55;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;60;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>HOUGHTON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;46&nbsp;&nbsp;44&nbsp;&nbsp;93&nbsp;W9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.90S&nbsp;TC&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;45;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;48;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>COPPER&nbsp;HARBOR&nbsp;&nbsp;&nbsp;&nbsp;N/A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;47&nbsp;&nbsp;43&nbsp;&nbsp;86&nbsp;NW5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.90S&nbsp;TC&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;46;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;47;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>IRONWOOD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOUDY&nbsp;&nbsp;&nbsp;&nbsp;49&nbsp;&nbsp;46&nbsp;&nbsp;90&nbsp;CALM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29.94R&nbsp;TC&nbsp;&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6HR&nbsp;MIN&nbsp;TEMP:&nbsp;&nbsp;48;&nbsp;6HR&nbsp;MAX&nbsp;TEMP:&nbsp;&nbsp;50;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>$$&nbsp;<br>&nbsp;<br>ABBREVIATIONS&nbsp;USED&nbsp;IN&nbsp;REMARKS&nbsp;<br>&nbsp;&nbsp;&nbsp;TC&nbsp;-&nbsp;TEMPERATURE&nbsp;IN&nbsp;CELSIUS&nbsp;<br>&nbsp;&nbsp;WCI&nbsp;-&nbsp;WIND&nbsp;CHILL&nbsp;INDEX&nbsp;<br>&nbsp;&nbsp;&nbsp;HX&nbsp;-&nbsp;HEAT&nbsp;INDEX&nbsp;<br>&nbsp;&nbsp;VSB&nbsp;-&nbsp;VISIBILITY&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>
+       
+      </td>
+   </tr>
+</table>
+
+
+
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

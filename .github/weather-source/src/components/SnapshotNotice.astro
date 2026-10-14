@@ -1,5 +1,5 @@
 ---
-interface Props { sources:{url:string;retrievedAtUtc:string;id:string}[];what?:string }
+interface Props { sources:{url:string;retrievedAtUtc:string|null;id:string}[];what?:string }
 const {sources}=Astro.props;
 ---
-<details class="source-details"><summary>Source and observation notes</summary><div class="details-body"><ul>{sources.map(s=><li><a href={s.url}>{s.url.replace('https://','')} ↗</a><span class="small muted"> · Saved {new Date(s.retrievedAtUtc).toLocaleString('en-US',{timeZone:'America/Detroit',month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'})} Eastern</span></li>)}</ul><slot/></div></details>
+<details class="source-details"><summary>Source and observation notes</summary><div class="details-body"><ul>{sources.map(s=><li><span>{s.url.replace('https://','')}</span><span class="small muted">{s.retrievedAtUtc ? ` · Saved ${new Date(s.retrievedAtUtc).toLocaleString('en-US',{timeZone:'America/Detroit',month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'})} Eastern` : ' · No successful source capture.'}</span></li>)}</ul><slot/></div></details>

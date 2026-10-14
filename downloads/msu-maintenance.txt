@@ -1,0 +1,651 @@
+============================================================================== 
+Station Notes - MSU Hort Farm/East Lansing: 
+ 
+ 
+10/10/2023: Station Maintenance:                                        [1020] 
+ 
+            - routine site maintenance, including: 
+               - checked anemomter (good) 
+               - checked battery (14 V) 
+               - checked leaf wetness [standard] sensor (good)* 
+               - checked pyranometer (good) 
+               - checked soil sensors (good) 
+               - checked solar panel (20 V) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensors and radiation shields (@ 10cm, 1m, 3m) 
+               - cleaned solar panel 
+               - replaced battery cable 
+               - weed removal / trimmed grass 
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+05/09/2023: Station Maintenance:                                        [1130] 
+  
+            - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked battery box (good) 
+               - checked soil sensor cables (good) 
+               - checked solar panel (21.13 V) 
+               - checked tipping-bucket rain gauge (adjusted level) 
+               - cleaned atmp/relh radiation shiels (all three sensors) 
+               - cleaned solar panel 
+               - replaced radiation shield on HMP155 (atmp/relh) [1.5m sensor]  
+               - tested leaf wetness sensor [standard] (good)* 
+ 
+               * this site does not have a canopy sensor 
+ 
+ 
+05/03/2023: Station / Logger Maintenance;                               [1045] 
+ 
+            - site / logger maintenance, including: 
+               - removal of mice and nesting from battery box 
+               - repaired battery connection 
+               - removed canopy leaf wetness sensor 
+ 
+ 
+03/03/2023: Station / Logger Maintenance:                               [0915] 
+ 
+            - site visit to troubleshoot communication issue 
+               - logger reset via charge controller corrected hung modem 
+ 
+ 
+ 
+============================================================================== 
+08/22/2022: Station Maintenance:                                        [1300] 
+ 
+            - station maintenance, including: 
+               - removal of mice from battery box 
+               - repaired battery connection  
+ 
+ 
+07/05/2022: Station Maintenance:                                        [1010] 
+ 
+            - routine site maintenance, including: 
+               - weed removal 
+               - replaced leaf wetness sensor [standard] 
+               - replaced leaf wetness sensor [canopy] 
+ 
+ 
+06/21/2022: Station / Logger Maintenance:                               [1000] 
+ 
+            - logger communication / power issue troubleshooting 
+ 
+ 
+06/20/2022: Station / Logger Maintenance:                               [1145] 
+ 
+            - logger communication / power issue troubleshooting 
+ 
+ 
+06/14/2022: Station / Logger Maintenance:                               [1050] 
+ 
+            - troubleshoot faulty sensors: 
+               - atmp/relh @ 45cm 
+               - atmp/relh @ 1.5m 
+ 
+ 
+06/09/2022: Station Maintenance:                                        [1315] 
+ 
+            - sensor repair: 
+               - replaced anemometer bearings 
+ 
+ 
+            - routine site maintenance, including: 
+               - cleaned battery box (removed mouse) 
+               - weed removal 
+ 
+ 
+05/27/2022: Station / Logger Maintenence                                [0940] 
+ 
+            - routine site maintenance, including: 
+               - adjusted tipping-bucket rain gauge (cleaned, reset level) 
+               - checked anemomter (can hear the bearings) 
+               - checked enclosure (clean) 
+               - checked leaf wetness (standard: good, canopy: may be faulty) 
+               - checked pyranometer (good... level) 
+               - checked wind vane (good) 
+               - cleaned atmp/relh sensors (all three) 
+               - cleaned solar panels 
+               - weed removal 
+ 
+ 
+04/11/2022: Station Maintenance:                                        [0930] 
+ 
+            - routine site maintenance  
+ 
+ 
+02/07/2022: Logger Maintenance:                                         [1656] 
+ 
+            - loaded logger program: msu-bbcbS.cr1*  
+                 - both standard and canopy leaf wetness sensors 
+                 * supports "maintenance mode" 
+ 
+ 
+ 
+============================================================================== 
+08/18/2021: Station Maintenance:                                        [1030] 
+ 
+            - routine site / station maintenance  
+            - replaced pyranometer (solar radiation) sensor 
+ 
+ 
+ 
+============================================================================== 
+10/30/2020: Station Maintenance:                                        [1400] 
+ 
+            - repaired faulty leaf wetness sensor [standard mount] 
+            - cleaned leaf wetness sensors [standard and canopy] 
+ 
+ 
+ 
+============================================================================== 
+12/12/2019: Logger Maintnenace:                                         [1250] 
+ 
+            - reset "hung" modem 
+            - logger / logger program (msu-bbcbS) restarted 
+ 
+ 
+ 
+============================================================================== 
+05/08/2018: Logger Maintenance:                                         [1105] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: msu-bbcbS 
+ 
+ 
+ 
+============================================================================== 
+08/01/2018: Logger Maintenance:                                         [1730] 
+ 
+            - reset to data-collection frequency to once every 15 min. 
+ 
+ 
+07/18/2018: Station Maintenance:                                        [1300] 
+  
+            - additional solar panel installed 
+            - additional batter installed 
+            - modem connected to continuous power 
+ 
+ 
+07/03/2018: Station Maintenance:                                        [1020] 
+ 
+            - annual site maintenance 
+ 
+ 
+06/04/2018: Station Maintenance:                                        [1300] 
+ 
+            - general maintenance / cleanup 
+ 
+ 
+06/26/2018: Logger Maintenance:                                         [0009] 
+ 
+            - loaded logger program "msu-bbcbS" 
+ 
+ 
+04/20/2018: Station Maintenance:                                        [0005] 
+ 
+            - Soybean Inversion Study Upgrade, including: 
+                - install new ATMP/RELH sensor @ 45cm 
+                - install new ATMP/RELH sensor @ 3m 
+                - load new logger program "msu-bbcbS" 
+ 
+ 
+ 
+============================================================================== 
+07/18/2017: Station Maintenance:                                        [1030] 
+ 
+            - general cleanup 
+            - replaced logger battery 
+ 
+ 
+05/22/2017: Station Maintenance:                                        [1545] 
+ 
+            - annual maintenance  
+ 
+ 
+02/10/2017: Station Maintenance:                                        [0001] 
+ 
+            - reload logger program: msu-bbcb 
+              - supports switch of HMP155A from SW12V to 12V 
+ 
+ 
+ 
+============================================================================== 
+12/07/2016: Station Maintenance:                                        [1310] 
+ 
+            - Switched Air Temp/RH sensor (HMP155A) to "continous" power 
+ 
+ 
+09/20/2016: Station Maintenance:                                        [1155] 
+ 
+            - replaced Air Temp/Relative Humidity Sensor: 
+                 HC2S3 -> HMP155A 
+            - loaded new logger program: msu-bbcb 
+ 
+ 
+ 
+============================================================================== 
+06/01/2015: Station Maintenance:                                        [1320] 
+ 
+            - replaced anemometer/wind vane 
+ 
+05/13/2015: Station Modernization:                                      [1300] 
+ 
+            - Station upgraded with new logger and serveral new sensors. 
+              Due to upgrade, station was offline for the following: 
+  
+                 05/13/2015 (d=133) 1300 - 05/13/2015 (d=133) 1700 
+ 
+            - the "live" data updates were able to resume at: 
+ 
+                 05/14/2015 (d=134) 1445 
+ 
+ 
+05/01/2015: Station Maintenance:                                        [1000] 
+ 
+            - replaced both leaf wetness sensors (237) 
+            - replaced both soil temperature sensors 
+            - replaced modem fuse cable 
+ 
+ 
+04/29/2015: Station Maintenance:                                        [1530] 
+ 
+            - leaf wetness sensors replaced 
+            - power was disrupted and logger program (mawn_abcf)  
+              needed to be reloaded. 
+ 
+ 
+============================================================================== 
+10/28/2014: System Maintenance:                                         [1007] 
+ 
+            - loaded logger program "mawn_abcf" 
+ 
+ 
+10/27/2014: System Maintenance:                                         [1605] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "mawn_aacf" 
+ 
+ 
+03/26/2014: Station Maintenance:                                        [1430] 
+ 
+            - Replaced anemometer (speed) and wind vane (direction) 
+ 
+ 
+ 
+============================================================================== 
+07/16/2012: Data Quality:                                               [1515] 
+ 
+            - Changed corrections applied on 07/05/2012 and 07/09/2012 
+              from "missing" to "dry". 
+ 
+ 
+07/09/2012: Data Quality:                                               [1530] 
+ 
+            - Faulty Leaf Wetness and Precipitation data that was 
+              reported on July 07, 2012 (d=189) has been marked 
+              as "missing". 
+ 
+07/05/2012: Data Quality:                                               [1615] 
+ 
+            - Faulty Leaf Wetness and Precipiation data was discovered 
+              on 06/28/2012.   Marked faulty values as "missing". 
+ 
+ 
+06/27/2012: Data Quality:                                               [1745] 
+ 
+            - Marked faulty "soil moisture" data that was reported 
+              during the following time period, as "missing": 
+ 
+                04/21/2012 (d=112) 00:00 - 05/26/2012 (d=147) 24:00 
+ 
+ 
+05/27/2012: Station Maintenance:                                        [0002] 
+ 
+            - Replaced Logger Program with ABCF.  Installed to  
+              properly read data reported by new Soil Moisture  
+              sensors. 
+ 
+ 
+05/24/2012: Station Maintenance:                                        [1500] 
+ 
+            - Replaced Soil Moisture Sensors (CS616).  Installed to 
+              corrected problem with faulty Soil Moisture 0 sensor. 
+ 
+ 
+ 
+============================================================================== 
+05/21/2010: Station Maintenance:                                        [1045] 
+             
+            - Reinstalled Temp/RH at proper height of 57".  (NOTE: It 
+              should be at 55" but not able to install at that height 
+              due to current tripod). 
+ 
+            - General station maintenance (weed control, sensor checks) 
+ 
+ 
+01/27/2010: Data Correction:                                            [1000] 
+ 
+            - Evaluated data since recent repairs. 
+            - Marked TEMP/RH data that was reported during the 
+              following time period as "missing": 
+ 
+               temp: 11/01/09 (d=305) 00:05 - 01/20/10 (d=020) 16:00 
+               relh: 12/01/09 (d=335) 00:05 - 01/20/10 (d=020) 16:00 
+ 
+ 
+01/20/2010: Station Maintenance:                                        [1430] 
+ 
+            - Temp/RH Sensor replaced. 
+            - Corrected problems with station grounding.  
+ 
+ 
+01/18/2010: Station Offline:                                            [0900] 
+ 
+            - Currently experiencing datalogger and data quality  
+              issues.  Therefore, station has been taken offline  
+              and will remain unavailable until the problem is 
+              resolved. 
+ 
+ 
+ 
+============================================================================== 
+12/23/2009:  Station Maintenance:           [12:00] 
+ 
+             - Replaced HMP45C (Air Temp/RH) Sensor.   
+             - May be some faulty Air Temp/RH data starting in 
+               Nov 2009 that will need to be removed from the data 
+               archive. 
+ 
+ 
+ 
+09/14/2009:  Data Cleanup:                                             [11:00] 
+ 
+             - Faulty precipitation data that was introduced on 
+               09/11/09 was removed from the database. 
+ 
+ 
+ 
+09/11/2009:  Station Maintenance:                                      [13:35] 
+ 
+             - Tipping-bucket rain gauge was tipped which introduced 
+               faulty precip data into the archive for MSUHORT. 
+ 
+ 
+ 
+05/14/2009:  Station Maintenance: 
+ 
+             - General station maintenance and system checks.          [15:00] 
+ 
+ 
+ 
+ 
+============================================================================== 
+08/13/2008:  Data Cleanup: 
+ 
+             - Faulty solar radiation data due to failing sensor was 
+               removed from the database.  Solar data during the 
+               following time period was marked as "missing": 
+ 
+                   08/05/08 (d=215) 13:00 - 08/05/08 (d=218) 17:00 
+ 
+ 
+ 
+08/05/2008:  Station Maintenace: 
+ 
+             - Solar radiation sensor was replaced.                    [16:00] 
+ 
+ 
+ 
+06/11/2008:  Data Cleanup: 
+ 
+             - Faulty RH data due to failing sensor was removed 
+               from the database.  RH during the following time 
+               period was marked as "missing": 
+ 
+                   05/13/08 (d=134) 00:05 - 06/09/08 (d=161) 10:00 
+ 
+ 
+ 
+06/09/2008:  Station Maintenance: 
+ 
+             - Temp/RH sensor was replaced.                            [10:00] 
+ 
+ 
+ 
+06/05/2008:  Station Maintenance: 
+ 
+             - General station maintenance and system checks, including: 
+                   - Soil Moisture sensors now installed vertically: 
+                         - MSTR 0:  profile of depth =  0 - 12" 
+                         - MSTR 1:  profile of depth = 12 - 24" 
+ 
+                   - Replaced Solar Radiation sensor. 
+ 
+             - Work was done approx: 1015 - 1040 (Day=157) 
+ 
+ 
+ 
+ 
+============================================================================== 
+05/08/2007:  Station Maintenance (sm, bn): 
+ 
+             - General station maintenance and system checks. 
+ 
+                   - Work was done approx: 16:55 - 17:15 (Day=128) 
+ 
+ 
+ 
+ 
+10/18/2006:  Station Maintenance (jb): 
+ 
+              - Loaded MAWN Program:   MAWN_AACF (09:35) 
+ 
+ 
+ 
+ 
+09/07/2006:  Station Maintenance: (jb): 
+ 
+             - Loaded MAWN Program:   AACS (hourly voltage) 
+ 
+ 
+ 
+ 
+07/31/2006:  Station Maintenance (sm, bn): 
+ 
+             - MAWN station was moved to a new location at the MSU 
+               Horticulture Teaching and Research Center.   Several 
+               sensors were unavailable during the move (9:55 - 12:00). 
+ 
+             - Soil Temperature B sensor replaced and reburied (14:25). 
+ 
+             - Anemometer Replaced (14:25). 
+ 
+ 
+ 
+                 
+05/16/2006:  Station Maintenance (sm): 
+ 
+             - New battery installed. 
+             - New power supply/charger installed 
+             - Adjusted Solar Panel (corrected angle of installation) 
+ 
+ 
+05/16/2006:  Station Maintenance (sm): 
+ 
+             - The battery that is powering the MSUHORT MAWN station  
+               lost power at various times over the past several days. 
+               The temporary loss of power led to the loss of data for 
+               during the following time periods: 
+ 
+                  05/14/06 00:05  -  05/15/06 12:35 
+                  05/15/06 17:05  -  05/16/06 09:00 
+ 
+ 
+ 
+ 
+ 
+======================================================================= 
+09/29/2005:  Telecommunication Trouble Corrected (sm): 
+ 
+             - Recent telephone line troubles at MSUHORT MAWN station 
+               (rapid busy signal) resolved by MSU Telecom.  Troubles 
+               were at their end. 
+ 
+ 
+ 
+ 
+ 
+======================================================================= 
+05/19/2004:  Station Maintenance (sm, jal): 
+ 
+             - Replaced Soil Temperature A (2" depth). 
+ 
+             - Checked Soil Temperature B (4" depth) 
+             - Checked Tipping Bucket Rain Gauge 
+             - Checked Temperature/Relative Humidity Sensor 
+             - Checked Anamometer 
+ 
+ 
+ 
+ 
+ 
+======================================================================= 
+05/05/2003:  System Maintenance: 
+ 
+             - Replaced Soil Moisture Probes (Day=125, Time=14:10): 
+                  Sensor A:  buried horizontally,  5-inches under sod 
+                  Sensor B:  buried horizontally, 10-inches under sod 
+                   
+ 
+ 
+ 
+ 
+======================================================================= 
+04/08/2002:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+             - Time of Obs were modified by one hour (forward)  
+               from Day=97, Time=200 through Day=97, Time=205. 
+ 
+ 
+ 
+ 
+ 
+======================================================================= 
+10/29/2001:  Daylight Savings Time Adjustment. 
+ 
+             - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=301, Time=200 through Day=302, Time=1035. 
+ 
+ 
+ 
+ 
+ 
+======================================================================= 
+10/30/2000:  Daylight Savings Time Adjustment. 
+                 
+             - Daylight Savings Time Ended on Day=303, Time=200. 
+ 
+             - Time of Obs were modified by one hour (subtracted) 
+               from Day=303, Time=200 through Day=304, Time=1530. 
+               Only Observation Times were modified, not times of 
+               Maxs and Mins.  Users will need to take that into 
+               consideration when using this data. 
+ 
+ 
+ 
+04/26/2000:  Data Cleanup - Due to Weather Station Move, various  
+             values were reported incorrectly on April 26 (Day: 117). 
+ 
+             The following cleanup actions were performed: 
+                                               
+                Daily Data:   
+ 
+                   - Max Soil Temps - Estimated: 
+                        A (2"): Changed to 17.22 C 
+                        B (4"): Changed to 12.78 C 
+ 
+                   - Min Soil Moisture and Time of Occurance: 
+                        A: Marked as Missing 
+                        B: Marked as Missing 
+ 
+                   - Max Wind Speed - Estimated: 8.3 mps 
+ 
+                   - Max Wind Speed - Time -  Estimated: 15:39 
+ 
+                   - Precipitation: Set to 0.0 
+ 
+ 
+ 
+                Hourly Data:  
+ 
+                   - Soil Temperature A: Mark as Missing (9:00-18:00) 
+  
+                   - Soil Temperature B: Mark as Missing (9:00-18:00) 
+ 
+                   - Soil Moisture A: Mark as Missing (9:00-11:00) 
+ 
+                   - Soil Moisture B: Mark as Missing (9:00-11:00) 
+                             
+                   - Wind Direction: Mark as Missing (9:00-18:00) 
+ 
+                   - Max Wind Speed: Mark as Missing (10:00) 
+ 
+                   - Time of Max Wind Speed: Mark as Missing (10:00) 
+ 
+                   - Precipitation: Set to 0.0 (9:00-18:00) 
+ 
+ 
+                5-Min Data:   
+ 
+                   - Precipitation: Set to 0.0 (9:00-18:00) 
+ 
+ 
+ 
+04/26/2000:  MSU Hort station moved to new site at Hort Farm (am) 
+             Final setup finshed late afternoon (~5:30pm).  The 
+             data for Day=117 will need to be cleaned. 
+ 
+             - Leaf Wetness:  Setup on NE leg (40" from center 
+                              of tripod, ~ 39" high to sensor) 
+ 
+             - Soil Temps:    West of bottom of South Leg 
+                                 A - 2" depth (N of B) 
+                                 B - 4" depth (S of A) 
+ 
+             - Soil Moisture: East of South Leg (temporary) 
+ 
+             - Precip, Solar, Temp/RH, Enclosure all need remounting. 
+ 
+ 
+ 
+02/07/2000:  Fixed old data to reflect recent change in "mawn1b" 
+             program - padded missing values to 5-minute data. 
+ 
+ 
+ 
+02/05/2000:  Updated "mawn1b" to include Wind Speed, Air Temp, 
+             and Relative Humidity in 5-minute data. 
+ 
+ 
+ 
+ 
+ 
+======================================================================= 
+11/16/1999:  Converted data from 01/01/1996 - 06/03/1999 added 
+             to MAWN database. 
+ 
+ 
+ 
+06/04/1999:  MSU Hort station updated - (mawn1b). 
+             Replaced Temperature Sensor, Enclosure 
+             Mounted Leaf Wetness - 1 meter above ground (NE leg) 
+ 
+ 
+

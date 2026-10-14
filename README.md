@@ -1,22 +1,42 @@
-# Verate Cloud showcase
+# Verate Cloud
 
 Public site: https://veratecloud.com/
 
-- `/`: Medical records and Enviroweather project panels.
-- `/emr/`: Existing Health Records entry point, unchanged. Original assets, OCR files, Supabase integration, CNAME, and HTTPS configuration are preserved.
-- `/enviroweather/`: Three weather-site previews and review details.
-- `/weather-network/`, `/agricultural-weather/`, `/climate/`: Original-design weather accessibility previews.
+- `/`: title-only EMR and Enviroweather panels.
+- `/emr/`: existing synthetic-data EMR demonstration; unchanged by this release.
+- `/enviroweather/`: three weather-site panels.
+- `/weather-network/`, `/agricultural-weather/`, `/climate/`: original-design accessibility previews.
+- `/enviroweather/review/`: coverage, technology, validation and remaining acceptance work.
 
-GitHub Pages publishes the root of `main`. No build is required. `.nojekyll` must remain.
+GitHub Pages uses the Actions workflow in `.github/workflows/pages.yml`. It builds
+`.github/weather-source`, validates the result and publishes `_site`. Pushes use
+reviewed cached data; the hourly schedule and manual dispatch perform authorized
+read-only refreshes. The schedule is minute 17, subject to GitHub delays. Per-host
+request starts are spaced at least 1.1 seconds apart. Current reports use a
+30-minute cache, historical content up to 30 days, station photos seven days.
 
-Weather content is an October 12, 2026 snapshot. The 95 imported files are byte-identical to the tested local weather build. The local duplicate root page and 404 are replaced by showcase pages, and the original domain favicon is preserved. Automated results do not establish institutional approval or full ADA/WCAG conformance. See `/enviroweather/review/` for scope and test limits.
+All 119 listed weather stations have local routes. Available reports include
+115 hourly, 115 daily and 119 maintenance logs, plus 100 recent raw files. Local
+custom reports filter captured daily/hourly dates and export CSV. Agricultural
+products and climate reference pages are captured locally. All 27 current climate
+maps refresh with matching dates, legends and approximate regional text samples.
 
-The EMR is a synthetic-data demonstration. Account access and its backend are not changed by this showcase deployment.
+Weather navigation does not link back to the three original hosts. Uncopied or
+unavailable historical items show an explicit local notice. Separate NOAA,
+Wisconsin and institutional services remain external. Source observation dates,
+missing-value markers and retired-station limitations are retained.
 
-Prior deployment: e1ba062fce2c1802205c7c0e00bcc1b4d9a15a99. Roll back using a normal reviewed revert; do not rewrite branch history. Domain and DNS changes are unnecessary.
+This is not a complete historical database migration or an ADA certification.
+Five-minute/GDD queries, full historical archives, complex document/chart
+alternatives and institutional manual review remain acceptance work. See the
+public review report and downloadable station/product coverage inventories.
 
-## Authorized weather refresh (October 13, 2026)
+Maintainership authorization for bounded read-only refreshes despite robots.txt
+was confirmed by Evan on October 13, 2026 and is recorded in DECISIONS.md. Failed
+validation stops deployment and leaves the previous public release available.
+The climate refresh validates all 27 image/text pairs before replacing them.
+`/downloads/release.json` identifies the deployed source commit and build time.
 
-Evan confirmed maintainer authorization for bounded read-only refreshes despite robots.txt. `.github/workflows/pages.yml` refreshes the 14 named sources plus the three SWMREC report captures hourly, at minute 17 (GitHub scheduling may be delayed), and on deployment. Requests are serial, throttled two seconds apart, with timeouts and recorded hashes. Failed fetching, parsing, validation, or builds stop deployment and leave the previous public release intact. EMR assets and tile pages are preserved. Source code is in `.github/weather-source`; only the staged `_site` is deployed.
-
-This refresh covers East Lansing recent conditions, Benzonia/SWMREC reports, raw Benzonia data and the agricultural indexes. Other stations and products continue opening their original MSU services. The 27 climate images and their matching text descriptions remain the dated October 12 capture; their current source is linked. No claim of complete migration, continuous real-time delivery, or institutional accessibility certification is made.
+Keep the EMR, showcase tiles, CNAME, domain configuration and `.nojekyll` intact.
+Rollback is a normal reviewed revert followed by the workflow; no history rewrite
+or DNS change is needed. Baseline before this expanded release: b4c6c12.

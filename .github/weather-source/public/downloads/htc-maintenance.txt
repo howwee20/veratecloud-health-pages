@@ -1,0 +1,254 @@
+============================================================================== 
+Station Notes - MSUHTRC (Hancock Turfgrass Research Center at MSU) 
+ 
+ 
+10/10/2023: Station Maintenance:                                        [1145] 
+ 
+            - routine site maintenance, including: 
+               - checked anemomter (good) 
+               - checked battery (14 V) 
+               - checked leaf wetness [standard] sensor (good)*    
+               - checked pyranometer (good) 
+               - checked soil sensors (good) 
+               - checked solar panel (20 V) 
+               - checked tipping-bucket rain gauge (good) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned solar panel  
+ 
+               * site does not include a canopy sensor 
+ 
+ 
+05/09/2023: Station Maintenance:                                        [1215] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked battery (13.42 V) 
+               - checked solar panel (20.5 V) 
+               - checked tipping-bucket rain gauge (good) 
+               - tested leaf wetness sensor [standard] (good) 
+ 
+ 
+04/14/2023: Logger Maintenance:                                         [0005] 
+ 
+            - replaced logger (CR1000 -> CR6) 
+            - logger program: htc-bssdF.cr6* 
+ 
+               * includes "maintenance mode" 
+ 
+ 
+ 
+============================================================================== 
+09/14/2021: Station Maintenance:                                        [1615] 
+ 
+            - replaced faulty atmp/relh sensor 
+ 
+ 
+ 
+============================================================================== 
+07/03/2018: Station Maintenance:                                        [1055] 
+ 
+            - routine station / site maintenance  
+ 
+ 
+06/04/2018: Station Maintenance:                                        [1350] 
+ 
+            - annual station / site maintenance, including: 
+               - replacement of leaf wetness sensor 
+ 
+ 
+ 
+============================================================================== 
+10/03/2017: Station Maintenance:                                        [0006] 
+ 
+            - loaded logger program "htc-bbaa" 
+ 
+ 
+05/22/2017: Station Maintenance:                                        [1515] 
+ 
+            - annual maintenance, including: 
+               - rewire of atmp/relh (HMP45C) to "continuous" power 
+ 
+ 
+ 
+============================================================================== 
+12/23/2014: Station Maintenance:                                        [1500] 
+  
+            - reconnected 2" Soil Temp (SOIL0) sensor 
+ 
+ 
+12/16/2014: Station Maintenance:                                        [0930] 
+ 
+            - replaced power supply 
+ 
+ 
+12/08/2014: System Maintenance:                                         [1645] 
+ 
+            - battery voltage has stabilized - continue to monitor 
+            - reactivated data updates 
+ 
+ 
+12/07/2014: Station Maintenance:                                        [0830] 
+ 
+            - replaced SC932B interface 
+            - installed solid-state relay 
+            - replacement of 4" soil temperature sensor planned 
+              for 12/20/2014 
+ 
+ 
+12/05/2014: Station Maintenance:                                        [1420] 
+ 
+            - disconnected 4" soil temperature (soil1) sensor (possible 
+              source of unintended power draw) 
+ 
+ 
+11/26/2014: Station Maintenance:                                        [1155] 
+ 
+            - replaced failed logger battery 
+ 
+ 
+11/17/2014: System Maintenance:                                         [1306] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "mawn_abcf" 
+ 
+ 
+ 
+============================================================================== 
+07/22/2014: Station Maintenance:                                        [1430] 
+ 
+            - Replaced anemometer (wind speed) 
+ 
+ 
+06/05/2014: Station Maintenance:                                        [1500] 
+ 
+            - Reinstalled all Soil Temperature and Soil Moisture 
+              sensors.  Cables were installed inside coduit. 
+            - Relocated precipitation bucket... away from irrigation 
+              influence. 
+ 
+ 
+06/03/2014: Station Maintenance:                                        [1600] 
+ 
+            - Installed new 2" Soil Temperature Sensor [SOIL0] 
+            - Installed new transmission cable between modem and  
+              antenna 
+ 
+ 
+ 
+============================================================================== 
+02/25/2013: Station Maintenance:                                        [0001] 
+ 
+            - Loaded Logger Program - ABCF (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/11/2012: Station Maintenance:                                        [1728] 
+ 
+            - Battery replacement.  Weak battery has led to recent  
+              data loss. 
+ 
+ 
+12/10/2012: Station Maintenance:                                        [1502] 
+ 
+            - Loaded Logger Program "ABCW" (3-hour power/collection  
+              cycle) due to battery/power troubles. 
+ 
+ 
+ 
+============================================================================== 
+12/16/2011: Station Maintenance:                                        [1420] 
+ 
+            - Replaced Logger Battery 
+ 
+ 
+08/23/2011: Loggernet Adjustment                                        [0004] 
+ 
+            - MAWN Program "ABCS" Loaded (30-minte power/collection 
+              cycle). 
+ 
+ 
+ 
+============================================================================== 
+08/30/2010: Data Quality                                                [1100] 
+ 
+            - Faulty soil temperature and soil moisture that was 
+              recently introduced into the data archive for the 
+              MSUHTRC was removed. 
+ 
+ 
+08/23/2010: Station Maintenance:                                        [1000] 
+ 
+            - Replaced Soil Moisture Sensors 
+            - Replaced Soil Temperature Sensors 
+                (Note: troubles continue with soil temp data) 
+ 
+ 
+02/11/2010: Station Maintenance:                                        [1605] 
+ 
+            - Replaced wireless broadband modem. 
+ 
+ 
+ 
+============================================================================== 
+05/26/2009: Station Maintenance:                                        [1530] 
+ 
+            - General station maintenance and system checks, including: 
+              - Tipping-bucket rain gauge test. 
+ 
+ 
+ 
+============================================================================== 
+06/05/2008: Station Maintenance: 
+ 
+            - General station maintenance and system checks, including: 
+              - Soil Moisture sensors now installed vertically: 
+                - MSTR 0:  profile of depth =  0 - 12" 
+                - MSTR 1:  profile of depth = 12 - 24" 
+ 
+            - Work was done approx: 1055 - 1115 (Day=157) 
+ 
+ 
+ 
+============================================================================== 
+11/19/2007: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_ABCF   (1-hr power cycle)  [13:37] 
+ 
+ 
+05/03/2007: Station Online: 
+ 
+            - Station added to MAWN web site. 
+ 
+ 
+05/02/2007: Data Collection Enabled: 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   May 03, 2007 - 00:05 (Day=123) 
+ 
+ 
+05/02/2007: Station Maintenance: 
+ 
+            - Established telecommunication between station cell-modem and 
+              data collection PC/server on campus.    
+ 
+            - Loaded MAWN Program:  MAWN_ABCS 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+05/02/2007: New Station Installed: 
+ 
+               Notes: 
+                  
+ 
+               Additional Station Needs: 
+ 
+                  - 2nd leaf wetness sensor 
+ 
+ 
+ 
+============================================================================== 
+

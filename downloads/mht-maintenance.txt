@@ -1,0 +1,45 @@
+=============================================================================== 
+Station Notes: MSU Horticulture Teaching & Research Center:  East Lansing, MI 
+=============================================================================== 
+ 
+05/05/2025: Station Online:                                              [1330] 
+     
+            - Station added to Enviroweather/MAWN database system 
+          
+ 
+03/27/2025: Data Collection Enabled                                      [0945] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   March 10, 2025 (d=069) 00:05 
+ 
+ 
+03/27/2025: Station Maintenance:                                         [----] 
+ 
+            - Established telecommunication between station cell-modem 
+              and data-collection PC/server on campus. 
+ 
+ 
+10/24/2024: Logger Setup                                                 [1455] 
+ 
+            - Loaded Logger Program:  
+                 mht-bssdT.cr1x 
+                    mht => Station ID (msuhort10) 
+                      b => MI (state network) 
+                      s => SDI-12 [CS655] (Soil Moisture) 
+                      s => SDI-12 [HygroVue10] (Temp/RH) 
+                      d => LWS-L (Leaf Wetness) [no canopy] 
+                      T => Tower Station (extra sensors: 10m tower config) 
+                   cr1x => CR1000X (logger / logger program type) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+10/24/2024: Station Setup                                                [----] 
+ 
+            - station setup / activated at field site 
+ 
+ 
+ 
+=============================================================================== 
+

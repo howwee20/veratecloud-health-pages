@@ -1,0 +1,31 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+   <title>file:///Untitled</title>
+</head>
+<body>
+<font size=+3>Dimondale (2140)</font>
+<p>&nbsp;The following tables are based on the 1971-2000 time period (Acrobat 
+format)</p>
+<p>1. <a href="annual.pdf">Climate normals and 
+extremes by year</a><p>2. <a href="monthly.pdf">
+Climate normals and extremes by month</a>
+<p>&nbsp;<p>The following tables are statistical probabilities based on the 1971-2000
+data
+<p>using the indicated Probability Distribution Function
+<p>3. <a href="nprec.txt">Monthly
+&amp; annual total precipitation (Gamma)</a>
+<p>4. <a href="nsnow.txt">Monthly
+&amp; annual total snowfall (Gamma)</a>
+<p>&nbsp;<p>5. <a href="dpg10.txt">Number of 
+days with precipitation of .10 inch or above(Weibull) </a><p>6.
+<a href="dpg25.txt">Number of days with precipitation of .25 inch or above(Weibull)
+</a>
+<p>7. <a href="dpg50.txt">Number of 
+days with precipitation of .50 inch or above(Weibull) </a>
+<p>&nbsp;<p>8.
+<a href="eprec.txt">Extreme 
+Precipitation</a><p>9.
+<a href="esnow.txt">Extreme Snowfall</a><p>&nbsp;</body></html>

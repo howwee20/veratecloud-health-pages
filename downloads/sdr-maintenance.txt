@@ -1,0 +1,70 @@
+=============================================================================== 
+Station Notes - Sturgeon Bay / Southern Door (WI) 
+ 
+ 
+08/17/2023: Station Retired                                             [0000] 
+  
+            - station retired 
+               - station now being managed by Wisconet (Wisconsin Mesonet)... 
+                  ...for more information and current data, refer to: 
+ 
+                        https://wisconet.wisc.edu 
+                        https://wisconet.wisc.edu/stations/southern_door_county 
+ 
+ 
+ 
+============================================================================== 
+09/05/2019: Logger / Station Maintenance:                           [1155 CDT] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: sdr-cbcb 
+ 
+ 
+ 
+=============================================================================== 
+02/10/2017: Station Maintenance:                                         [1130] 
+ 
+            - replaced logger battery 
+ 
+ 
+ 
+=============================================================================== 
+09/12/2016: Station Online:                                              [xxxx] 
+ 
+            - Station added to Enviroweather/MAWN Web Site 
+ 
+ 
+07/13/2016: Data Collection Enabled                                      [----] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   July 14, 2016 (Day=196) 00:05 
+ 
+ 
+07/13/2016: Station Installed:                                           [----] 
+ 
+            - Station installed at station field site 
+ 
+ 
+07/13/2016: Station Maintenance:                                         [1406] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+07/13/2016: Station Setup                                                [1404] 
+ 
+            - Loaded MAWN Program:   SDR-CBCB 
+                                      SDR => Station ID (Sturgeon Bay / Southern Door) 
+                                        C => CR1000/WI (Logger/State) 
+                                        B => CS616 (Soil Moisture) 
+                                        C => HMP155A (Temp/RH) 
+                                        B => LWS-L (Leaf Wetness) 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+ 
+=============================================================================== 
+

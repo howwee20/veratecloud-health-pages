@@ -1,0 +1,213 @@
+
+
+
+<html>
+<head>
+<title>Michigan Agricultural Weather Office</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=stylesheet href="./style.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff">
+<table width="760" height="984" border="2" bgcolor="#ffffff">
+   <tr>
+      <td width="125" bgcolor="#006633" valign="top">
+         <table width="100%" border="0" align="middle">
+            <tr>
+               <td width="125" height="53">
+                  <a href="http://www.msu.edu"><img src="/images/msulogo.gif" width="125" height="43" border="0" alt="MSU Home"></a>
+               </td>
+            </tr>
+         </table>
+
+<!--
+         <table width="100%" border="0" bgcolor="#000000">
+           <tr>
+             <td width="125" height="125">
+                  <a href="http://anrcom.msu.edu/Budget.aspx"><img src="/images/budget.jpg" width="125" height="125" border="0" alt="Budget Impacts on MSU Research and Extension"></a>
+               </td>
+            </tr>
+         </table>
+-->
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+ 
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">
+                  10/13/26 - 20:31
+               </td>
+            </tr> 
+         </table>
+
+         <table width="100%" border="0" bgcolor="#006633">
+            <tr>
+               <td>&nbsp;</td>
+            </tr>
+         </table>
+
+         <table width="100%" border="0" bgcolor="#000000">
+            <tr>
+               <td class="navbarfont">Datafeed Status</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;LDM : ok</td>
+            </tr>
+            <tr>
+               <td class="navbarfont">&nbsp;&nbsp;&nbsp;MAWN : ok</td>
+            </tr>
+         </table>
+
+         
+         <br>
+         <table width="100%" border="0" bgcolor="#006633" cellpadding="3">
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/index.html">Main</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/info/">Information</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/current/">Current Weather</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/forecasts/">Forecast Products</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/articles/">Feature Articles</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont"><a href="/links/">Other Sites</a></td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="https://mawn.geo.msu.edu">Michigan Automated Weather Network (MAWN)</a>
+               </td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+            </tr>
+            <tr>
+               <td bgcolor="lightyellow" class="navbarfont">&nbsp;</td>
+               <td bgcolor="lightyellow" class="navbarfont">
+                  <a href="http://enviroweather.msu.edu">Enviro-Weather</a>
+               </td>
+            </tr>
+         </table>
+
+      </td>
+
+      <td width="635" bgcolor="#ffffff" valign="top" align="middle">
+
+
+      <!-- END OF BANNER INFORMATION -->
+
+      <!-- MAIN DOCUMENT INFO GETS PLACED IN REMAINING TABLE ELEMENTS -->
+
+
+<!--  Statement To Announce System Failure... --> 
+<!--
+  <table width="100%" border="0" valign="top" align="center">
+     <tr>
+       <td><center>
+         <b><font color="red" class="arial1">Attention: All Enviro-weather Users</font></b> 
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+     <tr>
+       <td><left>
+         <b><font color="red" class="courier2">
+              Due to hardware failure, we are in the process of moving this website to a new server.  Although much of the data
+              is now available, some links and applications may not be completely 
+              available until sometime during the day on Tuesday, June 25.
+
+              We apologize for any inconvenience that this system outage may have caused you.
+         </font></b>
+       </td>
+     </tr>
+
+     <tr>
+       <td>
+         &nbsp;
+       </td>
+     </tr>
+     
+  </table>
+-->
+<!-- End of Fee-Based Statement -->
+
+
+
+
+<table width="100%" height="120" border="0">
+   <tr height="100">
+      <td align="center">
+         <h1>MSU Agricultural Weather Office<h1>
+         <h2>Forecast Products</h2>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+
+<!--
+   <tr height="35">
+      <td align="center">
+         <font color="red" font size=3><b>State Budget Cuts Threaten This Website and Other MSUE/MAES Programs...
+         <br>Click  <a href="http://anrcom.msu.edu/Budget.aspx">Here</a> For More Information...</b></font>
+      </td>
+   </tr>
+
+   <tr height="25">
+      <td align="center" valign="top">
+         <img src="/images/grnbar.gif">
+      </td>
+   </tr>
+-->
+
+</table>
+
+<br>
+<table width="95%" border="0" valign="top" align="center">
+   <tr>
+      <td class="courier2">
+        
+         &nbsp;<br>596&nbsp;&nbsp;<br>FPUS63&nbsp;KGRR&nbsp;132120&nbsp;<br>SFTMI&nbsp;&nbsp;<br>MIZ001>083-140900-&nbsp;<br>&nbsp;<br>Tabular&nbsp;State&nbsp;Forecast&nbsp;for&nbsp;Michigan&nbsp;<br>National&nbsp;Weather&nbsp;Service&nbsp;Grand&nbsp;Rapids&nbsp;MI&nbsp;<br>515&nbsp;PM&nbsp;EDT&nbsp;Tue&nbsp;Oct&nbsp;13&nbsp;2026&nbsp;<br>&nbsp;<br>ROWS&nbsp;INCLUDE...&nbsp;<br>&nbsp;&nbsp;&nbsp;Daily&nbsp;predominant&nbsp;daytime&nbsp;weather&nbsp;6AM-6PM&nbsp;<br>&nbsp;&nbsp;&nbsp;Forecast&nbsp;temperatures...early&nbsp;morning&nbsp;low/daytime&nbsp;high&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Probability&nbsp;of&nbsp;precipitation&nbsp;nighttime&nbsp;6PM-6AM/daytime&nbsp;6AM-6PM&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;indicates&nbsp;temperatures&nbsp;below&nbsp;zero&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MM&nbsp;indicates&nbsp;missing&nbsp;data&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;FCST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FCST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FCST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FCST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FCST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FCST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FCST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Wed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Oct&nbsp;14&nbsp;&nbsp;&nbsp;Oct&nbsp;15&nbsp;&nbsp;&nbsp;Oct&nbsp;16&nbsp;&nbsp;&nbsp;Oct&nbsp;17&nbsp;&nbsp;&nbsp;Oct&nbsp;18&nbsp;&nbsp;&nbsp;Oct&nbsp;19&nbsp;&nbsp;&nbsp;Oct&nbsp;20&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>...SOUTHEAST&nbsp;LOWER&nbsp;MICHIGAN...&nbsp;<br>&nbsp;&nbsp;&nbsp;Detroit&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;59/70&nbsp;&nbsp;&nbsp;&nbsp;49/65&nbsp;&nbsp;&nbsp;&nbsp;50/60&nbsp;&nbsp;&nbsp;&nbsp;36/55&nbsp;&nbsp;&nbsp;&nbsp;38/62&nbsp;&nbsp;&nbsp;&nbsp;46/64&nbsp;&nbsp;&nbsp;&nbsp;47/66&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;60/40&nbsp;&nbsp;&nbsp;&nbsp;00/50&nbsp;&nbsp;&nbsp;&nbsp;90/70&nbsp;&nbsp;&nbsp;&nbsp;40/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Ann&nbsp;Arbor&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;57/69&nbsp;&nbsp;&nbsp;&nbsp;48/65&nbsp;&nbsp;&nbsp;&nbsp;49/58&nbsp;&nbsp;&nbsp;&nbsp;34/55&nbsp;&nbsp;&nbsp;&nbsp;35/61&nbsp;&nbsp;&nbsp;&nbsp;43/64&nbsp;&nbsp;&nbsp;&nbsp;45/66&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;70/30&nbsp;&nbsp;&nbsp;&nbsp;00/60&nbsp;&nbsp;&nbsp;&nbsp;90/60&nbsp;&nbsp;&nbsp;&nbsp;40/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Monroe&nbsp;<br>&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;59/70&nbsp;&nbsp;&nbsp;&nbsp;49/65&nbsp;&nbsp;&nbsp;&nbsp;50/60&nbsp;&nbsp;&nbsp;&nbsp;35/55&nbsp;&nbsp;&nbsp;&nbsp;35/62&nbsp;&nbsp;&nbsp;&nbsp;43/65&nbsp;&nbsp;&nbsp;&nbsp;45/65&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;50/50&nbsp;&nbsp;&nbsp;&nbsp;00/60&nbsp;&nbsp;&nbsp;&nbsp;90/60&nbsp;&nbsp;&nbsp;&nbsp;40/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Pontiac&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;56/67&nbsp;&nbsp;&nbsp;&nbsp;47/63&nbsp;&nbsp;&nbsp;&nbsp;48/58&nbsp;&nbsp;&nbsp;&nbsp;34/54&nbsp;&nbsp;&nbsp;&nbsp;37/61&nbsp;&nbsp;&nbsp;&nbsp;45/63&nbsp;&nbsp;&nbsp;&nbsp;45/65&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;50/20&nbsp;&nbsp;&nbsp;&nbsp;00/50&nbsp;&nbsp;&nbsp;&nbsp;90/70&nbsp;&nbsp;&nbsp;&nbsp;40/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Bad&nbsp;Axe&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;50/62&nbsp;&nbsp;&nbsp;&nbsp;42/61&nbsp;&nbsp;&nbsp;&nbsp;42/57&nbsp;&nbsp;&nbsp;&nbsp;32/54&nbsp;&nbsp;&nbsp;&nbsp;32/63&nbsp;&nbsp;&nbsp;&nbsp;41/63&nbsp;&nbsp;&nbsp;&nbsp;41/64&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;00/30&nbsp;&nbsp;&nbsp;&nbsp;90/90&nbsp;&nbsp;&nbsp;&nbsp;70/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Port&nbsp;Huron&nbsp;<br>&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;56/63&nbsp;&nbsp;&nbsp;&nbsp;48/63&nbsp;&nbsp;&nbsp;&nbsp;49/59&nbsp;&nbsp;&nbsp;&nbsp;37/52&nbsp;&nbsp;&nbsp;&nbsp;38/60&nbsp;&nbsp;&nbsp;&nbsp;46/63&nbsp;&nbsp;&nbsp;&nbsp;47/64&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;30/20&nbsp;&nbsp;&nbsp;&nbsp;00/40&nbsp;&nbsp;&nbsp;&nbsp;90/90&nbsp;&nbsp;&nbsp;&nbsp;70/10&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Flint&nbsp;<br>&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;55/67&nbsp;&nbsp;&nbsp;&nbsp;45/64&nbsp;&nbsp;&nbsp;&nbsp;48/58&nbsp;&nbsp;&nbsp;&nbsp;33/55&nbsp;&nbsp;&nbsp;&nbsp;36/63&nbsp;&nbsp;&nbsp;&nbsp;45/64&nbsp;&nbsp;&nbsp;&nbsp;45/67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;30/10&nbsp;&nbsp;&nbsp;&nbsp;00/50&nbsp;&nbsp;&nbsp;&nbsp;90/80&nbsp;&nbsp;&nbsp;&nbsp;40/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Tri&nbsp;Cities&nbsp;<br>&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;53/66&nbsp;&nbsp;&nbsp;&nbsp;45/64&nbsp;&nbsp;&nbsp;&nbsp;46/58&nbsp;&nbsp;&nbsp;&nbsp;32/56&nbsp;&nbsp;&nbsp;&nbsp;35/64&nbsp;&nbsp;&nbsp;&nbsp;44/65&nbsp;&nbsp;&nbsp;&nbsp;42/66&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;20/10&nbsp;&nbsp;&nbsp;&nbsp;00/50&nbsp;&nbsp;&nbsp;&nbsp;90/80&nbsp;&nbsp;&nbsp;&nbsp;30/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>...SOUTHWEST&nbsp;LOWER&nbsp;MICHIGAN...&nbsp;<br>&nbsp;&nbsp;&nbsp;Mt&nbsp;Pleasant&nbsp;<br>&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;51/66&nbsp;&nbsp;&nbsp;&nbsp;42/63&nbsp;&nbsp;&nbsp;&nbsp;46/57&nbsp;&nbsp;&nbsp;&nbsp;31/57&nbsp;&nbsp;&nbsp;&nbsp;36/63&nbsp;&nbsp;&nbsp;&nbsp;44/65&nbsp;&nbsp;&nbsp;&nbsp;40/67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;20/10&nbsp;&nbsp;&nbsp;&nbsp;00/50&nbsp;&nbsp;&nbsp;&nbsp;90/50&nbsp;&nbsp;&nbsp;&nbsp;20/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Grand&nbsp;Rapids&nbsp;<br>&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;55/68&nbsp;&nbsp;&nbsp;&nbsp;47/63&nbsp;&nbsp;&nbsp;&nbsp;47/56&nbsp;&nbsp;&nbsp;&nbsp;33/56&nbsp;&nbsp;&nbsp;&nbsp;38/62&nbsp;&nbsp;&nbsp;&nbsp;46/63&nbsp;&nbsp;&nbsp;&nbsp;43/68&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;40/30&nbsp;&nbsp;&nbsp;&nbsp;00/70&nbsp;&nbsp;&nbsp;&nbsp;90/50&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Muskegon&nbsp;<br>&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;53/65&nbsp;&nbsp;&nbsp;&nbsp;46/62&nbsp;&nbsp;&nbsp;&nbsp;46/57&nbsp;&nbsp;&nbsp;&nbsp;39/57&nbsp;&nbsp;&nbsp;&nbsp;46/60&nbsp;&nbsp;&nbsp;&nbsp;50/62&nbsp;&nbsp;&nbsp;&nbsp;47/65&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;30/10&nbsp;&nbsp;&nbsp;&nbsp;00/70&nbsp;&nbsp;&nbsp;&nbsp;90/70&nbsp;&nbsp;&nbsp;&nbsp;40/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Lansing&nbsp;<br>&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;55/68&nbsp;&nbsp;&nbsp;&nbsp;46/64&nbsp;&nbsp;&nbsp;&nbsp;48/57&nbsp;&nbsp;&nbsp;&nbsp;33/56&nbsp;&nbsp;&nbsp;&nbsp;36/63&nbsp;&nbsp;&nbsp;&nbsp;45/64&nbsp;&nbsp;&nbsp;&nbsp;44/67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;50/30&nbsp;&nbsp;&nbsp;&nbsp;00/60&nbsp;&nbsp;&nbsp;&nbsp;90/60&nbsp;&nbsp;&nbsp;&nbsp;30/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Kalamazoo&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;57/70&nbsp;&nbsp;&nbsp;&nbsp;48/65&nbsp;&nbsp;&nbsp;&nbsp;46/56&nbsp;&nbsp;&nbsp;&nbsp;33/57&nbsp;&nbsp;&nbsp;&nbsp;35/63&nbsp;&nbsp;&nbsp;&nbsp;43/64&nbsp;&nbsp;&nbsp;&nbsp;44/67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;60/40&nbsp;&nbsp;&nbsp;&nbsp;00/80&nbsp;&nbsp;&nbsp;&nbsp;90/60&nbsp;&nbsp;&nbsp;&nbsp;30/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Benton&nbsp;Harbor/St&nbsp;Joe&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;58/66&nbsp;&nbsp;&nbsp;&nbsp;51/65&nbsp;&nbsp;&nbsp;&nbsp;47/58&nbsp;&nbsp;&nbsp;&nbsp;39/57&nbsp;&nbsp;&nbsp;&nbsp;40/63&nbsp;&nbsp;&nbsp;&nbsp;47/64&nbsp;&nbsp;&nbsp;&nbsp;48/67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;60/20&nbsp;&nbsp;&nbsp;&nbsp;00/80&nbsp;&nbsp;&nbsp;&nbsp;90/70&nbsp;&nbsp;&nbsp;&nbsp;60/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Hillsdale&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;57/69&nbsp;&nbsp;&nbsp;&nbsp;49/65&nbsp;&nbsp;&nbsp;&nbsp;49/57&nbsp;&nbsp;&nbsp;&nbsp;33/55&nbsp;&nbsp;&nbsp;&nbsp;34/62&nbsp;&nbsp;&nbsp;&nbsp;43/64&nbsp;&nbsp;&nbsp;&nbsp;45/67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;60/40&nbsp;&nbsp;&nbsp;&nbsp;00/70&nbsp;&nbsp;&nbsp;&nbsp;90/50&nbsp;&nbsp;&nbsp;&nbsp;30/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>...NORTHERN&nbsp;LOWER&nbsp;MICHIGAN...&nbsp;<br>&nbsp;&nbsp;&nbsp;Traverse&nbsp;City&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;47/58&nbsp;&nbsp;&nbsp;&nbsp;39/60&nbsp;&nbsp;&nbsp;&nbsp;41/53&nbsp;&nbsp;&nbsp;&nbsp;34/56&nbsp;&nbsp;&nbsp;&nbsp;39/63&nbsp;&nbsp;&nbsp;&nbsp;46/65&nbsp;&nbsp;&nbsp;&nbsp;41/67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;00/50&nbsp;&nbsp;&nbsp;&nbsp;90/90&nbsp;&nbsp;&nbsp;&nbsp;60/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Ludington&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;46/61&nbsp;&nbsp;&nbsp;&nbsp;37/61&nbsp;&nbsp;&nbsp;&nbsp;39/56&nbsp;&nbsp;&nbsp;&nbsp;35/57&nbsp;&nbsp;&nbsp;&nbsp;41/61&nbsp;&nbsp;&nbsp;&nbsp;46/62&nbsp;&nbsp;&nbsp;&nbsp;42/65&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;20/10&nbsp;&nbsp;&nbsp;&nbsp;00/60&nbsp;&nbsp;&nbsp;&nbsp;90/80&nbsp;&nbsp;&nbsp;&nbsp;60/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Gaylord&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;43/56&nbsp;&nbsp;&nbsp;&nbsp;36/57&nbsp;&nbsp;&nbsp;&nbsp;39/49&nbsp;&nbsp;&nbsp;&nbsp;28/53&nbsp;&nbsp;&nbsp;&nbsp;34/61&nbsp;&nbsp;&nbsp;&nbsp;43/62&nbsp;&nbsp;&nbsp;&nbsp;38/63&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;20/10&nbsp;&nbsp;&nbsp;&nbsp;00/40&nbsp;&nbsp;&nbsp;100/100&nbsp;&nbsp;&nbsp;50/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Cadillac&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;43/59&nbsp;&nbsp;&nbsp;&nbsp;35/59&nbsp;&nbsp;&nbsp;&nbsp;38/50&nbsp;&nbsp;&nbsp;&nbsp;27/54&nbsp;&nbsp;&nbsp;&nbsp;33/61&nbsp;&nbsp;&nbsp;&nbsp;41/64&nbsp;&nbsp;&nbsp;&nbsp;37/65&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;20/00&nbsp;&nbsp;&nbsp;&nbsp;00/50&nbsp;&nbsp;&nbsp;&nbsp;90/90&nbsp;&nbsp;&nbsp;&nbsp;50/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Alpena&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;45/58&nbsp;&nbsp;&nbsp;&nbsp;42/57&nbsp;&nbsp;&nbsp;&nbsp;42/52&nbsp;&nbsp;&nbsp;&nbsp;31/55&nbsp;&nbsp;&nbsp;&nbsp;35/64&nbsp;&nbsp;&nbsp;&nbsp;44/64&nbsp;&nbsp;&nbsp;&nbsp;39/62&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;00/30&nbsp;&nbsp;&nbsp;&nbsp;90/90&nbsp;&nbsp;&nbsp;&nbsp;40/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Tawas&nbsp;City&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;51/62&nbsp;&nbsp;&nbsp;&nbsp;46/59&nbsp;&nbsp;&nbsp;&nbsp;46/56&nbsp;&nbsp;&nbsp;&nbsp;34/55&nbsp;&nbsp;&nbsp;&nbsp;39/62&nbsp;&nbsp;&nbsp;&nbsp;47/62&nbsp;&nbsp;&nbsp;&nbsp;45/62&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;20/10&nbsp;&nbsp;&nbsp;&nbsp;00/40&nbsp;&nbsp;&nbsp;&nbsp;90/90&nbsp;&nbsp;&nbsp;&nbsp;30/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>...WESTERN&nbsp;UPPER&nbsp;MICHIGAN...&nbsp;<br>&nbsp;&nbsp;&nbsp;Ironwood&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;41/52&nbsp;&nbsp;&nbsp;&nbsp;31/56&nbsp;&nbsp;&nbsp;&nbsp;28/49&nbsp;&nbsp;&nbsp;&nbsp;26/59&nbsp;&nbsp;&nbsp;&nbsp;33/65&nbsp;&nbsp;&nbsp;&nbsp;36/63&nbsp;&nbsp;&nbsp;&nbsp;32/67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;20/00&nbsp;&nbsp;&nbsp;&nbsp;10/50&nbsp;&nbsp;&nbsp;&nbsp;90/50&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Houghton/Hancock&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Windy&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;43/50&nbsp;&nbsp;&nbsp;&nbsp;37/52&nbsp;&nbsp;&nbsp;&nbsp;34/48&nbsp;&nbsp;&nbsp;&nbsp;32/54&nbsp;&nbsp;&nbsp;&nbsp;37/61&nbsp;&nbsp;&nbsp;&nbsp;43/59&nbsp;&nbsp;&nbsp;&nbsp;37/61&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;00/60&nbsp;&nbsp;&nbsp;&nbsp;90/40&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>...CENTRAL&nbsp;UPPER&nbsp;MICHIGAN...&nbsp;<br>&nbsp;&nbsp;&nbsp;Marquette&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;46/53&nbsp;&nbsp;&nbsp;&nbsp;41/56&nbsp;&nbsp;&nbsp;&nbsp;40/50&nbsp;&nbsp;&nbsp;&nbsp;35/56&nbsp;&nbsp;&nbsp;&nbsp;40/63&nbsp;&nbsp;&nbsp;&nbsp;46/61&nbsp;&nbsp;&nbsp;&nbsp;42/62&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;00/10&nbsp;&nbsp;&nbsp;&nbsp;10/60&nbsp;&nbsp;&nbsp;&nbsp;90/90&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Negaunee/Ishpeming&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;42/51&nbsp;&nbsp;&nbsp;&nbsp;35/53&nbsp;&nbsp;&nbsp;&nbsp;33/46&nbsp;&nbsp;&nbsp;&nbsp;29/55&nbsp;&nbsp;&nbsp;&nbsp;34/63&nbsp;&nbsp;&nbsp;&nbsp;41/62&nbsp;&nbsp;&nbsp;&nbsp;35/62&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/60&nbsp;&nbsp;&nbsp;&nbsp;90/90&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Iron&nbsp;Mountain&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;46/58&nbsp;&nbsp;&nbsp;&nbsp;35/58&nbsp;&nbsp;&nbsp;&nbsp;35/50&nbsp;&nbsp;&nbsp;&nbsp;26/59&nbsp;&nbsp;&nbsp;&nbsp;33/65&nbsp;&nbsp;&nbsp;&nbsp;40/67&nbsp;&nbsp;&nbsp;&nbsp;34/67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;00/70&nbsp;&nbsp;&nbsp;&nbsp;70/20&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Menominee&nbsp;<br>&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;48/60&nbsp;&nbsp;&nbsp;&nbsp;40/58&nbsp;&nbsp;&nbsp;&nbsp;36/53&nbsp;&nbsp;&nbsp;&nbsp;29/57&nbsp;&nbsp;&nbsp;&nbsp;33/63&nbsp;&nbsp;&nbsp;&nbsp;40/64&nbsp;&nbsp;&nbsp;&nbsp;38/65&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;10/70&nbsp;&nbsp;&nbsp;&nbsp;80/20&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Escanaba&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;45/59&nbsp;&nbsp;&nbsp;&nbsp;36/58&nbsp;&nbsp;&nbsp;&nbsp;34/52&nbsp;&nbsp;&nbsp;&nbsp;28/58&nbsp;&nbsp;&nbsp;&nbsp;33/64&nbsp;&nbsp;&nbsp;&nbsp;39/66&nbsp;&nbsp;&nbsp;&nbsp;35/65&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;10/60&nbsp;&nbsp;&nbsp;&nbsp;80/50&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>...EASTERN&nbsp;UPPER&nbsp;MICHIGAN...&nbsp;<br>&nbsp;&nbsp;&nbsp;Newberry&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;44/55&nbsp;&nbsp;&nbsp;&nbsp;32/55&nbsp;&nbsp;&nbsp;&nbsp;34/50&nbsp;&nbsp;&nbsp;&nbsp;26/54&nbsp;&nbsp;&nbsp;&nbsp;33/60&nbsp;&nbsp;&nbsp;&nbsp;40/63&nbsp;&nbsp;&nbsp;&nbsp;33/63&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;00/40&nbsp;&nbsp;&nbsp;&nbsp;90/80&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Sault&nbsp;Ste.&nbsp;Marie&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;45/53&nbsp;&nbsp;&nbsp;&nbsp;36/53&nbsp;&nbsp;&nbsp;&nbsp;40/49&nbsp;&nbsp;&nbsp;&nbsp;31/51&nbsp;&nbsp;&nbsp;&nbsp;38/59&nbsp;&nbsp;&nbsp;&nbsp;46/62&nbsp;&nbsp;&nbsp;&nbsp;39/61&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;30/10&nbsp;&nbsp;&nbsp;&nbsp;00/30&nbsp;&nbsp;&nbsp;100/80&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;&nbsp;&nbsp;Straits&nbsp;Of&nbsp;Mackinac&nbsp;<br>&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Mocldy&nbsp;&nbsp;&nbsp;Shwrs&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Sunny&nbsp;&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;Ptcldy&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;39/57&nbsp;&nbsp;&nbsp;&nbsp;37/57&nbsp;&nbsp;&nbsp;&nbsp;37/54&nbsp;&nbsp;&nbsp;&nbsp;32/54&nbsp;&nbsp;&nbsp;&nbsp;40/60&nbsp;&nbsp;&nbsp;&nbsp;45/61&nbsp;&nbsp;&nbsp;&nbsp;39/62&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;00/30&nbsp;&nbsp;&nbsp;100/80&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;00/00&nbsp;&nbsp;&nbsp;&nbsp;10/10&nbsp;&nbsp;&nbsp;&nbsp;10/00&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;<br>$$&nbsp;<br>&nbsp;<br>
+       
+      </td>
+   </tr>
+</table>
+
+
+
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

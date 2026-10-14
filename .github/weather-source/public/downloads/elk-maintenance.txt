@@ -1,0 +1,355 @@
+============================================================================== 
+Station Notes - Elk Rapids 
+ 
+ 
+06/17/2021: Logger Maintenance:                                          [1307] 
+ 
+            - loaded logger program: elk-bssd.cr6* 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+06/17/2021: Logger Maintenance:                                          [0219] 
+ 
+            - loaded logger program: elk-bssd.cr6* 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+06/10/2021: Logger / Station Maintenance:                               [1245] 
+ 
+            - routine site maintenance  
+            - updated modem 
+ 
+ 
+06/07/2021: Logger Maintenance:                                         [1232] 
+ 
+            - loaded logger program: elk-bssd.cr6*  
+                 * supports "maintenance mode" 
+ 
+ 
+ 
+============================================================================== 
+06/30/2020: Station Maintenance:                                        [1330] 
+ 
+            - routine site maintenance  
+            - remounted leaf wetness sensor 
+ 
+ 
+ 
+============================================================================== 
+08/29/2019: Logger Maintenance:                                         [0006] 
+ 
+            - loaded logger program: elk-bssd [no canopy] 
+ 
+ 
+08/26/2019: Logger Maintenance:                                         [0005] 
+ 
+            - replaced logger (CR1000 -> CR6) 
+            - logger program: template-bssd 
+ 
+ 
+08/14/2019: Station Maintenance:                                        [----] 
+ 
+            - installed new CR6 station to replace CR1000  
+            - added PakBus modem 
+ 
+============================================================================== 
+09/11/2015: Station Maintenance:                                        [1800] 
+ 
+            - repaired faulty tipping-bucket rain gauge 
+ 
+ 
+ 
+============================================================================== 
+10/08/2014: System Maintenance:                                         [1503] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "bbaa-elk" 
+ 
+ 
+08/26/2014: Station Maintenance:                                        [1130] 
+ 
+            - routine maintenance  
+ 
+ 
+ 
+============================================================================== 
+08/14/2013: Station Maintenance:                                        [1515] 
+ 
+            - Replaced anemometer (wind speed) 
+ 
+ 
+ 
+============================================================================== 
+11/19/2011: Station Maintenance:                                        [1135] 
+ 
+            - Repaired "Soil Moisture" sensors - switched from CS615 
+              to CS-616 sensors.  Station powered-off between 10:45am 
+              and 11:35am to make repairs/connections. 
+ 
+ 
+ 
+11/04/2011: Station Maintenance:                                        [1130] 
+ 
+            - Changed Daily Battery Voltage to 24-hour Observered  
+              Minimum Voltage. 
+            - Added Hourly Standard Deviation of Wind Direction 
+            - Marked Faulty Air Temp/RH data for the following time 
+              period as "missing": 
+  
+                 10/28/2011 (d=301) 1350 - 10/28/2011 (d=301) 1405 
+ 
+            - Reactivate "live" updates 
+ 
+ 
+11/02/2011: Station Maintenance:                                        [2202] 
+ 
+            - Loaded MAWN Program: BBC-ELK (previous load failed) 
+            - No data during the following time period: 
+ 
+                 11/02/2011 (d=306) 1401 - 11/02/2011 (d=306) 2202 
+ 
+ 
+11/02/2011: Station Maintenace:                                         [1402] 
+ 
+            - Loaded MAWN Program; BBC-ELK 
+ 
+ 
+10/26/2011: Station Maintenance:                                        [1920] 
+ 
+            - Replaced old logger with newer CR1000 
+ 
+ 
+03/06/2011: Station Maintenance:                                        [0004] 
+ 
+            - Loaded MAWN Program - AACF (hourly collection cycle) 
+ 
+ 
+ 
+============================================================================== 
+12/01/2010: Station Maintenance:                                        [0009] 
+ 
+            - Loaded MAWN Program - AACW (3-hour collection cycle) 
+ 
+ 
+ 
+ 
+============================================================================== 
+04/13/2009: Station Maintenance:                                        [1015] 
+ 
+            - Configured LoggerNet software to connect to new modem. 
+              Successful connection and data download once again 
+              possible. 
+ 
+ 
+ 
+04/10/2009: Station Maintenance:                                        [1815] 
+ 
+            - Replaced Wireless Broadband (cell-ip) Modem. 
+ 
+ 
+ 
+03/04/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - AACF (hourly power cycle)           [0005] 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+11/23/2008: Station Maintenance: 
+ 
+            - Loaded MAWN Program - AACW (3-hour power cycle)           [0001] 
+ 
+ 
+ 
+03/02/2008: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_AACF  (hourly power cycle)     [0005] 
+ 
+ 
+ 
+=========================================================================== 
+11/12/2007: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_AACW   (3-hr power cycle) 
+ 
+ 
+ 
+ 
+=========================================================================== 
+09/21/2006: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:  MAWN_AACF    (00:05) 
+ 
+ 
+ 
+09/06/2006: Station Maintenance: (jb): 
+ 
+            - Loaded MAWN Program:   AACS (hourly voltage) 
+ 
+ 
+ 
+07/24/2006: Station Maintenance: (sm): 
+ 
+            - Replaced modem.  Communicating now via Alltel network. 
+ 
+ 
+ 
+07/12/2006: Station Maintenance: (sm, bn): 
+ 
+            - Communication converted to broadband cell-modem: 
+            - Broadband Cell modem installed. 
+            - Datalogger Program "mawn_bacs" Loaded and Compiled 
+            - Data Collection Configured To Upload Every 30 minutes. 
+ 
+ 
+ 
+=========================================================================== 
+ 
+ 
+ 
+ 
+ 
+12/06/2005: Station Maintenance: (sm) 
+ 
+            - Another battery failure at the Elk Rapids MAWN station led to 
+              a loss of data during the following time period: 
+ 
+                 12/02/2005 (Day=336) 06:00   -   12/06/2005 (Day=340) 14:15 
+ 
+            - Battery was replaced today and power to cell phone modem converted 
+              back to switched power (powered on between 06:00 - 06:15 am/pm). 
+ 
+ 
+ 
+11/21/2005: Station Maintenance: (sm) 
+ 
+            - Recent battery failure at the Elk Rapids MAWN station led to  
+              a loss of data during the following time period: 
+               
+                 11/08/2005 (Day=305) 00:55   -   11/21/2005 (Day=325) 17:20 
+ 
+            - Battery was replaced today and the Elk Rapids station is 
+              back online. 
+ 
+ 
+ 
+09/24/2005: Station Maintenance (sm): 
+ 
+            - Telecomminications Change - Reconfigured to Cell Phone System: 
+              - Replaced COMM 100 Modem with Airlink Alltel Redwing 
+                CDMA Cell phone/modem system. 
+              - Installed SC932B Interface 
+              - Installed 11dB game Yagi antenna with antenna lightning 
+                protection decive. 
+              - Wired "C3" Control Port to "+12V Control" terminals. 
+              - Connected Cell System Power to "+12 VDC Switched" Port  
+                on datalogged 
+ 
+              - Loaded New Data Logger Program:   MAWN1D 
+                - This version of MAWN1D powers cell system between  
+                    6:00am - 6:10am daily. 
+ 
+              - Sensors/Battery Checked and Telecommunications Tested. 
+ 
+ 
+ 
+06/01/2005  Station Maintenance (sm): 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+              - cleaned Air Temp/Relative Humidty sensor 
+              - check Anemometer/Wind Vane 
+              - cleaned Precipitation bucket 
+ 
+ 
+ 
+=========================================================================== 
+ 
+12/03/2004: Telecommunication Troubles Corrected (sm): 
+ 
+            - Recent loss of communication led to a site-visit.  It was 
+              discovered that the telephone lines inside the datalogger 
+              enclsure were damaged and needed to be repaired.   Repairs 
+              were made and communincation with datalogger has been 
+              reestablished. 
+ 
+ 
+05/04/2004: Telecommunication Troubles - Continue: 
+ 
+            - Recent telecommunication troubles continue to occur 
+              at the Elk Rapids MAWN station.  Due to the serious 
+              nature of the trouble, the station has needed to be 
+              taken offline until further notice. 
+ 
+ 
+ 
+04/28/2004: Telecommunication Maintenance (crn): 
+ 
+            - Possible faulty modem replaced 
+            - Reloaded Datalogger Program: MAWN1B 
+            - Outage from 04/16/2004 caused a loss of data 
+              from 04/16/2004 (16:00) - 04/27/2004 (13:00) 
+ 
+ 
+ 
+04/16/2004: Telecommunication Trouble: 
+ 
+            - We are currently experiencing communication 
+              trouble with the Elk Rapids MAWN station.  The 
+              phone line has been disconnected until the  
+              trouble with the modem is corrected (jtb). 
+ 
+ 
+ 
+04/06/2004: Data Logger Maintenance (jtb): 
+ 
+            - Datalogger error (E08) codes were reading 99.   
+              Counters were reset back to 00.  This action  
+              will hopefully resolve and/or prevent brief  
+              data outages observed on some data loggers  
+              when the error count reaches 99.  
+ 
+ 
+ 
+ 
+====================================================== 
+11/20/2003: Data Logger Maintenance (crn, jtb): 
+ 
+            - Datalogger clock was somehow reset after 04:15 on Nov 19 (Day=323). 
+ 
+            - Clock was corrected at 13:10 on Nov 20 (Day=324).  Data records  
+              while clock was incorrect are not available. 
+ 
+  
+ 
+ 
+05/02/2003: New Station Installed (crn, jtb): 
+ 
+               Notes: 
+                  
+                  - tipping bucket rain guage has broken mounting clamps,  
+                    should be replaced. 
+ 
+                  - leaf wetness B (canopy) - still needs to be installed  
+                    in tree canopy. 
+ 
+ 
+               Additional Station Needs: 
+                  - putty for enclosure 
+                  - GPS cooridinates 
+ 
+ 
+05/03/2003: Data Collection and Data Archive for new station begins 
+ 
+               First report:  May 3, 2003 - 00:05   (Day=123) 
+ 
+ 
+ 
+ 
+ 
+============================================================================== 
+

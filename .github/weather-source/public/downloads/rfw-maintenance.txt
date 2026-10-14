@@ -1,0 +1,144 @@
+=============================================================================== 
+Station Notes - Reeman / Fremon-West (MI) 
+ 
+ 
+04/27/2023: Station Maintenance:                                         [1120] 
+ 
+            - routine site maintenance, including: 
+               - checked battery (13.67 V) 
+               - checked power and sensor cables, clean connnections 
+               - checked solar panel (22.6 V) 
+               - checked wind vane (properly aligned) 
+               - tested leaf-wetness sensor [standard] (fair)* ** 
+               - tested pyranometer (good) 
+               - tested tipping-bucket rain gauge 
+               - replaced anemometer  
+               - replaced hygrovue10 (atmp/relh/dwpt) 
+   
+               * canopy sensor is not used at this site 
+              ** may need to replace standard leaf wetness during next visit 
+ 
+ 
+ 
+=============================================================================== 
+07/25/2022: Station Maintenance:                                         [1145] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (good) 
+               - checked battery (13.51 V) 
+               - check soil sensor cables (good) 
+               - checked solar panel (21.6 V) 
+               - checked tipping-bucket rain gauge (level) 
+               - checked wind vane (properly aligned) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned battery box** 
+               - cleaned solar panel 
+               - removed leaf wetness sensor [canopy] 
+               - replaced hygrovue 10 (atmp/relh/dwpt) 
+               - replaced pyranometer 
+               - tested leaf wetness sensor [standard] (good)* 
+               - tested tipping-bucket rain gauge (good) 
+               - weed removal 
+ 
+               * canopy sensor is not installed in a canopy at this site 
+              ** battery cable may need to be replaced during next site visit 
+ 
+ 
+06/13/2022: Station Maintenance:                                         [1210] 
+ 
+            - routine site maintenance, including: 
+               - checked anemometer (bearings good) 
+               - checked battery (may need new cables next visit) 
+               - checked pyranometer (good) 
+               - checked soil sensor cables 
+               - checked wind vane (proplerly aligned) 
+               - checked / tested leaf wetness [standard] (good)* 
+               - checked / cleaned solar panel 
+               - checked / cleaned tipping-bucket rain gauge (adjusted level) 
+               - cleaned atmp/relh sensor and radiation shield 
+               - cleaned battery box 
+               - weed removal 
+ 
+               * canopy sensor is attached to tripod leg... not in actual canopy 
+ 
+ 
+=============================================================================== 
+07/14/2021: Station Maintenance:                                         [1040] 
+ 
+            - routine site maintenance  
+ 
+ 
+06/04/2021: Station Maintenance:                                         [1110] 
+ 
+            - routine site maintenance  
+ 
+ 
+02/10/2021: Logger Maintenance:                                          [0915] 
+ 
+            - replaced modem (modem OS update) 
+            - reset logger 
+ 
+ 
+01/19/2021: Logger Maintenance:                                          [0845] 
+ 
+            - reset logger/modem (communication issues) 
+ 
+ 
+01/26/2021: Logger Maintenance:                                          [0955] 
+ 
+            - reset logger/modem (communication issues) 
+ 
+ 
+ 
+=============================================================================== 
+05/29/2020: Station Maintenance:                                         [1250] 
+ 
+            - routine station maintenance 
+            - installed new leaf wetness mount 
+ 
+ 
+ 
+=============================================================================== 
+05/16/2019: Station Maintenance:                                         [1230] 
+ 
+            - install soil sensors (i.e. soil temp/moisture) 
+ 
+ 
+04/03/2019: Station Online:                                              [----] 
+     
+            - Station added to Enviroweather/MAWN database system 
+          
+ 
+03/22/2019: Data Collection Enabled                                      [1450] 
+ 
+            - Data Collection and Data Archive for new station begins: 
+ 
+                  First data report:   March 23, 2019 (d=082) 00:05 
+ 
+ 
+03/22/2019: Logger Setup                                                 [1445] 
+ 
+            - Loaded MAWN Program: rfw-bssd 
+                                      rfw => Station ID (conklin) 
+                                        b => CR1000/MI (Logger/Site) 
+                                        s => SDI-12 [CS650] (Soil Moisture) 
+                                        s => SDI-12 [HygroVue10] (Temp/RH) 
+                                        d => LWS-L (Leaf Wetness) [no canopy] 
+ 
+            - Now able to collect raw weather data. 
+ 
+ 
+03/17/2019: Station Maintenance:                                         [----] 
+ 
+            - Established telecommunication between station cell-modem  
+              and data-collection PC/server on campus.    
+ 
+ 
+03/17/2019: Station Setup                                                [----] 
+ 
+            - station setup/activated at field site 
+ 
+ 
+ 
+=============================================================================== 
+

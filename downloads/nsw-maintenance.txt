@@ -1,0 +1,133 @@
+============================================================================== 
+Station Notes - Nasewaupee / Southern Door County (WI) 
+ 
+ 
+08/17/2023: Station Retired                                             [0000] 
+  
+            - station retired 
+               - station now being managed by Wisconet (Wisconsin Mesonet)... 
+                  ...for more information and current data, refer to: 
+ 
+                        https://wisconet.wisc.edu 
+                        https://wisconet.wisc.edu/stations/nasewaupee 
+ 
+ 
+ 
+============================================================================== 
+09/16/2021: Logger Maintenance:                                         [0805] 
+ 
+            - replaced logger / internal lithium battery 
+            - restarted logger program: nsw-cbab.cr1 
+ 
+             
+08/13/2021: Logger Maintenance:                                         [0806] 
+ 
+            - loaded logger program: nsw-cbab.cr1* 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+04/28/2021: Logger / Station Maintenance:                               [1450] 
+  
+            - repaired battery / charge controller connection 
+ 
+ 
+ 
+============================================================================== 
+12/04/2020: Logger Maintenance:                                         [2103] 
+ 
+            - updated logger program "nws-cbab"* 
+               * includes "maintenance mode" 
+               * includes five-minute battery voltage 
+ 
+ 
+12/04/2020: Logger / Station Maintenance:                               [0915] 
+ 
+            - station / logger relocated approximately 3-miles NE 
+            - no sensor changes, but logger program modified 
+ 
+ 
+ 
+============================================================================== 
+09/04/2019: Logger / Station Maintenance:                               [0910] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: nsw-cbab 
+ 
+ 
+04/04/2019: Station Maintenance:                                        [1100] 
+ 
+            - replaced faulty logger battery  
+ 
+ 
+ 
+============================================================================== 
+06/14/2016: Station Maintenance:                                        [----] 
+ 
+            - replaced faulty canopy leaf wetness sensor (lws1) 
+ 
+ 
+ 
+============================================================================== 
+09/12/2015: Station Maintenance:                                        [1004] 
+  
+            - reloaded logger program "cbab-nsw". 
+              - after recent battery issues, daily data has failed to  
+                collect properly.  Reloaded and recompiled logger  
+                program. 
+ 
+ 
+09/09/2015: Station Maintenance:                                        [----] 
+ 
+            - relaced faulty battery 
+ 
+ 
+ 
+============================================================================== 
+04/09/2014: Station Maintenance:                                       [10:04] 
+ 
+            - Loaded Logger Program "cbab-nsw" which should now properly 
+              report Leaf Wetness values from LWS-L sensors 
+ 
+ 
+ 
+============================================================================== 
+06/27/2011  Station Online:                                            [17:20] 
+ 
+                - Station added to MAWN web site. 
+ 
+ 
+ 
+06/22/2011:  Data Collection Enabled: 
+ 
+                - Data Collection and Data Archive for new station begins: 
+ 
+                     First data report:   Jun 07, 2011 - 00:05 (Day=158)* 
+ 
+                        * earlier data may be added later. 
+ 
+ 
+ 
+06/06/2011:  Station Maintenance: 
+ 
+                - Established telecommunication between station cell-modem and 
+                  data collection PC/server on campus.    
+ 
+ 
+ 
+xx/xx/2011:  Station Installed: 
+ 
+                - Loaded MAWN Program:   BBC-WISC 
+                                             B => CR1000 
+                                             B => CS616  
+                                             C => Broadband Cell Modem (IP) 
+                                          WISC => Generic MAWN Progrm For Wisconsin 
+                                        
+ 
+                - Now able to collect raw weather data. 
+ 
+ 
+ 
+============================================================================== 
+

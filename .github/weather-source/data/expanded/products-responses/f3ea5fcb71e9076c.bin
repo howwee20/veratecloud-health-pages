@@ -1,0 +1,45 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Michigan State Climatologist's Office</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body>
+<div id="header"><img src="images/mich_cli_wordmark.png" alt="Michigan State Climatologist's Office" title="Michigan State Climatologist's Office" width="520" height="49" /></div>
+<div id="container">
+	<div id="content_left">
+		<ul class="sidemenu">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="about_us.html">About Us</a></li>
+			<li><a href="http://www.agweather.geo.msu.edu">MSU Ag Weather Office </a></li>
+			<li><a href="climate_maps.html">Michigan Climate Maps </a></li>
+			<li><a href="semcog/sem/mainsem.html">SEMCOG Precip Data </a></li>
+			<li><a href="climate_mi/index.html">Climate Statistics: Normals & Statistics </a></li>
+		</ul>
+	</div>
+  <div id="page2_middle">
+    <h1>About Us  <a name="top" id="top"></a></h1>
+	  <p><strong>Faculty </strong></p>
+	  <p>Jeff Andresen<br />
+         </p>
+	  <p><strong>Staff</strong></p>
+	  <p>Peter Kurtz<br />
+      Cathy Sernick<br />
+      Aaron Pollyea<br />
+      </p>
+	  <p>&nbsp;</p>
+    <p><strong> <a href="#top"></a></strong></p>
+  </div>
+</div>
+<div id="footer">
+	<div id="footer_logo"><a href="http://www.msu.edu"><img src="images/wordmark_pos_gray_120.png" alt="Go to MSU homepage" title="Go to MSU homepage" width="103" height="23" border="0" align="left" /></a></div>
+	<div id="footer_content"><p><strong>Department of Geography</strong><br />
+    116 Geography Building - East   Lansing, Michigan, 48824<br />
+  Last updated: June 15, 2009&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;
+  &copy; 2009 Michigan State University Board of Trustees. </p></div>
+</div>
+</body>
+</html>

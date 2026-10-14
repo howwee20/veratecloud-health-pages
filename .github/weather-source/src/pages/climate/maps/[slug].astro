@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ClimateMapDescription from '../../../components/ClimateMapDescription.astro';
+import descriptions from '../../../../data/normalized/map-descriptions.json';
+export function getStaticPaths(){return Object.entries(descriptions).map(([name,description])=>({params:{slug:name.replace('.png','')},props:{name,description}}));}
+const {name,description:d}=Astro.props;
+---
+<BaseLayout title={`${d.title} — ${d.period}`} section="climate" source={d.sourceUrl}>
+<p><a href="/climate/maps/">All Michigan Climate Maps</a></p>
+<h1>{d.title}</h1>
+<figure class="enlarged-climate-map">
+<img src={'/media/climate/'+name} width="932" height="1400" alt={`${d.title} in Michigan, ${d.period}. Regional color-band values and the legend are below.`}/>
+<figcaption>{d.period}</figcaption>
+</figure>
+<section aria-labelledby="map-text-heading">
+<h2 id="map-text-heading">Regional text values</h2>
+<ClimateMapDescription name={name as keyof typeof descriptions}/>
+<div class="map-values-table" role="region" aria-label="Regional color-band values" tabindex="0">
+<table><caption>Sampled map color bands ({d.unit})</caption><thead><tr><th scope="col">Michigan region</th><th scope="col">Most frequent sampled band</th><th scope="col">All sampled bands</th></tr></thead><tbody>{d.regions.map(region=><tr><th scope="row">{region.region}</th><td>{region.dominantRange}</td><td>{region.sampledRanges}</td></tr>)}</tbody></table>
+</div>
+<p><a href="/downloads/climate-map-regional-samples.csv" download>Download regional map samples (CSV)</a> · <a href="/downloads/climate-map-refresh.json" download>Download source timestamps</a></p>
+</section>
+<p><a href="/climate/maps/">All Michigan Climate Maps</a></p>
+</BaseLayout>
+<style>
+.enlarged-climate-map{margin:12px 0}.enlarged-climate-map img{display:block;width:100%;height:auto;max-width:932px}.enlarged-climate-map figcaption{margin:6px 0;font-weight:bold}.map-values-table{overflow-x:auto;max-width:100%}table{border-collapse:collapse;width:100%;font-size:12px}th,td{padding:7px;border:1px solid #777;text-align:left;vertical-align:top}caption{text-align:left;font-weight:bold;padding:8px 0}thead{background:#eee}tbody tr:nth-child(even){background:#f5f5f5}h1{overflow-wrap:anywhere}p{overflow-wrap:anywhere}
+</style>

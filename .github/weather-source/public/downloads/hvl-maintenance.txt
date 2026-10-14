@@ -1,0 +1,507 @@
+============================================================================== 
+Station Notes - Hudsonville: 
+ 
+ 
+06/17/2022: Station Maintenance:                                        [1100] 
+ 
+            - routine site maintenance, including: 
+               - checked soil sensor cables (good) 
+               - checked wind vane (properly aligned) 
+               - checked / tested battery (good) 
+               - cleaned battery box 
+               - cleaned hmp45c sensor and radiation shield (atmp/relh) 
+               - cleaned / checked pyranometer 
+               - cleaned / checked tipping-bucket rain gauge (adjusted level) 
+               - cleaned / checked solar panel 
+               - replaced anemometer (bad bearings) 
+               - tested leaf wetness [standard] (good)* 
+ 
+               * site does not make use of a canopy leaf wetness sensor 
+ 
+ 
+ 
+============================================================================== 
+08/04/2021: Logger Maintenance:                                         [1204] 
+ 
+            - loaded logger program: hvl-bbadC.cr1* 
+                 - no proper leaf wetness canopy 
+                 - wind direction fix 
+                 * supports "maintenance mode" 
+ 
+ 
+07/26/2021: Logger / Station Maintenance:                               [1325] 
+ 
+            - routine site maintenance 
+ 
+ 
+05/27/2021: Logger / Station Maintenance:                               [1720] 
+ 
+            - routine site maintenance 
+            - updated modem 
+ 
+ 
+05/18/2021: Logger / Station Maintenance:                               [1010] 
+ 
+            - routine site maintenance  
+            - updated modem 
+       
+ 
+03/10/2021: Logger / Station Maintnenace:                               [1400] 
+ 
+            - loaded logger program: hvl-bbabC  (237 -> LWS-L)* 
+                 * sensor replaced: 07/21/2020 (both) 
+ 
+            - cleaned-up previously collected data 
+ 
+ 
+ 
+============================================================================== 
+07/21/2020: Logger / Station Maintenance:                               [1130] 
+ 
+            - replaced leaf wetness (237 -> LWS-L)   [both] 
+            - requires logger program change 
+ 
+ 
+06/01/2020: Station Maintenance:                                        [1415] 
+ 
+            - routine station maintenance  
+            - replaced aneomometer  
+ 
+ 
+05/12/2020: Logger Maintenance:                                         [1115] 
+ 
+            - replaced logger (was causing faulty pcpn) 
+ 
+ 
+ 
+============================================================================== 
+10/30/2019: Logger Maintenance:                                         [1415] 
+ 
+            - replaced faulty rain gauge 
+            - replaced CR1000 logger wiring panel 
+ 
+ 
+06/06/2019: Logger Maintenance:                                         [1440] 
+ 
+            - replaced logger (CR1000 -> CR1000) 
+            - added PakBus modem 
+            - loaded logger program: hvl-bbaaC 
+ 
+ 
+ 
+============================================================================== 
+10/18/2018: Station Maintenance:                                        [1200] 
+ 
+            - cleared tipping-bucket rain gauge obstruction 
+ 
+ 
+07/26/2018: Station Maintenance:                                        [1500] 
+  
+            - routine station / site maintenance  
+ 
+ 
+06/19/2018: Logger Maintenance:                                         [0002] 
+ 
+            - loaded logger program "hvl-bbaaC" 
+ 
+ 
+06/11/2018: Station Maintenance:                                        [1545] 
+ 
+            - annual station / site maintenance 
+ 
+ 
+04/25/2018: Station Maintenance:                                        [0930] 
+ 
+            - Repaired and corrected power / charging issues 
+ 
+ 
+04/22/2018: Logger Maintenance:                                         [1422] 
+ 
+            - loaded new logger program "hvl-bbaaC" 
+ 
+  
+04/21/2018: Station Maintenance:                                        [1500] 
+ 
+            - faulty logger replaced (CR10X - CR1000), including: 
+               - verified HMP45C (atmp/relh) is connected to  
+                 continuous 12V power 
+ 
+ 
+ 
+============================================================================== 
+07/19/2017: Station Maintenance;                                        [1200] 
+ 
+            - annual maintenance  
+ 
+ 
+06/13/2017: Station Maintenance:                                        [1100] 
+ 
+            - loaded logger program: mawn_hvlf 
+               - needed to support CS616 sensors 
+ 
+ 
+06/12/2017: Station Maintenance:                                        [1200] 
+ 
+            - replaced faulty soil moisture sensors: 
+               - CS615 -> CS616 
+ 
+ 
+05/31/2017: Station Maintenance:                                        [1315] 
+ 
+            - annual maintenance 
+ 
+ 
+02/01/2017: Station Maintenance:                                        [1100] 
+ 
+            - replaced faulty battery with 35Ah battery 
+ 
+ 
+ 
+============================================================================== 
+12/13/2016: Station Maintenance:                                        [1140] 
+ 
+            - replaced faulty battery 
+ 
+ 
+05/31/2016: Station Maintenance:                                        [1210] 
+ 
+            - annual maintenance and weed removal 
+ 
+ 
+ 
+============================================================================== 
+08/20/2015: Station Maintenance:                                        [1230] 
+ 
+            - Site visit to correct HC2S3 (Air Temp/RH) wiring 
+            - Reloaded logger program "mawn-hvlf" 
+ 
+ 
+08/19/2015: Station Maintenance:                                        [1200] 
+ 
+            - Temp/RH troubles continue... replaced HMP45C sensor 
+              with new HC2S3 sensor, but not properly reporting  
+              data.   Program change did not correct. 
+ 
+ 
+07/17/2015: Station Maintenance:                                        [1215] 
+ 
+            - Temp/RH sensor replaced (HMP45C) 
+ 
+ 
+ 
+============================================================================== 
+11/17/2014: System Maintenance:                                         [1304] 
+ 
+            - moved data-collection to new LoggerNet server 
+            - loaded logger program "mawn_hvlf" 
+ 
+ 
+05/14/2014: Station Maintenance:                                        [1710] 
+ 
+            - routine maintenance  
+ 
+ 
+ 
+============================================================================== 
+10/01/2013: Station Maintenance:                                        [1600] 
+ 
+            - Replaced Air Temperature / Relative Humidity sensor 
+ 
+ 
+ 
+============================================================================== 
+06/23/2010: Data Cleanup:                                               [1700] 
+ 
+            - Using five-minute data, computed "hourly" and "daily" 
+              preciptation that occurred during the following time 
+              period: 
+ 
+                  03/03/2010 (d=062)  -  06/03/2010 (d=154) 
+ 
+ 
+06/09/2010: Station Maintenance:                                        [1130] 
+ 
+            - Repaired faulty leaf-wetness (i.e. standard mount was 
+              covered with bird droppings).   
+            - Cleaned canopy leaf-wetness sensor 
+            - Following standard leaf wetness data was removed from  
+              database: 
+ 
+                  05/26/10 (d=146) 00:05  -  06/09/10 (d=160) 11:25 
+ 
+            - Following canopy leaf wetness data was removed from  
+              database: 
+ 
+                  06/09/10 (d=160) 11:05  -  06/09/10 (d=160) 11:25 
+ 
+ 
+06/04/2010: Station Maintenance:                                        [0002] 
+ 
+            - Loaded modified logger program to hopefully correct 
+              faulty hourly/daily precip. 
+ 
+ 
+03/22/2010: Data Quality:                                               [1440] 
+ 
+            - Placement of new sensor (atmp06in) was adjusted on 
+              03/08/2010 (d=067) at 14:20.   All "atmp06in" data 
+              that was recorded prior to this date/time was  
+              removed from the data archives. 
+ 
+ 
+03/03/2010: Station Maintenance:                                        [0005] 
+ 
+            - Loaded Customized MAWN Program (MAWN_HVLF), which not 
+              only powers the modem on an hourly schedule, but also 
+              collects data from the following new sensor: 
+ 
+                 Air Temperature @ 06" height 
+ 
+              Data from this new sensor is available in both "hourly" 
+              and "daily" records, starting at the following time: 
+ 
+                 03/03/2010 (d=062) 00:05 
+ 
+ 
+ 
+============================================================================== 
+09/11/2009: Data Correction:                                            [1100] 
+ 
+            - Faulty Solar Radiation data that was introduced during 
+              the following time period have been marked as "missing" 
+ 
+                07/05/09 (d=186) 0900 - 07/10/09 (d=191) 1200 
+ 
+ 
+09/04/2009: Data Correction:                                            [1530] 
+ 
+            - Anemometer was apparently not working properly during 
+              the following time period: 
+ 
+                08/07/09 (d=219) 1550 - 08/18/09 (d=230) 1515 
+ 
+              All wind speed values reported during the time listed  
+              above have been marked as "missing". 
+ 
+ 
+07/10/2009: Station Maintenance:                                        [1100] 
+ 
+            - Faulty Solar Radiation Sensor was replaced. 
+ 
+ 
+06/03/2009: Station Maintenance:                                        [1400] 
+ 
+            - General station maintenance and system checks, including: 
+              - Tipping-bucket rain gauge test (faulty pcpn data 
+                that was introduced was removed on 06/08/09) 
+ 
+ 
+02/25/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - AACF (hourly power cycle)           [0006] 
+ 
+ 
+01/25/2009: Station Maintenance: 
+ 
+            - Loaded MAWN Program - AACW (3-hour power cycle)           [0002] 
+ 
+ 
+ 
+============================================================================== 
+08/20/2008: Data Removal: 
+ 
+            - The Soil Temp B (4") sensor was replaced on 08/13/08.  It 
+              had been reporting faulty data since Jul 16, 2008.  Therefore, 
+              the 4" Soil Temperature data was removed from both the  
+              archived raw data files as well as from the MAWN database 
+              for the following time period: 
+ 
+                 07/16/08 (d=198) 21:00  -  08/13/08 (d=226) 11:00 
+ 
+ 
+05/20/2008: Station Maintenance: 
+ 
+            - General station maintenance and system checks, including: 
+              - Soil Moisture sensors now installed vertically: 
+                - MSTR 0:  profile of depth =  0 - 12" 
+                - MSTR 1:  profile of depth = 12 - 24" 
+ 
+            - Work was done approx: 11:00 - 1200 (Day=141) 
+ 
+ 
+ 
+============================================================================== 
+06/01/2007: Data Management (jb): 
+ 
+            - It was determined that several months of faulty solar 
+              radiation data has existed in the archive for Hudsonville. 
+              All solar radiation data between the following dates has 
+              been removed: 
+ 
+                 Oct 01, 2006 [00:00]  -  May 16, 2007 [24:00] 
+ 
+ 
+05/16/2007: Station Maintenance (sm, bn): 
+ 
+            - General station maintenance and system checks. 
+              - solar radiation sensor was replaced. 
+ 
+              - Work was done approx: 11:30 - 12:00 (Day=136) 
+ 
+ 
+ 
+============================================================================== 
+10/13/2006: Station Maintenance (jb): 
+ 
+            - Loaded MAWN Program:   MAWN_AACF (00:05) 
+ 
+ 
+08/14/2006: Station Maintenance (bn): 
+ 
+            - Troubleshooting random data outages at :05 and :35 past 
+              the hour continues... 
+ 
+              - Datalogger (CR10X) Replaced 
+              - Loaded New MAWN Program:   AACS (CS615, hourly voltage) 
+ 
+            - Work was performed at:  1330 - 1415  
+ 
+ 
+08/03/2006: Station Maintenance (sm, bn): 
+ 
+            - Random outages at :05 and :35 past the hour led to 
+              an investigation of the Hudsonville MAWM station.  The 
+              Temp/RH sensor was covered with an insect nest.  The 
+              Temp/RH sensor and battery supply unit were replaced. 
+ 
+06/15/2006: Data Quality (jtb): 
+ 
+            - Leaf Wetness A was found covered with bird droppings which  
+              lead to faulty leaf wetness readings.   The faulty data  
+              appears to have started on Apr 07, 2006. 
+ 
+            - Leaf Wetness A values have been marked as "missing" for the 
+              following time period: 
+ 
+                    04/07/06 01:20  -  06/15/06 16:00 
+ 
+ 
+06/15/2006: Station Maintenance: (sm): 
+ 
+            - Communication converted to broadband cell-modem: 
+ 
+              - Broadband Cell modem installed. 
+              - Datalogger Program "mawn_bacs" Loaded and Compiled 
+              - Data Collection Configured To Upload Every 30 minutes. 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+              - sensor placement checked 
+              - anemometer bearings checked 
+              - rain gauge checked for debris 
+              - leaf wetness 0 was found covered with bird droppings.  The 
+                sensor was cleaned. 
+ 
+            - Work was done approx: 15:10 - 16:00 (Day=166) 
+ 
+ 
+ 
+=========================================================================== 
+06/22/2005: Station Maintenance (sm): 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+              - cleaned/checked all sensors 
+              - approximate time of service:   12:20pm 
+ 
+ 
+ 
+=========================================================================== 
+08/04/2004: Station Maintenance: (crn, jal): 
+ 
+            - Replaced Anemometer 
+ 
+            - General Station Maintenance and System Checks: 
+              - weed removal and application of Round-Up above soil temps 
+              - tipping bucket rain gauge lid nearly clogged - debris was removed. 
+              - tipping bucket rain gauge checked for accuracy 
+ 
+            - Work was done approx: 17:00 - 17:30 (Day=217) 
+ 
+ 
+05/04/2004: Station Maintenance (crn, sm): 
+ 
+            - Replaced Soil Temperature A (2").   The sensor 
+              has been reporting bad data since 02/22/2004. 
+ 
+            - Soil Temperature A (2") marked as "missing" in 
+              the MAWN database for the following time period: 
+ 
+                07/15/03 [00:05] - 05/04/04 [11:55] 
+ 
+ 
+ 
+============================================================================== 
+07/09/2002: Maintenance: 
+ 
+            - Tipping bucket rain gauge was obstructed and was  
+              unplugged around 8:30am by Dwayne Frens of the 
+              Michigan Celery Cooperative.   
+ 
+            - The five-minute precipitation total recorded at 
+              08:35 and the hourly total reported at 09:00 are 
+              therefore likely to be inflated. 
+ 
+            - Manual precipitation observation taken at the  
+              Michigan Celery Cooperative measured 2.78 inches 
+              (storm total). 
+ 
+ 
+04/08/2002: Daylight Savings Time Adjustment. 
+ 
+            - Daylight Savings Time Started on Day=97, Time=200. 
+ 
+            - Time of Obs were modified by one hour (forward)  
+              from Day=97, Time=200 through Day=97, Time=410. 
+ 
+ 
+ 
+============================================================================== 
+10/30/2001: Daylight Savings Time Adjustment. 
+ 
+            - Daylight Savings Time Ended on Day=301, Time=200. 
+ 
+            - Time of Obs were modified by one hour (subtracted) 
+              from Day=301, Time=200 through Day=301, Time=610. 
+ 
+ 
+08/31/2001: Phone Line Activated and Data Collection Started: 
+ 
+               Phone Number:  (see setup notes) 
+ 
+ 
+            - Archived data set should be setup to ensure that 
+              the first day of record is complete.  To do so,  
+              use the following as the start of the the data  
+              archive: 
+ 
+                 24 hour data:   24:00, Day=233 (08/21/2001) 
+                 60 min data:    01:00, Day=233 (08/21/2001) 
+                 05 min data:    00:05, Day=233 (08/21/2001) 
+ 
+ 
+08/20/2001: Datalogger Program (MAWN1B) Activated: 
+            
+               Data Logger Start Times: 
+ 
+                  24 hour data:   24:00, Day=232 (08/20/2001) 
+                  60 min data:    10:00, Day=232 (08/20/2001) 
+                  05 min data:    09:35, Day=232 (08/20/2001) 
+ 
+ 
+08/20/2001: Station Installed: 
+ 
+ 
+ 
+============================================================================== 
+
