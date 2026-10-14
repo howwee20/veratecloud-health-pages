@@ -36,8 +36,15 @@ run('node','scripts/qa/check-links.mjs')
 for p in (ROOT/'dist').rglob('*'):
  if p.is_file() and p.relative_to(ROOT/'dist').as_posix() not in ('index.html','404.html','favicon.svg'):
   dest=REPO/p.relative_to(ROOT/'dist');dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(p,dest)
+# Remove retired public review artifacts; coverage reports remain build artifacts.
+for name in ['enviroweather/review','downloads/meeting-verification.txt','downloads/station-coverage.csv','downloads/product-coverage.csv']:
+ p=REPO/name
+ if p.is_dir():shutil.rmtree(p)
+ elif p.exists():p.unlink()
 # Keep original EMR and tile pages intact. Only the public site goes into the artifact.
-site=REPO/'_site';site.mkdir(exist_ok=True)
+site=REPO/'_site'
+if site.exists():shutil.rmtree(site)
+site.mkdir()
 for p in REPO.iterdir():
  if p.name.startswith('.') and p.name!='.nojekyll':continue
  if p.name in ('_site','README.md'):continue

@@ -4,7 +4,7 @@ import json,csv
 ROOT=Path(__file__).resolve().parent.parent
 network=json.loads((ROOT/'data/expanded/network.json').read_text())
 products=json.loads((ROOT/'data/expanded/products.json').read_text())
-out=ROOT/'public/downloads';out.mkdir(exist_ok=True)
+out=ROOT/'reports/coverage';out.mkdir(parents=True,exist_ok=True)
 with (out/'station-coverage.csv').open('w',newline='') as f:
  w=csv.writer(f);w.writerow(['station_id','station_name','local_page','hourly_rows','daily_rows','maintenance_entries','hourly_saved_utc','daily_saved_utc'])
  for sid,s in sorted(network['stations'].items()):

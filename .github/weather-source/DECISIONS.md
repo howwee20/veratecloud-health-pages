@@ -57,3 +57,16 @@ Evan confirmed: "Yes, maintainers authorize read-only refreshes." He then reques
 Station source values, timestamps, missing markers, explicit N/A fields, partial maintenance dates, and undated instrument warnings must be retained. Source availability failures are visible; unavailable records must never be replaced with invented measurements. Recurring builds retain previously validated data on individual source errors and keep the deployed release on failed validation. Image-derived climate regional samples are approximate color bands, not the underlying grid.
 
 The local custom-report interface filters captured daily/hourly records. Full historical database queries, five-minute data, and the legacy GDD query engine are not represented as completed equivalents. Raw source archive directories beyond the recent three-hour files are inventoried but not mirrored. Review notes must distinguish this scope from complete production replacement and must not claim ADA certification or a new institutional Silktide score.
+
+## 2026-10-13: Public presentation and separate review material
+
+At Evan Howe's request, remove project/demo/AI-facing language from the three
+weather sites. Keep original site content and functional data availability,
+observation dates and map interpretation text. Remove the public meeting report
+and capture-coverage CSVs; deliver those separately in outputs/meeting-release.
+The publisher removes retired review artifacts on every build. Accessibility
+help describes navigation only and makes no conformance or approval claim.
+Verified successor URLs replace 12 dead legacy links to official weather and
+climate services. Original link labels and layout are retained.
+The source cache now retains core captures as well as expanded reports/maps so
+subsequent design-only publications can retain the most recent successful data.

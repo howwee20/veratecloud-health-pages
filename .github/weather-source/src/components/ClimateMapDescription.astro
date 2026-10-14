@@ -9,4 +9,4 @@ const d=descriptions[name];
 <p>Legend boundaries ({d.unit}): {d.legend.join(', ')}.</p>
 <p>{d.basis}</p>
 <p>Midwestern Regional Climate Center · {d.dataSource}. Generated {d.generated}.</p>
-<p>Source checked <time datetime={d.checkedAtUtc}>{new Date(d.checkedAtUtc).toLocaleString('en-US',{timeZone:'America/Detroit',month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit',timeZoneName:'short'})}</time>.</p>
+<p>Updated <time datetime={d.checkedAtUtc}>{new Date(d.checkedAtUtc).toLocaleString('en-US',{timeZone:'America/Detroit',month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit',timeZoneName:'short'})}</time>.</p>

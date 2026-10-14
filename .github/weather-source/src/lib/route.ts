@@ -10,6 +10,18 @@ export function localHref(url: string): string {
  const pages=products.pages as Record<string,any>;
  const page=pages[u.href.split('#')[0]]||pages[decodeURI(u.href.split('#')[0])];
  if(page)return page.path;
+ // Verified successor URLs for services linked by the original sites.
+ const successor:Record<string,string>={
+  'https://lwf.ncdc.noaa.gov/oa/ncdc.html':'https://www.ncei.noaa.gov/',
+  'https://mcc.sws.uiuc.edu/':'https://mrcc.purdue.edu/index.php',
+  'https://weather.noaa.gov/radar/national.html':'https://radar.weather.gov/',
+  'https://www.drought.unl.edu/dm/monitor.html':'https://droughtmonitor.unl.edu/',
+  'https://www.rap.ucar.edu/weather':'https://weather.ral.ucar.edu/',
+  'https://www.soils.wisc.edu/wimnext':'https://agwx.soils.wisc.edu/',
+  'https://www.lre.usace.army.mil/hmpghh.html':'https://water.usace.army.mil/office/lre/reports/GreatLakesDWL',
+ };
+ if(successor[u.href])return successor[u.href];
+ if(u.hostname==='www.crh.noaa.gov' && /^\/(apx|dtx|grr|iwx|mqt)\/?$/.test(u.pathname))return 'https://www.weather.gov/'+u.pathname.split('/')[1]+'/';
  if (['enviroweather.msu.edu','www.enviroweather.msu.edu'].includes(u.hostname) && u.pathname === '/') return 'https://enviroweather.msu.edu/';
  if (['greeen.msu.edu','www.greeen.msu.edu'].includes(u.hostname) && u.pathname === '/') return 'https://www.canr.msu.edu/project-greeen/';
  if (['maes.msu.edu','www.maes.msu.edu'].includes(u.hostname)) return 'https://www.canr.msu.edu/research/';

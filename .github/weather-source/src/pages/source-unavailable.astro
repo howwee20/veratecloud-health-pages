@@ -1,8 +1,4 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
-<BaseLayout title="Source archive"><div class="plain-content"><h1>Source archive</h1><p>This historical item has not been copied into this preview. You are still on Verate Cloud.</p><p id="source-address" class="source-details"></p><p><a href="/climate/">Climate Office</a> · <a href="/climate/maps/">Current climate maps</a> · <a href="/weather-network/">Station reports</a></p><p>Full historical archives and database queries require a separate source-data integration. <a href="/accessibility/">Review scope</a></p></div></BaseLayout>
-<script>
-const source=new URLSearchParams(location.search).get('source');
-if(source){try{const u=new URL(source);if(['mawn.geo.msu.edu','www.agweather.geo.msu.edu','climate.geo.msu.edu'].includes(u.hostname))document.querySelector('#source-address')!.textContent='Original archive reference: '+u.href;}catch{}}
-</script>
+<BaseLayout title="Report unavailable"><div class="plain-content"><h1>Report unavailable</h1><p>This report is currently unavailable.</p><p><a href="/climate/">Climate Office</a> · <a href="/climate/maps/">Current climate maps</a> · <a href="/weather-network/">Station reports</a></p></div></BaseLayout>

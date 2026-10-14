@@ -28,12 +28,17 @@ jobs:
         with:
           path: |
             .github/weather-source/data/expanded
+            .github/weather-source/data/source-snapshots
+            .github/weather-source/data/additional-sources
+            .github/weather-source/data/normalized/additional-sources.json
             .github/weather-source/data/normalized/map-descriptions.json
             .github/weather-source/public/media/climate
             .github/weather-source/public/downloads/climate-map-refresh.json
             .github/weather-source/public/downloads/climate-map-regional-samples.csv
-          key: weather-expanded-v1-${{ github.run_id }}
-          restore-keys: weather-expanded-v1-
+          key: weather-expanded-v2-${{ github.run_id }}
+          restore-keys: |
+            weather-expanded-v2-
+            weather-expanded-v1-
       - name: Install climate image text validator
         run: sudo apt-get update -qq && sudo apt-get install -y tesseract-ocr
       - name: Install pinned build dependencies

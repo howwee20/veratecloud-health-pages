@@ -17,14 +17,13 @@ const markup=page.html.replace(/href="([^"]+)"/g,(_:string,href:string)=>`href="
 <BaseLayout title={displayTitle} section={page.section} source={page.source?.url || 'unavailable'}>
 <article class="local-product"><h1>{displayTitle}</h1>
 <p><a href={page.section==='climate'?'/climate/':'/agricultural-weather/current/'}>{page.section==='climate'?'Climate Office':'Current Weather'}</a>{page.section!=='climate'&&<> · <a href="/agricultural-weather/forecasts/">Forecast Products</a></>}</p>
-{(page.source?.url.endsWith('/maxtemp.html') || page.source?.url.endsWith('/mintemp.html')) && <p><span>The publisher currently blocks this graphic. Related observations: <a href="/weather-network/">choose a weather station</a>, then open its daily maximum and minimum temperatures.</span></p>}
-{page.unavailable ? <p>This product is not available in the local capture. Other reports remain available from the indexes above.</p> : <>
-{semMatch?.[1]==='maps' && <p>Source observations for this map: <a href={localHref(dailySource)}>Daily precipitation table</a> · <a href={localHref(hourlySource)}>Hourly precipitation table</a>.</p>}
-{stale && <p><strong>Archived source product: {issued![0]}.</strong> This is not current weather.</p>}
-{allTempMissing && <p>The source currently supplies missing-value markers for every station in this temperature table. <a href="/weather-network/">Recent MAWN station observations</a> are available separately.</p>}
+{(page.source?.url.endsWith('/maxtemp.html') || page.source?.url.endsWith('/mintemp.html')) && <p><span>Temperature map currently unavailable. For daily temperatures, <a href="/weather-network/">choose a weather station</a>, then open its daily maximum and minimum temperatures.</span></p>}
+{page.unavailable ? <p>This report is currently unavailable. Other reports are available from the indexes above.</p> : <>
+{semMatch?.[1]==='maps' && <p>Precipitation data: <a href={localHref(dailySource)}>Daily precipitation table</a> · <a href={localHref(hourlySource)}>Hourly precipitation table</a>.</p>}
+{stale && <p><strong>Archived report: {issued![0]}.</strong> This is not current weather.</p>}
+{allTempMissing && <p>Temperature readings are currently unavailable for all stations in this table. <a href="/weather-network/">Recent MAWN station observations</a> are available separately.</p>}
 {page.text && <pre class="report-text">{page.text}</pre>}
 {markup && <div set:html={markup}/>}
-{page.download && <p><a href={page.download}>Download saved source document</a></p>}
+{page.download && <p><a href={page.download}>Download document</a></p>}
 </>}
-{page.source && <details class="source-details"><summary>Source and update time</summary><p>{page.source.url}</p><p>Saved {new Date(page.source.retrievedAtUtc).toLocaleString('en-US',{timeZone:'America/Detroit',dateStyle:'medium',timeStyle:'short'})} Eastern. Publication dates inside the product are supplied by its publisher.</p></details>}
 </article></BaseLayout>

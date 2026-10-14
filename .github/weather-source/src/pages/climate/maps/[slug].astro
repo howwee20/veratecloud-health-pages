@@ -18,7 +18,7 @@ const {name,description:d}=Astro.props;
 <div class="map-values-table" role="region" aria-label="Regional color-band values" tabindex="0">
 <table><caption>Sampled map color bands ({d.unit})</caption><thead><tr><th scope="col">Michigan region</th><th scope="col">Most frequent sampled band</th><th scope="col">All sampled bands</th></tr></thead><tbody>{d.regions.map(region=><tr><th scope="row">{region.region}</th><td>{region.dominantRange}</td><td>{region.sampledRanges}</td></tr>)}</tbody></table>
 </div>
-<p><a href="/downloads/climate-map-regional-samples.csv" download>Download regional map samples (CSV)</a> · <a href="/downloads/climate-map-refresh.json" download>Download source timestamps</a></p>
+<p><a href="/downloads/climate-map-regional-samples.csv" download>Download regional map samples (CSV)</a></p>
 </section>
 <p><a href="/climate/maps/">All Michigan Climate Maps</a></p>
 </BaseLayout>
