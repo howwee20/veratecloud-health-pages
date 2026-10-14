@@ -1,13 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import {localHref} from '../lib/route';
-import {documentAlternative} from '../lib/document-alternatives';
-import {semcogPeriod} from '../lib/semcog-period';
 const {page}=Astro.props;
-const document = documentAlternative(page);
-const semMatch=semcogPeriod(page.source?.url || '');
+const semMatch=page.source?.url.match(/\/semcog\/sem\/(maps|daily|hourly)\/(\d{4})\/(?:sem)?(\d{2})(\d{2})/);
 const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
-const displayTitle=document?.title || (semMatch ? `SEMCOG ${semMatch[1]==='maps'?'precipitation map':semMatch[1]+' precipitation'} — ${months[Number(semMatch[4])-1]} ${semMatch[2]}` : page.title);
+const displayTitle=semMatch ? `SEMCOG ${semMatch[1]==='maps'?'precipitation map':semMatch[1]+' precipitation'} — ${months[Number(semMatch[4])-1]} ${semMatch[2]}` : page.title;
 const dailySource=semMatch ? `https://climate.geo.msu.edu/semcog/sem/daily/${semMatch[2]}/${semMatch[3]}${semMatch[4]}smry.txt` : '';
 const hourlySource=semMatch ? `https://climate.geo.msu.edu/semcog/sem/hourly/${semMatch[2]}/${semMatch[3]}${semMatch[4]}hrly.txt` : '';
 const issued=page.text?.slice(0,500).match(/\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})\s+(20\d{2})\b/i);
@@ -20,14 +17,13 @@ const markup=page.html.replace(/href="([^"]+)"/g,(_:string,href:string)=>`href="
 <BaseLayout title={displayTitle} section={page.section} source={page.source?.url || 'unavailable'}>
 <article class="local-product"><h1>{displayTitle}</h1>
 <p><a href={page.section==='climate'?'/climate/':'/agricultural-weather/current/'}>{page.section==='climate'?'Climate Office':'Current Weather'}</a>{page.section!=='climate'&&<> · <a href="/agricultural-weather/forecasts/">Forecast Products</a></>}</p>
-{(page.source?.url.endsWith('/maxtemp.html') || page.source?.url.endsWith('/mintemp.html')) && <p>Temperature map currently unavailable. <a href="/agricultural-weather/daily-temperatures/">MAWN daily maximum and minimum temperatures</a> are available separately by station.</p>}
+{(page.source?.url.endsWith('/maxtemp.html') || page.source?.url.endsWith('/mintemp.html')) && <p><span>Temperature map currently unavailable. For daily temperatures, <a href="/weather-network/">choose a weather station</a>, then open its daily maximum and minimum temperatures.</span></p>}
 {page.unavailable ? <p>This report is currently unavailable. Other reports are available from the indexes above.</p> : <>
 {semMatch?.[1]==='maps' && <p>Precipitation data: <a href={localHref(dailySource)}>Daily precipitation table</a> · <a href={localHref(hourlySource)}>Hourly precipitation table</a>.</p>}
 {stale && <p><strong>Archived report: {issued![0]}.</strong> This is not current weather.</p>}
 {allTempMissing && <p>Temperature readings are currently unavailable for all stations in this table. <a href="/weather-network/">Recent MAWN station observations</a> are available separately.</p>}
 {page.text && <pre class="report-text">{page.text}</pre>}
 {markup && <div set:html={markup}/>}
-{document && <div class="document-content" set:html={document.html}/>}
-{page.download && <p><a href={page.download}>Download original {page.download.split('.').pop().toUpperCase()} document</a></p>}
+{page.download && <p><a href={page.download}>Download document</a></p>}
 </>}
 </article></BaseLayout>

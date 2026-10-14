@@ -5,7 +5,7 @@ const stations=directory.stations.map(s=>[s.id,s.name]);
 ---
 <BaseLayout title="Site map"><div class="plain-content"><h1>Site map</h1>
 <h2>Michigan Automated Weather Network</h2><ul><li><a href="/weather-network/">Weather station network</a></li>{stations.map(([id,name])=><li><a href={`/weather-network/stations/${id}/`}>{name}</a><ul><li><a href={`/weather-network/stations/${id}/hourly/`}>{name} hourly data</a></li><li><a href={`/weather-network/stations/${id}/daily/`}>{name} daily data</a></li><li><a href={`/weather-network/stations/${id}/maintenance/`}>{name} maintenance reports</a></li></ul></li>)}<li><a href="/rawdata/">Raw data</a></li><li><a href="/rawdata/3hr/">Three-hour raw data files</a></li></ul>
-<h2>MSU Agricultural Weather Office</h2><ul><li><a href="/agricultural-weather/">Agricultural Weather home</a></li><li><a href="/agricultural-weather/current/">Current Weather</a></li><li><a href="/agricultural-weather/forecasts/">Forecast Products</a></li><li><a href="/agricultural-weather/daily-temperatures/">Daily maximum and minimum temperatures</a></li></ul>
+<h2>MSU Agricultural Weather Office</h2><ul><li><a href="/agricultural-weather/">Agricultural Weather home</a></li><li><a href="/agricultural-weather/current/">Current Weather</a></li><li><a href="/agricultural-weather/forecasts/">Forecast Products</a></li></ul>
 <h2>Michigan State Climatologist’s Office</h2><ul><li><a href="/climate/">Climate Office home</a></li><li><a href="/climate/maps/">Michigan Climate Maps</a></li></ul>
 <h2>Help</h2><ul><li><a href="/accessibility/">Accessibility</a></li></ul>
 </div></BaseLayout>
