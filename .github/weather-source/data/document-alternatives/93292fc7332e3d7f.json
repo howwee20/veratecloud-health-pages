@@ -1,0 +1,21 @@
+{
+  "id": "93292fc7332e3d7f",
+  "sourceSha256": "7406c35bc55b17b689bcabfc80c88f3355980c29dbbae620219b23e8e23bb24e",
+  "sourceUrl": "https://climate.geo.msu.edu/semcog/sem/maps/2002/02anlcp.pdf",
+  "title": "2002 SEMCOG calculated annual precipitation probabilities",
+  "html": "<h2>2002 Calculated annual precipitation probabilities</h2><p>The map gives the estimated fraction of years whose annual precipitation would be at or below the 2002 total, based on a gamma distribution and historical data through 2000. Most of the region is 0.30 or lower. A-05 is highest at 0.71; southeastern Livingston and southwestern Oakland include values below 0.005. A broad band from southeastern Livingston through northeastern Oakland, southern Macomb and nearby Wayne stations is below 0.05. Values are probabilities, not inches, despite the generic inch label in the source map key. Short records, some only 16 years, limit interpretation.</p><p>The map covers Livingston, Oakland, Macomb, Washtenaw and Wayne Counties. Crosses locate rain gauges; asterisks mark roof-exposure gauges. Black contour lines connect equal values.</p><p><a href=\"/climate/pages/5ce912a93dd78c3f/\">Related station annual totals for 2002</a></p>",
+  "status": "partial",
+  "limitations": [
+    "Regional pattern and key values are described. All station labels, exact point positions and contour geometry are not fully transcribed."
+  ],
+  "reviewEvidence": {
+    "method": "Visual inspection of rendered source pages, with OCR used only as a draft; verified corrections and source notes recorded here.",
+    "pagesReviewed": [
+      1
+    ],
+    "renderDirectory": "outputs/meeting-release/manual-documents",
+    "notes": [
+      "Map inspected visually at full rendered size; numerical extrema and regional interpretation cross-checked with the original annual narrative."
+    ]
+  }
+}

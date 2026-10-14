@@ -1,0 +1,21 @@
+{
+  "id": "25894187cad731de",
+  "sourceSha256": "bc6fee949ed7ffd0b435fcb8b5bebf8a214d1b94256fb5bec06d2247b93dbe4a",
+  "sourceUrl": "https://climate.geo.msu.edu/semcog/sem/maps/2003/2003_hi_low-10.pdf",
+  "title": "2003 SEMCOG highest and lowest precipitation",
+  "html": "<p>The source lists the ten highest and ten lowest station precipitation amounts for every month and the year. The complete annual high and low groups are transcribed below. Values are inches.</p><div class=\"table-wrap\" tabindex=\"0\" role=\"region\" aria-label=\"2003 ten highest annual values\"><table class=\"data\"><caption>2003 ten highest annual values</caption><thead><tr><th scope=\"col\">Station</th><th scope=\"col\">Annual precipitation (inches)</th></tr></thead><tbody><tr><th scope=\"row\">A-05</th><td>38.48</td></tr><tr><th scope=\"row\">L-10</th><td>36.19</td></tr><tr><th scope=\"row\">A-03</th><td>35.40</td></tr><tr><th scope=\"row\">O-02</th><td>35.00</td></tr><tr><th scope=\"row\">A-01</th><td>34.74</td></tr><tr><th scope=\"row\">O-18</th><td>34.52</td></tr><tr><th scope=\"row\">M-03</th><td>34.41</td></tr><tr><th scope=\"row\">L-05</th><td>34.15</td></tr><tr><th scope=\"row\">A-02</th><td>33.98</td></tr><tr><th scope=\"row\">M-12</th><td>33.88</td></tr></tbody></table></div><div class=\"table-wrap\" tabindex=\"0\" role=\"region\" aria-label=\"2003 ten lowest annual values, descending\"><table class=\"data\"><caption>2003 ten lowest annual values, descending</caption><thead><tr><th scope=\"col\">Station</th><th scope=\"col\">Annual precipitation (inches)</th></tr></thead><tbody><tr><th scope=\"row\">M-02</th><td>27.80</td></tr><tr><th scope=\"row\">M-15</th><td>27.75</td></tr><tr><th scope=\"row\">W-22</th><td>27.60</td></tr><tr><th scope=\"row\">W-43</th><td>27.52</td></tr><tr><th scope=\"row\">W-47</th><td>27.45</td></tr><tr><th scope=\"row\">W-20</th><td>27.43</td></tr><tr><th scope=\"row\">O-09</th><td>26.89</td></tr><tr><th scope=\"row\">O-04</th><td>25.94</td></tr><tr><th scope=\"row\">W-14</th><td>25.06</td></tr><tr><th scope=\"row\">W-42</th><td>24.17</td></tr></tbody></table></div>",
+  "status": "partial",
+  "limitations": [
+    "Annual high and low columns are transcribed. Monthly highest and lowest columns remain untranscribed."
+  ],
+  "reviewEvidence": {
+    "method": "Visual inspection of rendered source pages, with OCR used only as a draft; verified corrections and source notes recorded here.",
+    "pagesReviewed": [
+      1
+    ],
+    "renderDirectory": "outputs/meeting-release/manual-documents",
+    "notes": [
+      "Annual top and bottom ten pairs visually checked against Table 3."
+    ]
+  }
+}

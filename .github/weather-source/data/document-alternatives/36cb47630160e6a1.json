@@ -1,0 +1,21 @@
+{
+  "id": "36cb47630160e6a1",
+  "sourceSha256": "4425ca6e97abf213bcde404fc46799cb3ad539bc7bfc30f58f185d807048eed5",
+  "sourceUrl": "https://climate.geo.msu.edu/semcog/sem/maps/2003/03cwlyr.pdf",
+  "title": "2003 SEMCOG annual precipitation change from 2002",
+  "html": "<h2>2003 Annual precipitation change from 2002</h2><p>The region was generally wetter than 2002. A-02 increased 11.07 inches; L-05, 10.25; L-11, 9.95; and L-10, 9.93. A band from southwestern Livingston to central Oakland was over 6 inches wetter. Only six stations were drier; the largest decrease was 0.90 inches at M-03. Positive numbers mean more precipitation than 2002.</p><p>The map covers Livingston, Oakland, Macomb, Washtenaw and Wayne Counties. Crosses locate rain gauges; asterisks mark roof-exposure gauges. Black contour lines connect equal values.</p><p><a href=\"/climate/pages/a7b6fe068a2a4e40/\">Related station annual totals for 2003</a></p>",
+  "status": "partial",
+  "limitations": [
+    "Regional pattern and key values are described. All station labels, exact point positions and contour geometry are not fully transcribed."
+  ],
+  "reviewEvidence": {
+    "method": "Visual inspection of rendered source pages, with OCR used only as a draft; verified corrections and source notes recorded here.",
+    "pagesReviewed": [
+      1
+    ],
+    "renderDirectory": "outputs/meeting-release/manual-documents",
+    "notes": [
+      "Map inspected visually at full rendered size; numerical extrema and regional interpretation cross-checked with the original annual narrative."
+    ]
+  }
+}

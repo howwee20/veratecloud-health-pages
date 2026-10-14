@@ -1,0 +1,21 @@
+{
+  "id": "a626df1f85e398c1",
+  "sourceSha256": "7a5fe2c1560c18f5c7f75f48ebb8e5b3e26ba0f565168d8e4a84d4b0d8f09196",
+  "sourceUrl": "https://climate.geo.msu.edu/semcog/sem/maps/2002/2002_hi_low-10.pdf",
+  "title": "2002 SEMCOG highest and lowest precipitation",
+  "html": "<p>The source lists the ten highest and ten lowest station precipitation amounts for every month and the year. The complete annual high and low groups are transcribed below. Values are inches.</p><div class=\"table-wrap\" tabindex=\"0\" role=\"region\" aria-label=\"2002 ten highest annual values\"><table class=\"data\"><caption>2002 ten highest annual values</caption><thead><tr><th scope=\"col\">Station</th><th scope=\"col\">Annual precipitation (inches)</th></tr></thead><tbody><tr><th scope=\"row\">M-03</th><td>35.31</td></tr><tr><th scope=\"row\">A-05</th><td>33.03</td></tr><tr><th scope=\"row\">W-45</th><td>31.91</td></tr><tr><th scope=\"row\">M-12</th><td>31.05</td></tr><tr><th scope=\"row\">W-35</th><td>30.91</td></tr><tr><th scope=\"row\">M-08</th><td>30.48</td></tr><tr><th scope=\"row\">M-01</th><td>30.39</td></tr><tr><th scope=\"row\">O-24</th><td>30.22</td></tr><tr><th scope=\"row\">O-18</th><td>29.53</td></tr><tr><th scope=\"row\">A-03</th><td>29.34</td></tr></tbody></table></div><div class=\"table-wrap\" tabindex=\"0\" role=\"region\" aria-label=\"2002 ten lowest annual values, descending\"><table class=\"data\"><caption>2002 ten lowest annual values, descending</caption><thead><tr><th scope=\"col\">Station</th><th scope=\"col\">Annual precipitation (inches)</th></tr></thead><tbody><tr><th scope=\"row\">L-07</th><td>23.24</td></tr><tr><th scope=\"row\">L-11</th><td>22.99</td></tr><tr><th scope=\"row\">A-02</th><td>22.91</td></tr><tr><th scope=\"row\">O-05</th><td>22.85</td></tr><tr><th scope=\"row\">M-02</th><td>22.34</td></tr><tr><th scope=\"row\">M-05</th><td>21.78</td></tr><tr><th scope=\"row\">L-06</th><td>21.48</td></tr><tr><th scope=\"row\">O-09</th><td>20.67</td></tr><tr><th scope=\"row\">O-10</th><td>20.54</td></tr><tr><th scope=\"row\">O-07</th><td>18.80</td></tr></tbody></table></div><p>The incomplete O-20 annual total is excluded from the source Table 3 ranking.</p>",
+  "status": "partial",
+  "limitations": [
+    "Annual high and low columns are transcribed. Monthly highest and lowest columns remain untranscribed."
+  ],
+  "reviewEvidence": {
+    "method": "Visual inspection of rendered source pages, with OCR used only as a draft; verified corrections and source notes recorded here.",
+    "pagesReviewed": [
+      1
+    ],
+    "renderDirectory": "outputs/meeting-release/manual-documents",
+    "notes": [
+      "Annual top and bottom ten pairs visually checked against Table 3."
+    ]
+  }
+}
