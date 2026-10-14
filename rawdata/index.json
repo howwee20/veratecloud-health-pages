@@ -1,5 +1,5 @@
 {
-  "note": "Snapshot of the legacy /rawdata/ listing. Not live. Times are as printed by the legacy listing.",
+  "note": "Data file directory. Modification times are supplied by the directory listing.",
   "listingRetrievedAtUtc": "2026-10-14T00:42:52.237082+00:00",
   "source": "https://mawn.geo.msu.edu/rawdata/",
   "entries": [

@@ -1,5 +1,5 @@
 {
-  "note": "Snapshot of the legacy /rawdata/3hr/ listing. Not live. Only entries with preserved=true are stored here.",
+  "note": "Three-hour data file directory. Modification times are supplied by the directory listing.",
   "listingRetrievedAtUtc": "2026-10-14T00:43:08.896264+00:00",
   "source": "https://mawn.geo.msu.edu/rawdata/3hr/",
   "entries": [
@@ -8,80 +8,80 @@
       "sizeAsListed": "2.5K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/aetna",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/aetna.txt",
+      "bytes": 2608,
+      "sha256": "820cb968e3365ffff2c898743d255c278daed75b239c6ed1f48f36825d0bfc21"
     },
     {
       "name": "albion",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/albion",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/albion.txt",
+      "bytes": 2445,
+      "sha256": "99e3d487eef7039fac456eda434eaaecd671966b7eb31e90193384995addcd3e"
     },
     {
       "name": "allegan",
       "sizeAsListed": "1.9K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/allegan",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/allegan.txt",
+      "bytes": 1975,
+      "sha256": "43c80a3e6b4fbcff96883c7c58bf3c788f24e889aefefd5e4948b5ecd2035d57"
     },
     {
       "name": "alpine",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/alpine",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/alpine.txt",
+      "bytes": 2734,
+      "sha256": "596ef09c16b6577d46073224358d2afd3a6dd3cb2cd692125cf22426a3633964"
     },
     {
       "name": "arlene",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/arlene",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/arlene.txt",
+      "bytes": 2468,
+      "sha256": "9dba6a6184a1db648c7ec5aba848290e1c0e7a97995a18165daa35cbb2829ebd"
     },
     {
       "name": "bainbridge",
       "sizeAsListed": "1.9K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/bainbridge",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/bainbridge.txt",
+      "bytes": 1961,
+      "sha256": "ad12ebdaa4d3a9bc871dde7f96692aae8460a02064e1d17e2086e7040a802a82"
     },
     {
       "name": "belding",
       "sizeAsListed": "1.9K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/belding",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/belding.txt",
+      "bytes": 1978,
+      "sha256": "9bda951ab100ca8334aba5854dd9457cac93fb6b034a6e52684892df8596e4ee"
     },
     {
       "name": "benona",
       "sizeAsListed": "1.9K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/benona",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/benona.txt",
+      "bytes": 1976,
+      "sha256": "7990623df55bf8e7d12cbb9f22c8dc4323b2b9120badc49e99f9c2d44aa14ccc"
     },
     {
       "name": "benzonia",
@@ -89,7 +89,7 @@
       "lastModifiedAsListed": "2026-10-13 16:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/benzonia",
       "preserved": true,
-      "path": "/rawdata/3hr/benzonia",
+      "path": "/downloads/raw-3hr/benzonia.txt",
       "bytes": 2022,
       "sha256": "eb61500cc825499aa540e37d03062c5b102426e438203db4eb2310101c8e21e6"
     },
@@ -98,910 +98,910 @@
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/berriensprings",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/berriensprings.txt",
+      "bytes": 2703,
+      "sha256": "0e16a640f10c152386b571b52751e5e88276703c2495f9079c2b00a4030c28f3"
     },
     {
       "name": "cassopolis",
       "sizeAsListed": "3.1K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/cassopolis",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/cassopolis.txt",
+      "bytes": 3205,
+      "sha256": "25385d88c78cc8b5c5f793f906076ef87947c9d9202037894576ee10a01c78d9"
     },
     {
       "name": "ceresco",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/ceresco",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/ceresco.txt",
+      "bytes": 2465,
+      "sha256": "d240d1af061da7eac5e06cd50acc5313962aaf590bd310e6f0d8c9d761587247"
     },
     {
       "name": "charlevoix",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/charlevoix",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/charlevoix.txt",
+      "bytes": 2720,
+      "sha256": "84f5166516bd57c41ebbcd159933c5322b5f5d95100f63ba14ec95965feeedd4"
     },
     {
       "name": "charlotte",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/charlotte",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/charlotte.txt",
+      "bytes": 2470,
+      "sha256": "ae0212ed130c08990e402806827f1f59c2480cbd8d340acdf1ab97ca3f987434"
     },
     {
       "name": "chatham",
       "sizeAsListed": "2.3K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/chatham",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/chatham.txt",
+      "bytes": 2382,
+      "sha256": "32754dd7b992079f5ceb348c1ed90bd921e58f19f4981dfa8b617e0582a27cfa"
     },
     {
       "name": "clarksville",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/clarksville",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/clarksville.txt",
+      "bytes": 2762,
+      "sha256": "485a23cc53ea96f79d866f049466367ee46b2774115ff1e752603a4a0b3d2411"
     },
     {
       "name": "coldwater",
       "sizeAsListed": "6.7K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/coldwater",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/coldwater.txt",
+      "bytes": 6849,
+      "sha256": "8654cd7e6361e651a35fb9a8fe6f46c297b02e10bcb045825e71f82fbcf66d7c"
     },
     {
       "name": "commercetwp",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/commercetwp",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/commercetwp.txt",
+      "bytes": 2416,
+      "sha256": "0b9dfc9457f7e2fa258f0b3dd5655c7737676d3ad2122e3d3951aca0995a6e20"
     },
     {
       "name": "conklin",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/conklin",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/conklin.txt",
+      "bytes": 2721,
+      "sha256": "d2df4535cbf67b3adffff1bd1c1db9865b966b81085562144bdf71d79bce4baa"
     },
     {
       "name": "constantine",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/constantine",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/constantine.txt",
+      "bytes": 2413,
+      "sha256": "5fad6debd3ec1f7b2a4633fbcb3ac86e2bc2c682342f0eb93147bce8aae32104"
     },
     {
       "name": "deerfield",
       "sizeAsListed": "3.2K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/deerfield",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/deerfield.txt",
+      "bytes": 3325,
+      "sha256": "20ab5086656231223e8171d10dddbb7a4a2880bd25e6e1386a6d06074d1740cb"
     },
     {
       "name": "dowagiac",
       "sizeAsListed": "1.9K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/dowagiac",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/dowagiac.txt",
+      "bytes": 1954,
+      "sha256": "3f25386f9111d96116b93e725c8a1ba6bc76c72e758df3fa90660fd619fc3bcb"
     },
     {
       "name": "eastleland",
       "sizeAsListed": "1.9K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/eastleland",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/eastleland.txt",
+      "bytes": 1989,
+      "sha256": "a1fd9fba0197b0ba00abdba7b132b265f6c3a72b5614127db8dc9a0dab358461"
     },
     {
       "name": "eastport",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/eastport",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/eastport.txt",
+      "bytes": 2425,
+      "sha256": "baf91be7e6ee647dcb7adb8b90a3626cbd0ecc95b5e6265c3565c6daa703f6f2"
     },
     {
       "name": "elbridge",
       "sizeAsListed": "1.9K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/elbridge",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/elbridge.txt",
+      "bytes": 1996,
+      "sha256": "2ea7c8ca25938aa63908c2520fed16ae0b2d933eb5d6fed189107e387494cce8"
     },
     {
       "name": "elkrapids",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/elkrapids",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/elkrapids.txt",
+      "bytes": 2734,
+      "sha256": "c7695041c7088106ba8aa231fba6f23c0810d8635a06a9fd2e64e89f75e2e1ec"
     },
     {
       "name": "emmett",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/emmett",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/emmett.txt",
+      "bytes": 2481,
+      "sha256": "62ad4e999b5ad23411c58c48838fcf1cce62e5efebf739fbbd2eb52fe3f2411b"
     },
     {
       "name": "entrican",
       "sizeAsListed": "3.3K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/entrican",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/entrican.txt",
+      "bytes": 3334,
+      "sha256": "937e241f7e5b90252c08087612f228fd4cfc3fe0c4c3c113dd9a1465a4f831dc"
     },
     {
       "name": "escanaba",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/escanaba",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/escanaba.txt",
+      "bytes": 2442,
+      "sha256": "35c237853f5f1a2359b87fa5ce0b5db6bca48e4e6f97be5387cc8e814a17d18b"
     },
     {
       "name": "fairgrove",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/fairgrove",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/fairgrove.txt",
+      "bytes": 2458,
+      "sha256": "a90413d743c56a22ebbb26ef2f6498e32d7d34072ef03ad7d97681766c3c95f4"
     },
     {
       "name": "fennville",
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/fennville",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/fennville.txt",
+      "bytes": 2627,
+      "sha256": "e9aeb539917cb80c7c210d53e31303d3dfbd2996b837a394b758480248cdfa24"
     },
     {
       "name": "flint",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/flint",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/flint.txt",
+      "bytes": 2469,
+      "sha256": "d55a4b7a957167b1600d4e4ef7ca8526631224d3ac30f57c12590825fea563a8"
     },
     {
       "name": "freeland",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/freeland",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/freeland.txt",
+      "bytes": 2466,
+      "sha256": "7eef0c3509d4536207e378e1d09523091edfe1e033fe34a9001e157bb3abf29d"
     },
     {
       "name": "fremont",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/fremont",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/fremont.txt",
+      "bytes": 2455,
+      "sha256": "e67bf5caf7c0c4ca895f6c52bd17f786592e229a2be58351636de49cb77b7d31"
     },
     {
       "name": "gaylord",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/gaylord",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/gaylord.txt",
+      "bytes": 2427,
+      "sha256": "b450dd78f3005161ec9eda1d3b9c35c9cb05980dd94c3ff681af4be8d33e709c"
     },
     {
       "name": "grandjunction",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/grandjunction",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/grandjunction.txt",
+      "bytes": 2435,
+      "sha256": "0a1d9b84b48456535a89d7175cd741a7e53c1ad37ddb2f0aea9543e2f4a196f7"
     },
     {
       "name": "grandjunction10",
       "sizeAsListed": "8.0K",
       "lastModifiedAsListed": "2026-10-13 20:42",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/grandjunction10",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/grandjunction10.txt",
+      "bytes": 8202,
+      "sha256": "8b2134b9e74a1a69dc8e2e8b4e23a8a9bd8dcf829291caff9320fc034739e8b0"
     },
     {
       "name": "grant",
       "sizeAsListed": "2.0K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/grant",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/grant.txt",
+      "bytes": 2031,
+      "sha256": "d35d20e5c2e4656956de705d8e13f729a5ae8916d1f0e563b2dea56177d342c7"
     },
     {
       "name": "hart",
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/hart",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/hart.txt",
+      "bytes": 2689,
+      "sha256": "27ecc5a90487c92b0ed30e5804489d5548447be29f6ea670544d5692e73150c4"
     },
     {
       "name": "hart10",
       "sizeAsListed": "8.1K",
       "lastModifiedAsListed": "2026-10-13 20:42",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/hart10",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/hart10.txt",
+      "bytes": 8305,
+      "sha256": "da2a42e3e3225888d27c1a8dda93dd197135d6e8daeffe2702028bb31079d191"
     },
     {
       "name": "hartford",
       "sizeAsListed": "2.3K",
       "lastModifiedAsListed": "2026-10-13 20:11",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/hartford",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/hartford.txt",
+      "bytes": 2394,
+      "sha256": "e8993ee41cfbf72418f3bc1783eff584a361ec56d7e4507d398c7f5e78c2be0f"
     },
     {
       "name": "haslett",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/haslett",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/haslett.txt",
+      "bytes": 2751,
+      "sha256": "1ed28daff810b548682399ff6c5e9817f023371e91cc8ad1f40e92399531de1f"
     },
     {
       "name": "hastings",
       "sizeAsListed": "2.0K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/hastings",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/hastings.txt",
+      "bytes": 2005,
+      "sha256": "52ce94a6abe91ddb05389e1de7e3dde26b5bdaea263f414a9eb5fcfe612cbd8c"
     },
     {
       "name": "hawks",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/hawks",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/hawks.txt",
+      "bytes": 2414,
+      "sha256": "ff464994eb9428dec6d673e5aa9b4a78811f6f022d33b7fec197195184c55847"
     },
     {
       "name": "hudson",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/hudson",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/hudson.txt",
+      "bytes": 2473,
+      "sha256": "679df98885c865376eb15ab1ae359bc1b2aa5946f0a62d9785d38ccf9135312f"
     },
     {
       "name": "hudsonville",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/hudsonville",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/hudsonville.txt",
+      "bytes": 2458,
+      "sha256": "8830adb531fb1a7a57eb81a4054f16136f7fab3f961839538118e82262583c46"
     },
     {
       "name": "ithaca",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/ithaca",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/ithaca.txt",
+      "bytes": 2460,
+      "sha256": "e007d44ff460f2819f53208bdff1a4cfd5dd419e32df7d8bb46afef0d7a030ec"
     },
     {
       "name": "kalamazoo",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/kalamazoo",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/kalamazoo.txt",
+      "bytes": 2458,
+      "sha256": "06755e7bf3b7852b7b2bb0afcafa496033dba775ac99fdff970738c4d169eb8a"
     },
     {
       "name": "kalkaska",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/kalkaska",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/kalkaska.txt",
+      "bytes": 2431,
+      "sha256": "4625313cc62adeb48e98240a6d8b9ad8ff1162d20d4332836762e5ead1055a2e"
     },
     {
       "name": "keeler",
       "sizeAsListed": "1.9K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/keeler",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/keeler.txt",
+      "bytes": 1956,
+      "sha256": "417241697579a61456bbac13aa6a8d1447e4a712b1fc1daa0aa1330279c71765"
     },
     {
       "name": "kentcity",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/kentcity",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/kentcity.txt",
+      "bytes": 2761,
+      "sha256": "803b9f07d200373b67f6b798b1c74b3dbfc3adf47484bd416bb60b822281e383"
     },
     {
       "name": "kewadin",
       "sizeAsListed": "1.9K",
       "lastModifiedAsListed": "2026-10-13 20:02",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/kewadin",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/kewadin.txt",
+      "bytes": 1936,
+      "sha256": "c512928bf948bd07bd706dbd462ff37f46aaa7b5451b54a76ae3f6dcc173e196"
     },
     {
       "name": "kinde",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:03",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/kinde",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/kinde.txt",
+      "bytes": 2448,
+      "sha256": "fb6d9f3db73b77b597ae57833b2ad47e7858baf2b6239d8b7392dc8f70b02f30"
     },
     {
       "name": "lakeleelanau",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/lakeleelanau",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/lakeleelanau.txt",
+      "bytes": 2503,
+      "sha256": "3689524729771b8c1a33fe67e7f2a10d5d851aa42b6f297ce1dd6b5429b56cb6"
     },
     {
       "name": "lapeer",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/lapeer",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/lapeer.txt",
+      "bytes": 2457,
+      "sha256": "62eb9bd18b86d112d7ff6ef01e90c3f7c2e72c30333d114686bcf24d8d6b0032"
     },
     {
       "name": "lawrence",
       "sizeAsListed": "2.3K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/lawrence",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/lawrence.txt",
+      "bytes": 2398,
+      "sha256": "80c7229bda0830eff33fd46f359fc14281cf1493f760ee5cf73001b4588e9baa"
     },
     {
       "name": "lawton",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/lawton",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/lawton.txt",
+      "bytes": 2729,
+      "sha256": "84d922313be223d8c51be2e4aab9c8b4cec82ef403e152f759be994044f4c09c"
     },
     {
       "name": "leslie",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/leslie",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/leslie.txt",
+      "bytes": 2469,
+      "sha256": "1e00ed1506b960c352e69e66b42085d8801cecddb8ecf7e1719c0bbfec53b762"
     },
     {
       "name": "linwood",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/linwood",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/linwood.txt",
+      "bytes": 2465,
+      "sha256": "56687e0c501696aa92705decf788351776e4fd40fe5417a39d630aef6f4dfafd"
     },
     {
       "name": "ludington",
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/ludington",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/ludington.txt",
+      "bytes": 2651,
+      "sha256": "172049e89b5f8c3a44935340a62f2ff619379a02f716772a9eb5b0b32f35915a"
     },
     {
       "name": "mcbain",
       "sizeAsListed": "2.3K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/mcbain",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/mcbain.txt",
+      "bytes": 2312,
+      "sha256": "2787b10c3ebac1f12e6c35c8ea03b626130f4ce079500eeed5a7bdd7a8c98500"
     },
     {
       "name": "mcmillan",
       "sizeAsListed": "2.3K",
       "lastModifiedAsListed": "2026-10-13 20:03",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/mcmillan",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/mcmillan.txt",
+      "bytes": 2394,
+      "sha256": "a54d7ee13bcc9c7958c776c9da067f0c55413bc14998438fabe799252ec02d11"
     },
     {
       "name": "mears",
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/mears",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/mears.txt",
+      "bytes": 2657,
+      "sha256": "f9b51ef3c2b9b8307b312973311e870cc16fc25cffab00aabd21cf56653007fb"
     },
     {
       "name": "mecosta",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:03",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/mecosta",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/mecosta.txt",
+      "bytes": 2427,
+      "sha256": "1b74d38c463e347d5463b6ba15bfe1a5e1c9429c3e32b333826c81d0d2dbb730"
     },
     {
       "name": "mendon",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/mendon",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/mendon.txt",
+      "bytes": 2452,
+      "sha256": "614a4ac6eaa86d8db4bb8b3b90da1d1c4ece35af4fbd8b0cf8524f53b25d18f9"
     },
     {
       "name": "mountpleasant",
       "sizeAsListed": "2.2K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/mountpleasant",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/mountpleasant.txt",
+      "bytes": 2209,
+      "sha256": "f5186a4cff84598c3e40920db5f73918abfb0755f9160687ca9c9e8f88e4b9e7"
     },
     {
       "name": "msuhort",
       "sizeAsListed": "3.3K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/msuhort",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/msuhort.txt",
+      "bytes": 3391,
+      "sha256": "60d068cd5b438183e1e4bfe52701de8c60595781395831e2030ae5223f90153e"
     },
     {
       "name": "msuhort10",
       "sizeAsListed": "8.1K",
       "lastModifiedAsListed": "2026-10-13 20:42",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/msuhort10",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/msuhort10.txt",
+      "bytes": 8292,
+      "sha256": "d922698070f4782bd6e215de02de9509071c58031eec82bacfdf1ccb433bafdf"
     },
     {
       "name": "msuhtrc",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/msuhtrc",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/msuhtrc.txt",
+      "bytes": 2782,
+      "sha256": "be4ab6c694fb2877aabc5e4a9a44eacdbb704dad8d197923bd6339dfb241b051"
     },
     {
       "name": "msukbs",
       "sizeAsListed": "4.1K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/msukbs",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/msukbs.txt",
+      "bytes": 4221,
+      "sha256": "d57aa8bd92aa07ec9e7e339c43d8fa14b2dac390cc920ab00e568db66ee858ac"
     },
     {
       "name": "munger",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/munger",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/munger.txt",
+      "bytes": 2466,
+      "sha256": "cdf247cecd946800bb05f8d172d1fcdc1883b0f87973757083bdfa3e9d520f82"
     },
     {
       "name": "ncmc",
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/ncmc",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/ncmc.txt",
+      "bytes": 2686,
+      "sha256": "2827836eb594e4149eeebd25d0a1407b609e7c1881ec76ee2ff279ee82fa8bdd"
     },
     {
       "name": "newera",
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/newera",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/newera.txt",
+      "bytes": 2639,
+      "sha256": "8cd8d7d803d57a1db035501c54be6cee49bac3a5c53ea29fa4dfbe6db230b83e"
     },
     {
       "name": "northport",
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/northport",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/northport.txt",
+      "bytes": 2711,
+      "sha256": "19847ca392b4876347b69005abc9e35a32f7a09dd4ac96e44a55457d6b29bbe3"
     },
     {
       "name": "nwmhrs",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/nwmhrs",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/nwmhrs.txt",
+      "bytes": 2725,
+      "sha256": "1216279a851912999463877d343c9051e92595b5413b8d0c88581405f270db0e"
     },
     {
       "name": "oldmission",
       "sizeAsListed": "2.3K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/oldmission",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/oldmission.txt",
+      "bytes": 2355,
+      "sha256": "5fc4fdde7bd2259764f799f49f4862a581ab9197ac15712b640ace58d720a8a0"
     },
     {
       "name": "oldmissionsouth",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/oldmissionsouth",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/oldmissionsouth.txt",
+      "bytes": 2479,
+      "sha256": "d2560d7601fd198d47faacdd11994cc4f86ae1b5998a8d6d2825787938049f0c"
     },
     {
       "name": "omena",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/omena",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/omena.txt",
+      "bytes": 2497,
+      "sha256": "09680f3dbf26e8dc781b2f4c60aa1ae3d8be073404dcc6634dc596cdaeb5bf67"
     },
     {
       "name": "onekama",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/onekama",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/onekama.txt",
+      "bytes": 2415,
+      "sha256": "f544230afb3e793965f65ba31618e67f4b0708f7925604725f51bdd135e95ebc"
     },
     {
       "name": "oshtemo",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/oshtemo",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/oshtemo.txt",
+      "bytes": 2425,
+      "sha256": "9e2a7c6af82bda5f156942cf4b91ccf6971626e190bf216992146f4c4b21fd88"
     },
     {
       "name": "petoskey",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/petoskey",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/petoskey.txt",
+      "bytes": 2440,
+      "sha256": "592c26e93fe6f01feb99d31e6b3416b934afe5a4f811a213cc07a97b6128d8c2"
     },
     {
       "name": "pigeon",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/pigeon",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/pigeon.txt",
+      "bytes": 2458,
+      "sha256": "4a588cb729819b24efbe121d3207530998ab903e4561f025fe0ed8d5d3ae0b80"
     },
     {
       "name": "reeman",
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/reeman",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/reeman.txt",
+      "bytes": 2690,
+      "sha256": "b35eb2edb0eabc2d47ca2fb04225abd1a66aa72af30230eb131009ad50161be5"
     },
     {
       "name": "richville",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/richville",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/richville.txt",
+      "bytes": 2785,
+      "sha256": "059888eb00d06466e66265e312f836c4758a985e946e04b860f9beef4f9ead24"
     },
     {
       "name": "romeo",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/romeo",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/romeo.txt",
+      "bytes": 2757,
+      "sha256": "f29cedf8693e1e4b3616ea8a1e7fb0d8040f8c4f456f43b88ffcae28bf569f71"
     },
     {
       "name": "sandusky",
       "sizeAsListed": "3.3K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/sandusky",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/sandusky.txt",
+      "bytes": 3347,
+      "sha256": "2e12ad8804bd056a24fe191084fe77a77846469eabba0c90f8432a215c31f00a"
     },
     {
       "name": "scottdale",
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/scottdale",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/scottdale.txt",
+      "bytes": 2661,
+      "sha256": "7efb55c7805678f921626b0728498e25d1ebf89fd87ad3071b24b1ff18499a77"
     },
     {
       "name": "shelbyeast",
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/shelbyeast",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/shelbyeast.txt",
+      "bytes": 2683,
+      "sha256": "cdc214aaf25c1cf4e6072ce428d097d15b286a0aae3b81fe6af285071b015a32"
     },
     {
       "name": "southhaven",
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/southhaven",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/southhaven.txt",
+      "bytes": 2646,
+      "sha256": "b08d7a61898eca3d86888fb483a4d515647329c9972bb790c3763d325b841553"
     },
     {
       "name": "sparta",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:03",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/sparta",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/sparta.txt",
+      "bytes": 2466,
+      "sha256": "ea2a43a0dcaa1b1829c4fe205d698f8f0073f389e99b4bcd4a6c62c21b0aaf55"
     },
     {
       "name": "sparta20",
       "sizeAsListed": "9.0K",
       "lastModifiedAsListed": "2026-10-13 20:42",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/sparta20",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/sparta20.txt",
+      "bytes": 9283,
+      "sha256": "2caaac74b8036b4dbb4bf5e21a99737215cb8e5924bebb78134de53338bd223c"
     },
     {
       "name": "spartanorth",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/spartanorth",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/spartanorth.txt",
+      "bytes": 2763,
+      "sha256": "9beddb2084effcfb617385a3e535b064c61a514edd46208dc76f9eb9352de35a"
     },
     {
       "name": "standale",
       "sizeAsListed": "2.3K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/standale",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/standale.txt",
+      "bytes": 2352,
+      "sha256": "7cc8a0b22758d893b7b6017b2d8d656e3385324fe49fc093d785e77925715271"
     },
     {
       "name": "stephenson",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/stephenson",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/stephenson.txt",
+      "bytes": 2455,
+      "sha256": "34191e32fd0d430e86a196286d73cfd562c4b76ea77fc681b2a7d408c3f905e3"
     },
     {
       "name": "swmrec",
       "sizeAsListed": "2.6K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/swmrec",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/swmrec.txt",
+      "bytes": 2712,
+      "sha256": "d10befbd34a2e11ec71617fe6425cabdf07d9e2bcdc78e903f094f931585eb53"
     },
     {
       "name": "verona",
       "sizeAsListed": "3.3K",
       "lastModifiedAsListed": "2026-10-13 20:03",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/verona",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/verona.txt",
+      "bytes": 3371,
+      "sha256": "c136b975d074c3164315db46c7e3a44bc570c633d9f5c9d45dd685c264ad26bb"
     },
     {
       "name": "westleland",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:36",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/westleland",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/westleland.txt",
+      "bytes": 2715,
+      "sha256": "08b7630033efd93d080a6a178d4500b4fb2d06b54359ce62a0eb4389dac3a11e"
     },
     {
       "name": "westolive",
       "sizeAsListed": "2.4K",
       "lastModifiedAsListed": "2026-10-13 20:12",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/westolive",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/westolive.txt",
+      "bytes": 2508,
+      "sha256": "4862927d687740a7999e82b0ba87f6188249172bab83701522445572851a5484"
     },
     {
       "name": "williamsburg20",
       "sizeAsListed": "7.4K",
       "lastModifiedAsListed": "2026-10-13 20:42",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/williamsburg20",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/williamsburg20.txt",
+      "bytes": 7619,
+      "sha256": "8070f2ee7170f1d6d26708707e468260ebb2b167e3bc5a1accaf453b376fe360"
     },
     {
       "name": "wmich",
       "sizeAsListed": "2.7K",
       "lastModifiedAsListed": "2026-10-13 20:32",
       "originalUrl": "https://mawn.geo.msu.edu/rawdata/3hr/wmich",
-      "preserved": false,
-      "path": null,
-      "bytes": null,
-      "sha256": null
+      "preserved": true,
+      "path": "/downloads/raw-3hr/wmich.txt",
+      "bytes": 2769,
+      "sha256": "8da0e40aabfaba692a640f1bdab18fd061d438a5ac7ecae12cccf994593e2bc4"
     }
   ]
 }

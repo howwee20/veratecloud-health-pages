@@ -6,7 +6,7 @@ export const GET: APIRoute = () =>
   new Response(
     JSON.stringify(
       {
-        note: 'Snapshot of the legacy /rawdata/ listing. Not live. Times are as printed by the legacy listing.',
+        note: 'Data file directory. Modification times are supplied by the directory listing.',
         listingRetrievedAtUtc: rawdata.root.source.retrievedAtUtc,
         source: rawdata.root.source.url,
         entries: rawdata.root.entries.map((e: any) => ({

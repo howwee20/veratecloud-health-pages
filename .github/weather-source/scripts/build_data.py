@@ -425,7 +425,6 @@ def main() -> None:
         for r in records:
             writer.writerow(["; ".join(v) if isinstance(v := r[key], list) else ("" if v is None else v) for key, _ in INVENTORY_COLUMNS])
     (PUBLIC / "downloads").mkdir(parents=True, exist_ok=True)
-    shutil.copyfile(reports / "url-inventory.csv", PUBLIC / "downloads" / "url-inventory.csv")
     deploy = ROOT / "deploy"
     deploy.mkdir(exist_ok=True)
     with (deploy / "legacy-url-map.csv").open("w", newline="", encoding="utf-8") as handle:
@@ -562,7 +561,7 @@ def main() -> None:
         for row in daily["rows"]:
             writer.writerow([row["dateRaw"]] + [row["cells"][c["key"]]["raw"] for c in daily["columns"]])
     (downloads / "benzonia-maintenance.txt").write_text(maintenance["rawText"] + "\n", encoding="utf-8")
-    (downloads / "README.txt").write_text(
+    (reports / "downloads-provenance.txt").write_text(
         "Derived downloads from the Michigan Weather Continuity prototype\n"
         "=================================================================\n\n"
         "benzonia-hourly.csv, benzonia-daily.csv and benzonia-maintenance.txt were\n"
